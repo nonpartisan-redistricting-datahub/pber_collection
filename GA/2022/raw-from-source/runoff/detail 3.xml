@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 1:42:04 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Morgan</Region>
+    <VoterTurnout totalVoters="15128" ballotsCast="9509" voterTurnout="62.86">
+        <Precincts>
+            <Precinct name="Rec Dept" totalVoters="2746" ballotsCast="1574" voterTurnout="57.32" percentReporting="4" />
+            <Precinct name="Centennial" totalVoters="3026" ballotsCast="1883" voterTurnout="62.23" percentReporting="4" />
+            <Precinct name="Gibbs" totalVoters="3148" ballotsCast="1961" voterTurnout="62.29" percentReporting="4" />
+            <Precinct name="DFACS" totalVoters="3018" ballotsCast="2005" voterTurnout="66.43" percentReporting="4" />
+            <Precinct name="Buckhead" totalVoters="3176" ballotsCast="2086" voterTurnout="65.68" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Rec Dept" votes="5" />
+            <Precinct name="Centennial" votes="0" />
+            <Precinct name="Gibbs" votes="0" />
+            <Precinct name="DFACS" votes="0" />
+            <Precinct name="Buckhead" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rec Dept" votes="0" />
+            <Precinct name="Centennial" votes="0" />
+            <Precinct name="Gibbs" votes="0" />
+            <Precinct name="DFACS" votes="0" />
+            <Precinct name="Buckhead" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="6851">
+            <VoteType name="Absentee by Mail Votes" votes="186">
+                <Precinct name="Rec Dept" votes="19" />
+                <Precinct name="Centennial" votes="32" />
+                <Precinct name="Gibbs" votes="42" />
+                <Precinct name="DFACS" votes="44" />
+                <Precinct name="Buckhead" votes="49" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3535">
+                <Precinct name="Rec Dept" votes="403" />
+                <Precinct name="Centennial" votes="712" />
+                <Precinct name="Gibbs" votes="702" />
+                <Precinct name="DFACS" votes="958" />
+                <Precinct name="Buckhead" votes="760" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3125">
+                <Precinct name="Rec Dept" votes="179" />
+                <Precinct name="Centennial" votes="793" />
+                <Precinct name="Gibbs" votes="797" />
+                <Precinct name="DFACS" votes="543" />
+                <Precinct name="Buckhead" votes="813" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Centennial" votes="0" />
+                <Precinct name="Gibbs" votes="0" />
+                <Precinct name="DFACS" votes="5" />
+                <Precinct name="Buckhead" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="2651">
+            <VoteType name="Absentee by Mail Votes" votes="202">
+                <Precinct name="Rec Dept" votes="64" />
+                <Precinct name="Centennial" votes="18" />
+                <Precinct name="Gibbs" votes="22" />
+                <Precinct name="DFACS" votes="44" />
+                <Precinct name="Buckhead" votes="54" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1652">
+                <Precinct name="Rec Dept" votes="633" />
+                <Precinct name="Centennial" votes="197" />
+                <Precinct name="Gibbs" votes="246" />
+                <Precinct name="DFACS" votes="293" />
+                <Precinct name="Buckhead" votes="283" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="797">
+                <Precinct name="Rec Dept" votes="271" />
+                <Precinct name="Centennial" votes="131" />
+                <Precinct name="Gibbs" votes="152" />
+                <Precinct name="DFACS" votes="118" />
+                <Precinct name="Buckhead" votes="125" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rec Dept" votes="0" />
+                <Precinct name="Centennial" votes="0" />
+                <Precinct name="Gibbs" votes="0" />
+                <Precinct name="DFACS" votes="0" />
+                <Precinct name="Buckhead" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

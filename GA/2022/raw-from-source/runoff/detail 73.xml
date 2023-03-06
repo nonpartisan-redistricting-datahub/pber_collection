@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 5:27:59 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Burke</Region>
+    <VoterTurnout totalVoters="16092" ballotsCast="7937" voterTurnout="49.32">
+        <Precincts>
+            <Precinct name="Alexander" totalVoters="360" ballotsCast="197" voterTurnout="54.72" percentReporting="4" />
+            <Precinct name="Four Points" totalVoters="2509" ballotsCast="1207" voterTurnout="48.11" percentReporting="4" />
+            <Precinct name="Girard" totalVoters="698" ballotsCast="382" voterTurnout="54.73" percentReporting="4" />
+            <Precinct name="Gough" totalVoters="434" ballotsCast="236" voterTurnout="54.38" percentReporting="4" />
+            <Precinct name="Greenscut" totalVoters="991" ballotsCast="526" voterTurnout="53.08" percentReporting="4" />
+            <Precinct name="Keysville" totalVoters="453" ballotsCast="191" voterTurnout="42.16" percentReporting="4" />
+            <Precinct name="Midville" totalVoters="473" ballotsCast="251" voterTurnout="53.07" percentReporting="4" />
+            <Precinct name="Munnerlyn" totalVoters="278" ballotsCast="130" voterTurnout="46.76" percentReporting="4" />
+            <Precinct name="Sardis" totalVoters="1019" ballotsCast="478" voterTurnout="46.91" percentReporting="4" />
+            <Precinct name="Scotts Crossroads" totalVoters="265" ballotsCast="128" voterTurnout="48.30" percentReporting="4" />
+            <Precinct name="Telfair" totalVoters="1081" ballotsCast="493" voterTurnout="45.61" percentReporting="4" />
+            <Precinct name="St Clair" totalVoters="462" ballotsCast="267" voterTurnout="57.79" percentReporting="4" />
+            <Precinct name="Vidette" totalVoters="301" ballotsCast="170" voterTurnout="56.48" percentReporting="4" />
+            <Precinct name="North Waynesboro" totalVoters="2888" ballotsCast="1262" voterTurnout="43.70" percentReporting="4" />
+            <Precinct name="South Waynesboro" totalVoters="3226" ballotsCast="1725" voterTurnout="53.47" percentReporting="4" />
+            <Precinct name="Blakeney" totalVoters="653" ballotsCast="294" voterTurnout="45.02" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="Alexander" votes="1" />
+            <Precinct name="Four Points" votes="0" />
+            <Precinct name="Girard" votes="0" />
+            <Precinct name="Gough" votes="0" />
+            <Precinct name="Greenscut" votes="0" />
+            <Precinct name="Keysville" votes="0" />
+            <Precinct name="Midville" votes="0" />
+            <Precinct name="Munnerlyn" votes="1" />
+            <Precinct name="Sardis" votes="1" />
+            <Precinct name="Scotts Crossroads" votes="0" />
+            <Precinct name="Telfair" votes="0" />
+            <Precinct name="St Clair" votes="1" />
+            <Precinct name="Vidette" votes="1" />
+            <Precinct name="North Waynesboro" votes="2" />
+            <Precinct name="South Waynesboro" votes="3" />
+            <Precinct name="Blakeney" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Alexander" votes="0" />
+            <Precinct name="Four Points" votes="0" />
+            <Precinct name="Girard" votes="0" />
+            <Precinct name="Gough" votes="0" />
+            <Precinct name="Greenscut" votes="0" />
+            <Precinct name="Keysville" votes="0" />
+            <Precinct name="Midville" votes="0" />
+            <Precinct name="Munnerlyn" votes="0" />
+            <Precinct name="Sardis" votes="0" />
+            <Precinct name="Scotts Crossroads" votes="0" />
+            <Precinct name="Telfair" votes="0" />
+            <Precinct name="St Clair" votes="0" />
+            <Precinct name="Vidette" votes="0" />
+            <Precinct name="North Waynesboro" votes="0" />
+            <Precinct name="South Waynesboro" votes="0" />
+            <Precinct name="Blakeney" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="4148">
+            <VoteType name="Absentee by Mail Votes" votes="129">
+                <Precinct name="Alexander" votes="3" />
+                <Precinct name="Four Points" votes="22" />
+                <Precinct name="Girard" votes="17" />
+                <Precinct name="Gough" votes="2" />
+                <Precinct name="Greenscut" votes="12" />
+                <Precinct name="Keysville" votes="2" />
+                <Precinct name="Midville" votes="2" />
+                <Precinct name="Munnerlyn" votes="1" />
+                <Precinct name="Sardis" votes="12" />
+                <Precinct name="Scotts Crossroads" votes="0" />
+                <Precinct name="Telfair" votes="6" />
+                <Precinct name="St Clair" votes="7" />
+                <Precinct name="Vidette" votes="2" />
+                <Precinct name="North Waynesboro" votes="10" />
+                <Precinct name="South Waynesboro" votes="30" />
+                <Precinct name="Blakeney" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1607">
+                <Precinct name="Alexander" votes="22" />
+                <Precinct name="Four Points" votes="253" />
+                <Precinct name="Girard" votes="50" />
+                <Precinct name="Gough" votes="35" />
+                <Precinct name="Greenscut" votes="123" />
+                <Precinct name="Keysville" votes="20" />
+                <Precinct name="Midville" votes="23" />
+                <Precinct name="Munnerlyn" votes="28" />
+                <Precinct name="Sardis" votes="48" />
+                <Precinct name="Scotts Crossroads" votes="9" />
+                <Precinct name="Telfair" votes="71" />
+                <Precinct name="St Clair" votes="51" />
+                <Precinct name="Vidette" votes="15" />
+                <Precinct name="North Waynesboro" votes="226" />
+                <Precinct name="South Waynesboro" votes="573" />
+                <Precinct name="Blakeney" votes="60" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2410">
+                <Precinct name="Alexander" votes="86" />
+                <Precinct name="Four Points" votes="532" />
+                <Precinct name="Girard" votes="133" />
+                <Precinct name="Gough" votes="54" />
+                <Precinct name="Greenscut" votes="179" />
+                <Precinct name="Keysville" votes="72" />
+                <Precinct name="Midville" votes="77" />
+                <Precinct name="Munnerlyn" votes="58" />
+                <Precinct name="Sardis" votes="227" />
+                <Precinct name="Scotts Crossroads" votes="43" />
+                <Precinct name="Telfair" votes="185" />
+                <Precinct name="St Clair" votes="104" />
+                <Precinct name="Vidette" votes="74" />
+                <Precinct name="North Waynesboro" votes="126" />
+                <Precinct name="South Waynesboro" votes="387" />
+                <Precinct name="Blakeney" votes="73" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alexander" votes="0" />
+                <Precinct name="Four Points" votes="0" />
+                <Precinct name="Girard" votes="0" />
+                <Precinct name="Gough" votes="0" />
+                <Precinct name="Greenscut" votes="0" />
+                <Precinct name="Keysville" votes="0" />
+                <Precinct name="Midville" votes="0" />
+                <Precinct name="Munnerlyn" votes="0" />
+                <Precinct name="Sardis" votes="0" />
+                <Precinct name="Scotts Crossroads" votes="0" />
+                <Precinct name="Telfair" votes="0" />
+                <Precinct name="St Clair" votes="0" />
+                <Precinct name="Vidette" votes="0" />
+                <Precinct name="North Waynesboro" votes="0" />
+                <Precinct name="South Waynesboro" votes="2" />
+                <Precinct name="Blakeney" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="3778">
+            <VoteType name="Absentee by Mail Votes" votes="333">
+                <Precinct name="Alexander" votes="9" />
+                <Precinct name="Four Points" votes="28" />
+                <Precinct name="Girard" votes="23" />
+                <Precinct name="Gough" votes="14" />
+                <Precinct name="Greenscut" votes="11" />
+                <Precinct name="Keysville" votes="3" />
+                <Precinct name="Midville" votes="10" />
+                <Precinct name="Munnerlyn" votes="1" />
+                <Precinct name="Sardis" votes="12" />
+                <Precinct name="Scotts Crossroads" votes="7" />
+                <Precinct name="Telfair" votes="38" />
+                <Precinct name="St Clair" votes="14" />
+                <Precinct name="Vidette" votes="4" />
+                <Precinct name="North Waynesboro" votes="93" />
+                <Precinct name="South Waynesboro" votes="59" />
+                <Precinct name="Blakeney" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1797">
+                <Precinct name="Alexander" votes="42" />
+                <Precinct name="Four Points" votes="199" />
+                <Precinct name="Girard" votes="51" />
+                <Precinct name="Gough" votes="57" />
+                <Precinct name="Greenscut" votes="95" />
+                <Precinct name="Keysville" votes="8" />
+                <Precinct name="Midville" votes="28" />
+                <Precinct name="Munnerlyn" votes="21" />
+                <Precinct name="Sardis" votes="57" />
+                <Precinct name="Scotts Crossroads" votes="29" />
+                <Precinct name="Telfair" votes="108" />
+                <Precinct name="St Clair" votes="44" />
+                <Precinct name="Vidette" votes="22" />
+                <Precinct name="North Waynesboro" votes="511" />
+                <Precinct name="South Waynesboro" votes="438" />
+                <Precinct name="Blakeney" votes="87" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1646">
+                <Precinct name="Alexander" votes="34" />
+                <Precinct name="Four Points" votes="173" />
+                <Precinct name="Girard" votes="108" />
+                <Precinct name="Gough" votes="74" />
+                <Precinct name="Greenscut" votes="105" />
+                <Precinct name="Keysville" votes="86" />
+                <Precinct name="Midville" votes="111" />
+                <Precinct name="Munnerlyn" votes="20" />
+                <Precinct name="Sardis" votes="121" />
+                <Precinct name="Scotts Crossroads" votes="40" />
+                <Precinct name="Telfair" votes="85" />
+                <Precinct name="St Clair" votes="46" />
+                <Precinct name="Vidette" votes="52" />
+                <Precinct name="North Waynesboro" votes="293" />
+                <Precinct name="South Waynesboro" votes="233" />
+                <Precinct name="Blakeney" votes="65" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Alexander" votes="0" />
+                <Precinct name="Four Points" votes="0" />
+                <Precinct name="Girard" votes="0" />
+                <Precinct name="Gough" votes="0" />
+                <Precinct name="Greenscut" votes="1" />
+                <Precinct name="Keysville" votes="0" />
+                <Precinct name="Midville" votes="0" />
+                <Precinct name="Munnerlyn" votes="0" />
+                <Precinct name="Sardis" votes="0" />
+                <Precinct name="Scotts Crossroads" votes="0" />
+                <Precinct name="Telfair" votes="0" />
+                <Precinct name="St Clair" votes="0" />
+                <Precinct name="Vidette" votes="0" />
+                <Precinct name="North Waynesboro" votes="1" />
+                <Precinct name="South Waynesboro" votes="0" />
+                <Precinct name="Blakeney" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 12:16:07 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>McDuffie</Region>
+    <VoterTurnout totalVoters="15039" ballotsCast="7719" voterTurnout="51.33">
+        <Precincts>
+            <Precinct name="NMcDuffie" totalVoters="1525" ballotsCast="910" voterTurnout="59.67" percentReporting="4" />
+            <Precinct name="Cedar Rock" totalVoters="5012" ballotsCast="2545" voterTurnout="50.78" percentReporting="4" />
+            <Precinct name="Depot" totalVoters="1949" ballotsCast="688" voterTurnout="35.30" percentReporting="4" />
+            <Precinct name="Sweetwater" totalVoters="1124" ballotsCast="592" voterTurnout="52.67" percentReporting="4" />
+            <Precinct name="White Oak" totalVoters="2285" ballotsCast="1314" voterTurnout="57.51" percentReporting="4" />
+            <Precinct name="Dearing" totalVoters="1884" ballotsCast="1026" voterTurnout="54.46" percentReporting="4" />
+            <Precinct name="Fort Creek" totalVoters="1260" ballotsCast="644" voterTurnout="51.11" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="NMcDuffie" votes="0" />
+            <Precinct name="Cedar Rock" votes="1" />
+            <Precinct name="Depot" votes="4" />
+            <Precinct name="Sweetwater" votes="0" />
+            <Precinct name="White Oak" votes="1" />
+            <Precinct name="Dearing" votes="3" />
+            <Precinct name="Fort Creek" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="NMcDuffie" votes="0" />
+            <Precinct name="Cedar Rock" votes="0" />
+            <Precinct name="Depot" votes="0" />
+            <Precinct name="Sweetwater" votes="0" />
+            <Precinct name="White Oak" votes="0" />
+            <Precinct name="Dearing" votes="0" />
+            <Precinct name="Fort Creek" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="4717">
+            <VoteType name="Absentee by Mail Votes" votes="215">
+                <Precinct name="NMcDuffie" votes="36" />
+                <Precinct name="Cedar Rock" votes="74" />
+                <Precinct name="Depot" votes="11" />
+                <Precinct name="Sweetwater" votes="17" />
+                <Precinct name="White Oak" votes="48" />
+                <Precinct name="Dearing" votes="18" />
+                <Precinct name="Fort Creek" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2886">
+                <Precinct name="NMcDuffie" votes="490" />
+                <Precinct name="Cedar Rock" votes="723" />
+                <Precinct name="Depot" votes="76" />
+                <Precinct name="Sweetwater" votes="275" />
+                <Precinct name="White Oak" votes="629" />
+                <Precinct name="Dearing" votes="444" />
+                <Precinct name="Fort Creek" votes="249" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1616">
+                <Precinct name="NMcDuffie" votes="303" />
+                <Precinct name="Cedar Rock" votes="328" />
+                <Precinct name="Depot" votes="41" />
+                <Precinct name="Sweetwater" votes="148" />
+                <Precinct name="White Oak" votes="294" />
+                <Precinct name="Dearing" votes="305" />
+                <Precinct name="Fort Creek" votes="197" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="NMcDuffie" votes="0" />
+                <Precinct name="Cedar Rock" votes="0" />
+                <Precinct name="Depot" votes="0" />
+                <Precinct name="Sweetwater" votes="0" />
+                <Precinct name="White Oak" votes="0" />
+                <Precinct name="Dearing" votes="0" />
+                <Precinct name="Fort Creek" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="2993">
+            <VoteType name="Absentee by Mail Votes" votes="411">
+                <Precinct name="NMcDuffie" votes="4" />
+                <Precinct name="Cedar Rock" votes="218" />
+                <Precinct name="Depot" votes="74" />
+                <Precinct name="Sweetwater" votes="10" />
+                <Precinct name="White Oak" votes="39" />
+                <Precinct name="Dearing" votes="36" />
+                <Precinct name="Fort Creek" votes="30" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1795">
+                <Precinct name="NMcDuffie" votes="60" />
+                <Precinct name="Cedar Rock" votes="840" />
+                <Precinct name="Depot" votes="299" />
+                <Precinct name="Sweetwater" votes="100" />
+                <Precinct name="White Oak" votes="214" />
+                <Precinct name="Dearing" votes="165" />
+                <Precinct name="Fort Creek" votes="117" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="787">
+                <Precinct name="NMcDuffie" votes="17" />
+                <Precinct name="Cedar Rock" votes="361" />
+                <Precinct name="Depot" votes="183" />
+                <Precinct name="Sweetwater" votes="42" />
+                <Precinct name="White Oak" votes="89" />
+                <Precinct name="Dearing" votes="55" />
+                <Precinct name="Fort Creek" votes="40" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="NMcDuffie" votes="0" />
+                <Precinct name="Cedar Rock" votes="0" />
+                <Precinct name="Depot" votes="0" />
+                <Precinct name="Sweetwater" votes="0" />
+                <Precinct name="White Oak" votes="0" />
+                <Precinct name="Dearing" votes="0" />
+                <Precinct name="Fort Creek" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

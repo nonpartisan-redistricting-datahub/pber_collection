@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 9:03:08 AM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Glynn</Region>
+    <VoterTurnout totalVoters="58974" ballotsCast="30347" voterTurnout="51.46">
+        <Precincts>
+            <Precinct name="SES" totalVoters="4556" ballotsCast="2340" voterTurnout="51.36" percentReporting="4" />
+            <Precinct name="BRK" totalVoters="3376" ballotsCast="1781" voterTurnout="52.75" percentReporting="4" />
+            <Precinct name="MAR" totalVoters="2773" ballotsCast="1522" voterTurnout="54.89" percentReporting="4" />
+            <Precinct name="BLY" totalVoters="2493" ballotsCast="1314" voterTurnout="52.71" percentReporting="4" />
+            <Precinct name="NSSI" totalVoters="4758" ballotsCast="3261" voterTurnout="68.54" percentReporting="4" />
+            <Precinct name="CSSI" totalVoters="5970" ballotsCast="4001" voterTurnout="67.02" percentReporting="4" />
+            <Precinct name="SSSI" totalVoters="4042" ballotsCast="2724" voterTurnout="67.39" percentReporting="4" />
+            <Precinct name="JI" totalVoters="738" ballotsCast="532" voterTurnout="72.09" percentReporting="4" />
+            <Precinct name="COG" totalVoters="3864" ballotsCast="1680" voterTurnout="43.48" percentReporting="4" />
+            <Precinct name="SEB" totalVoters="1911" ballotsCast="846" voterTurnout="44.27" percentReporting="4" />
+            <Precinct name="GICCA" totalVoters="2764" ballotsCast="1393" voterTurnout="50.40" percentReporting="4" />
+            <Precinct name="NGLY" totalVoters="3147" ballotsCast="1711" voterTurnout="54.37" percentReporting="4" />
+            <Precinct name="BAL" totalVoters="3242" ballotsCast="1314" voterTurnout="40.53" percentReporting="4" />
+            <Precinct name="NSB" totalVoters="3061" ballotsCast="1321" voterTurnout="43.16" percentReporting="4" />
+            <Precinct name="THE" totalVoters="2779" ballotsCast="1057" voterTurnout="38.04" percentReporting="4" />
+            <Precinct name="CPM" totalVoters="2148" ballotsCast="901" voterTurnout="41.95" percentReporting="4" />
+            <Precinct name="HCP" totalVoters="3030" ballotsCast="1257" voterTurnout="41.49" percentReporting="4" />
+            <Precinct name="UPP" totalVoters="3025" ballotsCast="1032" voterTurnout="34.12" percentReporting="4" />
+            <Precinct name="ARCO" totalVoters="1270" ballotsCast="360" voterTurnout="28.35" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="19" precinctsReported="19">
+        <VoteType name="Undervotes" votes="24">
+            <Precinct name="SES" votes="0" />
+            <Precinct name="BRK" votes="0" />
+            <Precinct name="MAR" votes="2" />
+            <Precinct name="BLY" votes="0" />
+            <Precinct name="NSSI" votes="2" />
+            <Precinct name="CSSI" votes="2" />
+            <Precinct name="SSSI" votes="2" />
+            <Precinct name="JI" votes="1" />
+            <Precinct name="COG" votes="2" />
+            <Precinct name="SEB" votes="1" />
+            <Precinct name="GICCA" votes="1" />
+            <Precinct name="NGLY" votes="2" />
+            <Precinct name="BAL" votes="0" />
+            <Precinct name="NSB" votes="1" />
+            <Precinct name="THE" votes="1" />
+            <Precinct name="CPM" votes="0" />
+            <Precinct name="HCP" votes="2" />
+            <Precinct name="UPP" votes="3" />
+            <Precinct name="ARCO" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="SES" votes="0" />
+            <Precinct name="BRK" votes="0" />
+            <Precinct name="MAR" votes="0" />
+            <Precinct name="BLY" votes="0" />
+            <Precinct name="NSSI" votes="0" />
+            <Precinct name="CSSI" votes="0" />
+            <Precinct name="SSSI" votes="0" />
+            <Precinct name="JI" votes="0" />
+            <Precinct name="COG" votes="0" />
+            <Precinct name="SEB" votes="0" />
+            <Precinct name="GICCA" votes="0" />
+            <Precinct name="NGLY" votes="0" />
+            <Precinct name="BAL" votes="0" />
+            <Precinct name="NSB" votes="0" />
+            <Precinct name="THE" votes="0" />
+            <Precinct name="CPM" votes="0" />
+            <Precinct name="HCP" votes="0" />
+            <Precinct name="UPP" votes="0" />
+            <Precinct name="ARCO" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="18900">
+            <VoteType name="Absentee by Mail Votes" votes="725">
+                <Precinct name="SES" votes="53" />
+                <Precinct name="BRK" votes="27" />
+                <Precinct name="MAR" votes="22" />
+                <Precinct name="BLY" votes="30" />
+                <Precinct name="NSSI" votes="100" />
+                <Precinct name="CSSI" votes="122" />
+                <Precinct name="SSSI" votes="77" />
+                <Precinct name="JI" votes="20" />
+                <Precinct name="COG" votes="43" />
+                <Precinct name="SEB" votes="16" />
+                <Precinct name="GICCA" votes="30" />
+                <Precinct name="NGLY" votes="25" />
+                <Precinct name="BAL" votes="47" />
+                <Precinct name="NSB" votes="32" />
+                <Precinct name="THE" votes="27" />
+                <Precinct name="CPM" votes="25" />
+                <Precinct name="HCP" votes="22" />
+                <Precinct name="UPP" votes="6" />
+                <Precinct name="ARCO" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8890">
+                <Precinct name="SES" votes="824" />
+                <Precinct name="BRK" votes="460" />
+                <Precinct name="MAR" votes="425" />
+                <Precinct name="BLY" votes="479" />
+                <Precinct name="NSSI" votes="1190" />
+                <Precinct name="CSSI" votes="1511" />
+                <Precinct name="SSSI" votes="1045" />
+                <Precinct name="JI" votes="47" />
+                <Precinct name="COG" votes="467" />
+                <Precinct name="SEB" votes="243" />
+                <Precinct name="GICCA" votes="417" />
+                <Precinct name="NGLY" votes="494" />
+                <Precinct name="BAL" votes="469" />
+                <Precinct name="NSB" votes="203" />
+                <Precinct name="THE" votes="194" />
+                <Precinct name="CPM" votes="159" />
+                <Precinct name="HCP" votes="183" />
+                <Precinct name="UPP" votes="32" />
+                <Precinct name="ARCO" votes="48" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9271">
+                <Precinct name="SES" votes="865" />
+                <Precinct name="BRK" votes="789" />
+                <Precinct name="MAR" votes="605" />
+                <Precinct name="BLY" votes="590" />
+                <Precinct name="NSSI" votes="992" />
+                <Precinct name="CSSI" votes="1130" />
+                <Precinct name="SSSI" votes="702" />
+                <Precinct name="JI" votes="209" />
+                <Precinct name="COG" votes="568" />
+                <Precinct name="SEB" votes="334" />
+                <Precinct name="GICCA" votes="518" />
+                <Precinct name="NGLY" votes="636" />
+                <Precinct name="BAL" votes="341" />
+                <Precinct name="NSB" votes="272" />
+                <Precinct name="THE" votes="211" />
+                <Precinct name="CPM" votes="159" />
+                <Precinct name="HCP" votes="249" />
+                <Precinct name="UPP" votes="40" />
+                <Precinct name="ARCO" votes="61" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="14">
+                <Precinct name="SES" votes="1" />
+                <Precinct name="BRK" votes="2" />
+                <Precinct name="MAR" votes="0" />
+                <Precinct name="BLY" votes="0" />
+                <Precinct name="NSSI" votes="6" />
+                <Precinct name="CSSI" votes="0" />
+                <Precinct name="SSSI" votes="0" />
+                <Precinct name="JI" votes="0" />
+                <Precinct name="COG" votes="0" />
+                <Precinct name="SEB" votes="0" />
+                <Precinct name="GICCA" votes="1" />
+                <Precinct name="NGLY" votes="1" />
+                <Precinct name="BAL" votes="1" />
+                <Precinct name="NSB" votes="0" />
+                <Precinct name="THE" votes="1" />
+                <Precinct name="CPM" votes="1" />
+                <Precinct name="HCP" votes="0" />
+                <Precinct name="UPP" votes="0" />
+                <Precinct name="ARCO" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="11423">
+            <VoteType name="Absentee by Mail Votes" votes="1053">
+                <Precinct name="SES" votes="60" />
+                <Precinct name="BRK" votes="39" />
+                <Precinct name="MAR" votes="40" />
+                <Precinct name="BLY" votes="19" />
+                <Precinct name="NSSI" votes="88" />
+                <Precinct name="CSSI" votes="102" />
+                <Precinct name="SSSI" votes="69" />
+                <Precinct name="JI" votes="30" />
+                <Precinct name="COG" votes="52" />
+                <Precinct name="SEB" votes="10" />
+                <Precinct name="GICCA" votes="43" />
+                <Precinct name="NGLY" votes="52" />
+                <Precinct name="BAL" votes="42" />
+                <Precinct name="NSB" votes="67" />
+                <Precinct name="THE" votes="59" />
+                <Precinct name="CPM" votes="77" />
+                <Precinct name="HCP" votes="59" />
+                <Precinct name="UPP" votes="111" />
+                <Precinct name="ARCO" votes="34" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6570">
+                <Precinct name="SES" votes="375" />
+                <Precinct name="BRK" votes="296" />
+                <Precinct name="MAR" votes="226" />
+                <Precinct name="BLY" votes="107" />
+                <Precinct name="NSSI" votes="595" />
+                <Precinct name="CSSI" votes="787" />
+                <Precinct name="SSSI" votes="607" />
+                <Precinct name="JI" votes="69" />
+                <Precinct name="COG" votes="320" />
+                <Precinct name="SEB" votes="128" />
+                <Precinct name="GICCA" votes="230" />
+                <Precinct name="NGLY" votes="340" />
+                <Precinct name="BAL" votes="263" />
+                <Precinct name="NSB" votes="449" />
+                <Precinct name="THE" votes="361" />
+                <Precinct name="CPM" votes="271" />
+                <Precinct name="HCP" votes="469" />
+                <Precinct name="UPP" votes="553" />
+                <Precinct name="ARCO" votes="124" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3787">
+                <Precinct name="SES" votes="162" />
+                <Precinct name="BRK" votes="168" />
+                <Precinct name="MAR" votes="202" />
+                <Precinct name="BLY" votes="89" />
+                <Precinct name="NSSI" votes="288" />
+                <Precinct name="CSSI" votes="346" />
+                <Precinct name="SSSI" votes="222" />
+                <Precinct name="JI" votes="156" />
+                <Precinct name="COG" votes="227" />
+                <Precinct name="SEB" votes="114" />
+                <Precinct name="GICCA" votes="153" />
+                <Precinct name="NGLY" votes="159" />
+                <Precinct name="BAL" votes="151" />
+                <Precinct name="NSB" votes="294" />
+                <Precinct name="THE" votes="202" />
+                <Precinct name="CPM" votes="207" />
+                <Precinct name="HCP" votes="270" />
+                <Precinct name="UPP" votes="287" />
+                <Precinct name="ARCO" votes="90" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="13">
+                <Precinct name="SES" votes="0" />
+                <Precinct name="BRK" votes="0" />
+                <Precinct name="MAR" votes="0" />
+                <Precinct name="BLY" votes="0" />
+                <Precinct name="NSSI" votes="0" />
+                <Precinct name="CSSI" votes="1" />
+                <Precinct name="SSSI" votes="0" />
+                <Precinct name="JI" votes="0" />
+                <Precinct name="COG" votes="1" />
+                <Precinct name="SEB" votes="0" />
+                <Precinct name="GICCA" votes="0" />
+                <Precinct name="NGLY" votes="2" />
+                <Precinct name="BAL" votes="0" />
+                <Precinct name="NSB" votes="3" />
+                <Precinct name="THE" votes="1" />
+                <Precinct name="CPM" votes="2" />
+                <Precinct name="HCP" votes="3" />
+                <Precinct name="UPP" votes="0" />
+                <Precinct name="ARCO" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

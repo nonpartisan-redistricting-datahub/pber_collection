@@ -1,0 +1,820 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/15/2022 10:03:35 AM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Rabun</Region>
+    <VoterTurnout totalVoters="12563" ballotsCast="8292" voterTurnout="66.00">
+        <Precincts>
+            <Precinct name="Rabun County" totalVoters="12534" ballotsCast="8292" voterTurnout="66.16" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="74">
+            <Precinct name="Rabun County" votes="74" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="6180">
+            <VoteType name="Absentee by Mail Votes" votes="416">
+                <Precinct name="Rabun County" votes="416" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4368">
+                <Precinct name="Rabun County" votes="4368" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1396">
+                <Precinct name="Rabun County" votes="1396" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1804">
+            <VoteType name="Absentee by Mail Votes" votes="254">
+                <Precinct name="Rabun County" votes="254" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1229">
+                <Precinct name="Rabun County" votes="1229" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="321">
+                <Precinct name="Rabun County" votes="321" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Chase Oliver (Lib)" totalVotes="223">
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Rabun County" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="146">
+                <Precinct name="Rabun County" votes="146" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="57">
+                <Precinct name="Rabun County" votes="57" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="24">
+            <Precinct name="Rabun County" votes="24" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="4" text="Brian Kemp (I) (Rep)" totalVotes="6766">
+            <VoteType name="Absentee by Mail Votes" votes="501">
+                <Precinct name="Rabun County" votes="501" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4755">
+                <Precinct name="Rabun County" votes="4755" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1510">
+                <Precinct name="Rabun County" votes="1510" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Stacey Abrams (Dem)" totalVotes="1415">
+            <VoteType name="Absentee by Mail Votes" votes="190">
+                <Precinct name="Rabun County" votes="190" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="983">
+                <Precinct name="Rabun County" votes="983" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="242">
+                <Precinct name="Rabun County" votes="242" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Shane Hazel (Lib)" totalVotes="81">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Rabun County" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="48">
+                <Precinct name="Rabun County" votes="48" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Rabun County" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="100">
+            <Precinct name="Rabun County" votes="100" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Burt Jones (Rep)" totalVotes="6465">
+            <VoteType name="Absentee by Mail Votes" votes="453">
+                <Precinct name="Rabun County" votes="453" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4569">
+                <Precinct name="Rabun County" votes="4569" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1443">
+                <Precinct name="Rabun County" votes="1443" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Charlie Bailey (Dem)" totalVotes="1563">
+            <VoteType name="Absentee by Mail Votes" votes="225">
+                <Precinct name="Rabun County" votes="225" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1070">
+                <Precinct name="Rabun County" votes="1070" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="268">
+                <Precinct name="Rabun County" votes="268" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="9" text="Ryan Graham (Lib)" totalVotes="163">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Rabun County" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="91">
+                <Precinct name="Rabun County" votes="91" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="61">
+                <Precinct name="Rabun County" votes="61" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="118">
+            <Precinct name="Rabun County" votes="118" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="10" text="Brad Raffensperger (I) (Rep)" totalVotes="6491">
+            <VoteType name="Absentee by Mail Votes" votes="475">
+                <Precinct name="Rabun County" votes="475" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4583">
+                <Precinct name="Rabun County" votes="4583" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1433">
+                <Precinct name="Rabun County" votes="1433" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="Bee Nguyen (Dem)" totalVotes="1331">
+            <VoteType name="Absentee by Mail Votes" votes="190">
+                <Precinct name="Rabun County" votes="190" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="909">
+                <Precinct name="Rabun County" votes="909" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="232">
+                <Precinct name="Rabun County" votes="232" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Ted Metz (Lib)" totalVotes="340">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Rabun County" votes="22" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="216">
+                <Precinct name="Rabun County" votes="216" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="102">
+                <Precinct name="Rabun County" votes="102" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="89">
+            <Precinct name="Rabun County" votes="89" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="13" text="Chris Carr (I) (Rep)" totalVotes="6478">
+            <VoteType name="Absentee by Mail Votes" votes="468">
+                <Precinct name="Rabun County" votes="468" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4580">
+                <Precinct name="Rabun County" votes="4580" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1430">
+                <Precinct name="Rabun County" votes="1430" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="14" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="1594">
+            <VoteType name="Absentee by Mail Votes" votes="217">
+                <Precinct name="Rabun County" votes="217" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1092">
+                <Precinct name="Rabun County" votes="1092" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="285">
+                <Precinct name="Rabun County" votes="285" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="15" text="Martin Cowen (Lib)" totalVotes="127">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Rabun County" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="70">
+                <Precinct name="Rabun County" votes="70" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="52">
+                <Precinct name="Rabun County" votes="52" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Commissioner of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="119">
+            <Precinct name="Rabun County" votes="119" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="16" text="Tyler Harper (Rep)" totalVotes="6634">
+            <VoteType name="Absentee by Mail Votes" votes="484">
+                <Precinct name="Rabun County" votes="484" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4683">
+                <Precinct name="Rabun County" votes="4683" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1467">
+                <Precinct name="Rabun County" votes="1467" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Nakita Hemingway (Dem)" totalVotes="1363">
+            <VoteType name="Absentee by Mail Votes" votes="190">
+                <Precinct name="Rabun County" votes="190" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="935">
+                <Precinct name="Rabun County" votes="935" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="238">
+                <Precinct name="Rabun County" votes="238" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="David Raudabaugh (Lib)" totalVotes="175">
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Rabun County" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="104">
+                <Precinct name="Rabun County" votes="104" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="59">
+                <Precinct name="Rabun County" votes="59" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Commissioner of Insurance" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="139">
+            <Precinct name="Rabun County" votes="139" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="19" text="John King (I) (Rep)" totalVotes="6656">
+            <VoteType name="Absentee by Mail Votes" votes="476">
+                <Precinct name="Rabun County" votes="476" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4687">
+                <Precinct name="Rabun County" votes="4687" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1493">
+                <Precinct name="Rabun County" votes="1493" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Janice Laws Robinson (Dem)" totalVotes="1496">
+            <VoteType name="Absentee by Mail Votes" votes="205">
+                <Precinct name="Rabun County" votes="205" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1029">
+                <Precinct name="Rabun County" votes="1029" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="262">
+                <Precinct name="Rabun County" votes="262" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="147">
+            <Precinct name="Rabun County" votes="147" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="21" text="Richard Woods (I) (Rep)" totalVotes="6664">
+            <VoteType name="Absentee by Mail Votes" votes="481">
+                <Precinct name="Rabun County" votes="481" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4693">
+                <Precinct name="Rabun County" votes="4693" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1490">
+                <Precinct name="Rabun County" votes="1490" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Alisha Thomas Searcy (Dem)" totalVotes="1477">
+            <VoteType name="Absentee by Mail Votes" votes="201">
+                <Precinct name="Rabun County" votes="201" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1012">
+                <Precinct name="Rabun County" votes="1012" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="264">
+                <Precinct name="Rabun County" votes="264" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner of Labor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="149">
+            <Precinct name="Rabun County" votes="149" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="23" text="Bruce Thompson (Rep)" totalVotes="6510">
+            <VoteType name="Absentee by Mail Votes" votes="464">
+                <Precinct name="Rabun County" votes="464" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4592">
+                <Precinct name="Rabun County" votes="4592" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1454">
+                <Precinct name="Rabun County" votes="1454" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="1445">
+            <VoteType name="Absentee by Mail Votes" votes="208">
+                <Precinct name="Rabun County" votes="208" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="993">
+                <Precinct name="Rabun County" votes="993" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="244">
+                <Precinct name="Rabun County" votes="244" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Emily Anderson (Lib)" totalVotes="187">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Rabun County" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="116">
+                <Precinct name="Rabun County" votes="116" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="61">
+                <Precinct name="Rabun County" votes="61" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="US House of Representatives - District 9" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="114">
+            <Precinct name="Rabun County" votes="114" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="26" text="Andrew Clyde (I) (Rep)" totalVotes="6480">
+            <VoteType name="Absentee by Mail Votes" votes="450">
+                <Precinct name="Rabun County" votes="450" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4568">
+                <Precinct name="Rabun County" votes="4568" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1462">
+                <Precinct name="Rabun County" votes="1462" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Michael &quot;&quot;Mike&quot;&quot; Ford (Dem)" totalVotes="1688">
+            <VoteType name="Absentee by Mail Votes" votes="237">
+                <Precinct name="Rabun County" votes="237" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1153">
+                <Precinct name="Rabun County" votes="1153" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="298">
+                <Precinct name="Rabun County" votes="298" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="State Senate - District 50" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="106">
+            <Precinct name="Rabun County" votes="106" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="28" text="Bo Hatchett (I) (Rep)" totalVotes="6618">
+            <VoteType name="Absentee by Mail Votes" votes="461">
+                <Precinct name="Rabun County" votes="461" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4674">
+                <Precinct name="Rabun County" votes="4674" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1483">
+                <Precinct name="Rabun County" votes="1483" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="Paulette Williams (Dem)" totalVotes="1566">
+            <VoteType name="Absentee by Mail Votes" votes="227">
+                <Precinct name="Rabun County" votes="227" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1063">
+                <Precinct name="Rabun County" votes="1063" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="276">
+                <Precinct name="Rabun County" votes="276" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="State House of Representatives - District 10" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1054">
+            <Precinct name="Rabun County" votes="1054" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="30" text="Victor E. Anderson (I) (Rep)" totalVotes="7121">
+            <VoteType name="Absentee by Mail Votes" votes="503">
+                <Precinct name="Rabun County" votes="503" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5012">
+                <Precinct name="Rabun County" votes="5012" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1606">
+                <Precinct name="Rabun County" votes="1606" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="Judge of the Magistrate Court" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="946">
+            <Precinct name="Rabun County" votes="946" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="31" text="James V. Blalock (Rep)" totalVotes="4903">
+            <VoteType name="Absentee by Mail Votes" votes="407">
+                <Precinct name="Rabun County" votes="407" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3495">
+                <Precinct name="Rabun County" votes="3495" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1001">
+                <Precinct name="Rabun County" votes="1001" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="County Commission - Post 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1137">
+            <Precinct name="Rabun County" votes="1137" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Kent Woerner (I) (Rep)" totalVotes="7053">
+            <VoteType name="Absentee by Mail Votes" votes="505">
+                <Precinct name="Rabun County" votes="505" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4967">
+                <Precinct name="Rabun County" votes="4967" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1581">
+                <Precinct name="Rabun County" votes="1581" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="County Commission - Post 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1180">
+            <Precinct name="Rabun County" votes="1180" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="33" text="Scott Crane (I) (Rep)" totalVotes="7005">
+            <VoteType name="Absentee by Mail Votes" votes="506">
+                <Precinct name="Rabun County" votes="506" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4923">
+                <Precinct name="Rabun County" votes="4923" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1576">
+                <Precinct name="Rabun County" votes="1576" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="County BOE - Post 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1174">
+            <Precinct name="Rabun County" votes="1174" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="34" text="Curtis Haban (I) (Rep)" totalVotes="7051">
+            <VoteType name="Absentee by Mail Votes" votes="506">
+                <Precinct name="Rabun County" votes="506" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4960">
+                <Precinct name="Rabun County" votes="4960" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1585">
+                <Precinct name="Rabun County" votes="1585" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="County BOE - Post 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1151">
+            <Precinct name="Rabun County" votes="1151" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="35" text="Mark Beck (I) (Rep)" totalVotes="7084">
+            <VoteType name="Absentee by Mail Votes" votes="486">
+                <Precinct name="Rabun County" votes="486" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5008">
+                <Precinct name="Rabun County" votes="5008" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1590">
+                <Precinct name="Rabun County" votes="1590" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="SPECIAL City Council Member - Sky Valley" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Rabun County" votes="10" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="36" text="Tim Darrah" totalVotes="167">
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Rabun County" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="141">
+                <Precinct name="Rabun County" votes="141" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Rabun County" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="37" text="Susie Piontkowski" totalVotes="78">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Rabun County" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="60">
+                <Precinct name="Rabun County" votes="60" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Rabun County" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="Proposed Constitutional Amendment 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="287">
+            <Precinct name="Rabun County" votes="287" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="38" text="Yes" totalVotes="7229">
+            <VoteType name="Absentee by Mail Votes" votes="619">
+                <Precinct name="Rabun County" votes="619" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5066">
+                <Precinct name="Rabun County" votes="5066" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1544">
+                <Precinct name="Rabun County" votes="1544" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="39" text="No" totalVotes="776">
+            <VoteType name="Absentee by Mail Votes" votes="54">
+                <Precinct name="Rabun County" votes="54" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="547">
+                <Precinct name="Rabun County" votes="547" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="175">
+                <Precinct name="Rabun County" votes="175" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="Proposed Constitutional Amendment 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="269">
+            <Precinct name="Rabun County" votes="269" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="40" text="Yes" totalVotes="7210">
+            <VoteType name="Absentee by Mail Votes" votes="608">
+                <Precinct name="Rabun County" votes="608" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5028">
+                <Precinct name="Rabun County" votes="5028" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1574">
+                <Precinct name="Rabun County" votes="1574" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="41" text="No" totalVotes="813">
+            <VoteType name="Absentee by Mail Votes" votes="64">
+                <Precinct name="Rabun County" votes="64" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="590">
+                <Precinct name="Rabun County" votes="590" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="159">
+                <Precinct name="Rabun County" votes="159" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="Statewide Referendum Question 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="425">
+            <Precinct name="Rabun County" votes="425" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Yes" totalVotes="4495">
+            <VoteType name="Absentee by Mail Votes" votes="315">
+                <Precinct name="Rabun County" votes="315" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3083">
+                <Precinct name="Rabun County" votes="3083" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1097">
+                <Precinct name="Rabun County" votes="1097" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="No" totalVotes="3372">
+            <VoteType name="Absentee by Mail Votes" votes="335">
+                <Precinct name="Rabun County" votes="335" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2431">
+                <Precinct name="Rabun County" votes="2431" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="606">
+                <Precinct name="Rabun County" votes="606" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="Statewide Referendum Question 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="397">
+            <Precinct name="Rabun County" votes="397" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="44" text="Yes" totalVotes="6075">
+            <VoteType name="Absentee by Mail Votes" votes="435">
+                <Precinct name="Rabun County" votes="435" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4239">
+                <Precinct name="Rabun County" votes="4239" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1401">
+                <Precinct name="Rabun County" votes="1401" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="45" text="No" totalVotes="1820">
+            <VoteType name="Absentee by Mail Votes" votes="204">
+                <Precinct name="Rabun County" votes="204" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1306">
+                <Precinct name="Rabun County" votes="1306" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="310">
+                <Precinct name="Rabun County" votes="310" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

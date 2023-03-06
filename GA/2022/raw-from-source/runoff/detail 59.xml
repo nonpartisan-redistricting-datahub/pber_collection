@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/8/2022 10:32:40 AM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Atkinson</Region>
+    <VoterTurnout totalVoters="4508" ballotsCast="2011" voterTurnout="44.61">
+        <Precincts>
+            <Precinct name="Pearson County" totalVoters="1718" ballotsCast="804" voterTurnout="46.80" percentReporting="4" />
+            <Precinct name="Axson" totalVoters="693" ballotsCast="342" voterTurnout="49.35" percentReporting="4" />
+            <Precinct name="Willacoochee" totalVoters="1232" ballotsCast="569" voterTurnout="46.19" percentReporting="4" />
+            <Precinct name="Pearson City" totalVoters="861" ballotsCast="296" voterTurnout="34.38" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Pearson County" votes="1" />
+            <Precinct name="Axson" votes="0" />
+            <Precinct name="Willacoochee" votes="1" />
+            <Precinct name="Pearson City" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pearson County" votes="0" />
+            <Precinct name="Axson" votes="0" />
+            <Precinct name="Willacoochee" votes="0" />
+            <Precinct name="Pearson City" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="1524">
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Pearson County" votes="14" />
+                <Precinct name="Axson" votes="6" />
+                <Precinct name="Willacoochee" votes="9" />
+                <Precinct name="Pearson City" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="603">
+                <Precinct name="Pearson County" votes="379" />
+                <Precinct name="Axson" votes="67" />
+                <Precinct name="Willacoochee" votes="106" />
+                <Precinct name="Pearson City" votes="51" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="889">
+                <Precinct name="Pearson County" votes="320" />
+                <Precinct name="Axson" votes="252" />
+                <Precinct name="Willacoochee" votes="263" />
+                <Precinct name="Pearson City" votes="54" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pearson County" votes="0" />
+                <Precinct name="Axson" votes="0" />
+                <Precinct name="Willacoochee" votes="0" />
+                <Precinct name="Pearson City" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="485">
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Pearson County" votes="13" />
+                <Precinct name="Axson" votes="0" />
+                <Precinct name="Willacoochee" votes="3" />
+                <Precinct name="Pearson City" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="252">
+                <Precinct name="Pearson County" votes="52" />
+                <Precinct name="Axson" votes="8" />
+                <Precinct name="Willacoochee" votes="85" />
+                <Precinct name="Pearson City" votes="107" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="205">
+                <Precinct name="Pearson County" votes="25" />
+                <Precinct name="Axson" votes="9" />
+                <Precinct name="Willacoochee" votes="102" />
+                <Precinct name="Pearson City" votes="69" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pearson County" votes="0" />
+                <Precinct name="Axson" votes="0" />
+                <Precinct name="Willacoochee" votes="0" />
+                <Precinct name="Pearson City" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

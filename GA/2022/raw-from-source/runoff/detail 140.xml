@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 12:07:22 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Jenkins</Region>
+    <VoterTurnout totalVoters="4931" ballotsCast="2524" voterTurnout="51.19">
+        <Precincts>
+            <Precinct name="Primary School" totalVoters="1027" ballotsCast="477" voterTurnout="46.45" percentReporting="4" />
+            <Precinct name="Court House" totalVoters="880" ballotsCast="410" voterTurnout="46.59" percentReporting="4" />
+            <Precinct name="Perkins" totalVoters="1014" ballotsCast="538" voterTurnout="53.06" percentReporting="4" />
+            <Precinct name="Senior Citizens Center" totalVoters="1023" ballotsCast="571" voterTurnout="55.82" percentReporting="4" />
+            <Precinct name="Four Points" totalVoters="985" ballotsCast="528" voterTurnout="53.60" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Primary School" votes="0" />
+            <Precinct name="Court House" votes="1" />
+            <Precinct name="Perkins" votes="0" />
+            <Precinct name="Senior Citizens Center" votes="1" />
+            <Precinct name="Four Points" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Primary School" votes="0" />
+            <Precinct name="Court House" votes="0" />
+            <Precinct name="Perkins" votes="0" />
+            <Precinct name="Senior Citizens Center" votes="0" />
+            <Precinct name="Four Points" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="1647">
+            <VoteType name="Absentee by Mail Votes" votes="57">
+                <Precinct name="Primary School" votes="13" />
+                <Precinct name="Court House" votes="13" />
+                <Precinct name="Perkins" votes="10" />
+                <Precinct name="Senior Citizens Center" votes="17" />
+                <Precinct name="Four Points" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="765">
+                <Precinct name="Primary School" votes="97" />
+                <Precinct name="Court House" votes="118" />
+                <Precinct name="Perkins" votes="208" />
+                <Precinct name="Senior Citizens Center" votes="244" />
+                <Precinct name="Four Points" votes="98" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="825">
+                <Precinct name="Primary School" votes="83" />
+                <Precinct name="Court House" votes="61" />
+                <Precinct name="Perkins" votes="194" />
+                <Precinct name="Senior Citizens Center" votes="220" />
+                <Precinct name="Four Points" votes="267" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Primary School" votes="0" />
+                <Precinct name="Court House" votes="0" />
+                <Precinct name="Perkins" votes="0" />
+                <Precinct name="Senior Citizens Center" votes="0" />
+                <Precinct name="Four Points" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="874">
+            <VoteType name="Absentee by Mail Votes" votes="42">
+                <Precinct name="Primary School" votes="7" />
+                <Precinct name="Court House" votes="14" />
+                <Precinct name="Perkins" votes="8" />
+                <Precinct name="Senior Citizens Center" votes="5" />
+                <Precinct name="Four Points" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="505">
+                <Precinct name="Primary School" votes="171" />
+                <Precinct name="Court House" votes="114" />
+                <Precinct name="Perkins" votes="82" />
+                <Precinct name="Senior Citizens Center" votes="63" />
+                <Precinct name="Four Points" votes="75" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="327">
+                <Precinct name="Primary School" votes="106" />
+                <Precinct name="Court House" votes="89" />
+                <Precinct name="Perkins" votes="36" />
+                <Precinct name="Senior Citizens Center" votes="21" />
+                <Precinct name="Four Points" votes="75" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Primary School" votes="0" />
+                <Precinct name="Court House" votes="0" />
+                <Precinct name="Perkins" votes="0" />
+                <Precinct name="Senior Citizens Center" votes="0" />
+                <Precinct name="Four Points" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

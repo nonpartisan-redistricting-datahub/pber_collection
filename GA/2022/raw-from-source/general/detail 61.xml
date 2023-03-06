@@ -1,0 +1,828 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/15/2022 9:36:25 AM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Bacon</Region>
+    <VoterTurnout totalVoters="6338" ballotsCast="3739" voterTurnout="58.99">
+        <Precincts>
+            <Precinct name="Douglas" totalVoters="6247" ballotsCast="3739" voterTurnout="59.85" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="25">
+            <Precinct name="Douglas" votes="25" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="3204">
+            <VoteType name="Absentee by Mail Votes" votes="74">
+                <Precinct name="Douglas" votes="74" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2301">
+                <Precinct name="Douglas" votes="2301" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="829">
+                <Precinct name="Douglas" votes="829" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="458">
+            <VoteType name="Absentee by Mail Votes" votes="41">
+                <Precinct name="Douglas" votes="41" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="283">
+                <Precinct name="Douglas" votes="283" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="134">
+                <Precinct name="Douglas" votes="134" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Chase Oliver (L)" totalVotes="48">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Douglas" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="25">
+                <Precinct name="Douglas" votes="25" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Douglas" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="Douglas" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="4" text="Brian Kemp (I) (Rep)" totalVotes="3312">
+            <VoteType name="Absentee by Mail Votes" votes="85">
+                <Precinct name="Douglas" votes="85" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2364">
+                <Precinct name="Douglas" votes="2364" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="863">
+                <Precinct name="Douglas" votes="863" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Stacey Abrams (Dem)" totalVotes="393">
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Douglas" votes="32" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="246">
+                <Precinct name="Douglas" votes="246" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="115">
+                <Precinct name="Douglas" votes="115" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="7" text="Shane Hazel (L)" totalVotes="16">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Douglas" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8">
+                <Precinct name="Douglas" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5">
+                <Precinct name="Douglas" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="72">
+            <Precinct name="Douglas" votes="72" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="8" text="Burt Jones (Rep)" totalVotes="3228">
+            <VoteType name="Absentee by Mail Votes" votes="81">
+                <Precinct name="Douglas" votes="81" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2313">
+                <Precinct name="Douglas" votes="2313" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="834">
+                <Precinct name="Douglas" votes="834" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="9" text="Charlie Bailey (Dem)" totalVotes="390">
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Douglas" votes="35" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="239">
+                <Precinct name="Douglas" votes="239" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="116">
+                <Precinct name="Douglas" votes="116" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="10" text="Ryan Graham (L)" totalVotes="49">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Douglas" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="33">
+                <Precinct name="Douglas" votes="33" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Douglas" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="94">
+            <Precinct name="Douglas" votes="94" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="11" text="Brad Raffensperger (I) (Rep)" totalVotes="3176">
+            <VoteType name="Absentee by Mail Votes" votes="82">
+                <Precinct name="Douglas" votes="82" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2279">
+                <Precinct name="Douglas" votes="2279" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="815">
+                <Precinct name="Douglas" votes="815" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Bee Nguyen (Dem)" totalVotes="357">
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="Douglas" votes="28" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="220">
+                <Precinct name="Douglas" votes="220" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="109">
+                <Precinct name="Douglas" votes="109" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="13" text="Ted Metz (L)" totalVotes="107">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Douglas" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="69">
+                <Precinct name="Douglas" votes="69" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Douglas" votes="29" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="65">
+            <Precinct name="Douglas" votes="65" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="14" text="Chris Carr (I) (Rep)" totalVotes="3236">
+            <VoteType name="Absentee by Mail Votes" votes="82">
+                <Precinct name="Douglas" votes="82" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2317">
+                <Precinct name="Douglas" votes="2317" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="837">
+                <Precinct name="Douglas" votes="837" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="15" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="404">
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Douglas" votes="35" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="248">
+                <Precinct name="Douglas" votes="248" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="121">
+                <Precinct name="Douglas" votes="121" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="16" text="Martin Cowen (L)" totalVotes="34">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Douglas" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="19">
+                <Precinct name="Douglas" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Douglas" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Commissioner of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="42">
+            <Precinct name="Douglas" votes="42" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="17" text="Tyler Harper (Rep)" totalVotes="3329">
+            <VoteType name="Absentee by Mail Votes" votes="88">
+                <Precinct name="Douglas" votes="88" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2383">
+                <Precinct name="Douglas" votes="2383" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="858">
+                <Precinct name="Douglas" votes="858" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="19" text="Nakita Hemingway (Dem)" totalVotes="345">
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Douglas" votes="29" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="208">
+                <Precinct name="Douglas" votes="208" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="108">
+                <Precinct name="Douglas" votes="108" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="David Raudabaugh (L)" totalVotes="22">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Douglas" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="14">
+                <Precinct name="Douglas" votes="14" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6">
+                <Precinct name="Douglas" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="Commissioner of Insurance" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="90">
+            <Precinct name="Douglas" votes="90" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="21" text="John King (I) (Rep)" totalVotes="3263">
+            <VoteType name="Absentee by Mail Votes" votes="85">
+                <Precinct name="Douglas" votes="85" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2327">
+                <Precinct name="Douglas" votes="2327" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="851">
+                <Precinct name="Douglas" votes="851" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Janice Laws Robinson (Dem)" totalVotes="385">
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Douglas" votes="35" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="238">
+                <Precinct name="Douglas" votes="238" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="112">
+                <Precinct name="Douglas" votes="112" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="83">
+            <Precinct name="Douglas" votes="83" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="23" text="Richard Woods (I) (Rep)" totalVotes="3269">
+            <VoteType name="Absentee by Mail Votes" votes="86">
+                <Precinct name="Douglas" votes="86" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2337">
+                <Precinct name="Douglas" votes="2337" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="846">
+                <Precinct name="Douglas" votes="846" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="Alisha Thomas Searcy (Dem)" totalVotes="386">
+            <VoteType name="Absentee by Mail Votes" votes="34">
+                <Precinct name="Douglas" votes="34" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="232">
+                <Precinct name="Douglas" votes="232" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="120">
+                <Precinct name="Douglas" votes="120" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Commissioner of Labor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="83">
+            <Precinct name="Douglas" votes="83" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="25" text="Bruce Thompson (Rep)" totalVotes="3232">
+            <VoteType name="Absentee by Mail Votes" votes="84">
+                <Precinct name="Douglas" votes="84" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2306">
+                <Precinct name="Douglas" votes="2306" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="842">
+                <Precinct name="Douglas" votes="842" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="26" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="378">
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Douglas" votes="32" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="235">
+                <Precinct name="Douglas" votes="235" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="111">
+                <Precinct name="Douglas" votes="111" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Emily Anderson (L)" totalVotes="46">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Douglas" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="29">
+                <Precinct name="Douglas" votes="29" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="14">
+                <Precinct name="Douglas" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="34">
+            <Precinct name="Douglas" votes="34" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="33" text="Earl L. &quot;&quot;Buddy&quot;&quot; Carter (I) (Rep)" totalVotes="3303">
+            <VoteType name="Absentee by Mail Votes" votes="83">
+                <Precinct name="Douglas" votes="83" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2363">
+                <Precinct name="Douglas" votes="2363" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="857">
+                <Precinct name="Douglas" votes="857" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="34" text="Wade Herring (Dem)" totalVotes="400">
+            <VoteType name="Absentee by Mail Votes" votes="37">
+                <Precinct name="Douglas" votes="37" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="247">
+                <Precinct name="Douglas" votes="247" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="116">
+                <Precinct name="Douglas" votes="116" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="State Senate - District 19" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="77">
+            <Precinct name="Douglas" votes="77" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="1">
+            <Precinct name="Douglas" votes="1" />
+        </VoteType>
+        <Choice key="35" text="Blake Tillery (I) (Rep)" totalVotes="3273">
+            <VoteType name="Absentee by Mail Votes" votes="84">
+                <Precinct name="Douglas" votes="84" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2341">
+                <Precinct name="Douglas" votes="2341" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="848">
+                <Precinct name="Douglas" votes="848" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="36" text="Michael &quot;&quot;Buckle&quot;&quot; Moore (Dem)" totalVotes="388">
+            <VoteType name="Absentee by Mail Votes" votes="34">
+                <Precinct name="Douglas" votes="34" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="235">
+                <Precinct name="Douglas" votes="235" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="119">
+                <Precinct name="Douglas" votes="119" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="State House of Representatives - District 178" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="303">
+            <Precinct name="Douglas" votes="303" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Steven Meeks (I) (Rep)" totalVotes="3417">
+            <VoteType name="Absentee by Mail Votes" votes="88">
+                <Precinct name="Douglas" votes="88" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2428">
+                <Precinct name="Douglas" votes="2428" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="901">
+                <Precinct name="Douglas" votes="901" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="29" text="District Attorney - Waycross Judicial Circuit" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="307">
+            <Precinct name="Douglas" votes="307" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="1">
+            <Precinct name="Douglas" votes="1" />
+        </VoteType>
+        <Choice key="38" text="Marilyn Bennett (Rep)" totalVotes="3418">
+            <VoteType name="Absentee by Mail Votes" votes="88">
+                <Precinct name="Douglas" votes="88" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2430">
+                <Precinct name="Douglas" votes="2430" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="900">
+                <Precinct name="Douglas" votes="900" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="31" text="County Solicitor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="356">
+            <Precinct name="Douglas" votes="356" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Jennifer Carver (I) (Rep)" totalVotes="3367">
+            <VoteType name="Absentee by Mail Votes" votes="87">
+                <Precinct name="Douglas" votes="87" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2388">
+                <Precinct name="Douglas" votes="2388" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="892">
+                <Precinct name="Douglas" votes="892" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="33" text="County Commission, Chair (Special)" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="317">
+            <Precinct name="Douglas" votes="317" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="40" text="Shane Taylor (Rep)" totalVotes="3397">
+            <VoteType name="Absentee by Mail Votes" votes="88">
+                <Precinct name="Douglas" votes="88" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2411">
+                <Precinct name="Douglas" votes="2411" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="898">
+                <Precinct name="Douglas" votes="898" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="35" text="County Commission, District 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="87">
+            <Precinct name="Douglas" votes="87" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Lonann L. Sweat (I) (Rep)" totalVotes="694">
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Douglas" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="490">
+                <Precinct name="Douglas" votes="490" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="191">
+                <Precinct name="Douglas" votes="191" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="County Commission, District 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="35">
+            <Precinct name="Douglas" votes="35" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Corey A. Tyre (Rep)" totalVotes="771">
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Douglas" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="567">
+                <Precinct name="Douglas" votes="567" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="192">
+                <Precinct name="Douglas" votes="192" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="County Commission, District 6" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="56">
+            <Precinct name="Douglas" votes="56" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="43" text="Sammy Boatright (Rep)" totalVotes="861">
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Douglas" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="630">
+                <Precinct name="Douglas" votes="630" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="218">
+                <Precinct name="Douglas" votes="218" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="Altamaha Soil and Water District Supervisor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="581">
+            <Precinct name="Douglas" votes="581" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="52" text="Andrew &quot;&quot;Andy&quot;&quot; Douglas" totalVotes="3158">
+            <VoteType name="Absentee by Mail Votes" votes="80">
+                <Precinct name="Douglas" votes="80" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2234">
+                <Precinct name="Douglas" votes="2234" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="844">
+                <Precinct name="Douglas" votes="844" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43" text="Constitutional Amendment #1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="274">
+            <Precinct name="Douglas" votes="274" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="1">
+            <Precinct name="Douglas" votes="1" />
+        </VoteType>
+        <Choice key="44" text="Yes" totalVotes="2978">
+            <VoteType name="Absentee by Mail Votes" votes="83">
+                <Precinct name="Douglas" votes="83" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2116">
+                <Precinct name="Douglas" votes="2116" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="779">
+                <Precinct name="Douglas" votes="779" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="45" text="No" totalVotes="486">
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Douglas" votes="26" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="326">
+                <Precinct name="Douglas" votes="326" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="134">
+                <Precinct name="Douglas" votes="134" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="45" text="Constitutional Amendment #2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="231">
+            <Precinct name="Douglas" votes="231" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Yes" totalVotes="3125">
+            <VoteType name="Absentee by Mail Votes" votes="100">
+                <Precinct name="Douglas" votes="100" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2182">
+                <Precinct name="Douglas" votes="2182" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="843">
+                <Precinct name="Douglas" votes="843" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="47" text="No" totalVotes="383">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Douglas" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="286">
+                <Precinct name="Douglas" votes="286" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="86">
+                <Precinct name="Douglas" votes="86" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="49" text="Statewide Referendum A" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="267">
+            <Precinct name="Douglas" votes="267" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="50" text="Yes" totalVotes="2279">
+            <VoteType name="Absentee by Mail Votes" votes="62">
+                <Precinct name="Douglas" votes="62" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1569">
+                <Precinct name="Douglas" votes="1569" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="648">
+                <Precinct name="Douglas" votes="648" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="51" text="No" totalVotes="1193">
+            <VoteType name="Absentee by Mail Votes" votes="45">
+                <Precinct name="Douglas" votes="45" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="883">
+                <Precinct name="Douglas" votes="883" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="265">
+                <Precinct name="Douglas" votes="265" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="47" text="Statewide Referendum B" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="281">
+            <Precinct name="Douglas" votes="281" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Yes" totalVotes="2652">
+            <VoteType name="Absentee by Mail Votes" votes="80">
+                <Precinct name="Douglas" votes="80" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1844">
+                <Precinct name="Douglas" votes="1844" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="728">
+                <Precinct name="Douglas" votes="728" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="No" totalVotes="806">
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Douglas" votes="26" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="599">
+                <Precinct name="Douglas" votes="599" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="181">
+                <Precinct name="Douglas" votes="181" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 12:09:50 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Putnam</Region>
+    <VoterTurnout totalVoters="16001" ballotsCast="9299" voterTurnout="58.12">
+        <Precincts>
+            <Precinct name="101" totalVoters="3156" ballotsCast="1638" voterTurnout="51.90" percentReporting="4" />
+            <Precinct name="104" totalVoters="3455" ballotsCast="1808" voterTurnout="52.33" percentReporting="4" />
+            <Precinct name="105" totalVoters="3773" ballotsCast="2497" voterTurnout="66.18" percentReporting="4" />
+            <Precinct name="106" totalVoters="1384" ballotsCast="880" voterTurnout="63.58" percentReporting="4" />
+            <Precinct name="107" totalVoters="4230" ballotsCast="2476" voterTurnout="58.53" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="101" votes="1" />
+            <Precinct name="104" votes="4" />
+            <Precinct name="105" votes="2" />
+            <Precinct name="106" votes="0" />
+            <Precinct name="107" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="101" votes="0" />
+            <Precinct name="104" votes="0" />
+            <Precinct name="105" votes="0" />
+            <Precinct name="106" votes="0" />
+            <Precinct name="107" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="6594">
+            <VoteType name="Absentee by Mail Votes" votes="318">
+                <Precinct name="101" votes="42" />
+                <Precinct name="104" votes="58" />
+                <Precinct name="105" votes="87" />
+                <Precinct name="106" votes="21" />
+                <Precinct name="107" votes="110" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3050">
+                <Precinct name="101" votes="459" />
+                <Precinct name="104" votes="458" />
+                <Precinct name="105" votes="1005" />
+                <Precinct name="106" votes="259" />
+                <Precinct name="107" votes="869" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3226">
+                <Precinct name="101" votes="391" />
+                <Precinct name="104" votes="429" />
+                <Precinct name="105" votes="963" />
+                <Precinct name="106" votes="458" />
+                <Precinct name="107" votes="985" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="101" votes="0" />
+                <Precinct name="104" votes="0" />
+                <Precinct name="105" votes="0" />
+                <Precinct name="106" votes="0" />
+                <Precinct name="107" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="2696">
+            <VoteType name="Absentee by Mail Votes" votes="322">
+                <Precinct name="101" votes="78" />
+                <Precinct name="104" votes="85" />
+                <Precinct name="105" votes="72" />
+                <Precinct name="106" votes="16" />
+                <Precinct name="107" votes="71" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1335">
+                <Precinct name="101" votes="388" />
+                <Precinct name="104" votes="435" />
+                <Precinct name="105" votes="192" />
+                <Precinct name="106" votes="52" />
+                <Precinct name="107" votes="268" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1039">
+                <Precinct name="101" votes="279" />
+                <Precinct name="104" votes="339" />
+                <Precinct name="105" votes="176" />
+                <Precinct name="106" votes="74" />
+                <Precinct name="107" votes="171" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="101" votes="0" />
+                <Precinct name="104" votes="0" />
+                <Precinct name="105" votes="0" />
+                <Precinct name="106" votes="0" />
+                <Precinct name="107" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

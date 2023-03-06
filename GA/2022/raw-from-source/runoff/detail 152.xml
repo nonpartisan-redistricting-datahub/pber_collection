@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 4:01:19 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Macon</Region>
+    <VoterTurnout totalVoters="6915" ballotsCast="3550" voterTurnout="51.34">
+        <Precincts>
+            <Precinct name="Ideal" totalVoters="1475" ballotsCast="728" voterTurnout="49.36" percentReporting="4" />
+            <Precinct name="Oglethorpe" totalVoters="1399" ballotsCast="648" voterTurnout="46.32" percentReporting="4" />
+            <Precinct name="Marshallville" totalVoters="1435" ballotsCast="735" voterTurnout="51.22" percentReporting="4" />
+            <Precinct name="Montezuma #4" totalVoters="1659" ballotsCast="790" voterTurnout="47.62" percentReporting="4" />
+            <Precinct name="Montezuma #5" totalVoters="1423" ballotsCast="649" voterTurnout="45.61" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="3" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Ideal" votes="0" />
+            <Precinct name="Oglethorpe" votes="1" />
+            <Precinct name="Marshallville" votes="0" />
+            <Precinct name="Montezuma #4" votes="2" />
+            <Precinct name="Montezuma #5" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ideal" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Marshallville" votes="0" />
+            <Precinct name="Montezuma #4" votes="0" />
+            <Precinct name="Montezuma #5" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Herschel Junior Walker (Rep)" totalVotes="1361">
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Ideal" votes="7" />
+                <Precinct name="Oglethorpe" votes="7" />
+                <Precinct name="Marshallville" votes="5" />
+                <Precinct name="Montezuma #4" votes="10" />
+                <Precinct name="Montezuma #5" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="777">
+                <Precinct name="Ideal" votes="221" />
+                <Precinct name="Oglethorpe" votes="171" />
+                <Precinct name="Marshallville" votes="127" />
+                <Precinct name="Montezuma #4" votes="173" />
+                <Precinct name="Montezuma #5" votes="85" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="552">
+                <Precinct name="Ideal" votes="181" />
+                <Precinct name="Oglethorpe" votes="79" />
+                <Precinct name="Marshallville" votes="162" />
+                <Precinct name="Montezuma #4" votes="80" />
+                <Precinct name="Montezuma #5" votes="50" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ideal" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Marshallville" votes="0" />
+                <Precinct name="Montezuma #4" votes="0" />
+                <Precinct name="Montezuma #5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Raphael Warnock (I) (Dem)" totalVotes="2185">
+            <VoteType name="Absentee by Mail Votes" votes="182">
+                <Precinct name="Ideal" votes="22" />
+                <Precinct name="Oglethorpe" votes="34" />
+                <Precinct name="Marshallville" votes="35" />
+                <Precinct name="Montezuma #4" votes="41" />
+                <Precinct name="Montezuma #5" votes="50" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1215">
+                <Precinct name="Ideal" votes="205" />
+                <Precinct name="Oglethorpe" votes="269" />
+                <Precinct name="Marshallville" votes="134" />
+                <Precinct name="Montezuma #4" votes="325" />
+                <Precinct name="Montezuma #5" votes="282" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="788">
+                <Precinct name="Ideal" votes="92" />
+                <Precinct name="Oglethorpe" votes="87" />
+                <Precinct name="Marshallville" votes="272" />
+                <Precinct name="Montezuma #4" votes="159" />
+                <Precinct name="Montezuma #5" votes="178" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ideal" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Marshallville" votes="0" />
+                <Precinct name="Montezuma #4" votes="0" />
+                <Precinct name="Montezuma #5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

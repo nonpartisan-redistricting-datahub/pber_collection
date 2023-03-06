@@ -1,0 +1,2233 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/15/2022 3:31:10 PM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Tattnall</Region>
+    <VoterTurnout totalVoters="11178" ballotsCast="6550" voterTurnout="58.60">
+        <Precincts>
+            <Precinct name="Cobbtown" totalVoters="707" ballotsCast="420" voterTurnout="59.41" percentReporting="4" />
+            <Precinct name="Collins" totalVoters="1371" ballotsCast="857" voterTurnout="62.51" percentReporting="4" />
+            <Precinct name="District II" totalVoters="2096" ballotsCast="1190" voterTurnout="56.77" percentReporting="4" />
+            <Precinct name="District IV" totalVoters="2420" ballotsCast="1466" voterTurnout="60.58" percentReporting="4" />
+            <Precinct name="District V" totalVoters="962" ballotsCast="622" voterTurnout="64.66" percentReporting="4" />
+            <Precinct name="East Glennville" totalVoters="2226" ballotsCast="1372" voterTurnout="61.64" percentReporting="4" />
+            <Precinct name="Manassas" totalVoters="374" ballotsCast="244" voterTurnout="65.24" percentReporting="4" />
+            <Precinct name="Shiloh" totalVoters="959" ballotsCast="379" voterTurnout="39.52" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="45">
+            <Precinct name="Cobbtown" votes="1" />
+            <Precinct name="Collins" votes="10" />
+            <Precinct name="District II" votes="6" />
+            <Precinct name="District IV" votes="9" />
+            <Precinct name="District V" votes="2" />
+            <Precinct name="East Glennville" votes="9" />
+            <Precinct name="Manassas" votes="4" />
+            <Precinct name="Shiloh" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="4866">
+            <VoteType name="Absentee by Mail Votes" votes="142">
+                <Precinct name="Cobbtown" votes="12" />
+                <Precinct name="Collins" votes="18" />
+                <Precinct name="District II" votes="11" />
+                <Precinct name="District IV" votes="31" />
+                <Precinct name="District V" votes="11" />
+                <Precinct name="East Glennville" votes="49" />
+                <Precinct name="Manassas" votes="5" />
+                <Precinct name="Shiloh" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2670">
+                <Precinct name="Cobbtown" votes="113" />
+                <Precinct name="Collins" votes="333" />
+                <Precinct name="District II" votes="522" />
+                <Precinct name="District IV" votes="626" />
+                <Precinct name="District V" votes="223" />
+                <Precinct name="East Glennville" votes="623" />
+                <Precinct name="Manassas" votes="68" />
+                <Precinct name="Shiloh" votes="162" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2053">
+                <Precinct name="Cobbtown" votes="211" />
+                <Precinct name="Collins" votes="293" />
+                <Precinct name="District II" votes="236" />
+                <Precinct name="District IV" votes="392" />
+                <Precinct name="District V" votes="314" />
+                <Precinct name="East Glennville" votes="412" />
+                <Precinct name="Manassas" votes="102" />
+                <Precinct name="Shiloh" votes="93" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1525">
+            <VoteType name="Absentee by Mail Votes" votes="134">
+                <Precinct name="Cobbtown" votes="9" />
+                <Precinct name="Collins" votes="14" />
+                <Precinct name="District II" votes="23" />
+                <Precinct name="District IV" votes="41" />
+                <Precinct name="District V" votes="3" />
+                <Precinct name="East Glennville" votes="35" />
+                <Precinct name="Manassas" votes="3" />
+                <Precinct name="Shiloh" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="896">
+                <Precinct name="Cobbtown" votes="35" />
+                <Precinct name="Collins" votes="114" />
+                <Precinct name="District II" votes="273" />
+                <Precinct name="District IV" votes="205" />
+                <Precinct name="District V" votes="41" />
+                <Precinct name="East Glennville" votes="127" />
+                <Precinct name="Manassas" votes="30" />
+                <Precinct name="Shiloh" votes="71" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="495">
+                <Precinct name="Cobbtown" votes="31" />
+                <Precinct name="Collins" votes="58" />
+                <Precinct name="District II" votes="96" />
+                <Precinct name="District IV" votes="144" />
+                <Precinct name="District V" votes="20" />
+                <Precinct name="East Glennville" votes="87" />
+                <Precinct name="Manassas" votes="28" />
+                <Precinct name="Shiloh" votes="31" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Chase Oliver (Lib)" totalVotes="109">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Cobbtown" votes="1" />
+                <Precinct name="Collins" votes="4" />
+                <Precinct name="District II" votes="2" />
+                <Precinct name="District IV" votes="1" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="3" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="39">
+                <Precinct name="Cobbtown" votes="2" />
+                <Precinct name="Collins" votes="3" />
+                <Precinct name="District II" votes="12" />
+                <Precinct name="District IV" votes="8" />
+                <Precinct name="District V" votes="3" />
+                <Precinct name="East Glennville" votes="7" />
+                <Precinct name="Manassas" votes="2" />
+                <Precinct name="Shiloh" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="59">
+                <Precinct name="Cobbtown" votes="5" />
+                <Precinct name="Collins" votes="9" />
+                <Precinct name="District II" votes="7" />
+                <Precinct name="District IV" votes="9" />
+                <Precinct name="District V" votes="4" />
+                <Precinct name="East Glennville" votes="18" />
+                <Precinct name="Manassas" votes="2" />
+                <Precinct name="Shiloh" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="20">
+            <Precinct name="Cobbtown" votes="1" />
+            <Precinct name="Collins" votes="5" />
+            <Precinct name="District II" votes="2" />
+            <Precinct name="District IV" votes="6" />
+            <Precinct name="District V" votes="4" />
+            <Precinct name="East Glennville" votes="2" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="4" text="Brian Kemp (I) (Rep)" totalVotes="5123">
+            <VoteType name="Absentee by Mail Votes" votes="160">
+                <Precinct name="Cobbtown" votes="13" />
+                <Precinct name="Collins" votes="21" />
+                <Precinct name="District II" votes="13" />
+                <Precinct name="District IV" votes="34" />
+                <Precinct name="District V" votes="12" />
+                <Precinct name="East Glennville" votes="57" />
+                <Precinct name="Manassas" votes="5" />
+                <Precinct name="Shiloh" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2809">
+                <Precinct name="Cobbtown" votes="122" />
+                <Precinct name="Collins" votes="352" />
+                <Precinct name="District II" votes="557" />
+                <Precinct name="District IV" votes="649" />
+                <Precinct name="District V" votes="234" />
+                <Precinct name="East Glennville" votes="648" />
+                <Precinct name="Manassas" votes="74" />
+                <Precinct name="Shiloh" votes="173" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2153">
+                <Precinct name="Cobbtown" votes="218" />
+                <Precinct name="Collins" votes="308" />
+                <Precinct name="District II" votes="252" />
+                <Precinct name="District IV" votes="413" />
+                <Precinct name="District V" votes="322" />
+                <Precinct name="East Glennville" votes="435" />
+                <Precinct name="Manassas" votes="106" />
+                <Precinct name="Shiloh" votes="99" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Stacey Abrams (Dem)" totalVotes="1359">
+            <VoteType name="Absentee by Mail Votes" votes="126">
+                <Precinct name="Cobbtown" votes="9" />
+                <Precinct name="Collins" votes="14" />
+                <Precinct name="District II" votes="22" />
+                <Precinct name="District IV" votes="41" />
+                <Precinct name="District V" votes="2" />
+                <Precinct name="East Glennville" votes="29" />
+                <Precinct name="Manassas" votes="3" />
+                <Precinct name="Shiloh" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="799">
+                <Precinct name="Cobbtown" votes="26" />
+                <Precinct name="Collins" votes="99" />
+                <Precinct name="District II" votes="250" />
+                <Precinct name="District IV" votes="187" />
+                <Precinct name="District V" votes="31" />
+                <Precinct name="East Glennville" votes="112" />
+                <Precinct name="Manassas" votes="29" />
+                <Precinct name="Shiloh" votes="65" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="434">
+                <Precinct name="Cobbtown" votes="26" />
+                <Precinct name="Collins" votes="50" />
+                <Precinct name="District II" votes="87" />
+                <Precinct name="District IV" votes="128" />
+                <Precinct name="District V" votes="14" />
+                <Precinct name="East Glennville" votes="76" />
+                <Precinct name="Manassas" votes="25" />
+                <Precinct name="Shiloh" votes="28" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Shane Hazel (Lib)" totalVotes="45">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="1" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="2" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15">
+                <Precinct name="Cobbtown" votes="1" />
+                <Precinct name="Collins" votes="3" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="3" />
+                <Precinct name="District V" votes="1" />
+                <Precinct name="East Glennville" votes="5" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="Cobbtown" votes="4" />
+                <Precinct name="Collins" votes="2" />
+                <Precinct name="District II" votes="4" />
+                <Precinct name="District IV" votes="4" />
+                <Precinct name="District V" votes="2" />
+                <Precinct name="East Glennville" votes="6" />
+                <Precinct name="Manassas" votes="2" />
+                <Precinct name="Shiloh" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="149">
+            <Precinct name="Cobbtown" votes="6" />
+            <Precinct name="Collins" votes="11" />
+            <Precinct name="District II" votes="40" />
+            <Precinct name="District IV" votes="38" />
+            <Precinct name="District V" votes="11" />
+            <Precinct name="East Glennville" votes="30" />
+            <Precinct name="Manassas" votes="5" />
+            <Precinct name="Shiloh" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Burt Jones (Rep)" totalVotes="4966">
+            <VoteType name="Absentee by Mail Votes" votes="155">
+                <Precinct name="Cobbtown" votes="12" />
+                <Precinct name="Collins" votes="21" />
+                <Precinct name="District II" votes="13" />
+                <Precinct name="District IV" votes="34" />
+                <Precinct name="District V" votes="11" />
+                <Precinct name="East Glennville" votes="54" />
+                <Precinct name="Manassas" votes="5" />
+                <Precinct name="Shiloh" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2722">
+                <Precinct name="Cobbtown" votes="113" />
+                <Precinct name="Collins" votes="340" />
+                <Precinct name="District II" votes="535" />
+                <Precinct name="District IV" votes="639" />
+                <Precinct name="District V" votes="231" />
+                <Precinct name="East Glennville" votes="630" />
+                <Precinct name="Manassas" votes="73" />
+                <Precinct name="Shiloh" votes="161" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2088">
+                <Precinct name="Cobbtown" votes="216" />
+                <Precinct name="Collins" votes="303" />
+                <Precinct name="District II" votes="240" />
+                <Precinct name="District IV" votes="398" />
+                <Precinct name="District V" votes="314" />
+                <Precinct name="East Glennville" votes="418" />
+                <Precinct name="Manassas" votes="103" />
+                <Precinct name="Shiloh" votes="96" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Charlie Bailey (Dem)" totalVotes="1331">
+            <VoteType name="Absentee by Mail Votes" votes="128">
+                <Precinct name="Cobbtown" votes="9" />
+                <Precinct name="Collins" votes="14" />
+                <Precinct name="District II" votes="23" />
+                <Precinct name="District IV" votes="40" />
+                <Precinct name="District V" votes="3" />
+                <Precinct name="East Glennville" votes="30" />
+                <Precinct name="Manassas" votes="3" />
+                <Precinct name="Shiloh" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="780">
+                <Precinct name="Cobbtown" votes="31" />
+                <Precinct name="Collins" votes="105" />
+                <Precinct name="District II" votes="239" />
+                <Precinct name="District IV" votes="171" />
+                <Precinct name="District V" votes="29" />
+                <Precinct name="East Glennville" votes="115" />
+                <Precinct name="Manassas" votes="25" />
+                <Precinct name="Shiloh" votes="65" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="423">
+                <Precinct name="Cobbtown" votes="28" />
+                <Precinct name="Collins" votes="47" />
+                <Precinct name="District II" votes="83" />
+                <Precinct name="District IV" votes="120" />
+                <Precinct name="District V" votes="14" />
+                <Precinct name="East Glennville" votes="72" />
+                <Precinct name="Manassas" votes="27" />
+                <Precinct name="Shiloh" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="9" text="Ryan Graham (Lib)" totalVotes="102">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Cobbtown" votes="1" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="3" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="42">
+                <Precinct name="Cobbtown" votes="1" />
+                <Precinct name="Collins" votes="6" />
+                <Precinct name="District II" votes="8" />
+                <Precinct name="District IV" votes="11" />
+                <Precinct name="District V" votes="2" />
+                <Precinct name="East Glennville" votes="6" />
+                <Precinct name="Manassas" votes="2" />
+                <Precinct name="Shiloh" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="56">
+                <Precinct name="Cobbtown" votes="3" />
+                <Precinct name="Collins" votes="10" />
+                <Precinct name="District II" votes="6" />
+                <Precinct name="District IV" votes="15" />
+                <Precinct name="District V" votes="7" />
+                <Precinct name="East Glennville" votes="14" />
+                <Precinct name="Manassas" votes="1" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="167">
+            <Precinct name="Cobbtown" votes="8" />
+            <Precinct name="Collins" votes="21" />
+            <Precinct name="District II" votes="36" />
+            <Precinct name="District IV" votes="39" />
+            <Precinct name="District V" votes="16" />
+            <Precinct name="East Glennville" votes="32" />
+            <Precinct name="Manassas" votes="5" />
+            <Precinct name="Shiloh" votes="10" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="10" text="Brad Raffensperger (I) (Rep)" totalVotes="4963">
+            <VoteType name="Absentee by Mail Votes" votes="163">
+                <Precinct name="Cobbtown" votes="11" />
+                <Precinct name="Collins" votes="23" />
+                <Precinct name="District II" votes="15" />
+                <Precinct name="District IV" votes="36" />
+                <Precinct name="District V" votes="12" />
+                <Precinct name="East Glennville" votes="55" />
+                <Precinct name="Manassas" votes="6" />
+                <Precinct name="Shiloh" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2718">
+                <Precinct name="Cobbtown" votes="114" />
+                <Precinct name="Collins" votes="334" />
+                <Precinct name="District II" votes="546" />
+                <Precinct name="District IV" votes="638" />
+                <Precinct name="District V" votes="225" />
+                <Precinct name="East Glennville" votes="634" />
+                <Precinct name="Manassas" votes="69" />
+                <Precinct name="Shiloh" votes="158" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2081">
+                <Precinct name="Cobbtown" votes="216" />
+                <Precinct name="Collins" votes="299" />
+                <Precinct name="District II" votes="242" />
+                <Precinct name="District IV" votes="404" />
+                <Precinct name="District V" votes="313" />
+                <Precinct name="East Glennville" votes="412" />
+                <Precinct name="Manassas" votes="103" />
+                <Precinct name="Shiloh" votes="92" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="Bee Nguyen (Dem)" totalVotes="1268">
+            <VoteType name="Absentee by Mail Votes" votes="120">
+                <Precinct name="Cobbtown" votes="10" />
+                <Precinct name="Collins" votes="10" />
+                <Precinct name="District II" votes="21" />
+                <Precinct name="District IV" votes="37" />
+                <Precinct name="District V" votes="2" />
+                <Precinct name="East Glennville" votes="32" />
+                <Precinct name="Manassas" votes="2" />
+                <Precinct name="Shiloh" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="734">
+                <Precinct name="Cobbtown" votes="26" />
+                <Precinct name="Collins" votes="97" />
+                <Precinct name="District II" votes="220" />
+                <Precinct name="District IV" votes="162" />
+                <Precinct name="District V" votes="31" />
+                <Precinct name="East Glennville" votes="105" />
+                <Precinct name="Manassas" votes="29" />
+                <Precinct name="Shiloh" votes="64" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="414">
+                <Precinct name="Cobbtown" votes="26" />
+                <Precinct name="Collins" votes="47" />
+                <Precinct name="District II" votes="84" />
+                <Precinct name="District IV" votes="115" />
+                <Precinct name="District V" votes="11" />
+                <Precinct name="East Glennville" votes="72" />
+                <Precinct name="Manassas" votes="27" />
+                <Precinct name="Shiloh" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Ted Metz (Lib)" totalVotes="146">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Cobbtown" votes="1" />
+                <Precinct name="Collins" votes="2" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="1" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="81">
+                <Precinct name="Cobbtown" votes="5" />
+                <Precinct name="Collins" votes="13" />
+                <Precinct name="District II" votes="17" />
+                <Precinct name="District IV" votes="22" />
+                <Precinct name="District V" votes="4" />
+                <Precinct name="East Glennville" votes="10" />
+                <Precinct name="Manassas" votes="2" />
+                <Precinct name="Shiloh" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="61">
+                <Precinct name="Cobbtown" votes="2" />
+                <Precinct name="Collins" votes="11" />
+                <Precinct name="District II" votes="7" />
+                <Precinct name="District IV" votes="12" />
+                <Precinct name="District V" votes="8" />
+                <Precinct name="East Glennville" votes="17" />
+                <Precinct name="Manassas" votes="1" />
+                <Precinct name="Shiloh" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="119">
+            <Precinct name="Cobbtown" votes="4" />
+            <Precinct name="Collins" votes="10" />
+            <Precinct name="District II" votes="27" />
+            <Precinct name="District IV" votes="33" />
+            <Precinct name="District V" votes="7" />
+            <Precinct name="East Glennville" votes="26" />
+            <Precinct name="Manassas" votes="4" />
+            <Precinct name="Shiloh" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="13" text="Chris Carr (I) (Rep)" totalVotes="4972">
+            <VoteType name="Absentee by Mail Votes" votes="154">
+                <Precinct name="Cobbtown" votes="13" />
+                <Precinct name="Collins" votes="21" />
+                <Precinct name="District II" votes="13" />
+                <Precinct name="District IV" votes="33" />
+                <Precinct name="District V" votes="12" />
+                <Precinct name="East Glennville" votes="53" />
+                <Precinct name="Manassas" votes="5" />
+                <Precinct name="Shiloh" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2721">
+                <Precinct name="Cobbtown" votes="116" />
+                <Precinct name="Collins" votes="337" />
+                <Precinct name="District II" votes="542" />
+                <Precinct name="District IV" votes="631" />
+                <Precinct name="District V" votes="232" />
+                <Precinct name="East Glennville" votes="627" />
+                <Precinct name="Manassas" votes="73" />
+                <Precinct name="Shiloh" votes="163" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2096">
+                <Precinct name="Cobbtown" votes="215" />
+                <Precinct name="Collins" votes="301" />
+                <Precinct name="District II" votes="239" />
+                <Precinct name="District IV" votes="405" />
+                <Precinct name="District V" votes="319" />
+                <Precinct name="East Glennville" votes="418" />
+                <Precinct name="Manassas" votes="103" />
+                <Precinct name="Shiloh" votes="96" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="14" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="1390">
+            <VoteType name="Absentee by Mail Votes" votes="131">
+                <Precinct name="Cobbtown" votes="9" />
+                <Precinct name="Collins" votes="14" />
+                <Precinct name="District II" votes="23" />
+                <Precinct name="District IV" votes="41" />
+                <Precinct name="District V" votes="2" />
+                <Precinct name="East Glennville" votes="32" />
+                <Precinct name="Manassas" votes="3" />
+                <Precinct name="Shiloh" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="810">
+                <Precinct name="Cobbtown" votes="31" />
+                <Precinct name="Collins" votes="111" />
+                <Precinct name="District II" votes="243" />
+                <Precinct name="District IV" votes="180" />
+                <Precinct name="District V" votes="32" />
+                <Precinct name="East Glennville" votes="119" />
+                <Precinct name="Manassas" votes="27" />
+                <Precinct name="Shiloh" votes="67" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="449">
+                <Precinct name="Cobbtown" votes="29" />
+                <Precinct name="Collins" votes="52" />
+                <Precinct name="District II" votes="92" />
+                <Precinct name="District IV" votes="127" />
+                <Precinct name="District V" votes="14" />
+                <Precinct name="East Glennville" votes="78" />
+                <Precinct name="Manassas" votes="27" />
+                <Precinct name="Shiloh" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="15" text="Martin Cowen (Lib)" totalVotes="67">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="2" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="30">
+                <Precinct name="Cobbtown" votes="1" />
+                <Precinct name="Collins" votes="5" />
+                <Precinct name="District II" votes="5" />
+                <Precinct name="District IV" votes="10" />
+                <Precinct name="District V" votes="1" />
+                <Precinct name="East Glennville" votes="6" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Cobbtown" votes="2" />
+                <Precinct name="Collins" votes="6" />
+                <Precinct name="District II" votes="4" />
+                <Precinct name="District IV" votes="6" />
+                <Precinct name="District V" votes="3" />
+                <Precinct name="East Glennville" votes="10" />
+                <Precinct name="Manassas" votes="2" />
+                <Precinct name="Shiloh" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Commissioner of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="138">
+            <Precinct name="Cobbtown" votes="6" />
+            <Precinct name="Collins" votes="15" />
+            <Precinct name="District II" votes="31" />
+            <Precinct name="District IV" votes="32" />
+            <Precinct name="District V" votes="7" />
+            <Precinct name="East Glennville" votes="33" />
+            <Precinct name="Manassas" votes="6" />
+            <Precinct name="Shiloh" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="16" text="Tyler Harper (Rep)" totalVotes="5020">
+            <VoteType name="Absentee by Mail Votes" votes="158">
+                <Precinct name="Cobbtown" votes="11" />
+                <Precinct name="Collins" votes="22" />
+                <Precinct name="District II" votes="14" />
+                <Precinct name="District IV" votes="34" />
+                <Precinct name="District V" votes="12" />
+                <Precinct name="East Glennville" votes="55" />
+                <Precinct name="Manassas" votes="5" />
+                <Precinct name="Shiloh" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2751">
+                <Precinct name="Cobbtown" votes="115" />
+                <Precinct name="Collins" votes="340" />
+                <Precinct name="District II" votes="545" />
+                <Precinct name="District IV" votes="646" />
+                <Precinct name="District V" votes="232" />
+                <Precinct name="East Glennville" votes="640" />
+                <Precinct name="Manassas" votes="71" />
+                <Precinct name="Shiloh" votes="162" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2110">
+                <Precinct name="Cobbtown" votes="217" />
+                <Precinct name="Collins" votes="305" />
+                <Precinct name="District II" votes="243" />
+                <Precinct name="District IV" votes="405" />
+                <Precinct name="District V" votes="320" />
+                <Precinct name="East Glennville" votes="421" />
+                <Precinct name="Manassas" votes="102" />
+                <Precinct name="Shiloh" votes="97" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Nakita Hemingway (Dem)" totalVotes="1294">
+            <VoteType name="Absentee by Mail Votes" votes="123">
+                <Precinct name="Cobbtown" votes="10" />
+                <Precinct name="Collins" votes="12" />
+                <Precinct name="District II" votes="22" />
+                <Precinct name="District IV" votes="40" />
+                <Precinct name="District V" votes="2" />
+                <Precinct name="East Glennville" votes="28" />
+                <Precinct name="Manassas" votes="3" />
+                <Precinct name="Shiloh" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="754">
+                <Precinct name="Cobbtown" votes="31" />
+                <Precinct name="Collins" votes="102" />
+                <Precinct name="District II" votes="233" />
+                <Precinct name="District IV" votes="167" />
+                <Precinct name="District V" votes="31" />
+                <Precinct name="East Glennville" votes="99" />
+                <Precinct name="Manassas" votes="26" />
+                <Precinct name="Shiloh" votes="65" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="417">
+                <Precinct name="Cobbtown" votes="23" />
+                <Precinct name="Collins" votes="47" />
+                <Precinct name="District II" votes="83" />
+                <Precinct name="District IV" votes="124" />
+                <Precinct name="District V" votes="13" />
+                <Precinct name="East Glennville" votes="70" />
+                <Precinct name="Manassas" votes="26" />
+                <Precinct name="Shiloh" votes="31" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="David Raudabaugh (Lib)" totalVotes="95">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="1" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="3" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="44">
+                <Precinct name="Cobbtown" votes="3" />
+                <Precinct name="Collins" votes="4" />
+                <Precinct name="District II" votes="11" />
+                <Precinct name="District IV" votes="8" />
+                <Precinct name="District V" votes="1" />
+                <Precinct name="East Glennville" votes="9" />
+                <Precinct name="Manassas" votes="3" />
+                <Precinct name="Shiloh" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="47">
+                <Precinct name="Cobbtown" votes="4" />
+                <Precinct name="Collins" votes="9" />
+                <Precinct name="District II" votes="5" />
+                <Precinct name="District IV" votes="10" />
+                <Precinct name="District V" votes="4" />
+                <Precinct name="East Glennville" votes="13" />
+                <Precinct name="Manassas" votes="2" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Commissioner of Insurance" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="146">
+            <Precinct name="Cobbtown" votes="4" />
+            <Precinct name="Collins" votes="13" />
+            <Precinct name="District II" votes="38" />
+            <Precinct name="District IV" votes="39" />
+            <Precinct name="District V" votes="7" />
+            <Precinct name="East Glennville" votes="32" />
+            <Precinct name="Manassas" votes="5" />
+            <Precinct name="Shiloh" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="19" text="John King (I) (Rep)" totalVotes="5064">
+            <VoteType name="Absentee by Mail Votes" votes="157">
+                <Precinct name="Cobbtown" votes="14" />
+                <Precinct name="Collins" votes="21" />
+                <Precinct name="District II" votes="13" />
+                <Precinct name="District IV" votes="31" />
+                <Precinct name="District V" votes="12" />
+                <Precinct name="East Glennville" votes="56" />
+                <Precinct name="Manassas" votes="5" />
+                <Precinct name="Shiloh" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2774">
+                <Precinct name="Cobbtown" votes="119" />
+                <Precinct name="Collins" votes="345" />
+                <Precinct name="District II" votes="554" />
+                <Precinct name="District IV" votes="647" />
+                <Precinct name="District V" votes="231" />
+                <Precinct name="East Glennville" votes="640" />
+                <Precinct name="Manassas" votes="73" />
+                <Precinct name="Shiloh" votes="165" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2132">
+                <Precinct name="Cobbtown" votes="218" />
+                <Precinct name="Collins" votes="314" />
+                <Precinct name="District II" votes="244" />
+                <Precinct name="District IV" votes="406" />
+                <Precinct name="District V" votes="322" />
+                <Precinct name="East Glennville" votes="426" />
+                <Precinct name="Manassas" votes="106" />
+                <Precinct name="Shiloh" votes="96" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Janice Laws Robinson (Dem)" totalVotes="1339">
+            <VoteType name="Absentee by Mail Votes" votes="128">
+                <Precinct name="Cobbtown" votes="8" />
+                <Precinct name="Collins" votes="14" />
+                <Precinct name="District II" votes="23" />
+                <Precinct name="District IV" votes="41" />
+                <Precinct name="District V" votes="2" />
+                <Precinct name="East Glennville" votes="31" />
+                <Precinct name="Manassas" votes="3" />
+                <Precinct name="Shiloh" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="772">
+                <Precinct name="Cobbtown" votes="30" />
+                <Precinct name="Collins" votes="103" />
+                <Precinct name="District II" votes="232" />
+                <Precinct name="District IV" votes="172" />
+                <Precinct name="District V" votes="33" />
+                <Precinct name="East Glennville" votes="108" />
+                <Precinct name="Manassas" votes="27" />
+                <Precinct name="Shiloh" votes="67" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="439">
+                <Precinct name="Cobbtown" votes="27" />
+                <Precinct name="Collins" votes="47" />
+                <Precinct name="District II" votes="85" />
+                <Precinct name="District IV" votes="129" />
+                <Precinct name="District V" votes="15" />
+                <Precinct name="East Glennville" votes="79" />
+                <Precinct name="Manassas" votes="25" />
+                <Precinct name="Shiloh" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="142">
+            <Precinct name="Cobbtown" votes="8" />
+            <Precinct name="Collins" votes="14" />
+            <Precinct name="District II" votes="32" />
+            <Precinct name="District IV" votes="35" />
+            <Precinct name="District V" votes="8" />
+            <Precinct name="East Glennville" votes="29" />
+            <Precinct name="Manassas" votes="5" />
+            <Precinct name="Shiloh" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="21" text="Richard Woods (I) (Rep)" totalVotes="5051">
+            <VoteType name="Absentee by Mail Votes" votes="157">
+                <Precinct name="Cobbtown" votes="14" />
+                <Precinct name="Collins" votes="21" />
+                <Precinct name="District II" votes="14" />
+                <Precinct name="District IV" votes="34" />
+                <Precinct name="District V" votes="11" />
+                <Precinct name="East Glennville" votes="54" />
+                <Precinct name="Manassas" votes="5" />
+                <Precinct name="Shiloh" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2766">
+                <Precinct name="Cobbtown" votes="117" />
+                <Precinct name="Collins" votes="344" />
+                <Precinct name="District II" votes="548" />
+                <Precinct name="District IV" votes="647" />
+                <Precinct name="District V" votes="233" />
+                <Precinct name="East Glennville" votes="641" />
+                <Precinct name="Manassas" votes="72" />
+                <Precinct name="Shiloh" votes="164" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2127">
+                <Precinct name="Cobbtown" votes="218" />
+                <Precinct name="Collins" votes="308" />
+                <Precinct name="District II" votes="247" />
+                <Precinct name="District IV" votes="408" />
+                <Precinct name="District V" votes="322" />
+                <Precinct name="East Glennville" votes="426" />
+                <Precinct name="Manassas" votes="104" />
+                <Precinct name="Shiloh" votes="94" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Alisha Thomas Searcy (Dem)" totalVotes="1355">
+            <VoteType name="Absentee by Mail Votes" votes="129">
+                <Precinct name="Cobbtown" votes="8" />
+                <Precinct name="Collins" votes="14" />
+                <Precinct name="District II" votes="22" />
+                <Precinct name="District IV" votes="40" />
+                <Precinct name="District V" votes="3" />
+                <Precinct name="East Glennville" votes="32" />
+                <Precinct name="Manassas" votes="3" />
+                <Precinct name="Shiloh" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="783">
+                <Precinct name="Cobbtown" votes="31" />
+                <Precinct name="Collins" votes="105" />
+                <Precinct name="District II" votes="240" />
+                <Precinct name="District IV" votes="173" />
+                <Precinct name="District V" votes="31" />
+                <Precinct name="East Glennville" votes="110" />
+                <Precinct name="Manassas" votes="28" />
+                <Precinct name="Shiloh" votes="65" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="443">
+                <Precinct name="Cobbtown" votes="23" />
+                <Precinct name="Collins" votes="51" />
+                <Precinct name="District II" votes="86" />
+                <Precinct name="District IV" votes="129" />
+                <Precinct name="District V" votes="14" />
+                <Precinct name="East Glennville" votes="79" />
+                <Precinct name="Manassas" votes="27" />
+                <Precinct name="Shiloh" votes="34" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner of Labor" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="137">
+            <Precinct name="Cobbtown" votes="5" />
+            <Precinct name="Collins" votes="14" />
+            <Precinct name="District II" votes="28" />
+            <Precinct name="District IV" votes="35" />
+            <Precinct name="District V" votes="9" />
+            <Precinct name="East Glennville" votes="34" />
+            <Precinct name="Manassas" votes="5" />
+            <Precinct name="Shiloh" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="23" text="Bruce Thompson (Rep)" totalVotes="4985">
+            <VoteType name="Absentee by Mail Votes" votes="158">
+                <Precinct name="Cobbtown" votes="12" />
+                <Precinct name="Collins" votes="20" />
+                <Precinct name="District II" votes="13" />
+                <Precinct name="District IV" votes="34" />
+                <Precinct name="District V" votes="12" />
+                <Precinct name="East Glennville" votes="57" />
+                <Precinct name="Manassas" votes="5" />
+                <Precinct name="Shiloh" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2732">
+                <Precinct name="Cobbtown" votes="116" />
+                <Precinct name="Collins" votes="340" />
+                <Precinct name="District II" votes="538" />
+                <Precinct name="District IV" votes="640" />
+                <Precinct name="District V" votes="231" />
+                <Precinct name="East Glennville" votes="630" />
+                <Precinct name="Manassas" votes="72" />
+                <Precinct name="Shiloh" votes="165" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2094">
+                <Precinct name="Cobbtown" votes="214" />
+                <Precinct name="Collins" votes="302" />
+                <Precinct name="District II" votes="242" />
+                <Precinct name="District IV" votes="398" />
+                <Precinct name="District V" votes="319" />
+                <Precinct name="East Glennville" votes="420" />
+                <Precinct name="Manassas" votes="103" />
+                <Precinct name="Shiloh" votes="96" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="1320">
+            <VoteType name="Absentee by Mail Votes" votes="121">
+                <Precinct name="Cobbtown" votes="8" />
+                <Precinct name="Collins" votes="13" />
+                <Precinct name="District II" votes="23" />
+                <Precinct name="District IV" votes="40" />
+                <Precinct name="District V" votes="2" />
+                <Precinct name="East Glennville" votes="26" />
+                <Precinct name="Manassas" votes="3" />
+                <Precinct name="Shiloh" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="768">
+                <Precinct name="Cobbtown" votes="30" />
+                <Precinct name="Collins" votes="99" />
+                <Precinct name="District II" votes="242" />
+                <Precinct name="District IV" votes="168" />
+                <Precinct name="District V" votes="32" />
+                <Precinct name="East Glennville" votes="107" />
+                <Precinct name="Manassas" votes="28" />
+                <Precinct name="Shiloh" votes="62" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="431">
+                <Precinct name="Cobbtown" votes="26" />
+                <Precinct name="Collins" votes="52" />
+                <Precinct name="District II" votes="85" />
+                <Precinct name="District IV" votes="126" />
+                <Precinct name="District V" votes="13" />
+                <Precinct name="East Glennville" votes="72" />
+                <Precinct name="Manassas" votes="27" />
+                <Precinct name="Shiloh" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Emily Anderson (Lib)" totalVotes="106">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Cobbtown" votes="1" />
+                <Precinct name="Collins" votes="2" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="3" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="53">
+                <Precinct name="Cobbtown" votes="4" />
+                <Precinct name="Collins" votes="9" />
+                <Precinct name="District II" votes="10" />
+                <Precinct name="District IV" votes="13" />
+                <Precinct name="District V" votes="1" />
+                <Precinct name="East Glennville" votes="10" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="47">
+                <Precinct name="Cobbtown" votes="4" />
+                <Precinct name="Collins" votes="6" />
+                <Precinct name="District II" votes="7" />
+                <Precinct name="District IV" votes="11" />
+                <Precinct name="District V" votes="3" />
+                <Precinct name="East Glennville" votes="13" />
+                <Precinct name="Manassas" votes="1" />
+                <Precinct name="Shiloh" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="US House of Representatives - District 12" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="120">
+            <Precinct name="Cobbtown" votes="4" />
+            <Precinct name="Collins" votes="9" />
+            <Precinct name="District II" votes="28" />
+            <Precinct name="District IV" votes="31" />
+            <Precinct name="District V" votes="9" />
+            <Precinct name="East Glennville" votes="25" />
+            <Precinct name="Manassas" votes="4" />
+            <Precinct name="Shiloh" votes="10" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="26" text="Rick W. Allen (I) (Rep)" totalVotes="5061">
+            <VoteType name="Absentee by Mail Votes" votes="165">
+                <Precinct name="Cobbtown" votes="13" />
+                <Precinct name="Collins" votes="25" />
+                <Precinct name="District II" votes="13" />
+                <Precinct name="District IV" votes="34" />
+                <Precinct name="District V" votes="12" />
+                <Precinct name="East Glennville" votes="58" />
+                <Precinct name="Manassas" votes="5" />
+                <Precinct name="Shiloh" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2757">
+                <Precinct name="Cobbtown" votes="118" />
+                <Precinct name="Collins" votes="350" />
+                <Precinct name="District II" votes="544" />
+                <Precinct name="District IV" votes="646" />
+                <Precinct name="District V" votes="230" />
+                <Precinct name="East Glennville" votes="633" />
+                <Precinct name="Manassas" votes="73" />
+                <Precinct name="Shiloh" votes="163" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2138">
+                <Precinct name="Cobbtown" votes="216" />
+                <Precinct name="Collins" votes="311" />
+                <Precinct name="District II" votes="248" />
+                <Precinct name="District IV" votes="410" />
+                <Precinct name="District V" votes="321" />
+                <Precinct name="East Glennville" votes="429" />
+                <Precinct name="Manassas" votes="107" />
+                <Precinct name="Shiloh" votes="96" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Elizabeth 'Liz' Johnson (Dem)" totalVotes="1365">
+            <VoteType name="Absentee by Mail Votes" votes="124">
+                <Precinct name="Cobbtown" votes="9" />
+                <Precinct name="Collins" votes="11" />
+                <Precinct name="District II" votes="23" />
+                <Precinct name="District IV" votes="40" />
+                <Precinct name="District V" votes="2" />
+                <Precinct name="East Glennville" votes="30" />
+                <Precinct name="Manassas" votes="3" />
+                <Precinct name="Shiloh" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="795">
+                <Precinct name="Cobbtown" votes="31" />
+                <Precinct name="Collins" votes="102" />
+                <Precinct name="District II" votes="245" />
+                <Precinct name="District IV" votes="175" />
+                <Precinct name="District V" votes="33" />
+                <Precinct name="East Glennville" votes="116" />
+                <Precinct name="Manassas" votes="26" />
+                <Precinct name="Shiloh" votes="67" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="446">
+                <Precinct name="Cobbtown" votes="29" />
+                <Precinct name="Collins" votes="49" />
+                <Precinct name="District II" votes="88" />
+                <Precinct name="District IV" votes="127" />
+                <Precinct name="District V" votes="15" />
+                <Precinct name="East Glennville" votes="80" />
+                <Precinct name="Manassas" votes="26" />
+                <Precinct name="Shiloh" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="State Senate - District 19" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="156">
+            <Precinct name="Cobbtown" votes="6" />
+            <Precinct name="Collins" votes="17" />
+            <Precinct name="District II" votes="33" />
+            <Precinct name="District IV" votes="39" />
+            <Precinct name="District V" votes="11" />
+            <Precinct name="East Glennville" votes="35" />
+            <Precinct name="Manassas" votes="7" />
+            <Precinct name="Shiloh" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="28" text="Blake Tillery (I) (Rep)" totalVotes="5049">
+            <VoteType name="Absentee by Mail Votes" votes="155">
+                <Precinct name="Cobbtown" votes="12" />
+                <Precinct name="Collins" votes="22" />
+                <Precinct name="District II" votes="14" />
+                <Precinct name="District IV" votes="34" />
+                <Precinct name="District V" votes="12" />
+                <Precinct name="East Glennville" votes="52" />
+                <Precinct name="Manassas" votes="5" />
+                <Precinct name="Shiloh" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2766">
+                <Precinct name="Cobbtown" votes="120" />
+                <Precinct name="Collins" votes="351" />
+                <Precinct name="District II" votes="545" />
+                <Precinct name="District IV" votes="647" />
+                <Precinct name="District V" votes="230" />
+                <Precinct name="East Glennville" votes="634" />
+                <Precinct name="Manassas" votes="72" />
+                <Precinct name="Shiloh" votes="167" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2127">
+                <Precinct name="Cobbtown" votes="216" />
+                <Precinct name="Collins" votes="309" />
+                <Precinct name="District II" votes="247" />
+                <Precinct name="District IV" votes="404" />
+                <Precinct name="District V" votes="321" />
+                <Precinct name="East Glennville" votes="428" />
+                <Precinct name="Manassas" votes="106" />
+                <Precinct name="Shiloh" votes="96" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="Michael &quot;&quot;Buckle&quot;&quot; Moore (Dem)" totalVotes="1341">
+            <VoteType name="Absentee by Mail Votes" votes="125">
+                <Precinct name="Cobbtown" votes="10" />
+                <Precinct name="Collins" votes="12" />
+                <Precinct name="District II" votes="21" />
+                <Precinct name="District IV" votes="38" />
+                <Precinct name="District V" votes="2" />
+                <Precinct name="East Glennville" votes="32" />
+                <Precinct name="Manassas" votes="3" />
+                <Precinct name="Shiloh" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="776">
+                <Precinct name="Cobbtown" votes="29" />
+                <Precinct name="Collins" votes="96" />
+                <Precinct name="District II" votes="241" />
+                <Precinct name="District IV" votes="175" />
+                <Precinct name="District V" votes="32" />
+                <Precinct name="East Glennville" votes="111" />
+                <Precinct name="Manassas" votes="26" />
+                <Precinct name="Shiloh" votes="66" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="440">
+                <Precinct name="Cobbtown" votes="27" />
+                <Precinct name="Collins" votes="50" />
+                <Precinct name="District II" votes="87" />
+                <Precinct name="District IV" votes="128" />
+                <Precinct name="District V" votes="14" />
+                <Precinct name="East Glennville" votes="78" />
+                <Precinct name="Manassas" votes="25" />
+                <Precinct name="Shiloh" votes="31" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="State House - District 156" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Cobbtown" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+        </VoteType>
+        <Choice key="30" text="Leesa Hagan (I) (Rep)" totalVotes="350">
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Cobbtown" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="119">
+                <Precinct name="Cobbtown" votes="119" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="219">
+                <Precinct name="Cobbtown" votes="219" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="31" text="Lethia J. Kittrell (Dem)" totalVotes="63">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Cobbtown" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="31">
+                <Precinct name="Cobbtown" votes="31" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Cobbtown" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="State House - District 157" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="798">
+            <Precinct name="Collins" votes="114" />
+            <Precinct name="District II" votes="203" />
+            <Precinct name="District IV" votes="209" />
+            <Precinct name="District V" votes="41" />
+            <Precinct name="East Glennville" votes="143" />
+            <Precinct name="Manassas" votes="43" />
+            <Precinct name="Shiloh" votes="45" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="32" text="William &quot;&quot;Bill&quot;&quot; Werkheiser (I) (Rep)" totalVotes="5231">
+            <VoteType name="Absentee by Mail Votes" votes="188">
+                <Precinct name="Collins" votes="27" />
+                <Precinct name="District II" votes="18" />
+                <Precinct name="District IV" votes="51" />
+                <Precinct name="District V" votes="12" />
+                <Precinct name="East Glennville" votes="67" />
+                <Precinct name="Manassas" votes="6" />
+                <Precinct name="Shiloh" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2936">
+                <Precinct name="Collins" votes="374" />
+                <Precinct name="District II" votes="647" />
+                <Precinct name="District IV" votes="717" />
+                <Precinct name="District V" votes="235" />
+                <Precinct name="East Glennville" votes="686" />
+                <Precinct name="Manassas" votes="78" />
+                <Precinct name="Shiloh" votes="199" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2106">
+                <Precinct name="Collins" votes="333" />
+                <Precinct name="District II" votes="298" />
+                <Precinct name="District IV" votes="466" />
+                <Precinct name="District V" votes="324" />
+                <Precinct name="East Glennville" votes="456" />
+                <Precinct name="Manassas" votes="112" />
+                <Precinct name="Shiloh" votes="117" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="District Attorney - Atlantic Judicial Circuit" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="848">
+            <Precinct name="Cobbtown" votes="30" />
+            <Precinct name="Collins" votes="111" />
+            <Precinct name="District II" votes="203" />
+            <Precinct name="District IV" votes="224" />
+            <Precinct name="District V" votes="45" />
+            <Precinct name="East Glennville" votes="144" />
+            <Precinct name="Manassas" votes="39" />
+            <Precinct name="Shiloh" votes="52" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="33" text="Billy Joe Nelson, Jr. (Rep)" totalVotes="5626">
+            <VoteType name="Absentee by Mail Votes" votes="196">
+                <Precinct name="Cobbtown" votes="17" />
+                <Precinct name="Collins" votes="24" />
+                <Precinct name="District II" votes="17" />
+                <Precinct name="District IV" votes="46" />
+                <Precinct name="District V" votes="11" />
+                <Precinct name="East Glennville" votes="68" />
+                <Precinct name="Manassas" votes="6" />
+                <Precinct name="Shiloh" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3082">
+                <Precinct name="Cobbtown" votes="136" />
+                <Precinct name="Collins" votes="384" />
+                <Precinct name="District II" votes="651" />
+                <Precinct name="District IV" votes="708" />
+                <Precinct name="District V" votes="238" />
+                <Precinct name="East Glennville" votes="685" />
+                <Precinct name="Manassas" votes="82" />
+                <Precinct name="Shiloh" votes="198" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2347">
+                <Precinct name="Cobbtown" votes="234" />
+                <Precinct name="Collins" votes="332" />
+                <Precinct name="District II" votes="298" />
+                <Precinct name="District IV" votes="467" />
+                <Precinct name="District V" votes="322" />
+                <Precinct name="East Glennville" votes="463" />
+                <Precinct name="Manassas" votes="114" />
+                <Precinct name="Shiloh" votes="117" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="Solicitor General" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="823">
+            <Precinct name="Cobbtown" votes="32" />
+            <Precinct name="Collins" votes="113" />
+            <Precinct name="District II" votes="200" />
+            <Precinct name="District IV" votes="206" />
+            <Precinct name="District V" votes="49" />
+            <Precinct name="East Glennville" votes="135" />
+            <Precinct name="Manassas" votes="39" />
+            <Precinct name="Shiloh" votes="49" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="34" text="Joe G. Skeens (I) (Rep)" totalVotes="5654">
+            <VoteType name="Absentee by Mail Votes" votes="196">
+                <Precinct name="Cobbtown" votes="18" />
+                <Precinct name="Collins" votes="25" />
+                <Precinct name="District II" votes="16" />
+                <Precinct name="District IV" votes="49" />
+                <Precinct name="District V" votes="10" />
+                <Precinct name="East Glennville" votes="65" />
+                <Precinct name="Manassas" votes="6" />
+                <Precinct name="Shiloh" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3109">
+                <Precinct name="Cobbtown" votes="134" />
+                <Precinct name="Collins" votes="382" />
+                <Precinct name="District II" votes="657" />
+                <Precinct name="District IV" votes="728" />
+                <Precinct name="District V" votes="238" />
+                <Precinct name="East Glennville" votes="690" />
+                <Precinct name="Manassas" votes="82" />
+                <Precinct name="Shiloh" votes="198" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2348">
+                <Precinct name="Cobbtown" votes="233" />
+                <Precinct name="Collins" votes="332" />
+                <Precinct name="District II" votes="296" />
+                <Precinct name="District IV" votes="468" />
+                <Precinct name="District V" votes="321" />
+                <Precinct name="East Glennville" votes="466" />
+                <Precinct name="Manassas" votes="115" />
+                <Precinct name="Shiloh" votes="117" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="Proposed Constitutional Amendment 1" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="335">
+            <Precinct name="Cobbtown" votes="25" />
+            <Precinct name="Collins" votes="36" />
+            <Precinct name="District II" votes="75" />
+            <Precinct name="District IV" votes="88" />
+            <Precinct name="District V" votes="30" />
+            <Precinct name="East Glennville" votes="53" />
+            <Precinct name="Manassas" votes="11" />
+            <Precinct name="Shiloh" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="35" text="Yes" totalVotes="5482">
+            <VoteType name="Absentee by Mail Votes" votes="238">
+                <Precinct name="Cobbtown" votes="18" />
+                <Precinct name="Collins" votes="26" />
+                <Precinct name="District II" votes="31" />
+                <Precinct name="District IV" votes="61" />
+                <Precinct name="District V" votes="9" />
+                <Precinct name="East Glennville" votes="79" />
+                <Precinct name="Manassas" votes="6" />
+                <Precinct name="Shiloh" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3037">
+                <Precinct name="Cobbtown" votes="129" />
+                <Precinct name="Collins" votes="371" />
+                <Precinct name="District II" votes="652" />
+                <Precinct name="District IV" votes="689" />
+                <Precinct name="District V" votes="245" />
+                <Precinct name="East Glennville" votes="665" />
+                <Precinct name="Manassas" votes="87" />
+                <Precinct name="Shiloh" votes="199" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2206">
+                <Precinct name="Cobbtown" votes="205" />
+                <Precinct name="Collins" votes="303" />
+                <Precinct name="District II" votes="292" />
+                <Precinct name="District IV" votes="460" />
+                <Precinct name="District V" votes="279" />
+                <Precinct name="East Glennville" votes="442" />
+                <Precinct name="Manassas" votes="109" />
+                <Precinct name="Shiloh" votes="116" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="36" text="No" totalVotes="733">
+            <VoteType name="Absentee by Mail Votes" votes="36">
+                <Precinct name="Cobbtown" votes="4" />
+                <Precinct name="Collins" votes="10" />
+                <Precinct name="District II" votes="4" />
+                <Precinct name="District IV" votes="9" />
+                <Precinct name="District V" votes="2" />
+                <Precinct name="East Glennville" votes="6" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="405">
+                <Precinct name="Cobbtown" votes="16" />
+                <Precinct name="Collins" votes="63" />
+                <Precinct name="District II" votes="102" />
+                <Precinct name="District IV" votes="100" />
+                <Precinct name="District V" votes="16" />
+                <Precinct name="East Glennville" votes="71" />
+                <Precinct name="Manassas" votes="11" />
+                <Precinct name="Shiloh" votes="26" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="292">
+                <Precinct name="Cobbtown" votes="23" />
+                <Precinct name="Collins" votes="48" />
+                <Precinct name="District II" votes="33" />
+                <Precinct name="District IV" votes="59" />
+                <Precinct name="District V" votes="41" />
+                <Precinct name="East Glennville" votes="56" />
+                <Precinct name="Manassas" votes="20" />
+                <Precinct name="Shiloh" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Proposed Constitutional Amendment 2" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="272">
+            <Precinct name="Cobbtown" votes="22" />
+            <Precinct name="Collins" votes="27" />
+            <Precinct name="District II" votes="61" />
+            <Precinct name="District IV" votes="76" />
+            <Precinct name="District V" votes="22" />
+            <Precinct name="East Glennville" votes="41" />
+            <Precinct name="Manassas" votes="9" />
+            <Precinct name="Shiloh" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Yes" totalVotes="5771">
+            <VoteType name="Absentee by Mail Votes" votes="259">
+                <Precinct name="Cobbtown" votes="19" />
+                <Precinct name="Collins" votes="34" />
+                <Precinct name="District II" votes="34" />
+                <Precinct name="District IV" votes="67" />
+                <Precinct name="District V" votes="10" />
+                <Precinct name="East Glennville" votes="81" />
+                <Precinct name="Manassas" votes="6" />
+                <Precinct name="Shiloh" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3172">
+                <Precinct name="Cobbtown" votes="136" />
+                <Precinct name="Collins" votes="397" />
+                <Precinct name="District II" votes="689" />
+                <Precinct name="District IV" votes="722" />
+                <Precinct name="District V" votes="248" />
+                <Precinct name="East Glennville" votes="690" />
+                <Precinct name="Manassas" votes="82" />
+                <Precinct name="Shiloh" votes="208" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2339">
+                <Precinct name="Cobbtown" votes="217" />
+                <Precinct name="Collins" votes="325" />
+                <Precinct name="District II" votes="306" />
+                <Precinct name="District IV" votes="481" />
+                <Precinct name="District V" votes="302" />
+                <Precinct name="East Glennville" votes="463" />
+                <Precinct name="Manassas" votes="122" />
+                <Precinct name="Shiloh" votes="123" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="38" text="No" totalVotes="507">
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Cobbtown" votes="3" />
+                <Precinct name="Collins" votes="2" />
+                <Precinct name="District II" votes="2" />
+                <Precinct name="District IV" votes="5" />
+                <Precinct name="District V" votes="1" />
+                <Precinct name="East Glennville" votes="6" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="300">
+                <Precinct name="Cobbtown" votes="10" />
+                <Precinct name="Collins" votes="43" />
+                <Precinct name="District II" votes="73" />
+                <Precinct name="District IV" votes="74" />
+                <Precinct name="District V" votes="15" />
+                <Precinct name="East Glennville" votes="48" />
+                <Precinct name="Manassas" votes="15" />
+                <Precinct name="Shiloh" votes="22" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="187">
+                <Precinct name="Cobbtown" votes="13" />
+                <Precinct name="Collins" votes="29" />
+                <Precinct name="District II" votes="24" />
+                <Precinct name="District IV" votes="41" />
+                <Precinct name="District V" votes="24" />
+                <Precinct name="East Glennville" votes="43" />
+                <Precinct name="Manassas" votes="10" />
+                <Precinct name="Shiloh" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Statewide Referendum Question A" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="350">
+            <Precinct name="Cobbtown" votes="28" />
+            <Precinct name="Collins" votes="44" />
+            <Precinct name="District II" votes="78" />
+            <Precinct name="District IV" votes="93" />
+            <Precinct name="District V" votes="27" />
+            <Precinct name="East Glennville" votes="51" />
+            <Precinct name="Manassas" votes="13" />
+            <Precinct name="Shiloh" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Yes" totalVotes="4177">
+            <VoteType name="Absentee by Mail Votes" votes="141">
+                <Precinct name="Cobbtown" votes="10" />
+                <Precinct name="Collins" votes="18" />
+                <Precinct name="District II" votes="12" />
+                <Precinct name="District IV" votes="31" />
+                <Precinct name="District V" votes="7" />
+                <Precinct name="East Glennville" votes="55" />
+                <Precinct name="Manassas" votes="2" />
+                <Precinct name="Shiloh" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2291">
+                <Precinct name="Cobbtown" votes="106" />
+                <Precinct name="Collins" votes="275" />
+                <Precinct name="District II" votes="496" />
+                <Precinct name="District IV" votes="520" />
+                <Precinct name="District V" votes="185" />
+                <Precinct name="East Glennville" votes="501" />
+                <Precinct name="Manassas" votes="59" />
+                <Precinct name="Shiloh" votes="149" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1744">
+                <Precinct name="Cobbtown" votes="154" />
+                <Precinct name="Collins" votes="263" />
+                <Precinct name="District II" votes="218" />
+                <Precinct name="District IV" votes="361" />
+                <Precinct name="District V" votes="247" />
+                <Precinct name="East Glennville" votes="323" />
+                <Precinct name="Manassas" votes="88" />
+                <Precinct name="Shiloh" votes="90" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="No" totalVotes="2023">
+            <VoteType name="Absentee by Mail Votes" votes="132">
+                <Precinct name="Cobbtown" votes="12" />
+                <Precinct name="Collins" votes="15" />
+                <Precinct name="District II" votes="24" />
+                <Precinct name="District IV" votes="39" />
+                <Precinct name="District V" votes="5" />
+                <Precinct name="East Glennville" votes="30" />
+                <Precinct name="Manassas" votes="4" />
+                <Precinct name="Shiloh" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1140">
+                <Precinct name="Cobbtown" votes="39" />
+                <Precinct name="Collins" votes="154" />
+                <Precinct name="District II" votes="251" />
+                <Precinct name="District IV" votes="272" />
+                <Precinct name="District V" votes="74" />
+                <Precinct name="East Glennville" votes="235" />
+                <Precinct name="Manassas" votes="36" />
+                <Precinct name="Shiloh" votes="79" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="751">
+                <Precinct name="Cobbtown" votes="71" />
+                <Precinct name="Collins" votes="88" />
+                <Precinct name="District II" votes="110" />
+                <Precinct name="District IV" votes="150" />
+                <Precinct name="District V" votes="77" />
+                <Precinct name="East Glennville" votes="177" />
+                <Precinct name="Manassas" votes="42" />
+                <Precinct name="Shiloh" votes="36" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="Statewide Referendum Question B" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="327">
+            <Precinct name="Cobbtown" votes="25" />
+            <Precinct name="Collins" votes="33" />
+            <Precinct name="District II" votes="73" />
+            <Precinct name="District IV" votes="91" />
+            <Precinct name="District V" votes="30" />
+            <Precinct name="East Glennville" votes="47" />
+            <Precinct name="Manassas" votes="13" />
+            <Precinct name="Shiloh" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Yes" totalVotes="4849">
+            <VoteType name="Absentee by Mail Votes" votes="179">
+                <Precinct name="Cobbtown" votes="15" />
+                <Precinct name="Collins" votes="21" />
+                <Precinct name="District II" votes="24" />
+                <Precinct name="District IV" votes="40" />
+                <Precinct name="District V" votes="7" />
+                <Precinct name="East Glennville" votes="60" />
+                <Precinct name="Manassas" votes="5" />
+                <Precinct name="Shiloh" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2631">
+                <Precinct name="Cobbtown" votes="119" />
+                <Precinct name="Collins" votes="341" />
+                <Precinct name="District II" votes="561" />
+                <Precinct name="District IV" votes="597" />
+                <Precinct name="District V" votes="212" />
+                <Precinct name="East Glennville" votes="568" />
+                <Precinct name="Manassas" votes="70" />
+                <Precinct name="Shiloh" votes="163" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2038">
+                <Precinct name="Cobbtown" votes="185" />
+                <Precinct name="Collins" votes="297" />
+                <Precinct name="District II" votes="258" />
+                <Precinct name="District IV" votes="417" />
+                <Precinct name="District V" votes="268" />
+                <Precinct name="East Glennville" votes="404" />
+                <Precinct name="Manassas" votes="102" />
+                <Precinct name="Shiloh" votes="107" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="42" text="No" totalVotes="1374">
+            <VoteType name="Absentee by Mail Votes" votes="90">
+                <Precinct name="Cobbtown" votes="7" />
+                <Precinct name="Collins" votes="12" />
+                <Precinct name="District II" votes="10" />
+                <Precinct name="District IV" votes="28" />
+                <Precinct name="District V" votes="4" />
+                <Precinct name="East Glennville" votes="25" />
+                <Precinct name="Manassas" votes="1" />
+                <Precinct name="Shiloh" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="811">
+                <Precinct name="Cobbtown" votes="26" />
+                <Precinct name="Collins" votes="96" />
+                <Precinct name="District II" votes="192" />
+                <Precinct name="District IV" votes="194" />
+                <Precinct name="District V" votes="48" />
+                <Precinct name="East Glennville" votes="166" />
+                <Precinct name="Manassas" votes="25" />
+                <Precinct name="Shiloh" votes="64" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="473">
+                <Precinct name="Cobbtown" votes="43" />
+                <Precinct name="Collins" votes="57" />
+                <Precinct name="District II" votes="71" />
+                <Precinct name="District IV" votes="99" />
+                <Precinct name="District V" votes="53" />
+                <Precinct name="East Glennville" votes="102" />
+                <Precinct name="Manassas" votes="28" />
+                <Precinct name="Shiloh" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="Alcohol Question" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="222">
+            <Precinct name="Cobbtown" votes="19" />
+            <Precinct name="Collins" votes="20" />
+            <Precinct name="District II" votes="47" />
+            <Precinct name="District IV" votes="66" />
+            <Precinct name="District V" votes="21" />
+            <Precinct name="East Glennville" votes="29" />
+            <Precinct name="Manassas" votes="5" />
+            <Precinct name="Shiloh" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cobbtown" votes="0" />
+            <Precinct name="Collins" votes="0" />
+            <Precinct name="District II" votes="0" />
+            <Precinct name="District IV" votes="0" />
+            <Precinct name="District V" votes="0" />
+            <Precinct name="East Glennville" votes="0" />
+            <Precinct name="Manassas" votes="0" />
+            <Precinct name="Shiloh" votes="0" />
+        </VoteType>
+        <Choice key="43" text="Yes" totalVotes="3906">
+            <VoteType name="Absentee by Mail Votes" votes="165">
+                <Precinct name="Cobbtown" votes="15" />
+                <Precinct name="Collins" votes="17" />
+                <Precinct name="District II" votes="29" />
+                <Precinct name="District IV" votes="43" />
+                <Precinct name="District V" votes="5" />
+                <Precinct name="East Glennville" votes="43" />
+                <Precinct name="Manassas" votes="4" />
+                <Precinct name="Shiloh" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2069">
+                <Precinct name="Cobbtown" votes="86" />
+                <Precinct name="Collins" votes="248" />
+                <Precinct name="District II" votes="456" />
+                <Precinct name="District IV" votes="475" />
+                <Precinct name="District V" votes="168" />
+                <Precinct name="East Glennville" votes="441" />
+                <Precinct name="Manassas" votes="48" />
+                <Precinct name="Shiloh" votes="147" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1671">
+                <Precinct name="Cobbtown" votes="152" />
+                <Precinct name="Collins" votes="220" />
+                <Precinct name="District II" votes="232" />
+                <Precinct name="District IV" votes="357" />
+                <Precinct name="District V" votes="195" />
+                <Precinct name="East Glennville" votes="335" />
+                <Precinct name="Manassas" votes="93" />
+                <Precinct name="Shiloh" votes="87" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="1" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="No" totalVotes="2422">
+            <VoteType name="Absentee by Mail Votes" votes="117">
+                <Precinct name="Cobbtown" votes="7" />
+                <Precinct name="Collins" votes="18" />
+                <Precinct name="District II" votes="7" />
+                <Precinct name="District IV" votes="30" />
+                <Precinct name="District V" votes="7" />
+                <Precinct name="East Glennville" votes="42" />
+                <Precinct name="Manassas" votes="4" />
+                <Precinct name="Shiloh" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1436">
+                <Precinct name="Cobbtown" votes="59" />
+                <Precinct name="Collins" votes="199" />
+                <Precinct name="District II" votes="319" />
+                <Precinct name="District IV" votes="328" />
+                <Precinct name="District V" votes="96" />
+                <Precinct name="East Glennville" votes="305" />
+                <Precinct name="Manassas" votes="51" />
+                <Precinct name="Shiloh" votes="79" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="869">
+                <Precinct name="Cobbtown" votes="82" />
+                <Precinct name="Collins" votes="135" />
+                <Precinct name="District II" votes="99" />
+                <Precinct name="District IV" votes="167" />
+                <Precinct name="District V" votes="130" />
+                <Precinct name="East Glennville" votes="177" />
+                <Precinct name="Manassas" votes="39" />
+                <Precinct name="Shiloh" votes="40" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cobbtown" votes="0" />
+                <Precinct name="Collins" votes="0" />
+                <Precinct name="District II" votes="0" />
+                <Precinct name="District IV" votes="0" />
+                <Precinct name="District V" votes="0" />
+                <Precinct name="East Glennville" votes="0" />
+                <Precinct name="Manassas" votes="0" />
+                <Precinct name="Shiloh" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

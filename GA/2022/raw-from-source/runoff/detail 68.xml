@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 1:49:57 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Berrien</Region>
+    <VoterTurnout totalVoters="10930" ballotsCast="5554" voterTurnout="50.81">
+        <Precincts>
+            <Precinct name="West Berrien" totalVoters="1010" ballotsCast="608" voterTurnout="60.20" percentReporting="4" />
+            <Precinct name="Ray City " totalVoters="1848" ballotsCast="866" voterTurnout="46.86" percentReporting="4" />
+            <Precinct name="Nashville" totalVoters="5933" ballotsCast="2955" voterTurnout="49.81" percentReporting="4" />
+            <Precinct name="Enigma" totalVoters="1054" ballotsCast="496" voterTurnout="47.06" percentReporting="4" />
+            <Precinct name="Alapaha " totalVoters="1078" ballotsCast="629" voterTurnout="58.35" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="West Berrien" votes="1" />
+            <Precinct name="Ray City " votes="2" />
+            <Precinct name="Nashville" votes="1" />
+            <Precinct name="Enigma" votes="0" />
+            <Precinct name="Alapaha " votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West Berrien" votes="0" />
+            <Precinct name="Ray City " votes="0" />
+            <Precinct name="Nashville" votes="0" />
+            <Precinct name="Enigma" votes="0" />
+            <Precinct name="Alapaha " votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="4706">
+            <VoteType name="Absentee by Mail Votes" votes="153">
+                <Precinct name="West Berrien" votes="19" />
+                <Precinct name="Ray City " votes="20" />
+                <Precinct name="Nashville" votes="101" />
+                <Precinct name="Enigma" votes="1" />
+                <Precinct name="Alapaha " votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2111">
+                <Precinct name="West Berrien" votes="148" />
+                <Precinct name="Ray City " votes="303" />
+                <Precinct name="Nashville" votes="1444" />
+                <Precinct name="Enigma" votes="93" />
+                <Precinct name="Alapaha " votes="123" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2442">
+                <Precinct name="West Berrien" votes="390" />
+                <Precinct name="Ray City " votes="398" />
+                <Precinct name="Nashville" votes="974" />
+                <Precinct name="Enigma" votes="345" />
+                <Precinct name="Alapaha " votes="335" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West Berrien" votes="0" />
+                <Precinct name="Ray City " votes="0" />
+                <Precinct name="Nashville" votes="0" />
+                <Precinct name="Enigma" votes="0" />
+                <Precinct name="Alapaha " votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="843">
+            <VoteType name="Absentee by Mail Votes" votes="98">
+                <Precinct name="West Berrien" votes="7" />
+                <Precinct name="Ray City " votes="11" />
+                <Precinct name="Nashville" votes="56" />
+                <Precinct name="Enigma" votes="7" />
+                <Precinct name="Alapaha " votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="374">
+                <Precinct name="West Berrien" votes="20" />
+                <Precinct name="Ray City " votes="57" />
+                <Precinct name="Nashville" votes="237" />
+                <Precinct name="Enigma" votes="15" />
+                <Precinct name="Alapaha " votes="45" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="371">
+                <Precinct name="West Berrien" votes="23" />
+                <Precinct name="Ray City " votes="75" />
+                <Precinct name="Nashville" votes="142" />
+                <Precinct name="Enigma" votes="35" />
+                <Precinct name="Alapaha " votes="96" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West Berrien" votes="0" />
+                <Precinct name="Ray City " votes="0" />
+                <Precinct name="Nashville" votes="0" />
+                <Precinct name="Enigma" votes="0" />
+                <Precinct name="Alapaha " votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

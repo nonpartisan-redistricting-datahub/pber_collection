@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 2:29:54 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Monroe</Region>
+    <VoterTurnout totalVoters="21461" ballotsCast="12633" voterTurnout="58.86">
+        <Precincts>
+            <Precinct name="Bentons" totalVoters="2227" ballotsCast="1519" voterTurnout="68.21" percentReporting="4" />
+            <Precinct name="Brantleys" totalVoters="1135" ballotsCast="741" voterTurnout="65.29" percentReporting="4" />
+            <Precinct name="Burgays" totalVoters="2314" ballotsCast="1621" voterTurnout="70.05" percentReporting="4" />
+            <Precinct name="Cabaniss" totalVoters="834" ballotsCast="446" voterTurnout="53.48" percentReporting="4" />
+            <Precinct name="Cox" totalVoters="756" ballotsCast="493" voterTurnout="65.21" percentReporting="4" />
+            <Precinct name="Culloden" totalVoters="462" ballotsCast="279" voterTurnout="60.39" percentReporting="4" />
+            <Precinct name="Dillards" totalVoters="1049" ballotsCast="592" voterTurnout="56.43" percentReporting="4" />
+            <Precinct name="Evers" totalVoters="2234" ballotsCast="1311" voterTurnout="58.68" percentReporting="4" />
+            <Precinct name="Forsyth" totalVoters="5283" ballotsCast="2412" voterTurnout="45.66" percentReporting="4" />
+            <Precinct name="High Falls" totalVoters="1964" ballotsCast="1003" voterTurnout="51.07" percentReporting="4" />
+            <Precinct name="Kelseys" totalVoters="688" ballotsCast="452" voterTurnout="65.70" percentReporting="4" />
+            <Precinct name="Middlebrooks" totalVoters="1310" ballotsCast="776" voterTurnout="59.24" percentReporting="4" />
+            <Precinct name="Proctors" totalVoters="1374" ballotsCast="683" voterTurnout="49.71" percentReporting="4" />
+            <Precinct name="Russellville" totalVoters="472" ballotsCast="305" voterTurnout="64.62" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Bentons" votes="0" />
+            <Precinct name="Brantleys" votes="0" />
+            <Precinct name="Burgays" votes="0" />
+            <Precinct name="Cabaniss" votes="0" />
+            <Precinct name="Cox" votes="0" />
+            <Precinct name="Culloden" votes="0" />
+            <Precinct name="Dillards" votes="1" />
+            <Precinct name="Evers" votes="2" />
+            <Precinct name="Forsyth" votes="0" />
+            <Precinct name="High Falls" votes="1" />
+            <Precinct name="Kelseys" votes="1" />
+            <Precinct name="Middlebrooks" votes="1" />
+            <Precinct name="Proctors" votes="0" />
+            <Precinct name="Russellville" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bentons" votes="0" />
+            <Precinct name="Brantleys" votes="0" />
+            <Precinct name="Burgays" votes="0" />
+            <Precinct name="Cabaniss" votes="0" />
+            <Precinct name="Cox" votes="0" />
+            <Precinct name="Culloden" votes="0" />
+            <Precinct name="Dillards" votes="0" />
+            <Precinct name="Evers" votes="0" />
+            <Precinct name="Forsyth" votes="0" />
+            <Precinct name="High Falls" votes="0" />
+            <Precinct name="Kelseys" votes="0" />
+            <Precinct name="Middlebrooks" votes="0" />
+            <Precinct name="Proctors" votes="0" />
+            <Precinct name="Russellville" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="9018">
+            <VoteType name="Absentee by Mail Votes" votes="200">
+                <Precinct name="Bentons" votes="32" />
+                <Precinct name="Brantleys" votes="11" />
+                <Precinct name="Burgays" votes="40" />
+                <Precinct name="Cabaniss" votes="6" />
+                <Precinct name="Cox" votes="5" />
+                <Precinct name="Culloden" votes="6" />
+                <Precinct name="Dillards" votes="7" />
+                <Precinct name="Evers" votes="20" />
+                <Precinct name="Forsyth" votes="41" />
+                <Precinct name="High Falls" votes="12" />
+                <Precinct name="Kelseys" votes="4" />
+                <Precinct name="Middlebrooks" votes="12" />
+                <Precinct name="Proctors" votes="2" />
+                <Precinct name="Russellville" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4096">
+                <Precinct name="Bentons" votes="535" />
+                <Precinct name="Brantleys" votes="294" />
+                <Precinct name="Burgays" votes="507" />
+                <Precinct name="Cabaniss" votes="123" />
+                <Precinct name="Cox" votes="161" />
+                <Precinct name="Culloden" votes="48" />
+                <Precinct name="Dillards" votes="249" />
+                <Precinct name="Evers" votes="527" />
+                <Precinct name="Forsyth" votes="634" />
+                <Precinct name="High Falls" votes="321" />
+                <Precinct name="Kelseys" votes="73" />
+                <Precinct name="Middlebrooks" votes="355" />
+                <Precinct name="Proctors" votes="189" />
+                <Precinct name="Russellville" votes="80" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4720">
+                <Precinct name="Bentons" votes="598" />
+                <Precinct name="Brantleys" votes="315" />
+                <Precinct name="Burgays" votes="754" />
+                <Precinct name="Cabaniss" votes="191" />
+                <Precinct name="Cox" votes="235" />
+                <Precinct name="Culloden" votes="133" />
+                <Precinct name="Dillards" votes="230" />
+                <Precinct name="Evers" votes="471" />
+                <Precinct name="Forsyth" votes="384" />
+                <Precinct name="High Falls" votes="484" />
+                <Precinct name="Kelseys" votes="162" />
+                <Precinct name="Middlebrooks" votes="277" />
+                <Precinct name="Proctors" votes="315" />
+                <Precinct name="Russellville" votes="171" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Bentons" votes="1" />
+                <Precinct name="Brantleys" votes="0" />
+                <Precinct name="Burgays" votes="1" />
+                <Precinct name="Cabaniss" votes="0" />
+                <Precinct name="Cox" votes="0" />
+                <Precinct name="Culloden" votes="0" />
+                <Precinct name="Dillards" votes="0" />
+                <Precinct name="Evers" votes="0" />
+                <Precinct name="Forsyth" votes="0" />
+                <Precinct name="High Falls" votes="0" />
+                <Precinct name="Kelseys" votes="0" />
+                <Precinct name="Middlebrooks" votes="0" />
+                <Precinct name="Proctors" votes="0" />
+                <Precinct name="Russellville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="3609">
+            <VoteType name="Absentee by Mail Votes" votes="350">
+                <Precinct name="Bentons" votes="36" />
+                <Precinct name="Brantleys" votes="4" />
+                <Precinct name="Burgays" votes="32" />
+                <Precinct name="Cabaniss" votes="10" />
+                <Precinct name="Cox" votes="14" />
+                <Precinct name="Culloden" votes="9" />
+                <Precinct name="Dillards" votes="6" />
+                <Precinct name="Evers" votes="18" />
+                <Precinct name="Forsyth" votes="175" />
+                <Precinct name="High Falls" votes="6" />
+                <Precinct name="Kelseys" votes="24" />
+                <Precinct name="Middlebrooks" votes="3" />
+                <Precinct name="Proctors" votes="9" />
+                <Precinct name="Russellville" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2018">
+                <Precinct name="Bentons" votes="196" />
+                <Precinct name="Brantleys" votes="60" />
+                <Precinct name="Burgays" votes="162" />
+                <Precinct name="Cabaniss" votes="57" />
+                <Precinct name="Cox" votes="46" />
+                <Precinct name="Culloden" votes="18" />
+                <Precinct name="Dillards" votes="57" />
+                <Precinct name="Evers" votes="171" />
+                <Precinct name="Forsyth" votes="863" />
+                <Precinct name="High Falls" votes="115" />
+                <Precinct name="Kelseys" votes="97" />
+                <Precinct name="Middlebrooks" votes="88" />
+                <Precinct name="Proctors" votes="69" />
+                <Precinct name="Russellville" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1241">
+                <Precinct name="Bentons" votes="121" />
+                <Precinct name="Brantleys" votes="57" />
+                <Precinct name="Burgays" votes="125" />
+                <Precinct name="Cabaniss" votes="59" />
+                <Precinct name="Cox" votes="32" />
+                <Precinct name="Culloden" votes="65" />
+                <Precinct name="Dillards" votes="42" />
+                <Precinct name="Evers" votes="102" />
+                <Precinct name="Forsyth" votes="315" />
+                <Precinct name="High Falls" votes="64" />
+                <Precinct name="Kelseys" votes="91" />
+                <Precinct name="Middlebrooks" votes="40" />
+                <Precinct name="Proctors" votes="99" />
+                <Precinct name="Russellville" votes="29" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bentons" votes="0" />
+                <Precinct name="Brantleys" votes="0" />
+                <Precinct name="Burgays" votes="0" />
+                <Precinct name="Cabaniss" votes="0" />
+                <Precinct name="Cox" votes="0" />
+                <Precinct name="Culloden" votes="0" />
+                <Precinct name="Dillards" votes="0" />
+                <Precinct name="Evers" votes="0" />
+                <Precinct name="Forsyth" votes="0" />
+                <Precinct name="High Falls" votes="0" />
+                <Precinct name="Kelseys" votes="0" />
+                <Precinct name="Middlebrooks" votes="0" />
+                <Precinct name="Proctors" votes="0" />
+                <Precinct name="Russellville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

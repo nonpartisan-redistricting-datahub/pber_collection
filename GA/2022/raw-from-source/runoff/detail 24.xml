@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 6:02:38 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Stephens</Region>
+    <VoterTurnout totalVoters="18107" ballotsCast="8369" voterTurnout="46.22">
+        <Precincts>
+            <Precinct name="Senior Center" totalVoters="18077" ballotsCast="8369" voterTurnout="46.30" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Senior Center" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="6702">
+            <VoteType name="Absentee by Mail Votes" votes="337">
+                <Precinct name="Senior Center" votes="337" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4235">
+                <Precinct name="Senior Center" votes="4235" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2129">
+                <Precinct name="Senior Center" votes="2129" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1662">
+            <VoteType name="Absentee by Mail Votes" votes="191">
+                <Precinct name="Senior Center" votes="191" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1079">
+                <Precinct name="Senior Center" votes="1079" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="392">
+                <Precinct name="Senior Center" votes="392" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

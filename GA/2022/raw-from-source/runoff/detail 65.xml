@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 11:27:03 AM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Banks</Region>
+    <VoterTurnout totalVoters="13468" ballotsCast="6533" voterTurnout="48.51">
+        <Precincts>
+            <Precinct name="Anderson" totalVoters="1585" ballotsCast="780" voterTurnout="49.21" percentReporting="4" />
+            <Precinct name="Baldwin" totalVoters="895" ballotsCast="454" voterTurnout="50.73" percentReporting="4" />
+            <Precinct name="Berlin" totalVoters="521" ballotsCast="300" voterTurnout="57.58" percentReporting="4" />
+            <Precinct name="Bushville" totalVoters="966" ballotsCast="430" voterTurnout="44.51" percentReporting="4" />
+            <Precinct name="Columbia" totalVoters="372" ballotsCast="207" voterTurnout="55.65" percentReporting="4" />
+            <Precinct name="Davids" totalVoters="2007" ballotsCast="902" voterTurnout="44.94" percentReporting="4" />
+            <Precinct name="Golden Hill" totalVoters="989" ballotsCast="405" voterTurnout="40.95" percentReporting="4" />
+            <Precinct name="Grove River" totalVoters="631" ballotsCast="318" voterTurnout="50.40" percentReporting="4" />
+            <Precinct name="Hollingsworth" totalVoters="686" ballotsCast="360" voterTurnout="52.48" percentReporting="4" />
+            <Precinct name="Homer" totalVoters="1588" ballotsCast="734" voterTurnout="46.22" percentReporting="4" />
+            <Precinct name="Poplar Springs" totalVoters="1850" ballotsCast="920" voterTurnout="49.73" percentReporting="4" />
+            <Precinct name="Washington" totalVoters="727" ballotsCast="389" voterTurnout="53.51" percentReporting="4" />
+            <Precinct name="Wilmonts" totalVoters="645" ballotsCast="334" voterTurnout="51.78" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="13" precinctsReported="13">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Anderson" votes="0" />
+            <Precinct name="Baldwin" votes="1" />
+            <Precinct name="Berlin" votes="0" />
+            <Precinct name="Bushville" votes="0" />
+            <Precinct name="Columbia" votes="0" />
+            <Precinct name="Davids" votes="1" />
+            <Precinct name="Golden Hill" votes="0" />
+            <Precinct name="Grove River" votes="0" />
+            <Precinct name="Hollingsworth" votes="0" />
+            <Precinct name="Homer" votes="1" />
+            <Precinct name="Poplar Springs" votes="1" />
+            <Precinct name="Washington" votes="3" />
+            <Precinct name="Wilmonts" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Anderson" votes="0" />
+            <Precinct name="Baldwin" votes="0" />
+            <Precinct name="Berlin" votes="0" />
+            <Precinct name="Bushville" votes="0" />
+            <Precinct name="Columbia" votes="0" />
+            <Precinct name="Davids" votes="0" />
+            <Precinct name="Golden Hill" votes="0" />
+            <Precinct name="Grove River" votes="0" />
+            <Precinct name="Hollingsworth" votes="0" />
+            <Precinct name="Homer" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Washington" votes="0" />
+            <Precinct name="Wilmonts" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="5828">
+            <VoteType name="Absentee by Mail Votes" votes="208">
+                <Precinct name="Anderson" votes="23" />
+                <Precinct name="Baldwin" votes="35" />
+                <Precinct name="Berlin" votes="7" />
+                <Precinct name="Bushville" votes="12" />
+                <Precinct name="Columbia" votes="6" />
+                <Precinct name="Davids" votes="15" />
+                <Precinct name="Golden Hill" votes="10" />
+                <Precinct name="Grove River" votes="14" />
+                <Precinct name="Hollingsworth" votes="16" />
+                <Precinct name="Homer" votes="15" />
+                <Precinct name="Poplar Springs" votes="37" />
+                <Precinct name="Washington" votes="9" />
+                <Precinct name="Wilmonts" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3150">
+                <Precinct name="Anderson" votes="361" />
+                <Precinct name="Baldwin" votes="223" />
+                <Precinct name="Berlin" votes="152" />
+                <Precinct name="Bushville" votes="191" />
+                <Precinct name="Columbia" votes="103" />
+                <Precinct name="Davids" votes="433" />
+                <Precinct name="Golden Hill" votes="197" />
+                <Precinct name="Grove River" votes="153" />
+                <Precinct name="Hollingsworth" votes="171" />
+                <Precinct name="Homer" votes="352" />
+                <Precinct name="Poplar Springs" votes="458" />
+                <Precinct name="Washington" votes="196" />
+                <Precinct name="Wilmonts" votes="160" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2470">
+                <Precinct name="Anderson" votes="308" />
+                <Precinct name="Baldwin" votes="125" />
+                <Precinct name="Berlin" votes="109" />
+                <Precinct name="Bushville" votes="185" />
+                <Precinct name="Columbia" votes="85" />
+                <Precinct name="Davids" votes="347" />
+                <Precinct name="Golden Hill" votes="149" />
+                <Precinct name="Grove River" votes="136" />
+                <Precinct name="Hollingsworth" votes="132" />
+                <Precinct name="Homer" votes="297" />
+                <Precinct name="Poplar Springs" votes="337" />
+                <Precinct name="Washington" votes="128" />
+                <Precinct name="Wilmonts" votes="132" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Anderson" votes="0" />
+                <Precinct name="Baldwin" votes="0" />
+                <Precinct name="Berlin" votes="0" />
+                <Precinct name="Bushville" votes="0" />
+                <Precinct name="Columbia" votes="0" />
+                <Precinct name="Davids" votes="0" />
+                <Precinct name="Golden Hill" votes="0" />
+                <Precinct name="Grove River" votes="0" />
+                <Precinct name="Hollingsworth" votes="0" />
+                <Precinct name="Homer" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Washington" votes="0" />
+                <Precinct name="Wilmonts" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="698">
+            <VoteType name="Absentee by Mail Votes" votes="82">
+                <Precinct name="Anderson" votes="10" />
+                <Precinct name="Baldwin" votes="9" />
+                <Precinct name="Berlin" votes="0" />
+                <Precinct name="Bushville" votes="1" />
+                <Precinct name="Columbia" votes="2" />
+                <Precinct name="Davids" votes="9" />
+                <Precinct name="Golden Hill" votes="9" />
+                <Precinct name="Grove River" votes="3" />
+                <Precinct name="Hollingsworth" votes="6" />
+                <Precinct name="Homer" votes="9" />
+                <Precinct name="Poplar Springs" votes="9" />
+                <Precinct name="Washington" votes="12" />
+                <Precinct name="Wilmonts" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="388">
+                <Precinct name="Anderson" votes="53" />
+                <Precinct name="Baldwin" votes="43" />
+                <Precinct name="Berlin" votes="19" />
+                <Precinct name="Bushville" votes="28" />
+                <Precinct name="Columbia" votes="6" />
+                <Precinct name="Davids" votes="58" />
+                <Precinct name="Golden Hill" votes="21" />
+                <Precinct name="Grove River" votes="11" />
+                <Precinct name="Hollingsworth" votes="24" />
+                <Precinct name="Homer" votes="32" />
+                <Precinct name="Poplar Springs" votes="50" />
+                <Precinct name="Washington" votes="25" />
+                <Precinct name="Wilmonts" votes="18" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="228">
+                <Precinct name="Anderson" votes="25" />
+                <Precinct name="Baldwin" votes="18" />
+                <Precinct name="Berlin" votes="13" />
+                <Precinct name="Bushville" votes="13" />
+                <Precinct name="Columbia" votes="5" />
+                <Precinct name="Davids" votes="39" />
+                <Precinct name="Golden Hill" votes="19" />
+                <Precinct name="Grove River" votes="1" />
+                <Precinct name="Hollingsworth" votes="11" />
+                <Precinct name="Homer" votes="28" />
+                <Precinct name="Poplar Springs" votes="28" />
+                <Precinct name="Washington" votes="16" />
+                <Precinct name="Wilmonts" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Anderson" votes="0" />
+                <Precinct name="Baldwin" votes="0" />
+                <Precinct name="Berlin" votes="0" />
+                <Precinct name="Bushville" votes="0" />
+                <Precinct name="Columbia" votes="0" />
+                <Precinct name="Davids" votes="0" />
+                <Precinct name="Golden Hill" votes="0" />
+                <Precinct name="Grove River" votes="0" />
+                <Precinct name="Hollingsworth" votes="0" />
+                <Precinct name="Homer" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Washington" votes="0" />
+                <Precinct name="Wilmonts" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

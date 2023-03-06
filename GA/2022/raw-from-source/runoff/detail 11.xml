@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 12:10:28 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Pierce</Region>
+    <VoterTurnout totalVoters="12542" ballotsCast="6706" voterTurnout="53.47">
+        <Precincts>
+            <Precinct name="Hacklebarney/Cason " totalVoters="3162" ballotsCast="1642" voterTurnout="51.93" percentReporting="4" />
+            <Precinct name="Blackshear" totalVoters="3123" ballotsCast="1611" voterTurnout="51.59" percentReporting="4" />
+            <Precinct name="St. Johns/Blackshear" totalVoters="1396" ballotsCast="717" voterTurnout="51.36" percentReporting="4" />
+            <Precinct name="Otter Creek" totalVoters="1681" ballotsCast="872" voterTurnout="51.87" percentReporting="4" />
+            <Precinct name="Patterson" totalVoters="1095" ballotsCast="613" voterTurnout="55.98" percentReporting="4" />
+            <Precinct name="Mershon" totalVoters="483" ballotsCast="273" voterTurnout="56.52" percentReporting="4" />
+            <Precinct name="Alabaha" totalVoters="1087" ballotsCast="601" voterTurnout="55.29" percentReporting="4" />
+            <Precinct name="Sunset/Sweat" totalVoters="513" ballotsCast="377" voterTurnout="73.49" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Hacklebarney/Cason " votes="1" />
+            <Precinct name="Blackshear" votes="1" />
+            <Precinct name="St. Johns/Blackshear" votes="1" />
+            <Precinct name="Otter Creek" votes="2" />
+            <Precinct name="Patterson" votes="0" />
+            <Precinct name="Mershon" votes="1" />
+            <Precinct name="Alabaha" votes="0" />
+            <Precinct name="Sunset/Sweat" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hacklebarney/Cason " votes="0" />
+            <Precinct name="Blackshear" votes="0" />
+            <Precinct name="St. Johns/Blackshear" votes="0" />
+            <Precinct name="Otter Creek" votes="0" />
+            <Precinct name="Patterson" votes="0" />
+            <Precinct name="Mershon" votes="0" />
+            <Precinct name="Alabaha" votes="0" />
+            <Precinct name="Sunset/Sweat" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="5929">
+            <VoteType name="Absentee by Mail Votes" votes="191">
+                <Precinct name="Hacklebarney/Cason " votes="43" />
+                <Precinct name="Blackshear" votes="37" />
+                <Precinct name="St. Johns/Blackshear" votes="23" />
+                <Precinct name="Otter Creek" votes="32" />
+                <Precinct name="Patterson" votes="19" />
+                <Precinct name="Mershon" votes="6" />
+                <Precinct name="Alabaha" votes="16" />
+                <Precinct name="Sunset/Sweat" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3463">
+                <Precinct name="Hacklebarney/Cason " votes="812" />
+                <Precinct name="Blackshear" votes="920" />
+                <Precinct name="St. Johns/Blackshear" votes="378" />
+                <Precinct name="Otter Creek" votes="388" />
+                <Precinct name="Patterson" votes="244" />
+                <Precinct name="Mershon" votes="164" />
+                <Precinct name="Alabaha" votes="343" />
+                <Precinct name="Sunset/Sweat" votes="214" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2274">
+                <Precinct name="Hacklebarney/Cason " votes="451" />
+                <Precinct name="Blackshear" votes="506" />
+                <Precinct name="St. Johns/Blackshear" votes="260" />
+                <Precinct name="Otter Creek" votes="381" />
+                <Precinct name="Patterson" votes="261" />
+                <Precinct name="Mershon" votes="87" />
+                <Precinct name="Alabaha" votes="190" />
+                <Precinct name="Sunset/Sweat" votes="138" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Hacklebarney/Cason " votes="0" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="0" />
+                <Precinct name="Patterson" votes="1" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="771">
+            <VoteType name="Absentee by Mail Votes" votes="66">
+                <Precinct name="Hacklebarney/Cason " votes="35" />
+                <Precinct name="Blackshear" votes="6" />
+                <Precinct name="St. Johns/Blackshear" votes="1" />
+                <Precinct name="Otter Creek" votes="6" />
+                <Precinct name="Patterson" votes="10" />
+                <Precinct name="Mershon" votes="1" />
+                <Precinct name="Alabaha" votes="7" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="512">
+                <Precinct name="Hacklebarney/Cason " votes="228" />
+                <Precinct name="Blackshear" votes="105" />
+                <Precinct name="St. Johns/Blackshear" votes="34" />
+                <Precinct name="Otter Creek" votes="48" />
+                <Precinct name="Patterson" votes="44" />
+                <Precinct name="Mershon" votes="9" />
+                <Precinct name="Alabaha" votes="34" />
+                <Precinct name="Sunset/Sweat" votes="10" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="193">
+                <Precinct name="Hacklebarney/Cason " votes="72" />
+                <Precinct name="Blackshear" votes="36" />
+                <Precinct name="St. Johns/Blackshear" votes="20" />
+                <Precinct name="Otter Creek" votes="15" />
+                <Precinct name="Patterson" votes="34" />
+                <Precinct name="Mershon" votes="5" />
+                <Precinct name="Alabaha" votes="11" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hacklebarney/Cason " votes="0" />
+                <Precinct name="Blackshear" votes="0" />
+                <Precinct name="St. Johns/Blackshear" votes="0" />
+                <Precinct name="Otter Creek" votes="0" />
+                <Precinct name="Patterson" votes="0" />
+                <Precinct name="Mershon" votes="0" />
+                <Precinct name="Alabaha" votes="0" />
+                <Precinct name="Sunset/Sweat" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 9:25:05 AM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Hancock</Region>
+    <VoterTurnout totalVoters="5762" ballotsCast="3272" voterTurnout="56.79">
+        <Precincts>
+            <Precinct name="Devereux Fire" totalVoters="1060" ballotsCast="661" voterTurnout="62.36" percentReporting="4" />
+            <Precinct name="St Mark" totalVoters="561" ballotsCast="287" voterTurnout="51.16" percentReporting="4" />
+            <Precinct name="Courthouse" totalVoters="921" ballotsCast="463" voterTurnout="50.27" percentReporting="4" />
+            <Precinct name="Second Beulah" totalVoters="457" ballotsCast="275" voterTurnout="60.18" percentReporting="4" />
+            <Precinct name="Mayfield Community Center" totalVoters="335" ballotsCast="174" voterTurnout="51.94" percentReporting="4" />
+            <Precinct name="Power of God" totalVoters="711" ballotsCast="377" voterTurnout="53.02" percentReporting="4" />
+            <Precinct name="Warren Chapel" totalVoters="289" ballotsCast="196" voterTurnout="67.82" percentReporting="4" />
+            <Precinct name="Youth Center" totalVoters="933" ballotsCast="532" voterTurnout="57.02" percentReporting="4" />
+            <Precinct name="Second Darrien" totalVoters="357" ballotsCast="226" voterTurnout="63.31" percentReporting="4" />
+            <Precinct name="Sparta 4C" totalVoters="131" ballotsCast="81" voterTurnout="61.83" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Devereux Fire" votes="1" />
+            <Precinct name="St Mark" votes="0" />
+            <Precinct name="Courthouse" votes="2" />
+            <Precinct name="Second Beulah" votes="0" />
+            <Precinct name="Mayfield Community Center" votes="0" />
+            <Precinct name="Power of God" votes="0" />
+            <Precinct name="Warren Chapel" votes="1" />
+            <Precinct name="Youth Center" votes="1" />
+            <Precinct name="Second Darrien" votes="0" />
+            <Precinct name="Sparta 4C" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="1">
+            <Precinct name="Devereux Fire" votes="0" />
+            <Precinct name="St Mark" votes="0" />
+            <Precinct name="Courthouse" votes="0" />
+            <Precinct name="Second Beulah" votes="1" />
+            <Precinct name="Mayfield Community Center" votes="0" />
+            <Precinct name="Power of God" votes="0" />
+            <Precinct name="Warren Chapel" votes="0" />
+            <Precinct name="Youth Center" votes="0" />
+            <Precinct name="Second Darrien" votes="0" />
+            <Precinct name="Sparta 4C" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="910">
+            <VoteType name="Absentee by Mail Votes" votes="56">
+                <Precinct name="Devereux Fire" votes="18" />
+                <Precinct name="St Mark" votes="4" />
+                <Precinct name="Courthouse" votes="3" />
+                <Precinct name="Second Beulah" votes="3" />
+                <Precinct name="Mayfield Community Center" votes="3" />
+                <Precinct name="Power of God" votes="4" />
+                <Precinct name="Warren Chapel" votes="8" />
+                <Precinct name="Youth Center" votes="13" />
+                <Precinct name="Second Darrien" votes="0" />
+                <Precinct name="Sparta 4C" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="467">
+                <Precinct name="Devereux Fire" votes="189" />
+                <Precinct name="St Mark" votes="24" />
+                <Precinct name="Courthouse" votes="59" />
+                <Precinct name="Second Beulah" votes="18" />
+                <Precinct name="Mayfield Community Center" votes="12" />
+                <Precinct name="Power of God" votes="38" />
+                <Precinct name="Warren Chapel" votes="61" />
+                <Precinct name="Youth Center" votes="50" />
+                <Precinct name="Second Darrien" votes="11" />
+                <Precinct name="Sparta 4C" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="386">
+                <Precinct name="Devereux Fire" votes="133" />
+                <Precinct name="St Mark" votes="12" />
+                <Precinct name="Courthouse" votes="39" />
+                <Precinct name="Second Beulah" votes="12" />
+                <Precinct name="Mayfield Community Center" votes="8" />
+                <Precinct name="Power of God" votes="30" />
+                <Precinct name="Warren Chapel" votes="45" />
+                <Precinct name="Youth Center" votes="34" />
+                <Precinct name="Second Darrien" votes="63" />
+                <Precinct name="Sparta 4C" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Devereux Fire" votes="1" />
+                <Precinct name="St Mark" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Second Beulah" votes="0" />
+                <Precinct name="Mayfield Community Center" votes="0" />
+                <Precinct name="Power of God" votes="0" />
+                <Precinct name="Warren Chapel" votes="0" />
+                <Precinct name="Youth Center" votes="0" />
+                <Precinct name="Second Darrien" votes="0" />
+                <Precinct name="Sparta 4C" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="2356">
+            <VoteType name="Absentee by Mail Votes" votes="384">
+                <Precinct name="Devereux Fire" votes="50" />
+                <Precinct name="St Mark" votes="36" />
+                <Precinct name="Courthouse" votes="50" />
+                <Precinct name="Second Beulah" votes="58" />
+                <Precinct name="Mayfield Community Center" votes="24" />
+                <Precinct name="Power of God" votes="55" />
+                <Precinct name="Warren Chapel" votes="16" />
+                <Precinct name="Youth Center" votes="49" />
+                <Precinct name="Second Darrien" votes="32" />
+                <Precinct name="Sparta 4C" votes="14" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1163">
+                <Precinct name="Devereux Fire" votes="158" />
+                <Precinct name="St Mark" votes="122" />
+                <Precinct name="Courthouse" votes="197" />
+                <Precinct name="Second Beulah" votes="107" />
+                <Precinct name="Mayfield Community Center" votes="63" />
+                <Precinct name="Power of God" votes="134" />
+                <Precinct name="Warren Chapel" votes="49" />
+                <Precinct name="Youth Center" votes="247" />
+                <Precinct name="Second Darrien" votes="49" />
+                <Precinct name="Sparta 4C" votes="37" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="809">
+                <Precinct name="Devereux Fire" votes="111" />
+                <Precinct name="St Mark" votes="89" />
+                <Precinct name="Courthouse" votes="113" />
+                <Precinct name="Second Beulah" votes="76" />
+                <Precinct name="Mayfield Community Center" votes="64" />
+                <Precinct name="Power of God" votes="116" />
+                <Precinct name="Warren Chapel" votes="16" />
+                <Precinct name="Youth Center" votes="138" />
+                <Precinct name="Second Darrien" votes="71" />
+                <Precinct name="Sparta 4C" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Devereux Fire" votes="0" />
+                <Precinct name="St Mark" votes="0" />
+                <Precinct name="Courthouse" votes="0" />
+                <Precinct name="Second Beulah" votes="0" />
+                <Precinct name="Mayfield Community Center" votes="0" />
+                <Precinct name="Power of God" votes="0" />
+                <Precinct name="Warren Chapel" votes="0" />
+                <Precinct name="Youth Center" votes="0" />
+                <Precinct name="Second Darrien" votes="0" />
+                <Precinct name="Sparta 4C" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

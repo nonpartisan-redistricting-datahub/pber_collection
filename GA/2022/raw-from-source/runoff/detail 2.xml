@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/7/2022 12:09:38 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Montgomery</Region>
+    <VoterTurnout totalVoters="5399" ballotsCast="3041" voterTurnout="56.33">
+        <Precincts>
+            <Precinct name="Ailey" totalVoters="445" ballotsCast="292" voterTurnout="65.62" percentReporting="4" />
+            <Precinct name="Alston" totalVoters="480" ballotsCast="300" voterTurnout="62.50" percentReporting="4" />
+            <Precinct name="Higgston" totalVoters="1336" ballotsCast="749" voterTurnout="56.06" percentReporting="4" />
+            <Precinct name="Kibbee" totalVoters="504" ballotsCast="325" voterTurnout="64.48" percentReporting="4" />
+            <Precinct name="Mount Vernon" totalVoters="1421" ballotsCast="701" voterTurnout="49.33" percentReporting="4" />
+            <Precinct name="Tarrytown" totalVoters="303" ballotsCast="190" voterTurnout="62.71" percentReporting="4" />
+            <Precinct name="Uvalda" totalVoters="895" ballotsCast="484" voterTurnout="54.08" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Ailey" votes="0" />
+            <Precinct name="Alston" votes="1" />
+            <Precinct name="Higgston" votes="1" />
+            <Precinct name="Kibbee" votes="1" />
+            <Precinct name="Mount Vernon" votes="0" />
+            <Precinct name="Tarrytown" votes="0" />
+            <Precinct name="Uvalda" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ailey" votes="0" />
+            <Precinct name="Alston" votes="0" />
+            <Precinct name="Higgston" votes="0" />
+            <Precinct name="Kibbee" votes="0" />
+            <Precinct name="Mount Vernon" votes="0" />
+            <Precinct name="Tarrytown" votes="0" />
+            <Precinct name="Uvalda" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="2286">
+            <VoteType name="Absentee by Mail Votes" votes="67">
+                <Precinct name="Ailey" votes="6" />
+                <Precinct name="Alston" votes="5" />
+                <Precinct name="Higgston" votes="14" />
+                <Precinct name="Kibbee" votes="9" />
+                <Precinct name="Mount Vernon" votes="16" />
+                <Precinct name="Tarrytown" votes="2" />
+                <Precinct name="Uvalda" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="732">
+                <Precinct name="Ailey" votes="90" />
+                <Precinct name="Alston" votes="61" />
+                <Precinct name="Higgston" votes="209" />
+                <Precinct name="Kibbee" votes="71" />
+                <Precinct name="Mount Vernon" votes="170" />
+                <Precinct name="Tarrytown" votes="30" />
+                <Precinct name="Uvalda" votes="101" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1487">
+                <Precinct name="Ailey" votes="106" />
+                <Precinct name="Alston" votes="197" />
+                <Precinct name="Higgston" votes="367" />
+                <Precinct name="Kibbee" votes="214" />
+                <Precinct name="Mount Vernon" votes="223" />
+                <Precinct name="Tarrytown" votes="146" />
+                <Precinct name="Uvalda" votes="234" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ailey" votes="0" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="0" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="0" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="751">
+            <VoteType name="Absentee by Mail Votes" votes="44">
+                <Precinct name="Ailey" votes="7" />
+                <Precinct name="Alston" votes="2" />
+                <Precinct name="Higgston" votes="9" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="14" />
+                <Precinct name="Tarrytown" votes="1" />
+                <Precinct name="Uvalda" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="360">
+                <Precinct name="Ailey" votes="44" />
+                <Precinct name="Alston" votes="12" />
+                <Precinct name="Higgston" votes="70" />
+                <Precinct name="Kibbee" votes="5" />
+                <Precinct name="Mount Vernon" votes="161" />
+                <Precinct name="Tarrytown" votes="1" />
+                <Precinct name="Uvalda" votes="67" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="347">
+                <Precinct name="Ailey" votes="39" />
+                <Precinct name="Alston" votes="22" />
+                <Precinct name="Higgston" votes="79" />
+                <Precinct name="Kibbee" votes="25" />
+                <Precinct name="Mount Vernon" votes="117" />
+                <Precinct name="Tarrytown" votes="10" />
+                <Precinct name="Uvalda" votes="55" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ailey" votes="0" />
+                <Precinct name="Alston" votes="0" />
+                <Precinct name="Higgston" votes="0" />
+                <Precinct name="Kibbee" votes="0" />
+                <Precinct name="Mount Vernon" votes="0" />
+                <Precinct name="Tarrytown" votes="0" />
+                <Precinct name="Uvalda" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

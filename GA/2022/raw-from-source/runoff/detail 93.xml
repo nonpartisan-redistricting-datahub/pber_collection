@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 9:23:00 AM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Colquitt</Region>
+    <VoterTurnout totalVoters="24869" ballotsCast="11478" voterTurnout="46.15">
+        <Precincts>
+            <Precinct name="Shaw " totalVoters="3319" ballotsCast="1022" voterTurnout="30.79" percentReporting="4" />
+            <Precinct name="Moultrie" totalVoters="4766" ballotsCast="2087" voterTurnout="43.79" percentReporting="4" />
+            <Precinct name="Autreyville" totalVoters="1553" ballotsCast="685" voterTurnout="44.11" percentReporting="4" />
+            <Precinct name="Bridgecreek" totalVoters="1213" ballotsCast="646" voterTurnout="53.26" percentReporting="4" />
+            <Precinct name="Crosland" totalVoters="270" ballotsCast="141" voterTurnout="52.22" percentReporting="4" />
+            <Precinct name="Doerun" totalVoters="603" ballotsCast="336" voterTurnout="55.72" percentReporting="4" />
+            <Precinct name="Funston" totalVoters="1036" ballotsCast="562" voterTurnout="54.25" percentReporting="4" />
+            <Precinct name="Hamilton" totalVoters="780" ballotsCast="408" voterTurnout="52.31" percentReporting="4" />
+            <Precinct name="Hartsfield" totalVoters="416" ballotsCast="271" voterTurnout="65.14" percentReporting="4" />
+            <Precinct name="Hopewell" totalVoters="1636" ballotsCast="824" voterTurnout="50.37" percentReporting="4" />
+            <Precinct name="Lee" totalVoters="1104" ballotsCast="458" voterTurnout="41.49" percentReporting="4" />
+            <Precinct name="Millcreek" totalVoters="442" ballotsCast="228" voterTurnout="51.58" percentReporting="4" />
+            <Precinct name="Monk" totalVoters="1554" ballotsCast="781" voterTurnout="50.26" percentReporting="4" />
+            <Precinct name="Murphy" totalVoters="989" ballotsCast="618" voterTurnout="62.49" percentReporting="4" />
+            <Precinct name="Norman Park" totalVoters="2539" ballotsCast="1078" voterTurnout="42.46" percentReporting="4" />
+            <Precinct name="Robinson" totalVoters="871" ballotsCast="412" voterTurnout="47.30" percentReporting="4" />
+            <Precinct name="Thigpen" totalVoters="240" ballotsCast="137" voterTurnout="57.08" percentReporting="4" />
+            <Precinct name="TyTy" totalVoters="547" ballotsCast="271" voterTurnout="49.54" percentReporting="4" />
+            <Precinct name="Warrior" totalVoters="991" ballotsCast="513" voterTurnout="51.77" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="19" precinctsReported="19">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Shaw " votes="3" />
+            <Precinct name="Moultrie" votes="1" />
+            <Precinct name="Autreyville" votes="0" />
+            <Precinct name="Bridgecreek" votes="0" />
+            <Precinct name="Crosland" votes="0" />
+            <Precinct name="Doerun" votes="1" />
+            <Precinct name="Funston" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Hartsfield" votes="0" />
+            <Precinct name="Hopewell" votes="0" />
+            <Precinct name="Lee" votes="1" />
+            <Precinct name="Millcreek" votes="0" />
+            <Precinct name="Monk" votes="1" />
+            <Precinct name="Murphy" votes="0" />
+            <Precinct name="Norman Park" votes="0" />
+            <Precinct name="Robinson" votes="0" />
+            <Precinct name="Thigpen" votes="0" />
+            <Precinct name="TyTy" votes="0" />
+            <Precinct name="Warrior" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Shaw " votes="0" />
+            <Precinct name="Moultrie" votes="0" />
+            <Precinct name="Autreyville" votes="0" />
+            <Precinct name="Bridgecreek" votes="0" />
+            <Precinct name="Crosland" votes="0" />
+            <Precinct name="Doerun" votes="0" />
+            <Precinct name="Funston" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Hartsfield" votes="0" />
+            <Precinct name="Hopewell" votes="0" />
+            <Precinct name="Lee" votes="0" />
+            <Precinct name="Millcreek" votes="0" />
+            <Precinct name="Monk" votes="0" />
+            <Precinct name="Murphy" votes="0" />
+            <Precinct name="Norman Park" votes="0" />
+            <Precinct name="Robinson" votes="0" />
+            <Precinct name="Thigpen" votes="0" />
+            <Precinct name="TyTy" votes="0" />
+            <Precinct name="Warrior" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="8678">
+            <VoteType name="Absentee by Mail Votes" votes="236">
+                <Precinct name="Shaw " votes="6" />
+                <Precinct name="Moultrie" votes="74" />
+                <Precinct name="Autreyville" votes="7" />
+                <Precinct name="Bridgecreek" votes="12" />
+                <Precinct name="Crosland" votes="1" />
+                <Precinct name="Doerun" votes="5" />
+                <Precinct name="Funston" votes="9" />
+                <Precinct name="Hamilton" votes="8" />
+                <Precinct name="Hartsfield" votes="3" />
+                <Precinct name="Hopewell" votes="14" />
+                <Precinct name="Lee" votes="11" />
+                <Precinct name="Millcreek" votes="2" />
+                <Precinct name="Monk" votes="27" />
+                <Precinct name="Murphy" votes="11" />
+                <Precinct name="Norman Park" votes="21" />
+                <Precinct name="Robinson" votes="7" />
+                <Precinct name="Thigpen" votes="2" />
+                <Precinct name="TyTy" votes="2" />
+                <Precinct name="Warrior" votes="14" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3257">
+                <Precinct name="Shaw " votes="166" />
+                <Precinct name="Moultrie" votes="659" />
+                <Precinct name="Autreyville" votes="205" />
+                <Precinct name="Bridgecreek" votes="267" />
+                <Precinct name="Crosland" votes="15" />
+                <Precinct name="Doerun" votes="50" />
+                <Precinct name="Funston" votes="157" />
+                <Precinct name="Hamilton" votes="83" />
+                <Precinct name="Hartsfield" votes="46" />
+                <Precinct name="Hopewell" votes="340" />
+                <Precinct name="Lee" votes="127" />
+                <Precinct name="Millcreek" votes="74" />
+                <Precinct name="Monk" votes="250" />
+                <Precinct name="Murphy" votes="227" />
+                <Precinct name="Norman Park" votes="344" />
+                <Precinct name="Robinson" votes="81" />
+                <Precinct name="Thigpen" votes="31" />
+                <Precinct name="TyTy" votes="27" />
+                <Precinct name="Warrior" votes="108" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5181">
+                <Precinct name="Shaw " votes="70" />
+                <Precinct name="Moultrie" votes="528" />
+                <Precinct name="Autreyville" votes="350" />
+                <Precinct name="Bridgecreek" votes="314" />
+                <Precinct name="Crosland" votes="93" />
+                <Precinct name="Doerun" votes="166" />
+                <Precinct name="Funston" votes="324" />
+                <Precinct name="Hamilton" votes="280" />
+                <Precinct name="Hartsfield" votes="203" />
+                <Precinct name="Hopewell" votes="361" />
+                <Precinct name="Lee" votes="253" />
+                <Precinct name="Millcreek" votes="130" />
+                <Precinct name="Monk" votes="384" />
+                <Precinct name="Murphy" votes="312" />
+                <Precinct name="Norman Park" votes="487" />
+                <Precinct name="Robinson" votes="265" />
+                <Precinct name="Thigpen" votes="91" />
+                <Precinct name="TyTy" votes="227" />
+                <Precinct name="Warrior" votes="343" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Shaw " votes="1" />
+                <Precinct name="Moultrie" votes="0" />
+                <Precinct name="Autreyville" votes="1" />
+                <Precinct name="Bridgecreek" votes="0" />
+                <Precinct name="Crosland" votes="0" />
+                <Precinct name="Doerun" votes="0" />
+                <Precinct name="Funston" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Hartsfield" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Lee" votes="0" />
+                <Precinct name="Millcreek" votes="0" />
+                <Precinct name="Monk" votes="0" />
+                <Precinct name="Murphy" votes="1" />
+                <Precinct name="Norman Park" votes="1" />
+                <Precinct name="Robinson" votes="0" />
+                <Precinct name="Thigpen" votes="0" />
+                <Precinct name="TyTy" votes="0" />
+                <Precinct name="Warrior" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="2791">
+            <VoteType name="Absentee by Mail Votes" votes="201">
+                <Precinct name="Shaw " votes="49" />
+                <Precinct name="Moultrie" votes="60" />
+                <Precinct name="Autreyville" votes="7" />
+                <Precinct name="Bridgecreek" votes="6" />
+                <Precinct name="Crosland" votes="3" />
+                <Precinct name="Doerun" votes="3" />
+                <Precinct name="Funston" votes="4" />
+                <Precinct name="Hamilton" votes="4" />
+                <Precinct name="Hartsfield" votes="5" />
+                <Precinct name="Hopewell" votes="7" />
+                <Precinct name="Lee" votes="2" />
+                <Precinct name="Millcreek" votes="0" />
+                <Precinct name="Monk" votes="20" />
+                <Precinct name="Murphy" votes="6" />
+                <Precinct name="Norman Park" votes="19" />
+                <Precinct name="Robinson" votes="4" />
+                <Precinct name="Thigpen" votes="0" />
+                <Precinct name="TyTy" votes="2" />
+                <Precinct name="Warrior" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1416">
+                <Precinct name="Shaw " votes="376" />
+                <Precinct name="Moultrie" votes="488" />
+                <Precinct name="Autreyville" votes="75" />
+                <Precinct name="Bridgecreek" votes="27" />
+                <Precinct name="Crosland" votes="5" />
+                <Precinct name="Doerun" votes="24" />
+                <Precinct name="Funston" votes="38" />
+                <Precinct name="Hamilton" votes="14" />
+                <Precinct name="Hartsfield" votes="5" />
+                <Precinct name="Hopewell" votes="56" />
+                <Precinct name="Lee" votes="45" />
+                <Precinct name="Millcreek" votes="10" />
+                <Precinct name="Monk" votes="59" />
+                <Precinct name="Murphy" votes="41" />
+                <Precinct name="Norman Park" votes="110" />
+                <Precinct name="Robinson" votes="22" />
+                <Precinct name="Thigpen" votes="1" />
+                <Precinct name="TyTy" votes="7" />
+                <Precinct name="Warrior" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1173">
+                <Precinct name="Shaw " votes="351" />
+                <Precinct name="Moultrie" votes="276" />
+                <Precinct name="Autreyville" votes="40" />
+                <Precinct name="Bridgecreek" votes="20" />
+                <Precinct name="Crosland" votes="24" />
+                <Precinct name="Doerun" votes="87" />
+                <Precinct name="Funston" votes="30" />
+                <Precinct name="Hamilton" votes="19" />
+                <Precinct name="Hartsfield" votes="9" />
+                <Precinct name="Hopewell" votes="46" />
+                <Precinct name="Lee" votes="19" />
+                <Precinct name="Millcreek" votes="12" />
+                <Precinct name="Monk" votes="40" />
+                <Precinct name="Murphy" votes="20" />
+                <Precinct name="Norman Park" votes="96" />
+                <Precinct name="Robinson" votes="33" />
+                <Precinct name="Thigpen" votes="12" />
+                <Precinct name="TyTy" votes="6" />
+                <Precinct name="Warrior" votes="33" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Shaw " votes="0" />
+                <Precinct name="Moultrie" votes="1" />
+                <Precinct name="Autreyville" votes="0" />
+                <Precinct name="Bridgecreek" votes="0" />
+                <Precinct name="Crosland" votes="0" />
+                <Precinct name="Doerun" votes="0" />
+                <Precinct name="Funston" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Hartsfield" votes="0" />
+                <Precinct name="Hopewell" votes="0" />
+                <Precinct name="Lee" votes="0" />
+                <Precinct name="Millcreek" votes="0" />
+                <Precinct name="Monk" votes="0" />
+                <Precinct name="Murphy" votes="0" />
+                <Precinct name="Norman Park" votes="0" />
+                <Precinct name="Robinson" votes="0" />
+                <Precinct name="Thigpen" votes="0" />
+                <Precinct name="TyTy" votes="0" />
+                <Precinct name="Warrior" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

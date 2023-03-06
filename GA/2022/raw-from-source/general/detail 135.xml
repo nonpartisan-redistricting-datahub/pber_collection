@@ -1,0 +1,2383 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/15/2022 10:04:29 AM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Jackson</Region>
+    <VoterTurnout totalVoters="53793" ballotsCast="31954" voterTurnout="59.40">
+        <Precincts>
+            <Precinct name="Central Jackson" totalVoters="16767" ballotsCast="9861" voterTurnout="58.81" percentReporting="4" />
+            <Precinct name="North Jackson" totalVoters="12416" ballotsCast="6971" voterTurnout="56.15" percentReporting="4" />
+            <Precinct name="West Jackson" totalVoters="16469" ballotsCast="10501" voterTurnout="63.76" percentReporting="4" />
+            <Precinct name="South Jackson" totalVoters="8035" ballotsCast="4621" voterTurnout="57.51" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="167">
+            <Precinct name="Central Jackson" votes="43" />
+            <Precinct name="North Jackson" votes="42" />
+            <Precinct name="West Jackson" votes="55" />
+            <Precinct name="South Jackson" votes="27" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="24379">
+            <VoteType name="Absentee by Mail Votes" votes="721">
+                <Precinct name="Central Jackson" votes="181" />
+                <Precinct name="North Jackson" votes="182" />
+                <Precinct name="West Jackson" votes="248" />
+                <Precinct name="South Jackson" votes="110" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="14783">
+                <Precinct name="Central Jackson" votes="4734" />
+                <Precinct name="North Jackson" votes="3279" />
+                <Precinct name="West Jackson" votes="4836" />
+                <Precinct name="South Jackson" votes="1934" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8870">
+                <Precinct name="Central Jackson" votes="2593" />
+                <Precinct name="North Jackson" votes="1965" />
+                <Precinct name="West Jackson" votes="2968" />
+                <Precinct name="South Jackson" votes="1344" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="3" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="6504">
+            <VoteType name="Absentee by Mail Votes" votes="624">
+                <Precinct name="Central Jackson" votes="166" />
+                <Precinct name="North Jackson" votes="141" />
+                <Precinct name="West Jackson" votes="201" />
+                <Precinct name="South Jackson" votes="116" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3862">
+                <Precinct name="Central Jackson" votes="1263" />
+                <Precinct name="North Jackson" votes="720" />
+                <Precinct name="West Jackson" votes="1248" />
+                <Precinct name="South Jackson" votes="631" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2015">
+                <Precinct name="Central Jackson" votes="601" />
+                <Precinct name="North Jackson" votes="431" />
+                <Precinct name="West Jackson" votes="659" />
+                <Precinct name="South Jackson" votes="324" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Chase Oliver (Lib)" totalVotes="823">
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Central Jackson" votes="8" />
+                <Precinct name="North Jackson" votes="6" />
+                <Precinct name="West Jackson" votes="11" />
+                <Precinct name="South Jackson" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="409">
+                <Precinct name="Central Jackson" votes="145" />
+                <Precinct name="North Jackson" votes="94" />
+                <Precinct name="West Jackson" votes="116" />
+                <Precinct name="South Jackson" votes="54" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="381">
+                <Precinct name="Central Jackson" votes="105" />
+                <Precinct name="North Jackson" votes="84" />
+                <Precinct name="West Jackson" votes="136" />
+                <Precinct name="South Jackson" votes="56" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="1" />
+                <Precinct name="West Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="50">
+            <Precinct name="Central Jackson" votes="22" />
+            <Precinct name="North Jackson" votes="10" />
+            <Precinct name="West Jackson" votes="11" />
+            <Precinct name="South Jackson" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="5" text="Brian Kemp (I) (Rep)" totalVotes="26223">
+            <VoteType name="Absentee by Mail Votes" votes="857">
+                <Precinct name="Central Jackson" votes="211" />
+                <Precinct name="North Jackson" votes="213" />
+                <Precinct name="West Jackson" votes="305" />
+                <Precinct name="South Jackson" votes="128" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15781">
+                <Precinct name="Central Jackson" votes="5045" />
+                <Precinct name="North Jackson" votes="3502" />
+                <Precinct name="West Jackson" votes="5161" />
+                <Precinct name="South Jackson" votes="2073" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9579">
+                <Precinct name="Central Jackson" votes="2796" />
+                <Precinct name="North Jackson" votes="2101" />
+                <Precinct name="West Jackson" votes="3223" />
+                <Precinct name="South Jackson" votes="1459" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="4" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Stacey Abrams (Dem)" totalVotes="5420">
+            <VoteType name="Absentee by Mail Votes" votes="525">
+                <Precinct name="Central Jackson" votes="140" />
+                <Precinct name="North Jackson" votes="118" />
+                <Precinct name="West Jackson" votes="159" />
+                <Precinct name="South Jackson" votes="108" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3277">
+                <Precinct name="Central Jackson" votes="1075" />
+                <Precinct name="North Jackson" votes="603" />
+                <Precinct name="West Jackson" votes="1049" />
+                <Precinct name="South Jackson" votes="550" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1615">
+                <Precinct name="Central Jackson" votes="484" />
+                <Precinct name="North Jackson" votes="359" />
+                <Precinct name="West Jackson" votes="518" />
+                <Precinct name="South Jackson" votes="254" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="7" text="Shane Hazel (Lib)" totalVotes="238">
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Central Jackson" votes="3" />
+                <Precinct name="North Jackson" votes="2" />
+                <Precinct name="West Jackson" votes="7" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="102">
+                <Precinct name="Central Jackson" votes="45" />
+                <Precinct name="North Jackson" votes="21" />
+                <Precinct name="West Jackson" votes="20" />
+                <Precinct name="South Jackson" votes="16" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="123">
+                <Precinct name="Central Jackson" votes="31" />
+                <Precinct name="North Jackson" votes="34" />
+                <Precinct name="West Jackson" votes="39" />
+                <Precinct name="South Jackson" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="279">
+            <Precinct name="Central Jackson" votes="92" />
+            <Precinct name="North Jackson" votes="56" />
+            <Precinct name="West Jackson" votes="80" />
+            <Precinct name="South Jackson" votes="51" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="9" text="Burt Jones (Rep)" totalVotes="25236">
+            <VoteType name="Absentee by Mail Votes" votes="792">
+                <Precinct name="Central Jackson" votes="195" />
+                <Precinct name="North Jackson" votes="198" />
+                <Precinct name="West Jackson" votes="281" />
+                <Precinct name="South Jackson" votes="118" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15253">
+                <Precinct name="Central Jackson" votes="4863" />
+                <Precinct name="North Jackson" votes="3395" />
+                <Precinct name="West Jackson" votes="4984" />
+                <Precinct name="South Jackson" votes="2011" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9185">
+                <Precinct name="Central Jackson" votes="2688" />
+                <Precinct name="North Jackson" votes="2012" />
+                <Precinct name="West Jackson" votes="3097" />
+                <Precinct name="South Jackson" votes="1388" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="4" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="10" text="Charlie Bailey (Dem)" totalVotes="5724">
+            <VoteType name="Absentee by Mail Votes" votes="567">
+                <Precinct name="Central Jackson" votes="150" />
+                <Precinct name="North Jackson" votes="131" />
+                <Precinct name="West Jackson" votes="175" />
+                <Precinct name="South Jackson" votes="111" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3426">
+                <Precinct name="Central Jackson" votes="1121" />
+                <Precinct name="North Jackson" votes="634" />
+                <Precinct name="West Jackson" votes="1107" />
+                <Precinct name="South Jackson" votes="564" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1728">
+                <Precinct name="Central Jackson" votes="506" />
+                <Precinct name="North Jackson" votes="384" />
+                <Precinct name="West Jackson" votes="559" />
+                <Precinct name="South Jackson" votes="279" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="Ryan Graham (Lib)" totalVotes="684">
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Central Jackson" votes="4" />
+                <Precinct name="North Jackson" votes="3" />
+                <Precinct name="West Jackson" votes="12" />
+                <Precinct name="South Jackson" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="350">
+                <Precinct name="Central Jackson" votes="142" />
+                <Precinct name="North Jackson" votes="72" />
+                <Precinct name="West Jackson" votes="100" />
+                <Precinct name="South Jackson" votes="36" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="309">
+                <Precinct name="Central Jackson" votes="90" />
+                <Precinct name="North Jackson" votes="74" />
+                <Precinct name="West Jackson" votes="93" />
+                <Precinct name="South Jackson" votes="52" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="338">
+            <Precinct name="Central Jackson" votes="102" />
+            <Precinct name="North Jackson" votes="83" />
+            <Precinct name="West Jackson" votes="97" />
+            <Precinct name="South Jackson" votes="56" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="13" text="Brad Raffensperger (I) (Rep)" totalVotes="24943">
+            <VoteType name="Absentee by Mail Votes" votes="842">
+                <Precinct name="Central Jackson" votes="214" />
+                <Precinct name="North Jackson" votes="210" />
+                <Precinct name="West Jackson" votes="295" />
+                <Precinct name="South Jackson" votes="123" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15100">
+                <Precinct name="Central Jackson" votes="4826" />
+                <Precinct name="North Jackson" votes="3338" />
+                <Precinct name="West Jackson" votes="4933" />
+                <Precinct name="South Jackson" votes="2003" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8995">
+                <Precinct name="Central Jackson" votes="2640" />
+                <Precinct name="North Jackson" votes="1977" />
+                <Precinct name="West Jackson" votes="3003" />
+                <Precinct name="South Jackson" votes="1375" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="4" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="14" text="Bee Nguyen (Dem)" totalVotes="5313">
+            <VoteType name="Absentee by Mail Votes" votes="501">
+                <Precinct name="Central Jackson" votes="128" />
+                <Precinct name="North Jackson" votes="112" />
+                <Precinct name="West Jackson" votes="157" />
+                <Precinct name="South Jackson" votes="104" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3178">
+                <Precinct name="Central Jackson" votes="1038" />
+                <Precinct name="North Jackson" votes="590" />
+                <Precinct name="West Jackson" votes="1026" />
+                <Precinct name="South Jackson" votes="524" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1631">
+                <Precinct name="Central Jackson" votes="496" />
+                <Precinct name="North Jackson" votes="348" />
+                <Precinct name="West Jackson" votes="536" />
+                <Precinct name="South Jackson" votes="251" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="15" text="Ted Metz (Lib)" totalVotes="1293">
+            <VoteType name="Absentee by Mail Votes" votes="34">
+                <Precinct name="Central Jackson" votes="5" />
+                <Precinct name="North Jackson" votes="7" />
+                <Precinct name="West Jackson" votes="15" />
+                <Precinct name="South Jackson" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="703">
+                <Precinct name="Central Jackson" votes="244" />
+                <Precinct name="North Jackson" votes="155" />
+                <Precinct name="West Jackson" votes="222" />
+                <Precinct name="South Jackson" votes="82" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="556">
+                <Precinct name="Central Jackson" votes="144" />
+                <Precinct name="North Jackson" votes="130" />
+                <Precinct name="West Jackson" votes="196" />
+                <Precinct name="South Jackson" votes="86" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="239">
+            <Precinct name="Central Jackson" votes="78" />
+            <Precinct name="North Jackson" votes="42" />
+            <Precinct name="West Jackson" votes="66" />
+            <Precinct name="South Jackson" votes="53" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="17" text="Chris Carr (I) (Rep)" totalVotes="25442">
+            <VoteType name="Absentee by Mail Votes" votes="806">
+                <Precinct name="Central Jackson" votes="194" />
+                <Precinct name="North Jackson" votes="205" />
+                <Precinct name="West Jackson" votes="284" />
+                <Precinct name="South Jackson" votes="123" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15376">
+                <Precinct name="Central Jackson" votes="4926" />
+                <Precinct name="North Jackson" votes="3406" />
+                <Precinct name="West Jackson" votes="5028" />
+                <Precinct name="South Jackson" votes="2016" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9254">
+                <Precinct name="Central Jackson" votes="2711" />
+                <Precinct name="North Jackson" votes="2027" />
+                <Precinct name="West Jackson" votes="3108" />
+                <Precinct name="South Jackson" votes="1408" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="4" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="5757">
+            <VoteType name="Absentee by Mail Votes" votes="555">
+                <Precinct name="Central Jackson" votes="151" />
+                <Precinct name="North Jackson" votes="126" />
+                <Precinct name="West Jackson" votes="168" />
+                <Precinct name="South Jackson" votes="110" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3459">
+                <Precinct name="Central Jackson" votes="1120" />
+                <Precinct name="North Jackson" votes="661" />
+                <Precinct name="West Jackson" votes="1101" />
+                <Precinct name="South Jackson" votes="577" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1740">
+                <Precinct name="Central Jackson" votes="501" />
+                <Precinct name="North Jackson" votes="393" />
+                <Precinct name="West Jackson" votes="571" />
+                <Precinct name="South Jackson" votes="275" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="19" text="Martin Cowen (Lib)" totalVotes="503">
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Central Jackson" votes="3" />
+                <Precinct name="North Jackson" votes="3" />
+                <Precinct name="West Jackson" votes="12" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="236">
+                <Precinct name="Central Jackson" votes="91" />
+                <Precinct name="North Jackson" votes="45" />
+                <Precinct name="West Jackson" votes="78" />
+                <Precinct name="South Jackson" votes="22" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="248">
+                <Precinct name="Central Jackson" votes="79" />
+                <Precinct name="North Jackson" votes="58" />
+                <Precinct name="West Jackson" votes="80" />
+                <Precinct name="South Jackson" votes="31" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Commissioner of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="319">
+            <Precinct name="Central Jackson" votes="96" />
+            <Precinct name="North Jackson" votes="67" />
+            <Precinct name="West Jackson" votes="96" />
+            <Precinct name="South Jackson" votes="60" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="21" text="Tyler Harper (Rep)" totalVotes="25678">
+            <VoteType name="Absentee by Mail Votes" votes="837">
+                <Precinct name="Central Jackson" votes="206" />
+                <Precinct name="North Jackson" votes="211" />
+                <Precinct name="West Jackson" votes="294" />
+                <Precinct name="South Jackson" votes="126" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15499">
+                <Precinct name="Central Jackson" votes="4964" />
+                <Precinct name="North Jackson" votes="3440" />
+                <Precinct name="West Jackson" votes="5058" />
+                <Precinct name="South Jackson" votes="2037" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9336">
+                <Precinct name="Central Jackson" votes="2717" />
+                <Precinct name="North Jackson" votes="2063" />
+                <Precinct name="West Jackson" votes="3127" />
+                <Precinct name="South Jackson" votes="1429" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="4" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Nakita Hemingway (Dem)" totalVotes="5232">
+            <VoteType name="Absentee by Mail Votes" votes="511">
+                <Precinct name="Central Jackson" votes="134" />
+                <Precinct name="North Jackson" votes="118" />
+                <Precinct name="West Jackson" votes="156" />
+                <Precinct name="South Jackson" votes="103" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3171">
+                <Precinct name="Central Jackson" votes="1041" />
+                <Precinct name="North Jackson" votes="597" />
+                <Precinct name="West Jackson" votes="1014" />
+                <Precinct name="South Jackson" votes="519" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1547">
+                <Precinct name="Central Jackson" votes="461" />
+                <Precinct name="North Jackson" votes="333" />
+                <Precinct name="West Jackson" votes="513" />
+                <Precinct name="South Jackson" votes="240" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="David Raudabaugh (Lib)" totalVotes="703">
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Central Jackson" votes="8" />
+                <Precinct name="North Jackson" votes="3" />
+                <Precinct name="West Jackson" votes="13" />
+                <Precinct name="South Jackson" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="345">
+                <Precinct name="Central Jackson" votes="117" />
+                <Precinct name="North Jackson" votes="62" />
+                <Precinct name="West Jackson" votes="114" />
+                <Precinct name="South Jackson" votes="52" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="332">
+                <Precinct name="Central Jackson" votes="104" />
+                <Precinct name="North Jackson" votes="70" />
+                <Precinct name="West Jackson" votes="110" />
+                <Precinct name="South Jackson" votes="48" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Commissioner of Insurance" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="433">
+            <Precinct name="Central Jackson" votes="132" />
+            <Precinct name="North Jackson" votes="79" />
+            <Precinct name="West Jackson" votes="136" />
+            <Precinct name="South Jackson" votes="86" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="25" text="John King (I) (Rep)" totalVotes="25971">
+            <VoteType name="Absentee by Mail Votes" votes="839">
+                <Precinct name="Central Jackson" votes="205" />
+                <Precinct name="North Jackson" votes="209" />
+                <Precinct name="West Jackson" votes="295" />
+                <Precinct name="South Jackson" votes="130" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15625">
+                <Precinct name="Central Jackson" votes="5015" />
+                <Precinct name="North Jackson" votes="3468" />
+                <Precinct name="West Jackson" votes="5101" />
+                <Precinct name="South Jackson" votes="2041" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9501">
+                <Precinct name="Central Jackson" votes="2770" />
+                <Precinct name="North Jackson" votes="2095" />
+                <Precinct name="West Jackson" votes="3194" />
+                <Precinct name="South Jackson" votes="1442" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="4" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="26" text="Janice Laws Robinson (Dem)" totalVotes="5522">
+            <VoteType name="Absentee by Mail Votes" votes="529">
+                <Precinct name="Central Jackson" votes="141" />
+                <Precinct name="North Jackson" votes="121" />
+                <Precinct name="West Jackson" votes="165" />
+                <Precinct name="South Jackson" votes="102" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3330">
+                <Precinct name="Central Jackson" votes="1088" />
+                <Precinct name="North Jackson" votes="624" />
+                <Precinct name="West Jackson" votes="1061" />
+                <Precinct name="South Jackson" votes="557" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1660">
+                <Precinct name="Central Jackson" votes="498" />
+                <Precinct name="North Jackson" votes="368" />
+                <Precinct name="West Jackson" votes="535" />
+                <Precinct name="South Jackson" votes="259" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="376">
+            <Precinct name="Central Jackson" votes="117" />
+            <Precinct name="North Jackson" votes="67" />
+            <Precinct name="West Jackson" votes="118" />
+            <Precinct name="South Jackson" votes="74" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="28" text="Richard Woods (I) (Rep)" totalVotes="26057">
+            <VoteType name="Absentee by Mail Votes" votes="842">
+                <Precinct name="Central Jackson" votes="210" />
+                <Precinct name="North Jackson" votes="211" />
+                <Precinct name="West Jackson" votes="296" />
+                <Precinct name="South Jackson" votes="125" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15691">
+                <Precinct name="Central Jackson" votes="5035" />
+                <Precinct name="North Jackson" votes="3477" />
+                <Precinct name="West Jackson" votes="5117" />
+                <Precinct name="South Jackson" votes="2062" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9518">
+                <Precinct name="Central Jackson" votes="2779" />
+                <Precinct name="North Jackson" votes="2091" />
+                <Precinct name="West Jackson" votes="3201" />
+                <Precinct name="South Jackson" votes="1447" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="4" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="Alisha Thomas Searcy (Dem)" totalVotes="5491">
+            <VoteType name="Absentee by Mail Votes" votes="524">
+                <Precinct name="Central Jackson" votes="138" />
+                <Precinct name="North Jackson" votes="121" />
+                <Precinct name="West Jackson" votes="161" />
+                <Precinct name="South Jackson" votes="104" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3298">
+                <Precinct name="Central Jackson" votes="1078" />
+                <Precinct name="North Jackson" votes="617" />
+                <Precinct name="West Jackson" votes="1062" />
+                <Precinct name="South Jackson" votes="541" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1666">
+                <Precinct name="Central Jackson" votes="490" />
+                <Precinct name="North Jackson" votes="380" />
+                <Precinct name="West Jackson" votes="534" />
+                <Precinct name="South Jackson" votes="262" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner of Labor" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="392">
+            <Precinct name="Central Jackson" votes="134" />
+            <Precinct name="North Jackson" votes="62" />
+            <Precinct name="West Jackson" votes="116" />
+            <Precinct name="South Jackson" votes="80" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="31" text="Bruce Thompson (Rep)" totalVotes="25344">
+            <VoteType name="Absentee by Mail Votes" votes="808">
+                <Precinct name="Central Jackson" votes="196" />
+                <Precinct name="North Jackson" votes="210" />
+                <Precinct name="West Jackson" votes="279" />
+                <Precinct name="South Jackson" votes="123" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15323">
+                <Precinct name="Central Jackson" votes="4904" />
+                <Precinct name="North Jackson" votes="3411" />
+                <Precinct name="West Jackson" votes="4996" />
+                <Precinct name="South Jackson" votes="2012" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9207">
+                <Precinct name="Central Jackson" votes="2675" />
+                <Precinct name="North Jackson" votes="2036" />
+                <Precinct name="West Jackson" votes="3096" />
+                <Precinct name="South Jackson" votes="1400" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="4" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="32" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="5415">
+            <VoteType name="Absentee by Mail Votes" votes="529">
+                <Precinct name="Central Jackson" votes="144" />
+                <Precinct name="North Jackson" votes="118" />
+                <Precinct name="West Jackson" votes="164" />
+                <Precinct name="South Jackson" votes="103" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3275">
+                <Precinct name="Central Jackson" votes="1056" />
+                <Precinct name="North Jackson" votes="614" />
+                <Precinct name="West Jackson" votes="1060" />
+                <Precinct name="South Jackson" votes="545" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1608">
+                <Precinct name="Central Jackson" votes="483" />
+                <Precinct name="North Jackson" votes="356" />
+                <Precinct name="West Jackson" votes="512" />
+                <Precinct name="South Jackson" votes="257" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="33" text="Emily Anderson (Lib)" totalVotes="786">
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Central Jackson" votes="6" />
+                <Precinct name="North Jackson" votes="3" />
+                <Precinct name="West Jackson" votes="13" />
+                <Precinct name="South Jackson" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="394">
+                <Precinct name="Central Jackson" votes="145" />
+                <Precinct name="North Jackson" votes="77" />
+                <Precinct name="West Jackson" votes="124" />
+                <Precinct name="South Jackson" votes="48" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="366">
+                <Precinct name="Central Jackson" votes="106" />
+                <Precinct name="North Jackson" votes="78" />
+                <Precinct name="West Jackson" votes="137" />
+                <Precinct name="South Jackson" votes="45" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="US House of Representatives - District 10" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="322">
+            <Precinct name="Central Jackson" votes="104" />
+            <Precinct name="North Jackson" votes="64" />
+            <Precinct name="West Jackson" votes="101" />
+            <Precinct name="South Jackson" votes="53" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Mike Collins (Rep)" totalVotes="25879">
+            <VoteType name="Absentee by Mail Votes" votes="809">
+                <Precinct name="Central Jackson" votes="195" />
+                <Precinct name="North Jackson" votes="211" />
+                <Precinct name="West Jackson" votes="280" />
+                <Precinct name="South Jackson" votes="123" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15579">
+                <Precinct name="Central Jackson" votes="4996" />
+                <Precinct name="North Jackson" votes="3467" />
+                <Precinct name="West Jackson" votes="5075" />
+                <Precinct name="South Jackson" votes="2041" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9485">
+                <Precinct name="Central Jackson" votes="2758" />
+                <Precinct name="North Jackson" votes="2097" />
+                <Precinct name="West Jackson" votes="3187" />
+                <Precinct name="South Jackson" votes="1443" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="4" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="Tabitha Johnson-Green (Dem)" totalVotes="5738">
+            <VoteType name="Absentee by Mail Votes" votes="564">
+                <Precinct name="Central Jackson" votes="152" />
+                <Precinct name="North Jackson" votes="120" />
+                <Precinct name="West Jackson" votes="184" />
+                <Precinct name="South Jackson" votes="108" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3445">
+                <Precinct name="Central Jackson" votes="1130" />
+                <Precinct name="North Jackson" votes="631" />
+                <Precinct name="West Jackson" votes="1111" />
+                <Precinct name="South Jackson" votes="573" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1726">
+                <Precinct name="Central Jackson" votes="519" />
+                <Precinct name="North Jackson" votes="375" />
+                <Precinct name="West Jackson" votes="557" />
+                <Precinct name="South Jackson" votes="275" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="State Senate - District 47" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="357">
+            <Precinct name="Central Jackson" votes="138" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="145" />
+            <Precinct name="South Jackson" votes="74" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Frank Ginn (I) (Rep)" totalVotes="20129">
+            <VoteType name="Absentee by Mail Votes" votes="619">
+                <Precinct name="Central Jackson" votes="203" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="294" />
+                <Precinct name="South Jackson" votes="122" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12117">
+                <Precinct name="Central Jackson" votes="4994" />
+                <Precinct name="North Jackson" votes="5" />
+                <Precinct name="West Jackson" votes="5081" />
+                <Precinct name="South Jackson" votes="2037" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7391">
+                <Precinct name="Central Jackson" votes="2758" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="3192" />
+                <Precinct name="South Jackson" votes="1441" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="Conolus Scott, Jr. (Dem)" totalVotes="4468">
+            <VoteType name="Absentee by Mail Votes" votes="418">
+                <Precinct name="Central Jackson" votes="142" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="167" />
+                <Precinct name="South Jackson" votes="109" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2746">
+                <Precinct name="Central Jackson" votes="1106" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="1081" />
+                <Precinct name="South Jackson" votes="559" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1301">
+                <Precinct name="Central Jackson" votes="498" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="531" />
+                <Precinct name="South Jackson" votes="272" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="State Senate - District 50" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="72">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="72" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Bo Hatchett (I) (Rep)" totalVotes="5768">
+            <VoteType name="Absentee by Mail Votes" votes="211">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="211" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3460">
+                <Precinct name="Central Jackson" votes="2" />
+                <Precinct name="North Jackson" votes="3458" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2093">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="2092" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="Paulette Williams (Dem)" totalVotes="1128">
+            <VoteType name="Absentee by Mail Votes" votes="123">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="122" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="632">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="632" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="373">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="373" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State House of Representatives - District 31" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="1769">
+            <Precinct name="Central Jackson" votes="874" />
+            <Precinct name="North Jackson" votes="152" />
+            <Precinct name="West Jackson" votes="743" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+        </VoteType>
+        <Choice key="51" text="Emory Dunahoo, Jr. (I) (Rep)" totalVotes="18581">
+            <VoteType name="Absentee by Mail Votes" votes="611">
+                <Precinct name="Central Jackson" votes="244" />
+                <Precinct name="North Jackson" votes="71" />
+                <Precinct name="West Jackson" votes="296" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11549">
+                <Precinct name="Central Jackson" votes="5456" />
+                <Precinct name="North Jackson" votes="1293" />
+                <Precinct name="West Jackson" votes="4800" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6421">
+                <Precinct name="Central Jackson" votes="3026" />
+                <Precinct name="North Jackson" votes="550" />
+                <Precinct name="West Jackson" votes="2845" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="State House of Representatives - District 32" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="297">
+            <Precinct name="North Jackson" votes="297" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="North Jackson" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Chris Erwin (I) (Rep)" totalVotes="3008">
+            <VoteType name="Absentee by Mail Votes" votes="120">
+                <Precinct name="North Jackson" votes="120" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1620">
+                <Precinct name="North Jackson" votes="1620" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1267">
+                <Precinct name="North Jackson" votes="1267" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="North Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="State House of Representatives - District 119" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="200">
+            <Precinct name="West Jackson" votes="200" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West Jackson" votes="0" />
+        </VoteType>
+        <Choice key="55" text="Danny Rampey (Rep)" totalVotes="1422">
+            <VoteType name="Absentee by Mail Votes" votes="47">
+                <Precinct name="West Jackson" votes="47" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="762">
+                <Precinct name="West Jackson" votes="762" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="611">
+                <Precinct name="West Jackson" votes="611" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West Jackson" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="State House of Representatives - District 120" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="77">
+            <Precinct name="North Jackson" votes="14" />
+            <Precinct name="South Jackson" votes="63" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="57" text="Houston Gaines (I) (Rep)" totalVotes="4898">
+            <VoteType name="Absentee by Mail Votes" votes="175">
+                <Precinct name="North Jackson" votes="47" />
+                <Precinct name="South Jackson" votes="128" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2835">
+                <Precinct name="North Jackson" votes="771" />
+                <Precinct name="South Jackson" votes="2064" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1884">
+                <Precinct name="North Jackson" votes="437" />
+                <Precinct name="South Jackson" votes="1447" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="North Jackson" votes="3" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="Mokah Jasmine Johnson (Dem)" totalVotes="1155">
+            <VoteType name="Absentee by Mail Votes" votes="127">
+                <Precinct name="North Jackson" votes="24" />
+                <Precinct name="South Jackson" votes="103" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="687">
+                <Precinct name="North Jackson" votes="140" />
+                <Precinct name="South Jackson" votes="547" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="340">
+                <Precinct name="North Jackson" votes="76" />
+                <Precinct name="South Jackson" votes="264" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="County Commission - District 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="795">
+            <Precinct name="West Jackson" votes="795" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West Jackson" votes="0" />
+        </VoteType>
+        <Choice key="60" text="Chad Bingham (Rep)" totalVotes="6781">
+            <VoteType name="Absentee by Mail Votes" votes="231">
+                <Precinct name="West Jackson" votes="231" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3922">
+                <Precinct name="West Jackson" votes="3922" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2626">
+                <Precinct name="West Jackson" votes="2626" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West Jackson" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="County Commission - District 4" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="109">
+            <Precinct name="Central Jackson" votes="17" />
+            <Precinct name="North Jackson" votes="7" />
+            <Precinct name="South Jackson" votes="85" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="62" text="Marty Seagraves (I) (Rep)" totalVotes="4960">
+            <VoteType name="Absentee by Mail Votes" votes="164">
+                <Precinct name="Central Jackson" votes="14" />
+                <Precinct name="North Jackson" votes="23" />
+                <Precinct name="South Jackson" votes="127" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2937">
+                <Precinct name="Central Jackson" votes="441" />
+                <Precinct name="North Jackson" votes="426" />
+                <Precinct name="South Jackson" votes="2070" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1858">
+                <Precinct name="Central Jackson" votes="214" />
+                <Precinct name="North Jackson" votes="180" />
+                <Precinct name="South Jackson" votes="1464" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Madonna Swanson Ward (Dem)" totalVotes="1057">
+            <VoteType name="Absentee by Mail Votes" votes="117">
+                <Precinct name="Central Jackson" votes="11" />
+                <Precinct name="North Jackson" votes="9" />
+                <Precinct name="South Jackson" votes="97" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="649">
+                <Precinct name="Central Jackson" votes="69" />
+                <Precinct name="North Jackson" votes="49" />
+                <Precinct name="South Jackson" votes="531" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="290">
+                <Precinct name="Central Jackson" votes="27" />
+                <Precinct name="North Jackson" votes="23" />
+                <Precinct name="South Jackson" votes="240" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="County Commission - District 5" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="517">
+            <Precinct name="Central Jackson" votes="246" />
+            <Precinct name="North Jackson" votes="39" />
+            <Precinct name="West Jackson" votes="232" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Marty Clark (Rep)" totalVotes="6055">
+            <VoteType name="Absentee by Mail Votes" votes="219">
+                <Precinct name="Central Jackson" votes="104" />
+                <Precinct name="North Jackson" votes="15" />
+                <Precinct name="West Jackson" votes="100" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3752">
+                <Precinct name="Central Jackson" votes="1756" />
+                <Precinct name="North Jackson" votes="389" />
+                <Precinct name="West Jackson" votes="1607" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2084">
+                <Precinct name="Central Jackson" votes="1029" />
+                <Precinct name="North Jackson" votes="208" />
+                <Precinct name="West Jackson" votes="847" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="County BOE - Post 2" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="299">
+            <Precinct name="Central Jackson" votes="132" />
+            <Precinct name="North Jackson" votes="91" />
+            <Precinct name="West Jackson" votes="76" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Ricky Sanders (Rep)" totalVotes="3701">
+            <VoteType name="Absentee by Mail Votes" votes="126">
+                <Precinct name="Central Jackson" votes="39" />
+                <Precinct name="North Jackson" votes="62" />
+                <Precinct name="West Jackson" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2174">
+                <Precinct name="Central Jackson" votes="764" />
+                <Precinct name="North Jackson" votes="878" />
+                <Precinct name="West Jackson" votes="532" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1401">
+                <Precinct name="Central Jackson" votes="476" />
+                <Precinct name="North Jackson" votes="580" />
+                <Precinct name="West Jackson" votes="345" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="County BOE - Post 3" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="380">
+            <Precinct name="Central Jackson" votes="169" />
+            <Precinct name="North Jackson" votes="132" />
+            <Precinct name="South Jackson" votes="79" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="69" text="Robert &quot;&quot;Beau&quot;&quot; Hollett (I) (Rep)" totalVotes="3681">
+            <VoteType name="Absentee by Mail Votes" votes="121">
+                <Precinct name="Central Jackson" votes="35" />
+                <Precinct name="North Jackson" votes="53" />
+                <Precinct name="South Jackson" votes="33" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2374">
+                <Precinct name="Central Jackson" votes="1022" />
+                <Precinct name="North Jackson" votes="945" />
+                <Precinct name="South Jackson" votes="407" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1184">
+                <Precinct name="Central Jackson" votes="470" />
+                <Precinct name="North Jackson" votes="505" />
+                <Precinct name="South Jackson" votes="209" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="County BOE - Post 5" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="504">
+            <Precinct name="Central Jackson" votes="90" />
+            <Precinct name="West Jackson" votes="414" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+        </VoteType>
+        <Choice key="71" text="Ty Clack (Rep)" totalVotes="5342">
+            <VoteType name="Absentee by Mail Votes" votes="210">
+                <Precinct name="Central Jackson" votes="41" />
+                <Precinct name="West Jackson" votes="169" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3288">
+                <Precinct name="Central Jackson" votes="664" />
+                <Precinct name="West Jackson" votes="2624" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1844">
+                <Precinct name="Central Jackson" votes="410" />
+                <Precinct name="West Jackson" votes="1434" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="Arcade Fire Advisory Board Post 3" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="120">
+            <Precinct name="Central Jackson" votes="57" />
+            <Precinct name="South Jackson" votes="63" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="73" text="Travis Bennett (I)" totalVotes="1064">
+            <VoteType name="Absentee by Mail Votes" votes="47">
+                <Precinct name="Central Jackson" votes="19" />
+                <Precinct name="South Jackson" votes="28" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="693">
+                <Precinct name="Central Jackson" votes="385" />
+                <Precinct name="South Jackson" votes="308" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="323">
+                <Precinct name="Central Jackson" votes="159" />
+                <Precinct name="South Jackson" votes="164" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="Arcade Fire Advisory Board Post 4" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="118">
+            <Precinct name="Central Jackson" votes="59" />
+            <Precinct name="South Jackson" votes="59" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="75" text="Frank Clark" totalVotes="1068">
+            <VoteType name="Absentee by Mail Votes" votes="50">
+                <Precinct name="Central Jackson" votes="19" />
+                <Precinct name="South Jackson" votes="31" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="690">
+                <Precinct name="Central Jackson" votes="381" />
+                <Precinct name="South Jackson" votes="309" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="327">
+                <Precinct name="Central Jackson" votes="162" />
+                <Precinct name="South Jackson" votes="165" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="Arcade Fire Advisory Board Post 5" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="126">
+            <Precinct name="Central Jackson" votes="64" />
+            <Precinct name="South Jackson" votes="62" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="77" text="David Pinkston (I)" totalVotes="1061">
+            <VoteType name="Absentee by Mail Votes" votes="45">
+                <Precinct name="Central Jackson" votes="18" />
+                <Precinct name="South Jackson" votes="27" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="690">
+                <Precinct name="Central Jackson" votes="380" />
+                <Precinct name="South Jackson" votes="310" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="325">
+                <Precinct name="Central Jackson" votes="160" />
+                <Precinct name="South Jackson" votes="165" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="28" text="East Jackson Fire Advisory Board Post 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="99">
+            <Precinct name="North Jackson" votes="99" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="North Jackson" votes="0" />
+        </VoteType>
+        <Choice key="79" text="Ronnie Ray (I)" totalVotes="1279">
+            <VoteType name="Absentee by Mail Votes" votes="56">
+                <Precinct name="North Jackson" votes="56" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="744">
+                <Precinct name="North Jackson" votes="744" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="477">
+                <Precinct name="North Jackson" votes="477" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="North Jackson" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="29" text="East Jackson Fire Advisory Board Post 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="110">
+            <Precinct name="North Jackson" votes="110" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="North Jackson" votes="0" />
+        </VoteType>
+        <Choice key="81" text="Waymon Ivester (I)" totalVotes="1272">
+            <VoteType name="Absentee by Mail Votes" votes="54">
+                <Precinct name="North Jackson" votes="54" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="742">
+                <Precinct name="North Jackson" votes="742" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="474">
+                <Precinct name="North Jackson" votes="474" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="North Jackson" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="30" text="East Jackson Fire Advisory Board Post 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="106">
+            <Precinct name="North Jackson" votes="106" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="North Jackson" votes="0" />
+        </VoteType>
+        <Choice key="83" text="Tommy Fields (I)" totalVotes="1273">
+            <VoteType name="Absentee by Mail Votes" votes="56">
+                <Precinct name="North Jackson" votes="56" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="741">
+                <Precinct name="North Jackson" votes="741" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="474">
+                <Precinct name="North Jackson" votes="474" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="North Jackson" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="31" text="Harrisburg Fire Advisory Board Post 1" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="171">
+            <Precinct name="Central Jackson" votes="50" />
+            <Precinct name="North Jackson" votes="121" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+        </VoteType>
+        <Choice key="85" text="Larry J. Barrett (I)" totalVotes="1403">
+            <VoteType name="Absentee by Mail Votes" votes="48">
+                <Precinct name="Central Jackson" votes="9" />
+                <Precinct name="North Jackson" votes="39" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="939">
+                <Precinct name="Central Jackson" votes="203" />
+                <Precinct name="North Jackson" votes="736" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="416">
+                <Precinct name="Central Jackson" votes="110" />
+                <Precinct name="North Jackson" votes="306" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="32" text="Harrisburg Fire Advisory Board Post 2" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="188">
+            <Precinct name="Central Jackson" votes="51" />
+            <Precinct name="North Jackson" votes="137" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+        </VoteType>
+        <Choice key="87" text="Levi Patterson" totalVotes="1388">
+            <VoteType name="Absentee by Mail Votes" votes="52">
+                <Precinct name="Central Jackson" votes="10" />
+                <Precinct name="North Jackson" votes="42" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="918">
+                <Precinct name="Central Jackson" votes="202" />
+                <Precinct name="North Jackson" votes="716" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="418">
+                <Precinct name="Central Jackson" votes="112" />
+                <Precinct name="North Jackson" votes="306" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="33" text="Harrisburg Fire Advisory Board Post 3" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="182">
+            <Precinct name="Central Jackson" votes="50" />
+            <Precinct name="North Jackson" votes="132" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+        </VoteType>
+        <Choice key="89" text="Dugar Strickland (I)" totalVotes="1393">
+            <VoteType name="Absentee by Mail Votes" votes="49">
+                <Precinct name="Central Jackson" votes="10" />
+                <Precinct name="North Jackson" votes="39" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="928">
+                <Precinct name="Central Jackson" votes="205" />
+                <Precinct name="North Jackson" votes="723" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="416">
+                <Precinct name="Central Jackson" votes="110" />
+                <Precinct name="North Jackson" votes="306" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="36" text="Jackson Trail Fire Advisory Board Post 4" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="525">
+            <Precinct name="Central Jackson" votes="157" />
+            <Precinct name="West Jackson" votes="368" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+        </VoteType>
+        <Choice key="93" text="Richard Terrell (I)" totalVotes="4768">
+            <VoteType name="Absentee by Mail Votes" votes="186">
+                <Precinct name="Central Jackson" votes="55" />
+                <Precinct name="West Jackson" votes="131" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2959">
+                <Precinct name="Central Jackson" votes="1010" />
+                <Precinct name="West Jackson" votes="1949" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1623">
+                <Precinct name="Central Jackson" votes="541" />
+                <Precinct name="West Jackson" votes="1082" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="Jackson Trail Fire Advisory Board Post 5" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="533">
+            <Precinct name="Central Jackson" votes="164" />
+            <Precinct name="West Jackson" votes="369" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Kevin Vermillion (I)" totalVotes="4748">
+            <VoteType name="Absentee by Mail Votes" votes="188">
+                <Precinct name="Central Jackson" votes="56" />
+                <Precinct name="West Jackson" votes="132" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2945">
+                <Precinct name="Central Jackson" votes="1000" />
+                <Precinct name="West Jackson" votes="1945" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1615">
+                <Precinct name="Central Jackson" votes="537" />
+                <Precinct name="West Jackson" votes="1078" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="38" text="Jackson Trail Fire Advisory Board Post 6" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="535">
+            <Precinct name="Central Jackson" votes="162" />
+            <Precinct name="West Jackson" votes="373" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+        </VoteType>
+        <Choice key="97" text="Steve Cain (I)" totalVotes="4759">
+            <VoteType name="Absentee by Mail Votes" votes="183">
+                <Precinct name="Central Jackson" votes="54" />
+                <Precinct name="West Jackson" votes="129" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2947">
+                <Precinct name="Central Jackson" votes="1006" />
+                <Precinct name="West Jackson" votes="1941" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1629">
+                <Precinct name="Central Jackson" votes="541" />
+                <Precinct name="West Jackson" votes="1088" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="Jackson Trail Fire Advisory Board Post 7" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="565">
+            <Precinct name="Central Jackson" votes="178" />
+            <Precinct name="West Jackson" votes="387" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+        </VoteType>
+        <Choice key="99" text="David Coholich" totalVotes="4726">
+            <VoteType name="Absentee by Mail Votes" votes="176">
+                <Precinct name="Central Jackson" votes="50" />
+                <Precinct name="West Jackson" votes="126" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2941">
+                <Precinct name="Central Jackson" votes="1002" />
+                <Precinct name="West Jackson" votes="1939" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1609">
+                <Precinct name="Central Jackson" votes="532" />
+                <Precinct name="West Jackson" votes="1077" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="40" text="Maysville Fire Advisory Board Post 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="51">
+            <Precinct name="North Jackson" votes="51" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="North Jackson" votes="0" />
+        </VoteType>
+        <Choice key="101" text="Paul Lunsford (I)" totalVotes="555">
+            <VoteType name="Absentee by Mail Votes" votes="38">
+                <Precinct name="North Jackson" votes="38" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="269">
+                <Precinct name="North Jackson" votes="269" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="248">
+                <Precinct name="North Jackson" votes="248" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="North Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="Maysville Fire Advisory Board Post 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="49">
+            <Precinct name="North Jackson" votes="49" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="North Jackson" votes="0" />
+        </VoteType>
+        <Choice key="103" text="Mark Love (I)" totalVotes="558">
+            <VoteType name="Absentee by Mail Votes" votes="39">
+                <Precinct name="North Jackson" votes="39" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="269">
+                <Precinct name="North Jackson" votes="269" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="250">
+                <Precinct name="North Jackson" votes="250" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="North Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="43" text="Maysville Fire Advisory Board Post 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="59">
+            <Precinct name="North Jackson" votes="59" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="North Jackson" votes="0" />
+        </VoteType>
+        <Choice key="106" text="Terry Byers" totalVotes="550">
+            <VoteType name="Absentee by Mail Votes" votes="37">
+                <Precinct name="North Jackson" votes="37" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="263">
+                <Precinct name="North Jackson" votes="263" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="250">
+                <Precinct name="North Jackson" votes="250" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="North Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="44" text="Nicholson Fire Advisory Board Post 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="165">
+            <Precinct name="South Jackson" votes="165" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="108" text="Dennis M. Brock (I)" totalVotes="2029">
+            <VoteType name="Absentee by Mail Votes" votes="64">
+                <Precinct name="South Jackson" votes="64" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1089">
+                <Precinct name="South Jackson" votes="1089" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="876">
+                <Precinct name="South Jackson" votes="876" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="South Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="45" text="Nicholson Fire Advisory Board Post 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="159">
+            <Precinct name="South Jackson" votes="159" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="110" text="Brad Ivey (I)" totalVotes="2034">
+            <VoteType name="Absentee by Mail Votes" votes="64">
+                <Precinct name="South Jackson" votes="64" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1096">
+                <Precinct name="South Jackson" votes="1096" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="874">
+                <Precinct name="South Jackson" votes="874" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="South Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="47" text="North Jackson Fire Advisory Board Post 1" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="307">
+            <Precinct name="Central Jackson" votes="178" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="129" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+        </VoteType>
+        <Choice key="113" text="Bobby Lewallen (I)" totalVotes="2682">
+            <VoteType name="Absentee by Mail Votes" votes="94">
+                <Precinct name="Central Jackson" votes="59" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="35" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1691">
+                <Precinct name="Central Jackson" votes="981" />
+                <Precinct name="North Jackson" votes="5" />
+                <Precinct name="West Jackson" votes="705" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="897">
+                <Precinct name="Central Jackson" votes="591" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="306" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="48" text="North Jackson Fire Advisory Board Post 2" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="316">
+            <Precinct name="Central Jackson" votes="188" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="128" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+        </VoteType>
+        <Choice key="115" text="Rick Elliott" totalVotes="2667">
+            <VoteType name="Absentee by Mail Votes" votes="96">
+                <Precinct name="Central Jackson" votes="61" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="35" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1683">
+                <Precinct name="Central Jackson" votes="979" />
+                <Precinct name="North Jackson" votes="5" />
+                <Precinct name="West Jackson" votes="699" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="888">
+                <Precinct name="Central Jackson" votes="579" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="309" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="49" text="North Jackson Fire Advisory Board Post 3" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="310">
+            <Precinct name="Central Jackson" votes="179" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="131" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+        </VoteType>
+        <Choice key="117" text="Jimmy Pethel (I)" totalVotes="2678">
+            <VoteType name="Absentee by Mail Votes" votes="92">
+                <Precinct name="Central Jackson" votes="58" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="34" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1690">
+                <Precinct name="Central Jackson" votes="980" />
+                <Precinct name="North Jackson" votes="5" />
+                <Precinct name="West Jackson" votes="705" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="896">
+                <Precinct name="Central Jackson" votes="590" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="306" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="50" text="North Jackson Fire Advisory Board Post 4" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="300">
+            <Precinct name="Central Jackson" votes="176" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="124" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+        </VoteType>
+        <Choice key="119" text="Greg Carlyle" totalVotes="2697">
+            <VoteType name="Absentee by Mail Votes" votes="92">
+                <Precinct name="Central Jackson" votes="59" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="33" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1697">
+                <Precinct name="Central Jackson" votes="986" />
+                <Precinct name="North Jackson" votes="5" />
+                <Precinct name="West Jackson" votes="706" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="908">
+                <Precinct name="Central Jackson" votes="594" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="314" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+                <Precinct name="West Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="51" text="Plainview Fire Advisory Board Post 1" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="68">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="68" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+        </VoteType>
+        <Choice key="121" text="Chris Hensley (I)" totalVotes="856">
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="548">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="547" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="288">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="288" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="53" text="South Jackson Fire Advisory Board Post 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="286">
+            <Precinct name="South Jackson" votes="286" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="201" text="Tommy Kesler (I)" totalVotes="1555">
+            <VoteType name="Absentee by Mail Votes" votes="79">
+                <Precinct name="South Jackson" votes="79" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="942">
+                <Precinct name="South Jackson" votes="942" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="533">
+                <Precinct name="South Jackson" votes="533" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="54" text="West Jackson Fire Advisory Board Post 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="686">
+            <Precinct name="West Jackson" votes="686" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West Jackson" votes="0" />
+        </VoteType>
+        <Choice key="126" text="Harry Bryan (I)" totalVotes="5054">
+            <VoteType name="Absentee by Mail Votes" votes="204">
+                <Precinct name="West Jackson" votes="204" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2839">
+                <Precinct name="West Jackson" votes="2839" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2009">
+                <Precinct name="West Jackson" votes="2009" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West Jackson" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="55" text="West Jackson Fire Advisory Board Post 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="685">
+            <Precinct name="West Jackson" votes="685" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West Jackson" votes="0" />
+        </VoteType>
+        <Choice key="128" text="Tony Harris (I)" totalVotes="5052">
+            <VoteType name="Absentee by Mail Votes" votes="206">
+                <Precinct name="West Jackson" votes="206" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2838">
+                <Precinct name="West Jackson" votes="2838" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2006">
+                <Precinct name="West Jackson" votes="2006" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="West Jackson" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="56" text="Special City Council Member  - City of Hoschton" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="219">
+            <Precinct name="West Jackson" votes="219" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="West Jackson" votes="0" />
+        </VoteType>
+        <Choice key="130" text="Shawn Adams" totalVotes="341">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="West Jackson" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="152">
+                <Precinct name="West Jackson" votes="152" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="171">
+                <Precinct name="West Jackson" votes="171" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="131" text="Christina &quot;&quot;Tina&quot;&quot; Brown" totalVotes="265">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="West Jackson" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="167">
+                <Precinct name="West Jackson" votes="167" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="90">
+                <Precinct name="West Jackson" votes="90" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="132" text="Debbie Martin" totalVotes="650">
+            <VoteType name="Absentee by Mail Votes" votes="37">
+                <Precinct name="West Jackson" votes="37" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="445">
+                <Precinct name="West Jackson" votes="445" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="168">
+                <Precinct name="West Jackson" votes="168" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="133" text="Tammy Sweat" totalVotes="290">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="West Jackson" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="162">
+                <Precinct name="West Jackson" votes="162" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="117">
+                <Precinct name="West Jackson" votes="117" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="West Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="57" text="Proposed Constitutional Amendment 1" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="963">
+            <Precinct name="Central Jackson" votes="269" />
+            <Precinct name="North Jackson" votes="206" />
+            <Precinct name="West Jackson" votes="329" />
+            <Precinct name="South Jackson" votes="159" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="135" text="Yes" totalVotes="27917">
+            <VoteType name="Absentee by Mail Votes" votes="1210">
+                <Precinct name="Central Jackson" votes="314" />
+                <Precinct name="North Jackson" votes="288" />
+                <Precinct name="West Jackson" votes="408" />
+                <Precinct name="South Jackson" votes="200" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="16864">
+                <Precinct name="Central Jackson" votes="5444" />
+                <Precinct name="North Jackson" votes="3597" />
+                <Precinct name="West Jackson" votes="5541" />
+                <Precinct name="South Jackson" votes="2282" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9835">
+                <Precinct name="Central Jackson" votes="2911" />
+                <Precinct name="North Jackson" votes="2151" />
+                <Precinct name="West Jackson" votes="3286" />
+                <Precinct name="South Jackson" votes="1487" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="8">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="3" />
+                <Precinct name="West Jackson" votes="2" />
+                <Precinct name="South Jackson" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="136" text="No" totalVotes="3070">
+            <VoteType name="Absentee by Mail Votes" votes="123">
+                <Precinct name="Central Jackson" votes="28" />
+                <Precinct name="North Jackson" votes="32" />
+                <Precinct name="West Jackson" votes="41" />
+                <Precinct name="South Jackson" votes="22" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1796">
+                <Precinct name="Central Jackson" votes="578" />
+                <Precinct name="North Jackson" votes="416" />
+                <Precinct name="West Jackson" votes="526" />
+                <Precinct name="South Jackson" votes="276" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1150">
+                <Precinct name="Central Jackson" votes="314" />
+                <Precinct name="North Jackson" votes="277" />
+                <Precinct name="West Jackson" votes="366" />
+                <Precinct name="South Jackson" votes="193" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="1" />
+                <Precinct name="West Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="58" text="Proposed Constitutional Amendment 2" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="756">
+            <Precinct name="Central Jackson" votes="222" />
+            <Precinct name="North Jackson" votes="167" />
+            <Precinct name="West Jackson" votes="250" />
+            <Precinct name="South Jackson" votes="117" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="137" text="Yes" totalVotes="28534">
+            <VoteType name="Absentee by Mail Votes" votes="1266">
+                <Precinct name="Central Jackson" votes="322" />
+                <Precinct name="North Jackson" votes="303" />
+                <Precinct name="West Jackson" votes="432" />
+                <Precinct name="South Jackson" votes="209" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="17120">
+                <Precinct name="Central Jackson" votes="5544" />
+                <Precinct name="North Jackson" votes="3666" />
+                <Precinct name="West Jackson" votes="5554" />
+                <Precinct name="South Jackson" votes="2356" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="10140">
+                <Precinct name="Central Jackson" votes="2966" />
+                <Precinct name="North Jackson" votes="2236" />
+                <Precinct name="West Jackson" votes="3374" />
+                <Precinct name="South Jackson" votes="1564" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="8">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="3" />
+                <Precinct name="West Jackson" votes="2" />
+                <Precinct name="South Jackson" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="138" text="No" totalVotes="2660">
+            <VoteType name="Absentee by Mail Votes" votes="70">
+                <Precinct name="Central Jackson" votes="21" />
+                <Precinct name="North Jackson" votes="15" />
+                <Precinct name="West Jackson" votes="20" />
+                <Precinct name="South Jackson" votes="14" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1666">
+                <Precinct name="Central Jackson" votes="515" />
+                <Precinct name="North Jackson" votes="378" />
+                <Precinct name="West Jackson" votes="546" />
+                <Precinct name="South Jackson" votes="227" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="923">
+                <Precinct name="Central Jackson" votes="268" />
+                <Precinct name="North Jackson" votes="202" />
+                <Precinct name="West Jackson" votes="321" />
+                <Precinct name="South Jackson" votes="132" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="1" />
+                <Precinct name="West Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="59" text="Statewide Referendum Question 1" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="1324">
+            <Precinct name="Central Jackson" votes="406" />
+            <Precinct name="North Jackson" votes="283" />
+            <Precinct name="West Jackson" votes="442" />
+            <Precinct name="South Jackson" votes="193" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="139" text="Yes" totalVotes="19199">
+            <VoteType name="Absentee by Mail Votes" votes="629">
+                <Precinct name="Central Jackson" votes="174" />
+                <Precinct name="North Jackson" votes="132" />
+                <Precinct name="West Jackson" votes="215" />
+                <Precinct name="South Jackson" votes="108" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11320">
+                <Precinct name="Central Jackson" votes="3728" />
+                <Precinct name="North Jackson" votes="2422" />
+                <Precinct name="West Jackson" votes="3598" />
+                <Precinct name="South Jackson" votes="1572" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7245">
+                <Precinct name="Central Jackson" votes="2126" />
+                <Precinct name="North Jackson" votes="1571" />
+                <Precinct name="West Jackson" votes="2432" />
+                <Precinct name="South Jackson" votes="1116" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="2" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="140" text="No" totalVotes="11427">
+            <VoteType name="Absentee by Mail Votes" votes="665">
+                <Precinct name="Central Jackson" votes="157" />
+                <Precinct name="North Jackson" votes="171" />
+                <Precinct name="West Jackson" votes="231" />
+                <Precinct name="South Jackson" votes="106" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7118">
+                <Precinct name="Central Jackson" votes="2205" />
+                <Precinct name="North Jackson" votes="1552" />
+                <Precinct name="West Jackson" votes="2390" />
+                <Precinct name="South Jackson" votes="971" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3641">
+                <Precinct name="Central Jackson" votes="1062" />
+                <Precinct name="North Jackson" votes="836" />
+                <Precinct name="West Jackson" votes="1190" />
+                <Precinct name="South Jackson" votes="553" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="2" />
+                <Precinct name="West Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="60" text="Statewide Referendum Question 2" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="1194">
+            <Precinct name="Central Jackson" votes="359" />
+            <Precinct name="North Jackson" votes="262" />
+            <Precinct name="West Jackson" votes="392" />
+            <Precinct name="South Jackson" votes="181" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="141" text="Yes" totalVotes="24947">
+            <VoteType name="Absentee by Mail Votes" votes="903">
+                <Precinct name="Central Jackson" votes="238" />
+                <Precinct name="North Jackson" votes="199" />
+                <Precinct name="West Jackson" votes="316" />
+                <Precinct name="South Jackson" votes="150" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="14864">
+                <Precinct name="Central Jackson" votes="4822" />
+                <Precinct name="North Jackson" votes="3145" />
+                <Precinct name="West Jackson" votes="4828" />
+                <Precinct name="South Jackson" votes="2069" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9174">
+                <Precinct name="Central Jackson" votes="2678" />
+                <Precinct name="North Jackson" votes="2023" />
+                <Precinct name="West Jackson" votes="3074" />
+                <Precinct name="South Jackson" votes="1399" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="3" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="142" text="No" totalVotes="5809">
+            <VoteType name="Absentee by Mail Votes" votes="395">
+                <Precinct name="Central Jackson" votes="94" />
+                <Precinct name="North Jackson" votes="105" />
+                <Precinct name="West Jackson" votes="131" />
+                <Precinct name="South Jackson" votes="65" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3674">
+                <Precinct name="Central Jackson" votes="1151" />
+                <Precinct name="North Jackson" votes="846" />
+                <Precinct name="West Jackson" votes="1195" />
+                <Precinct name="South Jackson" votes="482" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1738">
+                <Precinct name="Central Jackson" votes="516" />
+                <Precinct name="North Jackson" votes="387" />
+                <Precinct name="West Jackson" votes="562" />
+                <Precinct name="South Jackson" votes="273" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="1" />
+                <Precinct name="West Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="61" text="Continuation of the 1% Sales Tax (SPLOST)" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="699">
+            <Precinct name="Central Jackson" votes="184" />
+            <Precinct name="North Jackson" votes="159" />
+            <Precinct name="West Jackson" votes="242" />
+            <Precinct name="South Jackson" votes="114" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="143" text="Yes" totalVotes="22119">
+            <VoteType name="Absentee by Mail Votes" votes="1042">
+                <Precinct name="Central Jackson" votes="271" />
+                <Precinct name="North Jackson" votes="240" />
+                <Precinct name="West Jackson" votes="358" />
+                <Precinct name="South Jackson" votes="173" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13431">
+                <Precinct name="Central Jackson" votes="4436" />
+                <Precinct name="North Jackson" votes="2791" />
+                <Precinct name="West Jackson" votes="4373" />
+                <Precinct name="South Jackson" votes="1831" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7641">
+                <Precinct name="Central Jackson" votes="2272" />
+                <Precinct name="North Jackson" votes="1634" />
+                <Precinct name="West Jackson" votes="2555" />
+                <Precinct name="South Jackson" votes="1180" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Central Jackson" votes="1" />
+                <Precinct name="North Jackson" votes="2" />
+                <Precinct name="West Jackson" votes="1" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="144" text="No" totalVotes="9132">
+            <VoteType name="Absentee by Mail Votes" votes="292">
+                <Precinct name="Central Jackson" votes="72" />
+                <Precinct name="North Jackson" votes="76" />
+                <Precinct name="West Jackson" votes="95" />
+                <Precinct name="South Jackson" votes="49" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5399">
+                <Precinct name="Central Jackson" votes="1643" />
+                <Precinct name="North Jackson" votes="1261" />
+                <Precinct name="West Jackson" votes="1742" />
+                <Precinct name="South Jackson" votes="753" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3438">
+                <Precinct name="Central Jackson" votes="980" />
+                <Precinct name="North Jackson" votes="806" />
+                <Precinct name="West Jackson" votes="1133" />
+                <Precinct name="South Jackson" votes="519" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="2" />
+                <Precinct name="West Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

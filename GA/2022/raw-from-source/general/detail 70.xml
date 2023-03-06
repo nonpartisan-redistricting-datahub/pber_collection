@@ -1,0 +1,2929 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/15/2022 10:55:44 AM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Bryan</Region>
+    <VoterTurnout totalVoters="30745" ballotsCast="17039" voterTurnout="55.42">
+        <Precincts>
+            <Precinct name="Harn Community Center" totalVoters="2596" ballotsCast="1254" voterTurnout="48.31" percentReporting="4" />
+            <Precinct name="Danielsiding" totalVoters="2105" ballotsCast="1238" voterTurnout="58.81" percentReporting="4" />
+            <Precinct name="Christ Baptist Church" totalVoters="3609" ballotsCast="1810" voterTurnout="50.15" percentReporting="4" />
+            <Precinct name="Black Creek" totalVoters="1629" ballotsCast="787" voterTurnout="48.31" percentReporting="4" />
+            <Precinct name="First Baptist Church" totalVoters="3920" ballotsCast="1887" voterTurnout="48.14" percentReporting="4" />
+            <Precinct name="RH Rec Complex" totalVoters="3122" ballotsCast="1430" voterTurnout="45.80" percentReporting="4" />
+            <Precinct name="John Stevens Wetland Ctr" totalVoters="2795" ballotsCast="1947" voterTurnout="69.66" percentReporting="4" />
+            <Precinct name="New Life" totalVoters="4076" ballotsCast="2696" voterTurnout="66.14" percentReporting="4" />
+            <Precinct name="New Beginnings" totalVoters="2847" ballotsCast="1984" voterTurnout="69.69" percentReporting="4" />
+            <Precinct name="Bryan County Admin Bldg" totalVoters="4022" ballotsCast="2006" voterTurnout="49.88" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="98">
+            <Precinct name="Harn Community Center" votes="9" />
+            <Precinct name="Danielsiding" votes="9" />
+            <Precinct name="Christ Baptist Church" votes="12" />
+            <Precinct name="Black Creek" votes="4" />
+            <Precinct name="First Baptist Church" votes="9" />
+            <Precinct name="RH Rec Complex" votes="5" />
+            <Precinct name="John Stevens Wetland Ctr" votes="8" />
+            <Precinct name="New Life" votes="22" />
+            <Precinct name="New Beginnings" votes="7" />
+            <Precinct name="Bryan County Admin Bldg" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="11143">
+            <VoteType name="Absentee by Mail Votes" votes="247">
+                <Precinct name="Harn Community Center" votes="13" />
+                <Precinct name="Danielsiding" votes="20" />
+                <Precinct name="Christ Baptist Church" votes="29" />
+                <Precinct name="Black Creek" votes="17" />
+                <Precinct name="First Baptist Church" votes="23" />
+                <Precinct name="RH Rec Complex" votes="20" />
+                <Precinct name="John Stevens Wetland Ctr" votes="48" />
+                <Precinct name="New Life" votes="23" />
+                <Precinct name="New Beginnings" votes="34" />
+                <Precinct name="Bryan County Admin Bldg" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6995">
+                <Precinct name="Harn Community Center" votes="499" />
+                <Precinct name="Danielsiding" votes="517" />
+                <Precinct name="Christ Baptist Church" votes="787" />
+                <Precinct name="Black Creek" votes="242" />
+                <Precinct name="First Baptist Church" votes="604" />
+                <Precinct name="RH Rec Complex" votes="482" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1043" />
+                <Precinct name="New Life" votes="1232" />
+                <Precinct name="New Beginnings" votes="927" />
+                <Precinct name="Bryan County Admin Bldg" votes="662" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3901">
+                <Precinct name="Harn Community Center" votes="293" />
+                <Precinct name="Danielsiding" votes="320" />
+                <Precinct name="Christ Baptist Church" votes="587" />
+                <Precinct name="Black Creek" votes="315" />
+                <Precinct name="First Baptist Church" votes="391" />
+                <Precinct name="RH Rec Complex" votes="232" />
+                <Precinct name="John Stevens Wetland Ctr" votes="327" />
+                <Precinct name="New Life" votes="578" />
+                <Precinct name="New Beginnings" votes="451" />
+                <Precinct name="Bryan County Admin Bldg" votes="407" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="5404">
+            <VoteType name="Absentee by Mail Votes" votes="410">
+                <Precinct name="Harn Community Center" votes="23" />
+                <Precinct name="Danielsiding" votes="38" />
+                <Precinct name="Christ Baptist Church" votes="41" />
+                <Precinct name="Black Creek" votes="13" />
+                <Precinct name="First Baptist Church" votes="65" />
+                <Precinct name="RH Rec Complex" votes="45" />
+                <Precinct name="John Stevens Wetland Ctr" votes="28" />
+                <Precinct name="New Life" votes="39" />
+                <Precinct name="New Beginnings" votes="64" />
+                <Precinct name="Bryan County Admin Bldg" votes="54" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3591">
+                <Precinct name="Harn Community Center" votes="283" />
+                <Precinct name="Danielsiding" votes="201" />
+                <Precinct name="Christ Baptist Church" votes="194" />
+                <Precinct name="Black Creek" votes="101" />
+                <Precinct name="First Baptist Church" votes="536" />
+                <Precinct name="RH Rec Complex" votes="441" />
+                <Precinct name="John Stevens Wetland Ctr" votes="359" />
+                <Precinct name="New Life" votes="550" />
+                <Precinct name="New Beginnings" votes="348" />
+                <Precinct name="Bryan County Admin Bldg" votes="578" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1401">
+                <Precinct name="Harn Community Center" votes="117" />
+                <Precinct name="Danielsiding" votes="95" />
+                <Precinct name="Christ Baptist Church" votes="130" />
+                <Precinct name="Black Creek" votes="78" />
+                <Precinct name="First Baptist Church" votes="217" />
+                <Precinct name="RH Rec Complex" votes="172" />
+                <Precinct name="John Stevens Wetland Ctr" votes="88" />
+                <Precinct name="New Life" votes="184" />
+                <Precinct name="New Beginnings" votes="107" />
+                <Precinct name="Bryan County Admin Bldg" votes="213" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Chase Oliver (Lib)" totalVotes="379">
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="1" />
+                <Precinct name="Christ Baptist Church" votes="2" />
+                <Precinct name="Black Creek" votes="1" />
+                <Precinct name="First Baptist Church" votes="1" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="4" />
+                <Precinct name="New Life" votes="2" />
+                <Precinct name="New Beginnings" votes="2" />
+                <Precinct name="Bryan County Admin Bldg" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="203">
+                <Precinct name="Harn Community Center" votes="9" />
+                <Precinct name="Danielsiding" votes="21" />
+                <Precinct name="Christ Baptist Church" votes="10" />
+                <Precinct name="Black Creek" votes="2" />
+                <Precinct name="First Baptist Church" votes="15" />
+                <Precinct name="RH Rec Complex" votes="13" />
+                <Precinct name="John Stevens Wetland Ctr" votes="26" />
+                <Precinct name="New Life" votes="41" />
+                <Precinct name="New Beginnings" votes="31" />
+                <Precinct name="Bryan County Admin Bldg" votes="35" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="161">
+                <Precinct name="Harn Community Center" votes="7" />
+                <Precinct name="Danielsiding" votes="16" />
+                <Precinct name="Christ Baptist Church" votes="17" />
+                <Precinct name="Black Creek" votes="13" />
+                <Precinct name="First Baptist Church" votes="19" />
+                <Precinct name="RH Rec Complex" votes="17" />
+                <Precinct name="John Stevens Wetland Ctr" votes="15" />
+                <Precinct name="New Life" votes="24" />
+                <Precinct name="New Beginnings" votes="12" />
+                <Precinct name="Bryan County Admin Bldg" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="29">
+            <Precinct name="Harn Community Center" votes="2" />
+            <Precinct name="Danielsiding" votes="1" />
+            <Precinct name="Christ Baptist Church" votes="2" />
+            <Precinct name="Black Creek" votes="3" />
+            <Precinct name="First Baptist Church" votes="1" />
+            <Precinct name="RH Rec Complex" votes="1" />
+            <Precinct name="John Stevens Wetland Ctr" votes="4" />
+            <Precinct name="New Life" votes="2" />
+            <Precinct name="New Beginnings" votes="5" />
+            <Precinct name="Bryan County Admin Bldg" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="4" text="Brian Kemp (I) (Rep)" totalVotes="12188">
+            <VoteType name="Absentee by Mail Votes" votes="292">
+                <Precinct name="Harn Community Center" votes="15" />
+                <Precinct name="Danielsiding" votes="25" />
+                <Precinct name="Christ Baptist Church" votes="36" />
+                <Precinct name="Black Creek" votes="18" />
+                <Precinct name="First Baptist Church" votes="27" />
+                <Precinct name="RH Rec Complex" votes="23" />
+                <Precinct name="John Stevens Wetland Ctr" votes="53" />
+                <Precinct name="New Life" votes="29" />
+                <Precinct name="New Beginnings" votes="43" />
+                <Precinct name="Bryan County Admin Bldg" votes="23" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7632">
+                <Precinct name="Harn Community Center" votes="540" />
+                <Precinct name="Danielsiding" votes="562" />
+                <Precinct name="Christ Baptist Church" votes="827" />
+                <Precinct name="Black Creek" votes="260" />
+                <Precinct name="First Baptist Church" votes="671" />
+                <Precinct name="RH Rec Complex" votes="529" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1125" />
+                <Precinct name="New Life" votes="1370" />
+                <Precinct name="New Beginnings" votes="1012" />
+                <Precinct name="Bryan County Admin Bldg" votes="736" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4264">
+                <Precinct name="Harn Community Center" votes="313" />
+                <Precinct name="Danielsiding" votes="350" />
+                <Precinct name="Christ Baptist Church" votes="625" />
+                <Precinct name="Black Creek" votes="327" />
+                <Precinct name="First Baptist Church" votes="437" />
+                <Precinct name="RH Rec Complex" votes="269" />
+                <Precinct name="John Stevens Wetland Ctr" votes="358" />
+                <Precinct name="New Life" votes="654" />
+                <Precinct name="New Beginnings" votes="482" />
+                <Precinct name="Bryan County Admin Bldg" votes="449" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Stacey Abrams (Dem)" totalVotes="4676">
+            <VoteType name="Absentee by Mail Votes" votes="378">
+                <Precinct name="Harn Community Center" votes="22" />
+                <Precinct name="Danielsiding" votes="34" />
+                <Precinct name="Christ Baptist Church" votes="35" />
+                <Precinct name="Black Creek" votes="13" />
+                <Precinct name="First Baptist Church" votes="63" />
+                <Precinct name="RH Rec Complex" votes="42" />
+                <Precinct name="John Stevens Wetland Ctr" votes="27" />
+                <Precinct name="New Life" votes="36" />
+                <Precinct name="New Beginnings" votes="53" />
+                <Precinct name="Bryan County Admin Bldg" votes="53" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3136">
+                <Precinct name="Harn Community Center" votes="252" />
+                <Precinct name="Danielsiding" votes="173" />
+                <Precinct name="Christ Baptist Church" votes="166" />
+                <Precinct name="Black Creek" votes="88" />
+                <Precinct name="First Baptist Church" votes="486" />
+                <Precinct name="RH Rec Complex" votes="407" />
+                <Precinct name="John Stevens Wetland Ctr" votes="298" />
+                <Precinct name="New Life" votes="455" />
+                <Precinct name="New Beginnings" votes="282" />
+                <Precinct name="Bryan County Admin Bldg" votes="529" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1160">
+                <Precinct name="Harn Community Center" votes="104" />
+                <Precinct name="Danielsiding" votes="78" />
+                <Precinct name="Christ Baptist Church" votes="103" />
+                <Precinct name="Black Creek" votes="71" />
+                <Precinct name="First Baptist Church" votes="186" />
+                <Precinct name="RH Rec Complex" votes="143" />
+                <Precinct name="John Stevens Wetland Ctr" votes="72" />
+                <Precinct name="New Life" votes="133" />
+                <Precinct name="New Beginnings" votes="86" />
+                <Precinct name="Bryan County Admin Bldg" votes="184" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Shane Hazel (Lib)" totalVotes="142">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="1" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="1" />
+                <Precinct name="New Beginnings" votes="2" />
+                <Precinct name="Bryan County Admin Bldg" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="73">
+                <Precinct name="Harn Community Center" votes="2" />
+                <Precinct name="Danielsiding" votes="8" />
+                <Precinct name="Christ Baptist Church" votes="7" />
+                <Precinct name="Black Creek" votes="1" />
+                <Precinct name="First Baptist Church" votes="7" />
+                <Precinct name="RH Rec Complex" votes="4" />
+                <Precinct name="John Stevens Wetland Ctr" votes="7" />
+                <Precinct name="New Life" votes="8" />
+                <Precinct name="New Beginnings" votes="15" />
+                <Precinct name="Bryan County Admin Bldg" votes="14" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="63">
+                <Precinct name="Harn Community Center" votes="4" />
+                <Precinct name="Danielsiding" votes="7" />
+                <Precinct name="Christ Baptist Church" votes="7" />
+                <Precinct name="Black Creek" votes="6" />
+                <Precinct name="First Baptist Church" votes="8" />
+                <Precinct name="RH Rec Complex" votes="10" />
+                <Precinct name="John Stevens Wetland Ctr" votes="2" />
+                <Precinct name="New Life" votes="7" />
+                <Precinct name="New Beginnings" votes="3" />
+                <Precinct name="Bryan County Admin Bldg" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="181">
+            <Precinct name="Harn Community Center" votes="27" />
+            <Precinct name="Danielsiding" votes="4" />
+            <Precinct name="Christ Baptist Church" votes="23" />
+            <Precinct name="Black Creek" votes="10" />
+            <Precinct name="First Baptist Church" votes="21" />
+            <Precinct name="RH Rec Complex" votes="14" />
+            <Precinct name="John Stevens Wetland Ctr" votes="18" />
+            <Precinct name="New Life" votes="26" />
+            <Precinct name="New Beginnings" votes="14" />
+            <Precinct name="Bryan County Admin Bldg" votes="24" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Burt Jones (Rep)" totalVotes="11742">
+            <VoteType name="Absentee by Mail Votes" votes="276">
+                <Precinct name="Harn Community Center" votes="14" />
+                <Precinct name="Danielsiding" votes="22" />
+                <Precinct name="Christ Baptist Church" votes="34" />
+                <Precinct name="Black Creek" votes="17" />
+                <Precinct name="First Baptist Church" votes="27" />
+                <Precinct name="RH Rec Complex" votes="22" />
+                <Precinct name="John Stevens Wetland Ctr" votes="52" />
+                <Precinct name="New Life" votes="25" />
+                <Precinct name="New Beginnings" votes="39" />
+                <Precinct name="Bryan County Admin Bldg" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7369">
+                <Precinct name="Harn Community Center" votes="513" />
+                <Precinct name="Danielsiding" votes="552" />
+                <Precinct name="Christ Baptist Church" votes="807" />
+                <Precinct name="Black Creek" votes="257" />
+                <Precinct name="First Baptist Church" votes="643" />
+                <Precinct name="RH Rec Complex" votes="511" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1087" />
+                <Precinct name="New Life" votes="1313" />
+                <Precinct name="New Beginnings" votes="970" />
+                <Precinct name="Bryan County Admin Bldg" votes="716" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4097">
+                <Precinct name="Harn Community Center" votes="304" />
+                <Precinct name="Danielsiding" votes="340" />
+                <Precinct name="Christ Baptist Church" votes="611" />
+                <Precinct name="Black Creek" votes="313" />
+                <Precinct name="First Baptist Church" votes="414" />
+                <Precinct name="RH Rec Complex" votes="254" />
+                <Precinct name="John Stevens Wetland Ctr" votes="341" />
+                <Precinct name="New Life" votes="617" />
+                <Precinct name="New Beginnings" votes="467" />
+                <Precinct name="Bryan County Admin Bldg" votes="436" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Charlie Bailey (Dem)" totalVotes="4736">
+            <VoteType name="Absentee by Mail Votes" votes="379">
+                <Precinct name="Harn Community Center" votes="21" />
+                <Precinct name="Danielsiding" votes="35" />
+                <Precinct name="Christ Baptist Church" votes="36" />
+                <Precinct name="Black Creek" votes="14" />
+                <Precinct name="First Baptist Church" votes="62" />
+                <Precinct name="RH Rec Complex" votes="40" />
+                <Precinct name="John Stevens Wetland Ctr" votes="27" />
+                <Precinct name="New Life" votes="35" />
+                <Precinct name="New Beginnings" votes="57" />
+                <Precinct name="Bryan County Admin Bldg" votes="52" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3177">
+                <Precinct name="Harn Community Center" votes="247" />
+                <Precinct name="Danielsiding" votes="175" />
+                <Precinct name="Christ Baptist Church" votes="171" />
+                <Precinct name="Black Creek" votes="86" />
+                <Precinct name="First Baptist Church" votes="482" />
+                <Precinct name="RH Rec Complex" votes="401" />
+                <Precinct name="John Stevens Wetland Ctr" votes="312" />
+                <Precinct name="New Life" votes="470" />
+                <Precinct name="New Beginnings" votes="306" />
+                <Precinct name="Bryan County Admin Bldg" votes="527" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1178">
+                <Precinct name="Harn Community Center" votes="109" />
+                <Precinct name="Danielsiding" votes="82" />
+                <Precinct name="Christ Baptist Church" votes="98" />
+                <Precinct name="Black Creek" votes="72" />
+                <Precinct name="First Baptist Church" votes="187" />
+                <Precinct name="RH Rec Complex" votes="145" />
+                <Precinct name="John Stevens Wetland Ctr" votes="70" />
+                <Precinct name="New Life" votes="148" />
+                <Precinct name="New Beginnings" votes="87" />
+                <Precinct name="Bryan County Admin Bldg" votes="180" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="9" text="Ryan Graham (Lib)" totalVotes="371">
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Harn Community Center" votes="1" />
+                <Precinct name="Danielsiding" votes="2" />
+                <Precinct name="Christ Baptist Church" votes="1" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="1" />
+                <Precinct name="RH Rec Complex" votes="4" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="3" />
+                <Precinct name="New Beginnings" votes="1" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="182">
+                <Precinct name="Harn Community Center" votes="12" />
+                <Precinct name="Danielsiding" votes="14" />
+                <Precinct name="Christ Baptist Church" votes="12" />
+                <Precinct name="Black Creek" votes="1" />
+                <Precinct name="First Baptist Church" votes="23" />
+                <Precinct name="RH Rec Complex" votes="15" />
+                <Precinct name="John Stevens Wetland Ctr" votes="22" />
+                <Precinct name="New Life" votes="33" />
+                <Precinct name="New Beginnings" votes="26" />
+                <Precinct name="Bryan County Admin Bldg" votes="24" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="176">
+                <Precinct name="Harn Community Center" votes="6" />
+                <Precinct name="Danielsiding" votes="11" />
+                <Precinct name="Christ Baptist Church" votes="17" />
+                <Precinct name="Black Creek" votes="16" />
+                <Precinct name="First Baptist Church" votes="25" />
+                <Precinct name="RH Rec Complex" votes="21" />
+                <Precinct name="John Stevens Wetland Ctr" votes="17" />
+                <Precinct name="New Life" votes="26" />
+                <Precinct name="New Beginnings" votes="15" />
+                <Precinct name="Bryan County Admin Bldg" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="177">
+            <Precinct name="Harn Community Center" votes="27" />
+            <Precinct name="Danielsiding" votes="3" />
+            <Precinct name="Christ Baptist Church" votes="17" />
+            <Precinct name="Black Creek" votes="12" />
+            <Precinct name="First Baptist Church" votes="19" />
+            <Precinct name="RH Rec Complex" votes="16" />
+            <Precinct name="John Stevens Wetland Ctr" votes="21" />
+            <Precinct name="New Life" votes="24" />
+            <Precinct name="New Beginnings" votes="17" />
+            <Precinct name="Bryan County Admin Bldg" votes="21" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="10" text="Brad Raffensperger (I) (Rep)" totalVotes="11924">
+            <VoteType name="Absentee by Mail Votes" votes="306">
+                <Precinct name="Harn Community Center" votes="14" />
+                <Precinct name="Danielsiding" votes="25" />
+                <Precinct name="Christ Baptist Church" votes="36" />
+                <Precinct name="Black Creek" votes="19" />
+                <Precinct name="First Baptist Church" votes="27" />
+                <Precinct name="RH Rec Complex" votes="26" />
+                <Precinct name="John Stevens Wetland Ctr" votes="56" />
+                <Precinct name="New Life" votes="28" />
+                <Precinct name="New Beginnings" votes="49" />
+                <Precinct name="Bryan County Admin Bldg" votes="26" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7534">
+                <Precinct name="Harn Community Center" votes="533" />
+                <Precinct name="Danielsiding" votes="560" />
+                <Precinct name="Christ Baptist Church" votes="804" />
+                <Precinct name="Black Creek" votes="252" />
+                <Precinct name="First Baptist Church" votes="657" />
+                <Precinct name="RH Rec Complex" votes="528" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1115" />
+                <Precinct name="New Life" votes="1362" />
+                <Precinct name="New Beginnings" votes="995" />
+                <Precinct name="Bryan County Admin Bldg" votes="728" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4084">
+                <Precinct name="Harn Community Center" votes="298" />
+                <Precinct name="Danielsiding" votes="340" />
+                <Precinct name="Christ Baptist Church" votes="603" />
+                <Precinct name="Black Creek" votes="319" />
+                <Precinct name="First Baptist Church" votes="425" />
+                <Precinct name="RH Rec Complex" votes="247" />
+                <Precinct name="John Stevens Wetland Ctr" votes="348" />
+                <Precinct name="New Life" votes="620" />
+                <Precinct name="New Beginnings" votes="470" />
+                <Precinct name="Bryan County Admin Bldg" votes="414" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="Bee Nguyen (Dem)" totalVotes="4361">
+            <VoteType name="Absentee by Mail Votes" votes="344">
+                <Precinct name="Harn Community Center" votes="22" />
+                <Precinct name="Danielsiding" votes="31" />
+                <Precinct name="Christ Baptist Church" votes="34" />
+                <Precinct name="Black Creek" votes="12" />
+                <Precinct name="First Baptist Church" votes="60" />
+                <Precinct name="RH Rec Complex" votes="35" />
+                <Precinct name="John Stevens Wetland Ctr" votes="22" />
+                <Precinct name="New Life" votes="30" />
+                <Precinct name="New Beginnings" votes="49" />
+                <Precinct name="Bryan County Admin Bldg" votes="49" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2874">
+                <Precinct name="Harn Community Center" votes="228" />
+                <Precinct name="Danielsiding" votes="156" />
+                <Precinct name="Christ Baptist Church" votes="159" />
+                <Precinct name="Black Creek" votes="82" />
+                <Precinct name="First Baptist Church" votes="452" />
+                <Precinct name="RH Rec Complex" votes="379" />
+                <Precinct name="John Stevens Wetland Ctr" votes="265" />
+                <Precinct name="New Life" votes="400" />
+                <Precinct name="New Beginnings" votes="254" />
+                <Precinct name="Bryan County Admin Bldg" votes="499" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1141">
+                <Precinct name="Harn Community Center" votes="104" />
+                <Precinct name="Danielsiding" votes="74" />
+                <Precinct name="Christ Baptist Church" votes="101" />
+                <Precinct name="Black Creek" votes="73" />
+                <Precinct name="First Baptist Church" votes="179" />
+                <Precinct name="RH Rec Complex" votes="147" />
+                <Precinct name="John Stevens Wetland Ctr" votes="62" />
+                <Precinct name="New Life" votes="138" />
+                <Precinct name="New Beginnings" votes="77" />
+                <Precinct name="Bryan County Admin Bldg" votes="186" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Ted Metz (Lib)" totalVotes="562">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Harn Community Center" votes="1" />
+                <Precinct name="Danielsiding" votes="3" />
+                <Precinct name="Christ Baptist Church" votes="1" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="1" />
+                <Precinct name="RH Rec Complex" votes="2" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1" />
+                <Precinct name="New Life" votes="6" />
+                <Precinct name="New Beginnings" votes="1" />
+                <Precinct name="Bryan County Admin Bldg" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="326">
+                <Precinct name="Harn Community Center" votes="13" />
+                <Precinct name="Danielsiding" votes="28" />
+                <Precinct name="Christ Baptist Church" votes="27" />
+                <Precinct name="Black Creek" votes="9" />
+                <Precinct name="First Baptist Church" votes="39" />
+                <Precinct name="RH Rec Complex" votes="23" />
+                <Precinct name="John Stevens Wetland Ctr" votes="40" />
+                <Precinct name="New Life" votes="57" />
+                <Precinct name="New Beginnings" votes="48" />
+                <Precinct name="Bryan County Admin Bldg" votes="42" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="218">
+                <Precinct name="Harn Community Center" votes="14" />
+                <Precinct name="Danielsiding" votes="18" />
+                <Precinct name="Christ Baptist Church" votes="24" />
+                <Precinct name="Black Creek" votes="9" />
+                <Precinct name="First Baptist Church" votes="23" />
+                <Precinct name="RH Rec Complex" votes="24" />
+                <Precinct name="John Stevens Wetland Ctr" votes="15" />
+                <Precinct name="New Life" votes="31" />
+                <Precinct name="New Beginnings" votes="22" />
+                <Precinct name="Bryan County Admin Bldg" votes="38" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="179">
+            <Precinct name="Harn Community Center" votes="22" />
+            <Precinct name="Danielsiding" votes="5" />
+            <Precinct name="Christ Baptist Church" votes="18" />
+            <Precinct name="Black Creek" votes="8" />
+            <Precinct name="First Baptist Church" votes="21" />
+            <Precinct name="RH Rec Complex" votes="17" />
+            <Precinct name="John Stevens Wetland Ctr" votes="17" />
+            <Precinct name="New Life" votes="33" />
+            <Precinct name="New Beginnings" votes="13" />
+            <Precinct name="Bryan County Admin Bldg" votes="25" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="13" text="Chris Carr (I) (Rep)" totalVotes="11734">
+            <VoteType name="Absentee by Mail Votes" votes="277">
+                <Precinct name="Harn Community Center" votes="10" />
+                <Precinct name="Danielsiding" votes="22" />
+                <Precinct name="Christ Baptist Church" votes="34" />
+                <Precinct name="Black Creek" votes="18" />
+                <Precinct name="First Baptist Church" votes="27" />
+                <Precinct name="RH Rec Complex" votes="21" />
+                <Precinct name="John Stevens Wetland Ctr" votes="54" />
+                <Precinct name="New Life" votes="27" />
+                <Precinct name="New Beginnings" votes="41" />
+                <Precinct name="Bryan County Admin Bldg" votes="23" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7362">
+                <Precinct name="Harn Community Center" votes="516" />
+                <Precinct name="Danielsiding" votes="546" />
+                <Precinct name="Christ Baptist Church" votes="798" />
+                <Precinct name="Black Creek" votes="252" />
+                <Precinct name="First Baptist Church" votes="644" />
+                <Precinct name="RH Rec Complex" votes="516" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1090" />
+                <Precinct name="New Life" votes="1317" />
+                <Precinct name="New Beginnings" votes="970" />
+                <Precinct name="Bryan County Admin Bldg" votes="713" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4095">
+                <Precinct name="Harn Community Center" votes="304" />
+                <Precinct name="Danielsiding" votes="335" />
+                <Precinct name="Christ Baptist Church" votes="610" />
+                <Precinct name="Black Creek" votes="319" />
+                <Precinct name="First Baptist Church" votes="414" />
+                <Precinct name="RH Rec Complex" votes="252" />
+                <Precinct name="John Stevens Wetland Ctr" votes="346" />
+                <Precinct name="New Life" votes="619" />
+                <Precinct name="New Beginnings" votes="472" />
+                <Precinct name="Bryan County Admin Bldg" votes="424" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="14" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="4835">
+            <VoteType name="Absentee by Mail Votes" votes="380">
+                <Precinct name="Harn Community Center" votes="24" />
+                <Precinct name="Danielsiding" votes="36" />
+                <Precinct name="Christ Baptist Church" votes="37" />
+                <Precinct name="Black Creek" votes="13" />
+                <Precinct name="First Baptist Church" votes="61" />
+                <Precinct name="RH Rec Complex" votes="41" />
+                <Precinct name="John Stevens Wetland Ctr" votes="25" />
+                <Precinct name="New Life" votes="35" />
+                <Precinct name="New Beginnings" votes="56" />
+                <Precinct name="Bryan County Admin Bldg" votes="52" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3235">
+                <Precinct name="Harn Community Center" votes="255" />
+                <Precinct name="Danielsiding" votes="183" />
+                <Precinct name="Christ Baptist Church" votes="184" />
+                <Precinct name="Black Creek" votes="90" />
+                <Precinct name="First Baptist Church" votes="487" />
+                <Precinct name="RH Rec Complex" votes="406" />
+                <Precinct name="John Stevens Wetland Ctr" votes="319" />
+                <Precinct name="New Life" votes="468" />
+                <Precinct name="New Beginnings" votes="305" />
+                <Precinct name="Bryan County Admin Bldg" votes="538" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1218">
+                <Precinct name="Harn Community Center" votes="109" />
+                <Precinct name="Danielsiding" votes="87" />
+                <Precinct name="Christ Baptist Church" votes="113" />
+                <Precinct name="Black Creek" votes="76" />
+                <Precinct name="First Baptist Church" votes="191" />
+                <Precinct name="RH Rec Complex" votes="142" />
+                <Precinct name="John Stevens Wetland Ctr" votes="72" />
+                <Precinct name="New Life" votes="151" />
+                <Precinct name="New Beginnings" votes="88" />
+                <Precinct name="Bryan County Admin Bldg" votes="189" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="15" text="Martin Cowen (Lib)" totalVotes="289">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Harn Community Center" votes="2" />
+                <Precinct name="Danielsiding" votes="1" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="1" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="1" />
+                <Precinct name="New Beginnings" votes="1" />
+                <Precinct name="Bryan County Admin Bldg" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="153">
+                <Precinct name="Harn Community Center" votes="8" />
+                <Precinct name="Danielsiding" votes="13" />
+                <Precinct name="Christ Baptist Church" votes="7" />
+                <Precinct name="Black Creek" votes="3" />
+                <Precinct name="First Baptist Church" votes="20" />
+                <Precinct name="RH Rec Complex" votes="12" />
+                <Precinct name="John Stevens Wetland Ctr" votes="14" />
+                <Precinct name="New Life" votes="30" />
+                <Precinct name="New Beginnings" votes="27" />
+                <Precinct name="Bryan County Admin Bldg" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="127">
+                <Precinct name="Harn Community Center" votes="4" />
+                <Precinct name="Danielsiding" votes="10" />
+                <Precinct name="Christ Baptist Church" votes="9" />
+                <Precinct name="Black Creek" votes="8" />
+                <Precinct name="First Baptist Church" votes="20" />
+                <Precinct name="RH Rec Complex" votes="21" />
+                <Precinct name="John Stevens Wetland Ctr" votes="8" />
+                <Precinct name="New Life" votes="15" />
+                <Precinct name="New Beginnings" votes="11" />
+                <Precinct name="Bryan County Admin Bldg" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Commissioner of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="241">
+            <Precinct name="Harn Community Center" votes="26" />
+            <Precinct name="Danielsiding" votes="5" />
+            <Precinct name="Christ Baptist Church" votes="28" />
+            <Precinct name="Black Creek" votes="11" />
+            <Precinct name="First Baptist Church" votes="18" />
+            <Precinct name="RH Rec Complex" votes="23" />
+            <Precinct name="John Stevens Wetland Ctr" votes="30" />
+            <Precinct name="New Life" votes="44" />
+            <Precinct name="New Beginnings" votes="19" />
+            <Precinct name="Bryan County Admin Bldg" votes="37" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="16" text="Tyler Harper (Rep)" totalVotes="11830">
+            <VoteType name="Absentee by Mail Votes" votes="289">
+                <Precinct name="Harn Community Center" votes="13" />
+                <Precinct name="Danielsiding" votes="23" />
+                <Precinct name="Christ Baptist Church" votes="34" />
+                <Precinct name="Black Creek" votes="18" />
+                <Precinct name="First Baptist Church" votes="30" />
+                <Precinct name="RH Rec Complex" votes="20" />
+                <Precinct name="John Stevens Wetland Ctr" votes="54" />
+                <Precinct name="New Life" votes="29" />
+                <Precinct name="New Beginnings" votes="44" />
+                <Precinct name="Bryan County Admin Bldg" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7420">
+                <Precinct name="Harn Community Center" votes="511" />
+                <Precinct name="Danielsiding" votes="556" />
+                <Precinct name="Christ Baptist Church" votes="810" />
+                <Precinct name="Black Creek" votes="251" />
+                <Precinct name="First Baptist Church" votes="645" />
+                <Precinct name="RH Rec Complex" votes="530" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1102" />
+                <Precinct name="New Life" votes="1319" />
+                <Precinct name="New Beginnings" votes="978" />
+                <Precinct name="Bryan County Admin Bldg" votes="718" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4121">
+                <Precinct name="Harn Community Center" votes="305" />
+                <Precinct name="Danielsiding" votes="340" />
+                <Precinct name="Christ Baptist Church" votes="610" />
+                <Precinct name="Black Creek" votes="322" />
+                <Precinct name="First Baptist Church" votes="413" />
+                <Precinct name="RH Rec Complex" votes="253" />
+                <Precinct name="John Stevens Wetland Ctr" votes="343" />
+                <Precinct name="New Life" votes="630" />
+                <Precinct name="New Beginnings" votes="477" />
+                <Precinct name="Bryan County Admin Bldg" votes="428" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Nakita Hemingway (Dem)" totalVotes="4529">
+            <VoteType name="Absentee by Mail Votes" votes="359">
+                <Precinct name="Harn Community Center" votes="22" />
+                <Precinct name="Danielsiding" votes="35" />
+                <Precinct name="Christ Baptist Church" votes="36" />
+                <Precinct name="Black Creek" votes="13" />
+                <Precinct name="First Baptist Church" votes="60" />
+                <Precinct name="RH Rec Complex" votes="38" />
+                <Precinct name="John Stevens Wetland Ctr" votes="22" />
+                <Precinct name="New Life" votes="30" />
+                <Precinct name="New Beginnings" votes="52" />
+                <Precinct name="Bryan County Admin Bldg" votes="51" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3046">
+                <Precinct name="Harn Community Center" votes="241" />
+                <Precinct name="Danielsiding" votes="168" />
+                <Precinct name="Christ Baptist Church" votes="162" />
+                <Precinct name="Black Creek" votes="88" />
+                <Precinct name="First Baptist Church" votes="477" />
+                <Precinct name="RH Rec Complex" votes="377" />
+                <Precinct name="John Stevens Wetland Ctr" votes="286" />
+                <Precinct name="New Life" votes="438" />
+                <Precinct name="New Beginnings" votes="291" />
+                <Precinct name="Bryan County Admin Bldg" votes="518" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1122">
+                <Precinct name="Harn Community Center" votes="105" />
+                <Precinct name="Danielsiding" votes="73" />
+                <Precinct name="Christ Baptist Church" votes="104" />
+                <Precinct name="Black Creek" votes="72" />
+                <Precinct name="First Baptist Church" votes="182" />
+                <Precinct name="RH Rec Complex" votes="135" />
+                <Precinct name="John Stevens Wetland Ctr" votes="64" />
+                <Precinct name="New Life" votes="134" />
+                <Precinct name="New Beginnings" votes="79" />
+                <Precinct name="Bryan County Admin Bldg" votes="174" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="David Raudabaugh (Lib)" totalVotes="437">
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="1" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="5" />
+                <Precinct name="John Stevens Wetland Ctr" votes="3" />
+                <Precinct name="New Life" votes="1" />
+                <Precinct name="New Beginnings" votes="3" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="248">
+                <Precinct name="Harn Community Center" votes="22" />
+                <Precinct name="Danielsiding" votes="17" />
+                <Precinct name="Christ Baptist Church" votes="13" />
+                <Precinct name="Black Creek" votes="5" />
+                <Precinct name="First Baptist Church" votes="33" />
+                <Precinct name="RH Rec Complex" votes="23" />
+                <Precinct name="John Stevens Wetland Ctr" votes="26" />
+                <Precinct name="New Life" votes="49" />
+                <Precinct name="New Beginnings" votes="30" />
+                <Precinct name="Bryan County Admin Bldg" votes="30" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="176">
+                <Precinct name="Harn Community Center" votes="8" />
+                <Precinct name="Danielsiding" votes="20" />
+                <Precinct name="Christ Baptist Church" votes="13" />
+                <Precinct name="Black Creek" votes="7" />
+                <Precinct name="First Baptist Church" votes="29" />
+                <Precinct name="RH Rec Complex" votes="25" />
+                <Precinct name="John Stevens Wetland Ctr" votes="16" />
+                <Precinct name="New Life" votes="22" />
+                <Precinct name="New Beginnings" votes="11" />
+                <Precinct name="Bryan County Admin Bldg" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Commissioner of Insurance" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="283">
+            <Precinct name="Harn Community Center" votes="30" />
+            <Precinct name="Danielsiding" votes="8" />
+            <Precinct name="Christ Baptist Church" votes="30" />
+            <Precinct name="Black Creek" votes="13" />
+            <Precinct name="First Baptist Church" votes="24" />
+            <Precinct name="RH Rec Complex" votes="29" />
+            <Precinct name="John Stevens Wetland Ctr" votes="30" />
+            <Precinct name="New Life" votes="46" />
+            <Precinct name="New Beginnings" votes="22" />
+            <Precinct name="Bryan County Admin Bldg" votes="51" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="19" text="John King (I) (Rep)" totalVotes="12074">
+            <VoteType name="Absentee by Mail Votes" votes="293">
+                <Precinct name="Harn Community Center" votes="13" />
+                <Precinct name="Danielsiding" votes="24" />
+                <Precinct name="Christ Baptist Church" votes="35" />
+                <Precinct name="Black Creek" votes="19" />
+                <Precinct name="First Baptist Church" votes="29" />
+                <Precinct name="RH Rec Complex" votes="21" />
+                <Precinct name="John Stevens Wetland Ctr" votes="56" />
+                <Precinct name="New Life" votes="28" />
+                <Precinct name="New Beginnings" votes="44" />
+                <Precinct name="Bryan County Admin Bldg" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7561">
+                <Precinct name="Harn Community Center" votes="529" />
+                <Precinct name="Danielsiding" votes="556" />
+                <Precinct name="Christ Baptist Church" votes="812" />
+                <Precinct name="Black Creek" votes="254" />
+                <Precinct name="First Baptist Church" votes="658" />
+                <Precinct name="RH Rec Complex" votes="536" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1122" />
+                <Precinct name="New Life" votes="1365" />
+                <Precinct name="New Beginnings" votes="996" />
+                <Precinct name="Bryan County Admin Bldg" votes="733" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4220">
+                <Precinct name="Harn Community Center" votes="305" />
+                <Precinct name="Danielsiding" votes="354" />
+                <Precinct name="Christ Baptist Church" votes="620" />
+                <Precinct name="Black Creek" votes="325" />
+                <Precinct name="First Baptist Church" votes="437" />
+                <Precinct name="RH Rec Complex" votes="265" />
+                <Precinct name="John Stevens Wetland Ctr" votes="351" />
+                <Precinct name="New Life" votes="637" />
+                <Precinct name="New Beginnings" votes="483" />
+                <Precinct name="Bryan County Admin Bldg" votes="443" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Janice Laws Robinson (Dem)" totalVotes="4671">
+            <VoteType name="Absentee by Mail Votes" votes="363">
+                <Precinct name="Harn Community Center" votes="22" />
+                <Precinct name="Danielsiding" votes="35" />
+                <Precinct name="Christ Baptist Church" votes="36" />
+                <Precinct name="Black Creek" votes="12" />
+                <Precinct name="First Baptist Church" votes="61" />
+                <Precinct name="RH Rec Complex" votes="41" />
+                <Precinct name="John Stevens Wetland Ctr" votes="21" />
+                <Precinct name="New Life" votes="31" />
+                <Precinct name="New Beginnings" votes="54" />
+                <Precinct name="Bryan County Admin Bldg" votes="50" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3122">
+                <Precinct name="Harn Community Center" votes="243" />
+                <Precinct name="Danielsiding" votes="183" />
+                <Precinct name="Christ Baptist Church" votes="172" />
+                <Precinct name="Black Creek" votes="89" />
+                <Precinct name="First Baptist Church" votes="491" />
+                <Precinct name="RH Rec Complex" votes="391" />
+                <Precinct name="John Stevens Wetland Ctr" votes="293" />
+                <Precinct name="New Life" votes="439" />
+                <Precinct name="New Beginnings" votes="299" />
+                <Precinct name="Bryan County Admin Bldg" votes="522" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1184">
+                <Precinct name="Harn Community Center" votes="112" />
+                <Precinct name="Danielsiding" votes="77" />
+                <Precinct name="Christ Baptist Church" votes="105" />
+                <Precinct name="Black Creek" votes="74" />
+                <Precinct name="First Baptist Church" votes="186" />
+                <Precinct name="RH Rec Complex" votes="145" />
+                <Precinct name="John Stevens Wetland Ctr" votes="72" />
+                <Precinct name="New Life" votes="148" />
+                <Precinct name="New Beginnings" votes="84" />
+                <Precinct name="Bryan County Admin Bldg" votes="181" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="236">
+            <Precinct name="Harn Community Center" votes="29" />
+            <Precinct name="Danielsiding" votes="6" />
+            <Precinct name="Christ Baptist Church" votes="27" />
+            <Precinct name="Black Creek" votes="11" />
+            <Precinct name="First Baptist Church" votes="22" />
+            <Precinct name="RH Rec Complex" votes="22" />
+            <Precinct name="John Stevens Wetland Ctr" votes="26" />
+            <Precinct name="New Life" votes="40" />
+            <Precinct name="New Beginnings" votes="21" />
+            <Precinct name="Bryan County Admin Bldg" votes="32" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="21" text="Richard Woods (I) (Rep)" totalVotes="12089">
+            <VoteType name="Absentee by Mail Votes" votes="296">
+                <Precinct name="Harn Community Center" votes="14" />
+                <Precinct name="Danielsiding" votes="24" />
+                <Precinct name="Christ Baptist Church" votes="36" />
+                <Precinct name="Black Creek" votes="17" />
+                <Precinct name="First Baptist Church" votes="29" />
+                <Precinct name="RH Rec Complex" votes="20" />
+                <Precinct name="John Stevens Wetland Ctr" votes="56" />
+                <Precinct name="New Life" votes="32" />
+                <Precinct name="New Beginnings" votes="42" />
+                <Precinct name="Bryan County Admin Bldg" votes="26" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7565">
+                <Precinct name="Harn Community Center" votes="531" />
+                <Precinct name="Danielsiding" votes="563" />
+                <Precinct name="Christ Baptist Church" votes="814" />
+                <Precinct name="Black Creek" votes="253" />
+                <Precinct name="First Baptist Church" votes="663" />
+                <Precinct name="RH Rec Complex" votes="532" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1112" />
+                <Precinct name="New Life" votes="1371" />
+                <Precinct name="New Beginnings" votes="998" />
+                <Precinct name="Bryan County Admin Bldg" votes="728" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4228">
+                <Precinct name="Harn Community Center" votes="307" />
+                <Precinct name="Danielsiding" votes="350" />
+                <Precinct name="Christ Baptist Church" votes="614" />
+                <Precinct name="Black Creek" votes="325" />
+                <Precinct name="First Baptist Church" votes="435" />
+                <Precinct name="RH Rec Complex" votes="267" />
+                <Precinct name="John Stevens Wetland Ctr" votes="354" />
+                <Precinct name="New Life" votes="637" />
+                <Precinct name="New Beginnings" votes="487" />
+                <Precinct name="Bryan County Admin Bldg" votes="452" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Alisha Thomas Searcy (Dem)" totalVotes="4698">
+            <VoteType name="Absentee by Mail Votes" votes="361">
+                <Precinct name="Harn Community Center" votes="22" />
+                <Precinct name="Danielsiding" votes="35" />
+                <Precinct name="Christ Baptist Church" votes="34" />
+                <Precinct name="Black Creek" votes="13" />
+                <Precinct name="First Baptist Church" votes="61" />
+                <Precinct name="RH Rec Complex" votes="43" />
+                <Precinct name="John Stevens Wetland Ctr" votes="22" />
+                <Precinct name="New Life" votes="28" />
+                <Precinct name="New Beginnings" votes="53" />
+                <Precinct name="Bryan County Admin Bldg" votes="50" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3138">
+                <Precinct name="Harn Community Center" votes="239" />
+                <Precinct name="Danielsiding" votes="178" />
+                <Precinct name="Christ Baptist Church" votes="172" />
+                <Precinct name="Black Creek" votes="91" />
+                <Precinct name="First Baptist Church" votes="484" />
+                <Precinct name="RH Rec Complex" votes="400" />
+                <Precinct name="John Stevens Wetland Ctr" votes="301" />
+                <Precinct name="New Life" votes="440" />
+                <Precinct name="New Beginnings" votes="298" />
+                <Precinct name="Bryan County Admin Bldg" votes="535" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1197">
+                <Precinct name="Harn Community Center" votes="110" />
+                <Precinct name="Danielsiding" votes="81" />
+                <Precinct name="Christ Baptist Church" votes="113" />
+                <Precinct name="Black Creek" votes="77" />
+                <Precinct name="First Baptist Church" votes="189" />
+                <Precinct name="RH Rec Complex" votes="145" />
+                <Precinct name="John Stevens Wetland Ctr" votes="72" />
+                <Precinct name="New Life" votes="146" />
+                <Precinct name="New Beginnings" votes="83" />
+                <Precinct name="Bryan County Admin Bldg" votes="181" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner of Labor" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="272">
+            <Precinct name="Harn Community Center" votes="28" />
+            <Precinct name="Danielsiding" votes="12" />
+            <Precinct name="Christ Baptist Church" votes="27" />
+            <Precinct name="Black Creek" votes="10" />
+            <Precinct name="First Baptist Church" votes="27" />
+            <Precinct name="RH Rec Complex" votes="25" />
+            <Precinct name="John Stevens Wetland Ctr" votes="29" />
+            <Precinct name="New Life" votes="50" />
+            <Precinct name="New Beginnings" votes="26" />
+            <Precinct name="Bryan County Admin Bldg" votes="38" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="23" text="Bruce Thompson (Rep)" totalVotes="11669">
+            <VoteType name="Absentee by Mail Votes" votes="278">
+                <Precinct name="Harn Community Center" votes="12" />
+                <Precinct name="Danielsiding" votes="21" />
+                <Precinct name="Christ Baptist Church" votes="34" />
+                <Precinct name="Black Creek" votes="18" />
+                <Precinct name="First Baptist Church" votes="28" />
+                <Precinct name="RH Rec Complex" votes="20" />
+                <Precinct name="John Stevens Wetland Ctr" votes="51" />
+                <Precinct name="New Life" votes="31" />
+                <Precinct name="New Beginnings" votes="39" />
+                <Precinct name="Bryan County Admin Bldg" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7326">
+                <Precinct name="Harn Community Center" votes="513" />
+                <Precinct name="Danielsiding" votes="542" />
+                <Precinct name="Christ Baptist Church" votes="800" />
+                <Precinct name="Black Creek" votes="252" />
+                <Precinct name="First Baptist Church" votes="636" />
+                <Precinct name="RH Rec Complex" votes="515" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1088" />
+                <Precinct name="New Life" votes="1310" />
+                <Precinct name="New Beginnings" votes="970" />
+                <Precinct name="Bryan County Admin Bldg" votes="700" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4065">
+                <Precinct name="Harn Community Center" votes="298" />
+                <Precinct name="Danielsiding" votes="334" />
+                <Precinct name="Christ Baptist Church" votes="605" />
+                <Precinct name="Black Creek" votes="316" />
+                <Precinct name="First Baptist Church" votes="411" />
+                <Precinct name="RH Rec Complex" votes="248" />
+                <Precinct name="John Stevens Wetland Ctr" votes="336" />
+                <Precinct name="New Life" votes="619" />
+                <Precinct name="New Beginnings" votes="467" />
+                <Precinct name="Bryan County Admin Bldg" votes="431" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="4610">
+            <VoteType name="Absentee by Mail Votes" votes="356">
+                <Precinct name="Harn Community Center" votes="22" />
+                <Precinct name="Danielsiding" votes="33" />
+                <Precinct name="Christ Baptist Church" votes="35" />
+                <Precinct name="Black Creek" votes="13" />
+                <Precinct name="First Baptist Church" votes="59" />
+                <Precinct name="RH Rec Complex" votes="36" />
+                <Precinct name="John Stevens Wetland Ctr" votes="26" />
+                <Precinct name="New Life" votes="28" />
+                <Precinct name="New Beginnings" votes="54" />
+                <Precinct name="Bryan County Admin Bldg" votes="50" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3107">
+                <Precinct name="Harn Community Center" votes="250" />
+                <Precinct name="Danielsiding" votes="176" />
+                <Precinct name="Christ Baptist Church" votes="168" />
+                <Precinct name="Black Creek" votes="91" />
+                <Precinct name="First Baptist Church" votes="473" />
+                <Precinct name="RH Rec Complex" votes="390" />
+                <Precinct name="John Stevens Wetland Ctr" votes="303" />
+                <Precinct name="New Life" votes="443" />
+                <Precinct name="New Beginnings" votes="293" />
+                <Precinct name="Bryan County Admin Bldg" votes="520" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1145">
+                <Precinct name="Harn Community Center" votes="106" />
+                <Precinct name="Danielsiding" votes="80" />
+                <Precinct name="Christ Baptist Church" votes="106" />
+                <Precinct name="Black Creek" votes="70" />
+                <Precinct name="First Baptist Church" votes="181" />
+                <Precinct name="RH Rec Complex" votes="136" />
+                <Precinct name="John Stevens Wetland Ctr" votes="74" />
+                <Precinct name="New Life" votes="141" />
+                <Precinct name="New Beginnings" votes="82" />
+                <Precinct name="Bryan County Admin Bldg" votes="169" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Emily Anderson (Lib)" totalVotes="485">
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Harn Community Center" votes="1" />
+                <Precinct name="Danielsiding" votes="4" />
+                <Precinct name="Christ Baptist Church" votes="1" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="1" />
+                <Precinct name="RH Rec Complex" votes="5" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1" />
+                <Precinct name="New Life" votes="1" />
+                <Precinct name="New Beginnings" votes="5" />
+                <Precinct name="Bryan County Admin Bldg" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="265">
+                <Precinct name="Harn Community Center" votes="11" />
+                <Precinct name="Danielsiding" votes="21" />
+                <Precinct name="Christ Baptist Church" votes="17" />
+                <Precinct name="Black Creek" votes="1" />
+                <Precinct name="First Baptist Church" votes="39" />
+                <Precinct name="RH Rec Complex" votes="25" />
+                <Precinct name="John Stevens Wetland Ctr" votes="25" />
+                <Precinct name="New Life" votes="49" />
+                <Precinct name="New Beginnings" votes="31" />
+                <Precinct name="Bryan County Admin Bldg" votes="46" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="200">
+                <Precinct name="Harn Community Center" votes="13" />
+                <Precinct name="Danielsiding" votes="15" />
+                <Precinct name="Christ Baptist Church" votes="16" />
+                <Precinct name="Black Creek" votes="16" />
+                <Precinct name="First Baptist Church" votes="31" />
+                <Precinct name="RH Rec Complex" votes="29" />
+                <Precinct name="John Stevens Wetland Ctr" votes="13" />
+                <Precinct name="New Life" votes="24" />
+                <Precinct name="New Beginnings" votes="17" />
+                <Precinct name="Bryan County Admin Bldg" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="US House of Representatives - District 1" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="121">
+            <Precinct name="Harn Community Center" votes="17" />
+            <Precinct name="Danielsiding" votes="3" />
+            <Precinct name="Christ Baptist Church" votes="7" />
+            <Precinct name="Black Creek" votes="6" />
+            <Precinct name="First Baptist Church" votes="11" />
+            <Precinct name="RH Rec Complex" votes="14" />
+            <Precinct name="John Stevens Wetland Ctr" votes="14" />
+            <Precinct name="New Life" votes="22" />
+            <Precinct name="New Beginnings" votes="10" />
+            <Precinct name="Bryan County Admin Bldg" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="26" text="Earl L. &quot;&quot;Buddy&quot;&quot; Carter (I) (Rep)" totalVotes="11881">
+            <VoteType name="Absentee by Mail Votes" votes="282">
+                <Precinct name="Harn Community Center" votes="12" />
+                <Precinct name="Danielsiding" votes="22" />
+                <Precinct name="Christ Baptist Church" votes="32" />
+                <Precinct name="Black Creek" votes="18" />
+                <Precinct name="First Baptist Church" votes="29" />
+                <Precinct name="RH Rec Complex" votes="24" />
+                <Precinct name="John Stevens Wetland Ctr" votes="53" />
+                <Precinct name="New Life" votes="27" />
+                <Precinct name="New Beginnings" votes="39" />
+                <Precinct name="Bryan County Admin Bldg" votes="26" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7420">
+                <Precinct name="Harn Community Center" votes="526" />
+                <Precinct name="Danielsiding" votes="552" />
+                <Precinct name="Christ Baptist Church" votes="815" />
+                <Precinct name="Black Creek" votes="257" />
+                <Precinct name="First Baptist Church" votes="658" />
+                <Precinct name="RH Rec Complex" votes="520" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1083" />
+                <Precinct name="New Life" votes="1325" />
+                <Precinct name="New Beginnings" votes="969" />
+                <Precinct name="Bryan County Admin Bldg" votes="715" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4179">
+                <Precinct name="Harn Community Center" votes="311" />
+                <Precinct name="Danielsiding" votes="346" />
+                <Precinct name="Christ Baptist Church" votes="612" />
+                <Precinct name="Black Creek" votes="330" />
+                <Precinct name="First Baptist Church" votes="426" />
+                <Precinct name="RH Rec Complex" votes="258" />
+                <Precinct name="John Stevens Wetland Ctr" votes="348" />
+                <Precinct name="New Life" votes="631" />
+                <Precinct name="New Beginnings" votes="476" />
+                <Precinct name="Bryan County Admin Bldg" votes="441" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Wade Herring (Dem)" totalVotes="5024">
+            <VoteType name="Absentee by Mail Votes" votes="390">
+                <Precinct name="Harn Community Center" votes="24" />
+                <Precinct name="Danielsiding" votes="37" />
+                <Precinct name="Christ Baptist Church" votes="40" />
+                <Precinct name="Black Creek" votes="13" />
+                <Precinct name="First Baptist Church" votes="61" />
+                <Precinct name="RH Rec Complex" votes="41" />
+                <Precinct name="John Stevens Wetland Ctr" votes="25" />
+                <Precinct name="New Life" votes="37" />
+                <Precinct name="New Beginnings" votes="61" />
+                <Precinct name="Bryan County Admin Bldg" votes="51" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3363">
+                <Precinct name="Harn Community Center" votes="256" />
+                <Precinct name="Danielsiding" votes="189" />
+                <Precinct name="Christ Baptist Church" votes="180" />
+                <Precinct name="Black Creek" votes="90" />
+                <Precinct name="First Baptist Church" votes="500" />
+                <Precinct name="RH Rec Complex" votes="414" />
+                <Precinct name="John Stevens Wetland Ctr" votes="342" />
+                <Precinct name="New Life" votes="495" />
+                <Precinct name="New Beginnings" votes="336" />
+                <Precinct name="Bryan County Admin Bldg" votes="561" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1269">
+                <Precinct name="Harn Community Center" votes="108" />
+                <Precinct name="Danielsiding" votes="86" />
+                <Precinct name="Christ Baptist Church" votes="121" />
+                <Precinct name="Black Creek" votes="73" />
+                <Precinct name="First Baptist Church" votes="201" />
+                <Precinct name="RH Rec Complex" votes="158" />
+                <Precinct name="John Stevens Wetland Ctr" votes="80" />
+                <Precinct name="New Life" votes="156" />
+                <Precinct name="New Beginnings" votes="92" />
+                <Precinct name="Bryan County Admin Bldg" votes="194" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="State Senate - District 1" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="226">
+            <Precinct name="Harn Community Center" votes="32" />
+            <Precinct name="Danielsiding" votes="8" />
+            <Precinct name="Christ Baptist Church" votes="30" />
+            <Precinct name="Black Creek" votes="9" />
+            <Precinct name="First Baptist Church" votes="19" />
+            <Precinct name="RH Rec Complex" votes="19" />
+            <Precinct name="John Stevens Wetland Ctr" votes="23" />
+            <Precinct name="New Life" votes="36" />
+            <Precinct name="New Beginnings" votes="17" />
+            <Precinct name="Bryan County Admin Bldg" votes="33" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="28" text="Ben Watson (I) (Rep)" totalVotes="12072">
+            <VoteType name="Absentee by Mail Votes" votes="295">
+                <Precinct name="Harn Community Center" votes="11" />
+                <Precinct name="Danielsiding" votes="25" />
+                <Precinct name="Christ Baptist Church" votes="33" />
+                <Precinct name="Black Creek" votes="18" />
+                <Precinct name="First Baptist Church" votes="29" />
+                <Precinct name="RH Rec Complex" votes="22" />
+                <Precinct name="John Stevens Wetland Ctr" votes="56" />
+                <Precinct name="New Life" votes="31" />
+                <Precinct name="New Beginnings" votes="45" />
+                <Precinct name="Bryan County Admin Bldg" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7552">
+                <Precinct name="Harn Community Center" votes="528" />
+                <Precinct name="Danielsiding" votes="564" />
+                <Precinct name="Christ Baptist Church" votes="815" />
+                <Precinct name="Black Creek" votes="259" />
+                <Precinct name="First Baptist Church" votes="664" />
+                <Precinct name="RH Rec Complex" votes="532" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1111" />
+                <Precinct name="New Life" votes="1354" />
+                <Precinct name="New Beginnings" votes="999" />
+                <Precinct name="Bryan County Admin Bldg" votes="726" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4225">
+                <Precinct name="Harn Community Center" votes="311" />
+                <Precinct name="Danielsiding" votes="350" />
+                <Precinct name="Christ Baptist Church" votes="614" />
+                <Precinct name="Black Creek" votes="329" />
+                <Precinct name="First Baptist Church" votes="436" />
+                <Precinct name="RH Rec Complex" votes="265" />
+                <Precinct name="John Stevens Wetland Ctr" votes="352" />
+                <Precinct name="New Life" votes="638" />
+                <Precinct name="New Beginnings" votes="484" />
+                <Precinct name="Bryan County Admin Bldg" votes="446" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="James &quot;&quot;Jay&quot;&quot; Jones (Dem)" totalVotes="4731">
+            <VoteType name="Absentee by Mail Votes" votes="371">
+                <Precinct name="Harn Community Center" votes="24" />
+                <Precinct name="Danielsiding" votes="34" />
+                <Precinct name="Christ Baptist Church" votes="36" />
+                <Precinct name="Black Creek" votes="13" />
+                <Precinct name="First Baptist Church" votes="60" />
+                <Precinct name="RH Rec Complex" votes="44" />
+                <Precinct name="John Stevens Wetland Ctr" votes="23" />
+                <Precinct name="New Life" votes="33" />
+                <Precinct name="New Beginnings" votes="53" />
+                <Precinct name="Bryan County Admin Bldg" votes="51" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3168">
+                <Precinct name="Harn Community Center" votes="243" />
+                <Precinct name="Danielsiding" votes="174" />
+                <Precinct name="Christ Baptist Church" votes="169" />
+                <Precinct name="Black Creek" votes="87" />
+                <Precinct name="First Baptist Church" votes="489" />
+                <Precinct name="RH Rec Complex" votes="398" />
+                <Precinct name="John Stevens Wetland Ctr" votes="309" />
+                <Precinct name="New Life" votes="457" />
+                <Precinct name="New Beginnings" votes="300" />
+                <Precinct name="Bryan County Admin Bldg" votes="542" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1190">
+                <Precinct name="Harn Community Center" votes="105" />
+                <Precinct name="Danielsiding" votes="82" />
+                <Precinct name="Christ Baptist Church" votes="111" />
+                <Precinct name="Black Creek" votes="72" />
+                <Precinct name="First Baptist Church" votes="187" />
+                <Precinct name="RH Rec Complex" votes="149" />
+                <Precinct name="John Stevens Wetland Ctr" votes="72" />
+                <Precinct name="New Life" votes="145" />
+                <Precinct name="New Beginnings" votes="85" />
+                <Precinct name="Bryan County Admin Bldg" votes="182" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="State House of Representatives - District 160" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="516">
+            <Precinct name="Harn Community Center" votes="230" />
+            <Precinct name="Christ Baptist Church" votes="191" />
+            <Precinct name="Black Creek" votes="95" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+        </VoteType>
+        <Choice key="30" text="Lehman Franklin (Rep)" totalVotes="3269">
+            <VoteType name="Absentee by Mail Votes" votes="86">
+                <Precinct name="Harn Community Center" votes="19" />
+                <Precinct name="Christ Baptist Church" votes="43" />
+                <Precinct name="Black Creek" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1794">
+                <Precinct name="Harn Community Center" votes="616" />
+                <Precinct name="Christ Baptist Church" votes="889" />
+                <Precinct name="Black Creek" votes="289" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1389">
+                <Precinct name="Harn Community Center" votes="362" />
+                <Precinct name="Christ Baptist Church" votes="665" />
+                <Precinct name="Black Creek" votes="362" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="State House of Representatives - District 164" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="79">
+            <Precinct name="Danielsiding" votes="1" />
+            <Precinct name="First Baptist Church" votes="20" />
+            <Precinct name="RH Rec Complex" votes="22" />
+            <Precinct name="John Stevens Wetland Ctr" votes="19" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="31" text="Ron Stephens (I) (Rep)" totalVotes="4670">
+            <VoteType name="Absentee by Mail Votes" votes="137">
+                <Precinct name="Danielsiding" votes="4" />
+                <Precinct name="First Baptist Church" votes="28" />
+                <Precinct name="RH Rec Complex" votes="22" />
+                <Precinct name="John Stevens Wetland Ctr" votes="55" />
+                <Precinct name="New Beginnings" votes="4" />
+                <Precinct name="Bryan County Admin Bldg" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3006">
+                <Precinct name="Danielsiding" votes="181" />
+                <Precinct name="First Baptist Church" votes="653" />
+                <Precinct name="RH Rec Complex" votes="530" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1048" />
+                <Precinct name="New Beginnings" votes="12" />
+                <Precinct name="Bryan County Admin Bldg" votes="582" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1527">
+                <Precinct name="Danielsiding" votes="154" />
+                <Precinct name="First Baptist Church" votes="430" />
+                <Precinct name="RH Rec Complex" votes="258" />
+                <Precinct name="John Stevens Wetland Ctr" votes="338" />
+                <Precinct name="New Beginnings" votes="6" />
+                <Precinct name="Bryan County Admin Bldg" votes="341" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="32" text="Marcus Thompson (Dem)" totalVotes="2493">
+            <VoteType name="Absentee by Mail Votes" votes="182">
+                <Precinct name="Danielsiding" votes="15" />
+                <Precinct name="First Baptist Church" votes="60" />
+                <Precinct name="RH Rec Complex" votes="43" />
+                <Precinct name="John Stevens Wetland Ctr" votes="20" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="44" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1683">
+                <Precinct name="Danielsiding" votes="80" />
+                <Precinct name="First Baptist Church" votes="499" />
+                <Precinct name="RH Rec Complex" votes="399" />
+                <Precinct name="John Stevens Wetland Ctr" votes="295" />
+                <Precinct name="New Beginnings" votes="3" />
+                <Precinct name="Bryan County Admin Bldg" votes="407" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="626">
+                <Precinct name="Danielsiding" votes="54" />
+                <Precinct name="First Baptist Church" votes="196" />
+                <Precinct name="RH Rec Complex" votes="155" />
+                <Precinct name="John Stevens Wetland Ctr" votes="73" />
+                <Precinct name="New Beginnings" votes="3" />
+                <Precinct name="Bryan County Admin Bldg" votes="145" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="State House of Representatives - District 166" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="706">
+            <Precinct name="Danielsiding" votes="67" />
+            <Precinct name="John Stevens Wetland Ctr" votes="11" />
+            <Precinct name="New Life" votes="317" />
+            <Precinct name="New Beginnings" votes="227" />
+            <Precinct name="Bryan County Admin Bldg" votes="84" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="33" text="Jesse Petrea (I) (Rep)" totalVotes="5049">
+            <VoteType name="Absentee by Mail Votes" votes="120">
+                <Precinct name="Danielsiding" votes="24" />
+                <Precinct name="John Stevens Wetland Ctr" votes="3" />
+                <Precinct name="New Life" votes="33" />
+                <Precinct name="New Beginnings" votes="55" />
+                <Precinct name="Bryan County Admin Bldg" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3345">
+                <Precinct name="Danielsiding" votes="430" />
+                <Precinct name="John Stevens Wetland Ctr" votes="69" />
+                <Precinct name="New Life" votes="1542" />
+                <Precinct name="New Beginnings" votes="1106" />
+                <Precinct name="Bryan County Admin Bldg" votes="198" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1584">
+                <Precinct name="Danielsiding" votes="210" />
+                <Precinct name="John Stevens Wetland Ctr" votes="12" />
+                <Precinct name="New Life" votes="715" />
+                <Precinct name="New Beginnings" votes="520" />
+                <Precinct name="Bryan County Admin Bldg" votes="127" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="District Attorney -  Atlantic Judicial Circuit" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="2421">
+            <Precinct name="Harn Community Center" votes="240" />
+            <Precinct name="Danielsiding" votes="165" />
+            <Precinct name="Christ Baptist Church" votes="199" />
+            <Precinct name="Black Creek" votes="90" />
+            <Precinct name="First Baptist Church" votes="328" />
+            <Precinct name="RH Rec Complex" votes="257" />
+            <Precinct name="John Stevens Wetland Ctr" votes="204" />
+            <Precinct name="New Life" votes="344" />
+            <Precinct name="New Beginnings" votes="246" />
+            <Precinct name="Bryan County Admin Bldg" votes="348" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="34" text="Billy Joe Nelson, Jr. (Rep)" totalVotes="14204">
+            <VoteType name="Absentee by Mail Votes" votes="395">
+                <Precinct name="Harn Community Center" votes="19" />
+                <Precinct name="Danielsiding" votes="33" />
+                <Precinct name="Christ Baptist Church" votes="44" />
+                <Precinct name="Black Creek" votes="24" />
+                <Precinct name="First Baptist Church" votes="47" />
+                <Precinct name="RH Rec Complex" votes="30" />
+                <Precinct name="John Stevens Wetland Ctr" votes="63" />
+                <Precinct name="New Life" votes="32" />
+                <Precinct name="New Beginnings" votes="60" />
+                <Precinct name="Bryan County Admin Bldg" votes="43" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8946">
+                <Precinct name="Harn Community Center" votes="615" />
+                <Precinct name="Danielsiding" votes="633" />
+                <Precinct name="Christ Baptist Church" votes="885" />
+                <Precinct name="Black Creek" votes="296" />
+                <Precinct name="First Baptist Church" votes="896" />
+                <Precinct name="RH Rec Complex" votes="726" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1253" />
+                <Precinct name="New Life" votes="1545" />
+                <Precinct name="New Beginnings" votes="1115" />
+                <Precinct name="Bryan County Admin Bldg" votes="982" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4861">
+                <Precinct name="Harn Community Center" votes="360" />
+                <Precinct name="Danielsiding" votes="386" />
+                <Precinct name="Christ Baptist Church" votes="667" />
+                <Precinct name="Black Creek" votes="366" />
+                <Precinct name="First Baptist Church" votes="539" />
+                <Precinct name="RH Rec Complex" votes="357" />
+                <Precinct name="John Stevens Wetland Ctr" votes="393" />
+                <Precinct name="New Life" votes="715" />
+                <Precinct name="New Beginnings" votes="527" />
+                <Precinct name="Bryan County Admin Bldg" votes="551" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="County Comm Dist 2" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="433">
+            <Precinct name="Black Creek" votes="89" />
+            <Precinct name="First Baptist Church" votes="344" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+        </VoteType>
+        <Choice key="35" text="Wade Price (I) (Rep)" totalVotes="2158">
+            <VoteType name="Absentee by Mail Votes" votes="68">
+                <Precinct name="Black Creek" votes="24" />
+                <Precinct name="First Baptist Church" votes="44" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1185">
+                <Precinct name="Black Creek" votes="294" />
+                <Precinct name="First Baptist Church" votes="891" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="905">
+                <Precinct name="Black Creek" votes="368" />
+                <Precinct name="First Baptist Church" votes="537" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="County Comm Dist 4" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="596">
+            <Precinct name="New Life" votes="339" />
+            <Precinct name="New Beginnings" votes="257" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+        </VoteType>
+        <Choice key="36" text="Patrick Kisgen, Jr. (Rep)" totalVotes="3989">
+            <VoteType name="Absentee by Mail Votes" votes="92">
+                <Precinct name="New Life" votes="33" />
+                <Precinct name="New Beginnings" votes="59" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2656">
+                <Precinct name="New Life" votes="1544" />
+                <Precinct name="New Beginnings" votes="1112" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1241">
+                <Precinct name="New Life" votes="718" />
+                <Precinct name="New Beginnings" votes="523" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="County Comm Dist 5" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="499">
+            <Precinct name="Danielsiding" votes="154" />
+            <Precinct name="Bryan County Admin Bldg" votes="345" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Gene Wallace (I) (Rep)" totalVotes="2658">
+            <VoteType name="Absentee by Mail Votes" votes="78">
+                <Precinct name="Danielsiding" votes="36" />
+                <Precinct name="Bryan County Admin Bldg" votes="42" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1630">
+                <Precinct name="Danielsiding" votes="637" />
+                <Precinct name="Bryan County Admin Bldg" votes="993" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="950">
+                <Precinct name="Danielsiding" votes="391" />
+                <Precinct name="Bryan County Admin Bldg" votes="559" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="County BOE Chair At Large" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="2352">
+            <Precinct name="Harn Community Center" votes="230" />
+            <Precinct name="Danielsiding" votes="158" />
+            <Precinct name="Christ Baptist Church" votes="194" />
+            <Precinct name="Black Creek" votes="95" />
+            <Precinct name="First Baptist Church" votes="316" />
+            <Precinct name="RH Rec Complex" votes="243" />
+            <Precinct name="John Stevens Wetland Ctr" votes="204" />
+            <Precinct name="New Life" votes="323" />
+            <Precinct name="New Beginnings" votes="248" />
+            <Precinct name="Bryan County Admin Bldg" votes="341" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="38" text="Amy Murphy (I) (Rep)" totalVotes="14248">
+            <VoteType name="Absentee by Mail Votes" votes="392">
+                <Precinct name="Harn Community Center" votes="21" />
+                <Precinct name="Danielsiding" votes="36" />
+                <Precinct name="Christ Baptist Church" votes="43" />
+                <Precinct name="Black Creek" votes="24" />
+                <Precinct name="First Baptist Church" votes="48" />
+                <Precinct name="RH Rec Complex" votes="27" />
+                <Precinct name="John Stevens Wetland Ctr" votes="57" />
+                <Precinct name="New Life" votes="36" />
+                <Precinct name="New Beginnings" votes="57" />
+                <Precinct name="Bryan County Admin Bldg" votes="43" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8980">
+                <Precinct name="Harn Community Center" votes="620" />
+                <Precinct name="Danielsiding" votes="637" />
+                <Precinct name="Christ Baptist Church" votes="890" />
+                <Precinct name="Black Creek" votes="295" />
+                <Precinct name="First Baptist Church" votes="907" />
+                <Precinct name="RH Rec Complex" votes="728" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1250" />
+                <Precinct name="New Life" votes="1551" />
+                <Precinct name="New Beginnings" votes="1112" />
+                <Precinct name="Bryan County Admin Bldg" votes="990" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4874">
+                <Precinct name="Harn Community Center" votes="365" />
+                <Precinct name="Danielsiding" votes="387" />
+                <Precinct name="Christ Baptist Church" votes="666" />
+                <Precinct name="Black Creek" votes="366" />
+                <Precinct name="First Baptist Church" votes="544" />
+                <Precinct name="RH Rec Complex" votes="362" />
+                <Precinct name="John Stevens Wetland Ctr" votes="386" />
+                <Precinct name="New Life" votes="715" />
+                <Precinct name="New Beginnings" votes="526" />
+                <Precinct name="Bryan County Admin Bldg" votes="557" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="County BOE D1 P3" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="50">
+            <Precinct name="Harn Community Center" votes="28" />
+            <Precinct name="Christ Baptist Church" votes="22" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Shawn Page (Rep)" totalVotes="2345">
+            <VoteType name="Absentee by Mail Votes" votes="47">
+                <Precinct name="Harn Community Center" votes="14" />
+                <Precinct name="Christ Baptist Church" votes="33" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1362">
+                <Precinct name="Harn Community Center" votes="540" />
+                <Precinct name="Christ Baptist Church" votes="822" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="936">
+                <Precinct name="Harn Community Center" votes="314" />
+                <Precinct name="Christ Baptist Church" votes="622" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="Melissa Alewine (Dem)" totalVotes="668">
+            <VoteType name="Absentee by Mail Votes" votes="58">
+                <Precinct name="Harn Community Center" votes="22" />
+                <Precinct name="Christ Baptist Church" votes="36" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="400">
+                <Precinct name="Harn Community Center" votes="233" />
+                <Precinct name="Christ Baptist Church" votes="167" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="210">
+                <Precinct name="Harn Community Center" votes="103" />
+                <Precinct name="Christ Baptist Church" votes="107" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="County BOE D4 P7" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="72">
+            <Precinct name="New Life" votes="42" />
+            <Precinct name="New Beginnings" votes="30" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Marianne F. Smith (I) (Rep)" totalVotes="3575">
+            <VoteType name="Absentee by Mail Votes" votes="77">
+                <Precinct name="New Life" votes="29" />
+                <Precinct name="New Beginnings" votes="48" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2377">
+                <Precinct name="New Life" votes="1371" />
+                <Precinct name="New Beginnings" votes="1006" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1121">
+                <Precinct name="New Life" votes="637" />
+                <Precinct name="New Beginnings" votes="484" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="42" text="Walteria Maine (Dem)" totalVotes="1021">
+            <VoteType name="Absentee by Mail Votes" votes="78">
+                <Precinct name="New Life" votes="30" />
+                <Precinct name="New Beginnings" votes="48" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="723">
+                <Precinct name="New Life" votes="438" />
+                <Precinct name="New Beginnings" votes="285" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="220">
+                <Precinct name="New Life" votes="141" />
+                <Precinct name="New Beginnings" votes="79" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="County BOE D5 P6" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="66">
+            <Precinct name="Danielsiding" votes="18" />
+            <Precinct name="Bryan County Admin Bldg" votes="48" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="43" text="David Schwartz (I) (Rep)" totalVotes="2114">
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="Danielsiding" votes="26" />
+                <Precinct name="Bryan County Admin Bldg" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1271">
+                <Precinct name="Danielsiding" votes="550" />
+                <Precinct name="Bryan County Admin Bldg" votes="721" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="792">
+                <Precinct name="Danielsiding" votes="348" />
+                <Precinct name="Bryan County Admin Bldg" votes="444" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="Patricia Hewitt (Dem)" totalVotes="1058">
+            <VoteType name="Absentee by Mail Votes" votes="83">
+                <Precinct name="Danielsiding" votes="32" />
+                <Precinct name="Bryan County Admin Bldg" votes="51" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="717">
+                <Precinct name="Danielsiding" votes="184" />
+                <Precinct name="Bryan County Admin Bldg" votes="533" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="258">
+                <Precinct name="Danielsiding" votes="79" />
+                <Precinct name="Bryan County Admin Bldg" votes="179" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="Proposed Constitutional Amendment 1" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="507">
+            <Precinct name="Harn Community Center" votes="67" />
+            <Precinct name="Danielsiding" votes="36" />
+            <Precinct name="Christ Baptist Church" votes="63" />
+            <Precinct name="Black Creek" votes="48" />
+            <Precinct name="First Baptist Church" votes="66" />
+            <Precinct name="RH Rec Complex" votes="38" />
+            <Precinct name="John Stevens Wetland Ctr" votes="46" />
+            <Precinct name="New Life" votes="59" />
+            <Precinct name="New Beginnings" votes="40" />
+            <Precinct name="Bryan County Admin Bldg" votes="44" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Yes" totalVotes="14894">
+            <VoteType name="Absentee by Mail Votes" votes="572">
+                <Precinct name="Harn Community Center" votes="27" />
+                <Precinct name="Danielsiding" votes="42" />
+                <Precinct name="Christ Baptist Church" votes="61" />
+                <Precinct name="Black Creek" votes="28" />
+                <Precinct name="First Baptist Church" votes="77" />
+                <Precinct name="RH Rec Complex" votes="54" />
+                <Precinct name="John Stevens Wetland Ctr" votes="63" />
+                <Precinct name="New Life" votes="59" />
+                <Precinct name="New Beginnings" votes="87" />
+                <Precinct name="Bryan County Admin Bldg" votes="74" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="9567">
+                <Precinct name="Harn Community Center" votes="657" />
+                <Precinct name="Danielsiding" votes="680" />
+                <Precinct name="Christ Baptist Church" votes="880" />
+                <Precinct name="Black Creek" votes="287" />
+                <Precinct name="First Baptist Church" votes="1005" />
+                <Precinct name="RH Rec Complex" votes="832" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1252" />
+                <Precinct name="New Life" votes="1641" />
+                <Precinct name="New Beginnings" votes="1176" />
+                <Precinct name="Bryan County Admin Bldg" votes="1157" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4754">
+                <Precinct name="Harn Community Center" votes="370" />
+                <Precinct name="Danielsiding" votes="369" />
+                <Precinct name="Christ Baptist Church" votes="604" />
+                <Precinct name="Black Creek" votes="345" />
+                <Precinct name="First Baptist Church" votes="546" />
+                <Precinct name="RH Rec Complex" votes="378" />
+                <Precinct name="John Stevens Wetland Ctr" votes="374" />
+                <Precinct name="New Life" votes="689" />
+                <Precinct name="New Beginnings" votes="505" />
+                <Precinct name="Bryan County Admin Bldg" votes="574" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="No" totalVotes="1638">
+            <VoteType name="Absentee by Mail Votes" votes="81">
+                <Precinct name="Harn Community Center" votes="7" />
+                <Precinct name="Danielsiding" votes="14" />
+                <Precinct name="Christ Baptist Church" votes="8" />
+                <Precinct name="Black Creek" votes="1" />
+                <Precinct name="First Baptist Church" votes="8" />
+                <Precinct name="RH Rec Complex" votes="7" />
+                <Precinct name="John Stevens Wetland Ctr" votes="14" />
+                <Precinct name="New Life" votes="6" />
+                <Precinct name="New Beginnings" votes="13" />
+                <Precinct name="Bryan County Admin Bldg" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="970">
+                <Precinct name="Harn Community Center" votes="90" />
+                <Precinct name="Danielsiding" votes="48" />
+                <Precinct name="Christ Baptist Church" votes="88" />
+                <Precinct name="Black Creek" votes="37" />
+                <Precinct name="First Baptist Church" votes="113" />
+                <Precinct name="RH Rec Complex" votes="83" />
+                <Precinct name="John Stevens Wetland Ctr" votes="149" />
+                <Precinct name="New Life" votes="153" />
+                <Precinct name="New Beginnings" votes="107" />
+                <Precinct name="Bryan County Admin Bldg" votes="102" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="587">
+                <Precinct name="Harn Community Center" votes="36" />
+                <Precinct name="Danielsiding" votes="49" />
+                <Precinct name="Christ Baptist Church" votes="106" />
+                <Precinct name="Black Creek" votes="41" />
+                <Precinct name="First Baptist Church" votes="72" />
+                <Precinct name="RH Rec Complex" votes="37" />
+                <Precinct name="John Stevens Wetland Ctr" votes="49" />
+                <Precinct name="New Life" votes="89" />
+                <Precinct name="New Beginnings" votes="56" />
+                <Precinct name="Bryan County Admin Bldg" votes="52" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="Proposed Constitutional Amendment 2" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="349">
+            <Precinct name="Harn Community Center" votes="51" />
+            <Precinct name="Danielsiding" votes="26" />
+            <Precinct name="Christ Baptist Church" votes="50" />
+            <Precinct name="Black Creek" votes="28" />
+            <Precinct name="First Baptist Church" votes="44" />
+            <Precinct name="RH Rec Complex" votes="25" />
+            <Precinct name="John Stevens Wetland Ctr" votes="23" />
+            <Precinct name="New Life" votes="40" />
+            <Precinct name="New Beginnings" votes="29" />
+            <Precinct name="Bryan County Admin Bldg" votes="33" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="47" text="Yes" totalVotes="15642">
+            <VoteType name="Absentee by Mail Votes" votes="624">
+                <Precinct name="Harn Community Center" votes="30" />
+                <Precinct name="Danielsiding" votes="53" />
+                <Precinct name="Christ Baptist Church" votes="63" />
+                <Precinct name="Black Creek" votes="29" />
+                <Precinct name="First Baptist Church" votes="83" />
+                <Precinct name="RH Rec Complex" votes="62" />
+                <Precinct name="John Stevens Wetland Ctr" votes="72" />
+                <Precinct name="New Life" votes="61" />
+                <Precinct name="New Beginnings" votes="96" />
+                <Precinct name="Bryan County Admin Bldg" votes="75" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="9993">
+                <Precinct name="Harn Community Center" votes="700" />
+                <Precinct name="Danielsiding" votes="698" />
+                <Precinct name="Christ Baptist Church" votes="901" />
+                <Precinct name="Black Creek" votes="315" />
+                <Precinct name="First Baptist Church" votes="1062" />
+                <Precinct name="RH Rec Complex" votes="879" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1329" />
+                <Precinct name="New Life" votes="1699" />
+                <Precinct name="New Beginnings" votes="1218" />
+                <Precinct name="Bryan County Admin Bldg" votes="1192" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5024">
+                <Precinct name="Harn Community Center" votes="387" />
+                <Precinct name="Danielsiding" votes="400" />
+                <Precinct name="Christ Baptist Church" votes="655" />
+                <Precinct name="Black Creek" votes="360" />
+                <Precinct name="First Baptist Church" votes="577" />
+                <Precinct name="RH Rec Complex" votes="392" />
+                <Precinct name="John Stevens Wetland Ctr" votes="401" />
+                <Precinct name="New Life" votes="741" />
+                <Precinct name="New Beginnings" votes="524" />
+                <Precinct name="Bryan County Admin Bldg" votes="587" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="48" text="No" totalVotes="1048">
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Harn Community Center" votes="3" />
+                <Precinct name="Danielsiding" votes="3" />
+                <Precinct name="Christ Baptist Church" votes="4" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="3" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="6" />
+                <Precinct name="New Life" votes="4" />
+                <Precinct name="New Beginnings" votes="4" />
+                <Precinct name="Bryan County Admin Bldg" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="661">
+                <Precinct name="Harn Community Center" votes="60" />
+                <Precinct name="Danielsiding" votes="36" />
+                <Precinct name="Christ Baptist Church" votes="78" />
+                <Precinct name="Black Creek" votes="23" />
+                <Precinct name="First Baptist Church" votes="74" />
+                <Precinct name="RH Rec Complex" votes="48" />
+                <Precinct name="John Stevens Wetland Ctr" votes="89" />
+                <Precinct name="New Life" votes="108" />
+                <Precinct name="New Beginnings" votes="73" />
+                <Precinct name="Bryan County Admin Bldg" votes="72" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="358">
+                <Precinct name="Harn Community Center" votes="23" />
+                <Precinct name="Danielsiding" votes="22" />
+                <Precinct name="Christ Baptist Church" votes="59" />
+                <Precinct name="Black Creek" votes="32" />
+                <Precinct name="First Baptist Church" votes="44" />
+                <Precinct name="RH Rec Complex" votes="23" />
+                <Precinct name="John Stevens Wetland Ctr" votes="27" />
+                <Precinct name="New Life" votes="43" />
+                <Precinct name="New Beginnings" votes="40" />
+                <Precinct name="Bryan County Admin Bldg" votes="45" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="Statewide Referendum Question 1" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="696">
+            <Precinct name="Harn Community Center" votes="73" />
+            <Precinct name="Danielsiding" votes="42" />
+            <Precinct name="Christ Baptist Church" votes="76" />
+            <Precinct name="Black Creek" votes="37" />
+            <Precinct name="First Baptist Church" votes="80" />
+            <Precinct name="RH Rec Complex" votes="47" />
+            <Precinct name="John Stevens Wetland Ctr" votes="63" />
+            <Precinct name="New Life" votes="114" />
+            <Precinct name="New Beginnings" votes="77" />
+            <Precinct name="Bryan County Admin Bldg" votes="87" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="49" text="Yes" totalVotes="9792">
+            <VoteType name="Absentee by Mail Votes" votes="301">
+                <Precinct name="Harn Community Center" votes="12" />
+                <Precinct name="Danielsiding" votes="27" />
+                <Precinct name="Christ Baptist Church" votes="41" />
+                <Precinct name="Black Creek" votes="17" />
+                <Precinct name="First Baptist Church" votes="39" />
+                <Precinct name="RH Rec Complex" votes="28" />
+                <Precinct name="John Stevens Wetland Ctr" votes="33" />
+                <Precinct name="New Life" votes="26" />
+                <Precinct name="New Beginnings" votes="47" />
+                <Precinct name="Bryan County Admin Bldg" votes="31" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6113">
+                <Precinct name="Harn Community Center" votes="472" />
+                <Precinct name="Danielsiding" votes="419" />
+                <Precinct name="Christ Baptist Church" votes="620" />
+                <Precinct name="Black Creek" votes="203" />
+                <Precinct name="First Baptist Church" votes="658" />
+                <Precinct name="RH Rec Complex" votes="535" />
+                <Precinct name="John Stevens Wetland Ctr" votes="785" />
+                <Precinct name="New Life" votes="971" />
+                <Precinct name="New Beginnings" votes="746" />
+                <Precinct name="Bryan County Admin Bldg" votes="704" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3377">
+                <Precinct name="Harn Community Center" votes="316" />
+                <Precinct name="Danielsiding" votes="235" />
+                <Precinct name="Christ Baptist Church" votes="460" />
+                <Precinct name="Black Creek" votes="255" />
+                <Precinct name="First Baptist Church" votes="389" />
+                <Precinct name="RH Rec Complex" votes="257" />
+                <Precinct name="John Stevens Wetland Ctr" votes="257" />
+                <Precinct name="New Life" votes="486" />
+                <Precinct name="New Beginnings" votes="355" />
+                <Precinct name="Bryan County Admin Bldg" votes="367" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="No" totalVotes="6551">
+            <VoteType name="Absentee by Mail Votes" votes="332">
+                <Precinct name="Harn Community Center" votes="21" />
+                <Precinct name="Danielsiding" votes="29" />
+                <Precinct name="Christ Baptist Church" votes="27" />
+                <Precinct name="Black Creek" votes="12" />
+                <Precinct name="First Baptist Church" votes="43" />
+                <Precinct name="RH Rec Complex" votes="31" />
+                <Precinct name="John Stevens Wetland Ctr" votes="42" />
+                <Precinct name="New Life" votes="35" />
+                <Precinct name="New Beginnings" votes="50" />
+                <Precinct name="Bryan County Admin Bldg" votes="42" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4320">
+                <Precinct name="Harn Community Center" votes="270" />
+                <Precinct name="Danielsiding" votes="307" />
+                <Precinct name="Christ Baptist Church" votes="343" />
+                <Precinct name="Black Creek" votes="127" />
+                <Precinct name="First Baptist Church" votes="459" />
+                <Precinct name="RH Rec Complex" votes="376" />
+                <Precinct name="John Stevens Wetland Ctr" votes="605" />
+                <Precinct name="New Life" votes="795" />
+                <Precinct name="New Beginnings" votes="513" />
+                <Precinct name="Bryan County Admin Bldg" votes="525" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1899">
+                <Precinct name="Harn Community Center" votes="90" />
+                <Precinct name="Danielsiding" votes="179" />
+                <Precinct name="Christ Baptist Church" votes="243" />
+                <Precinct name="Black Creek" votes="136" />
+                <Precinct name="First Baptist Church" votes="219" />
+                <Precinct name="RH Rec Complex" votes="155" />
+                <Precinct name="John Stevens Wetland Ctr" votes="162" />
+                <Precinct name="New Life" votes="269" />
+                <Precinct name="New Beginnings" votes="196" />
+                <Precinct name="Bryan County Admin Bldg" votes="250" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="Statewide Referendum Question 2" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="650">
+            <Precinct name="Harn Community Center" votes="83" />
+            <Precinct name="Danielsiding" votes="43" />
+            <Precinct name="Christ Baptist Church" votes="71" />
+            <Precinct name="Black Creek" votes="34" />
+            <Precinct name="First Baptist Church" votes="69" />
+            <Precinct name="RH Rec Complex" votes="44" />
+            <Precinct name="John Stevens Wetland Ctr" votes="56" />
+            <Precinct name="New Life" votes="106" />
+            <Precinct name="New Beginnings" votes="61" />
+            <Precinct name="Bryan County Admin Bldg" votes="83" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="51" text="Yes" totalVotes="13186">
+            <VoteType name="Absentee by Mail Votes" votes="455">
+                <Precinct name="Harn Community Center" votes="20" />
+                <Precinct name="Danielsiding" votes="33" />
+                <Precinct name="Christ Baptist Church" votes="54" />
+                <Precinct name="Black Creek" votes="24" />
+                <Precinct name="First Baptist Church" votes="56" />
+                <Precinct name="RH Rec Complex" votes="50" />
+                <Precinct name="John Stevens Wetland Ctr" votes="52" />
+                <Precinct name="New Life" votes="41" />
+                <Precinct name="New Beginnings" votes="66" />
+                <Precinct name="Bryan County Admin Bldg" votes="59" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8322">
+                <Precinct name="Harn Community Center" votes="598" />
+                <Precinct name="Danielsiding" votes="580" />
+                <Precinct name="Christ Baptist Church" votes="792" />
+                <Precinct name="Black Creek" votes="281" />
+                <Precinct name="First Baptist Church" votes="895" />
+                <Precinct name="RH Rec Complex" votes="729" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1113" />
+                <Precinct name="New Life" votes="1354" />
+                <Precinct name="New Beginnings" votes="1029" />
+                <Precinct name="Bryan County Admin Bldg" votes="951" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4408">
+                <Precinct name="Harn Community Center" votes="341" />
+                <Precinct name="Danielsiding" votes="339" />
+                <Precinct name="Christ Baptist Church" votes="604" />
+                <Precinct name="Black Creek" votes="322" />
+                <Precinct name="First Baptist Church" votes="509" />
+                <Precinct name="RH Rec Complex" votes="335" />
+                <Precinct name="John Stevens Wetland Ctr" votes="344" />
+                <Precinct name="New Life" votes="633" />
+                <Precinct name="New Beginnings" votes="472" />
+                <Precinct name="Bryan County Admin Bldg" votes="509" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="No" totalVotes="3203">
+            <VoteType name="Absentee by Mail Votes" votes="183">
+                <Precinct name="Harn Community Center" votes="13" />
+                <Precinct name="Danielsiding" votes="23" />
+                <Precinct name="Christ Baptist Church" votes="12" />
+                <Precinct name="Black Creek" votes="5" />
+                <Precinct name="First Baptist Church" votes="26" />
+                <Precinct name="RH Rec Complex" votes="10" />
+                <Precinct name="John Stevens Wetland Ctr" votes="23" />
+                <Precinct name="New Life" votes="21" />
+                <Precinct name="New Beginnings" votes="33" />
+                <Precinct name="Bryan County Admin Bldg" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2140">
+                <Precinct name="Harn Community Center" votes="142" />
+                <Precinct name="Danielsiding" votes="143" />
+                <Precinct name="Christ Baptist Church" votes="176" />
+                <Precinct name="Black Creek" votes="54" />
+                <Precinct name="First Baptist Church" votes="226" />
+                <Precinct name="RH Rec Complex" votes="183" />
+                <Precinct name="John Stevens Wetland Ctr" votes="281" />
+                <Precinct name="New Life" votes="418" />
+                <Precinct name="New Beginnings" votes="238" />
+                <Precinct name="Bryan County Admin Bldg" votes="279" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="880">
+                <Precinct name="Harn Community Center" votes="57" />
+                <Precinct name="Danielsiding" votes="77" />
+                <Precinct name="Christ Baptist Church" votes="101" />
+                <Precinct name="Black Creek" votes="67" />
+                <Precinct name="First Baptist Church" votes="106" />
+                <Precinct name="RH Rec Complex" votes="78" />
+                <Precinct name="John Stevens Wetland Ctr" votes="78" />
+                <Precinct name="New Life" votes="123" />
+                <Precinct name="New Beginnings" votes="85" />
+                <Precinct name="Bryan County Admin Bldg" votes="108" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="Sunday Sales of Alcoholic Beverages for Consumption on Premises" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="381">
+            <Precinct name="Harn Community Center" votes="43" />
+            <Precinct name="Danielsiding" votes="29" />
+            <Precinct name="Christ Baptist Church" votes="64" />
+            <Precinct name="Black Creek" votes="25" />
+            <Precinct name="First Baptist Church" votes="36" />
+            <Precinct name="RH Rec Complex" votes="23" />
+            <Precinct name="John Stevens Wetland Ctr" votes="34" />
+            <Precinct name="New Life" votes="56" />
+            <Precinct name="New Beginnings" votes="34" />
+            <Precinct name="Bryan County Admin Bldg" votes="37" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Harn Community Center" votes="0" />
+            <Precinct name="Danielsiding" votes="0" />
+            <Precinct name="Christ Baptist Church" votes="0" />
+            <Precinct name="Black Creek" votes="0" />
+            <Precinct name="First Baptist Church" votes="0" />
+            <Precinct name="RH Rec Complex" votes="0" />
+            <Precinct name="John Stevens Wetland Ctr" votes="0" />
+            <Precinct name="New Life" votes="0" />
+            <Precinct name="New Beginnings" votes="0" />
+            <Precinct name="Bryan County Admin Bldg" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Yes" totalVotes="11565">
+            <VoteType name="Absentee by Mail Votes" votes="411">
+                <Precinct name="Harn Community Center" votes="15" />
+                <Precinct name="Danielsiding" votes="35" />
+                <Precinct name="Christ Baptist Church" votes="36" />
+                <Precinct name="Black Creek" votes="17" />
+                <Precinct name="First Baptist Church" votes="53" />
+                <Precinct name="RH Rec Complex" votes="43" />
+                <Precinct name="John Stevens Wetland Ctr" votes="42" />
+                <Precinct name="New Life" votes="43" />
+                <Precinct name="New Beginnings" votes="72" />
+                <Precinct name="Bryan County Admin Bldg" votes="55" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7406">
+                <Precinct name="Harn Community Center" votes="483" />
+                <Precinct name="Danielsiding" votes="505" />
+                <Precinct name="Christ Baptist Church" votes="629" />
+                <Precinct name="Black Creek" votes="204" />
+                <Precinct name="First Baptist Church" votes="779" />
+                <Precinct name="RH Rec Complex" votes="674" />
+                <Precinct name="John Stevens Wetland Ctr" votes="1037" />
+                <Precinct name="New Life" votes="1309" />
+                <Precinct name="New Beginnings" votes="919" />
+                <Precinct name="Bryan County Admin Bldg" votes="867" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3747">
+                <Precinct name="Harn Community Center" votes="292" />
+                <Precinct name="Danielsiding" votes="293" />
+                <Precinct name="Christ Baptist Church" votes="488" />
+                <Precinct name="Black Creek" votes="234" />
+                <Precinct name="First Baptist Church" votes="455" />
+                <Precinct name="RH Rec Complex" votes="291" />
+                <Precinct name="John Stevens Wetland Ctr" votes="297" />
+                <Precinct name="New Life" votes="558" />
+                <Precinct name="New Beginnings" votes="416" />
+                <Precinct name="Bryan County Admin Bldg" votes="423" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="1" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="No" totalVotes="5093">
+            <VoteType name="Absentee by Mail Votes" votes="240">
+                <Precinct name="Harn Community Center" votes="19" />
+                <Precinct name="Danielsiding" votes="22" />
+                <Precinct name="Christ Baptist Church" votes="30" />
+                <Precinct name="Black Creek" votes="13" />
+                <Precinct name="First Baptist Church" votes="33" />
+                <Precinct name="RH Rec Complex" votes="19" />
+                <Precinct name="John Stevens Wetland Ctr" votes="35" />
+                <Precinct name="New Life" votes="21" />
+                <Precinct name="New Beginnings" votes="27" />
+                <Precinct name="Bryan County Admin Bldg" votes="21" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3230">
+                <Precinct name="Harn Community Center" votes="284" />
+                <Precinct name="Danielsiding" votes="225" />
+                <Precinct name="Christ Baptist Church" votes="338" />
+                <Precinct name="Black Creek" votes="137" />
+                <Precinct name="First Baptist Church" votes="362" />
+                <Precinct name="RH Rec Complex" votes="250" />
+                <Precinct name="John Stevens Wetland Ctr" votes="374" />
+                <Precinct name="New Life" votes="495" />
+                <Precinct name="New Beginnings" votes="370" />
+                <Precinct name="Bryan County Admin Bldg" votes="395" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1623">
+                <Precinct name="Harn Community Center" votes="118" />
+                <Precinct name="Danielsiding" votes="129" />
+                <Precinct name="Christ Baptist Church" votes="225" />
+                <Precinct name="Black Creek" votes="157" />
+                <Precinct name="First Baptist Church" votes="169" />
+                <Precinct name="RH Rec Complex" votes="129" />
+                <Precinct name="John Stevens Wetland Ctr" votes="128" />
+                <Precinct name="New Life" votes="214" />
+                <Precinct name="New Beginnings" votes="146" />
+                <Precinct name="Bryan County Admin Bldg" votes="208" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Harn Community Center" votes="0" />
+                <Precinct name="Danielsiding" votes="0" />
+                <Precinct name="Christ Baptist Church" votes="0" />
+                <Precinct name="Black Creek" votes="0" />
+                <Precinct name="First Baptist Church" votes="0" />
+                <Precinct name="RH Rec Complex" votes="0" />
+                <Precinct name="John Stevens Wetland Ctr" votes="0" />
+                <Precinct name="New Life" votes="0" />
+                <Precinct name="New Beginnings" votes="0" />
+                <Precinct name="Bryan County Admin Bldg" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

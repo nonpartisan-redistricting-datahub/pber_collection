@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 5:19:05 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Coffee</Region>
+    <VoterTurnout totalVoters="22446" ballotsCast="11021" voterTurnout="49.10">
+        <Precincts>
+            <Precinct name="Douglas" totalVoters="15028" ballotsCast="7068" voterTurnout="47.03" percentReporting="4" />
+            <Precinct name="Ambrose" totalVoters="1929" ballotsCast="1041" voterTurnout="53.97" percentReporting="4" />
+            <Precinct name="Bridgetown" totalVoters="313" ballotsCast="191" voterTurnout="61.02" percentReporting="4" />
+            <Precinct name="Broxton" totalVoters="2241" ballotsCast="1230" voterTurnout="54.89" percentReporting="4" />
+            <Precinct name="Nicholls" totalVoters="2026" ballotsCast="953" voterTurnout="47.04" percentReporting="4" />
+            <Precinct name="West Green" totalVoters="905" ballotsCast="538" voterTurnout="59.45" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="22">
+            <Precinct name="Douglas" votes="16" />
+            <Precinct name="Ambrose" votes="2" />
+            <Precinct name="Bridgetown" votes="1" />
+            <Precinct name="Broxton" votes="3" />
+            <Precinct name="Nicholls" votes="0" />
+            <Precinct name="West Green" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+            <Precinct name="Ambrose" votes="0" />
+            <Precinct name="Bridgetown" votes="0" />
+            <Precinct name="Broxton" votes="0" />
+            <Precinct name="Nicholls" votes="0" />
+            <Precinct name="West Green" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="7850">
+            <VoteType name="Absentee by Mail Votes" votes="146">
+                <Precinct name="Douglas" votes="113" />
+                <Precinct name="Ambrose" votes="13" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="10" />
+                <Precinct name="Nicholls" votes="4" />
+                <Precinct name="West Green" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4104">
+                <Precinct name="Douglas" votes="2825" />
+                <Precinct name="Ambrose" votes="364" />
+                <Precinct name="Bridgetown" votes="42" />
+                <Precinct name="Broxton" votes="417" />
+                <Precinct name="Nicholls" votes="299" />
+                <Precinct name="West Green" votes="157" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3589">
+                <Precinct name="Douglas" votes="1689" />
+                <Precinct name="Ambrose" votes="484" />
+                <Precinct name="Bridgetown" votes="106" />
+                <Precinct name="Broxton" votes="513" />
+                <Precinct name="Nicholls" votes="444" />
+                <Precinct name="West Green" votes="353" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="11">
+                <Precinct name="Douglas" votes="2" />
+                <Precinct name="Ambrose" votes="1" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="2" />
+                <Precinct name="Nicholls" votes="4" />
+                <Precinct name="West Green" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="3149">
+            <VoteType name="Absentee by Mail Votes" votes="170">
+                <Precinct name="Douglas" votes="143" />
+                <Precinct name="Ambrose" votes="6" />
+                <Precinct name="Bridgetown" votes="2" />
+                <Precinct name="Broxton" votes="8" />
+                <Precinct name="Nicholls" votes="10" />
+                <Precinct name="West Green" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1786">
+                <Precinct name="Douglas" votes="1468" />
+                <Precinct name="Ambrose" votes="102" />
+                <Precinct name="Bridgetown" votes="10" />
+                <Precinct name="Broxton" votes="127" />
+                <Precinct name="Nicholls" votes="68" />
+                <Precinct name="West Green" votes="11" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1192">
+                <Precinct name="Douglas" votes="812" />
+                <Precinct name="Ambrose" votes="68" />
+                <Precinct name="Bridgetown" votes="30" />
+                <Precinct name="Broxton" votes="150" />
+                <Precinct name="Nicholls" votes="124" />
+                <Precinct name="West Green" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Douglas" votes="0" />
+                <Precinct name="Ambrose" votes="1" />
+                <Precinct name="Bridgetown" votes="0" />
+                <Precinct name="Broxton" votes="0" />
+                <Precinct name="Nicholls" votes="0" />
+                <Precinct name="West Green" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

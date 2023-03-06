@@ -1,0 +1,2778 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/14/2022 6:47:47 PM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Catoosa</Region>
+    <VoterTurnout totalVoters="44935" ballotsCast="24628" voterTurnout="54.81">
+        <Precincts>
+            <Precinct name="Blackstock" totalVoters="1922" ballotsCast="1020" voterTurnout="53.07" percentReporting="4" />
+            <Precinct name="Boynton" totalVoters="5944" ballotsCast="3472" voterTurnout="58.41" percentReporting="4" />
+            <Precinct name="Catoosa Keith" totalVoters="2587" ballotsCast="1509" voterTurnout="58.33" percentReporting="4" />
+            <Precinct name="Chambers" totalVoters="2587" ballotsCast="1729" voterTurnout="66.83" percentReporting="4" />
+            <Precinct name="Ft Oglethorpe" totalVoters="4028" ballotsCast="1952" voterTurnout="48.46" percentReporting="4" />
+            <Precinct name="Graysville" totalVoters="4493" ballotsCast="2340" voterTurnout="52.08" percentReporting="4" />
+            <Precinct name="Lakeview" totalVoters="3434" ballotsCast="1452" voterTurnout="42.28" percentReporting="4" />
+            <Precinct name="Poplar Springs" totalVoters="4114" ballotsCast="2331" voterTurnout="56.66" percentReporting="4" />
+            <Precinct name="Ringgold" totalVoters="7199" ballotsCast="4144" voterTurnout="57.56" percentReporting="4" />
+            <Precinct name="Westside" totalVoters="5658" ballotsCast="2890" voterTurnout="51.08" percentReporting="4" />
+            <Precinct name="Woodstation" totalVoters="2993" ballotsCast="1789" voterTurnout="59.77" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="3" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="190">
+            <Precinct name="Blackstock" votes="4" />
+            <Precinct name="Boynton" votes="24" />
+            <Precinct name="Catoosa Keith" votes="10" />
+            <Precinct name="Chambers" votes="7" />
+            <Precinct name="Ft Oglethorpe" votes="13" />
+            <Precinct name="Graysville" votes="15" />
+            <Precinct name="Lakeview" votes="11" />
+            <Precinct name="Poplar Springs" votes="14" />
+            <Precinct name="Ringgold" votes="39" />
+            <Precinct name="Westside" votes="42" />
+            <Precinct name="Woodstation" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Herschel Junior Walker (Rep)" totalVotes="18562">
+            <VoteType name="Absentee by Mail Votes" votes="416">
+                <Precinct name="Blackstock" votes="17" />
+                <Precinct name="Boynton" votes="71" />
+                <Precinct name="Catoosa Keith" votes="23" />
+                <Precinct name="Chambers" votes="19" />
+                <Precinct name="Ft Oglethorpe" votes="37" />
+                <Precinct name="Graysville" votes="38" />
+                <Precinct name="Lakeview" votes="24" />
+                <Precinct name="Poplar Springs" votes="43" />
+                <Precinct name="Ringgold" votes="72" />
+                <Precinct name="Westside" votes="55" />
+                <Precinct name="Woodstation" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="10623">
+                <Precinct name="Blackstock" votes="338" />
+                <Precinct name="Boynton" votes="1523" />
+                <Precinct name="Catoosa Keith" votes="559" />
+                <Precinct name="Chambers" votes="781" />
+                <Precinct name="Ft Oglethorpe" votes="796" />
+                <Precinct name="Graysville" votes="906" />
+                <Precinct name="Lakeview" votes="623" />
+                <Precinct name="Poplar Springs" votes="1088" />
+                <Precinct name="Ringgold" votes="1950" />
+                <Precinct name="Westside" votes="1400" />
+                <Precinct name="Woodstation" votes="659" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7509">
+                <Precinct name="Blackstock" votes="493" />
+                <Precinct name="Boynton" votes="1009" />
+                <Precinct name="Catoosa Keith" votes="605" />
+                <Precinct name="Chambers" votes="598" />
+                <Precinct name="Ft Oglethorpe" votes="549" />
+                <Precinct name="Graysville" votes="793" />
+                <Precinct name="Lakeview" votes="420" />
+                <Precinct name="Poplar Springs" votes="696" />
+                <Precinct name="Ringgold" votes="974" />
+                <Precinct name="Westside" votes="625" />
+                <Precinct name="Woodstation" votes="747" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="14">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="2" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="2" />
+                <Precinct name="Graysville" votes="3" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="3" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Raphael Warnock (I) (Dem)" totalVotes="5282">
+            <VoteType name="Absentee by Mail Votes" votes="430">
+                <Precinct name="Blackstock" votes="10" />
+                <Precinct name="Boynton" votes="45" />
+                <Precinct name="Catoosa Keith" votes="25" />
+                <Precinct name="Chambers" votes="25" />
+                <Precinct name="Ft Oglethorpe" votes="33" />
+                <Precinct name="Graysville" votes="63" />
+                <Precinct name="Lakeview" votes="27" />
+                <Precinct name="Poplar Springs" votes="36" />
+                <Precinct name="Ringgold" votes="89" />
+                <Precinct name="Westside" votes="55" />
+                <Precinct name="Woodstation" votes="22" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3117">
+                <Precinct name="Blackstock" votes="83" />
+                <Precinct name="Boynton" votes="470" />
+                <Precinct name="Catoosa Keith" votes="140" />
+                <Precinct name="Chambers" votes="171" />
+                <Precinct name="Ft Oglethorpe" votes="283" />
+                <Precinct name="Graysville" votes="241" />
+                <Precinct name="Lakeview" votes="184" />
+                <Precinct name="Poplar Springs" votes="251" />
+                <Precinct name="Ringgold" votes="679" />
+                <Precinct name="Westside" votes="451" />
+                <Precinct name="Woodstation" votes="164" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1733">
+                <Precinct name="Blackstock" votes="55" />
+                <Precinct name="Boynton" votes="253" />
+                <Precinct name="Catoosa Keith" votes="102" />
+                <Precinct name="Chambers" votes="96" />
+                <Precinct name="Ft Oglethorpe" votes="176" />
+                <Precinct name="Graysville" votes="219" />
+                <Precinct name="Lakeview" votes="125" />
+                <Precinct name="Poplar Springs" votes="145" />
+                <Precinct name="Ringgold" votes="248" />
+                <Precinct name="Westside" votes="183" />
+                <Precinct name="Woodstation" votes="131" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="1" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="Chase Oliver (Lib)" totalVotes="558">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="5" />
+                <Precinct name="Catoosa Keith" votes="1" />
+                <Precinct name="Chambers" votes="1" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="2" />
+                <Precinct name="Lakeview" votes="1" />
+                <Precinct name="Poplar Springs" votes="1" />
+                <Precinct name="Ringgold" votes="2" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="235">
+                <Precinct name="Blackstock" votes="8" />
+                <Precinct name="Boynton" votes="30" />
+                <Precinct name="Catoosa Keith" votes="17" />
+                <Precinct name="Chambers" votes="10" />
+                <Precinct name="Ft Oglethorpe" votes="26" />
+                <Precinct name="Graysville" votes="17" />
+                <Precinct name="Lakeview" votes="24" />
+                <Precinct name="Poplar Springs" votes="21" />
+                <Precinct name="Ringgold" votes="40" />
+                <Precinct name="Westside" votes="37" />
+                <Precinct name="Woodstation" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="309">
+                <Precinct name="Blackstock" votes="11" />
+                <Precinct name="Boynton" votes="36" />
+                <Precinct name="Catoosa Keith" votes="25" />
+                <Precinct name="Chambers" votes="20" />
+                <Precinct name="Ft Oglethorpe" votes="30" />
+                <Precinct name="Graysville" votes="38" />
+                <Precinct name="Lakeview" votes="10" />
+                <Precinct name="Poplar Springs" votes="32" />
+                <Precinct name="Ringgold" votes="44" />
+                <Precinct name="Westside" votes="36" />
+                <Precinct name="Woodstation" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="125">
+            <Precinct name="Blackstock" votes="4" />
+            <Precinct name="Boynton" votes="9" />
+            <Precinct name="Catoosa Keith" votes="6" />
+            <Precinct name="Chambers" votes="6" />
+            <Precinct name="Ft Oglethorpe" votes="8" />
+            <Precinct name="Graysville" votes="17" />
+            <Precinct name="Lakeview" votes="9" />
+            <Precinct name="Poplar Springs" votes="10" />
+            <Precinct name="Ringgold" votes="21" />
+            <Precinct name="Westside" votes="24" />
+            <Precinct name="Woodstation" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="56" text="Brian Kemp (I) (Rep)" totalVotes="20009">
+            <VoteType name="Absentee by Mail Votes" votes="499">
+                <Precinct name="Blackstock" votes="17" />
+                <Precinct name="Boynton" votes="82" />
+                <Precinct name="Catoosa Keith" votes="25" />
+                <Precinct name="Chambers" votes="31" />
+                <Precinct name="Ft Oglethorpe" votes="44" />
+                <Precinct name="Graysville" votes="47" />
+                <Precinct name="Lakeview" votes="25" />
+                <Precinct name="Poplar Springs" votes="51" />
+                <Precinct name="Ringgold" votes="94" />
+                <Precinct name="Westside" votes="64" />
+                <Precinct name="Woodstation" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11415">
+                <Precinct name="Blackstock" votes="361" />
+                <Precinct name="Boynton" votes="1644" />
+                <Precinct name="Catoosa Keith" votes="595" />
+                <Precinct name="Chambers" votes="819" />
+                <Precinct name="Ft Oglethorpe" votes="875" />
+                <Precinct name="Graysville" votes="965" />
+                <Precinct name="Lakeview" votes="681" />
+                <Precinct name="Poplar Springs" votes="1139" />
+                <Precinct name="Ringgold" votes="2116" />
+                <Precinct name="Westside" votes="1532" />
+                <Precinct name="Woodstation" votes="688" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8081">
+                <Precinct name="Blackstock" votes="513" />
+                <Precinct name="Boynton" votes="1089" />
+                <Precinct name="Catoosa Keith" votes="643" />
+                <Precinct name="Chambers" votes="634" />
+                <Precinct name="Ft Oglethorpe" votes="604" />
+                <Precinct name="Graysville" votes="853" />
+                <Precinct name="Lakeview" votes="443" />
+                <Precinct name="Poplar Springs" votes="750" />
+                <Precinct name="Ringgold" votes="1068" />
+                <Precinct name="Westside" votes="679" />
+                <Precinct name="Woodstation" votes="805" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="14">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="2" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="2" />
+                <Precinct name="Graysville" votes="3" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="3" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="57" text="Stacey Abrams (Dem)" totalVotes="4255">
+            <VoteType name="Absentee by Mail Votes" votes="352">
+                <Precinct name="Blackstock" votes="9" />
+                <Precinct name="Boynton" votes="39" />
+                <Precinct name="Catoosa Keith" votes="21" />
+                <Precinct name="Chambers" votes="14" />
+                <Precinct name="Ft Oglethorpe" votes="25" />
+                <Precinct name="Graysville" votes="56" />
+                <Precinct name="Lakeview" votes="23" />
+                <Precinct name="Poplar Springs" votes="30" />
+                <Precinct name="Ringgold" votes="70" />
+                <Precinct name="Westside" votes="47" />
+                <Precinct name="Woodstation" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2533">
+                <Precinct name="Blackstock" votes="63" />
+                <Precinct name="Boynton" votes="379" />
+                <Precinct name="Catoosa Keith" votes="120" />
+                <Precinct name="Chambers" votes="142" />
+                <Precinct name="Ft Oglethorpe" votes="229" />
+                <Precinct name="Graysville" votes="191" />
+                <Precinct name="Lakeview" votes="151" />
+                <Precinct name="Poplar Springs" votes="214" />
+                <Precinct name="Ringgold" votes="543" />
+                <Precinct name="Westside" votes="361" />
+                <Precinct name="Woodstation" votes="140" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1369">
+                <Precinct name="Blackstock" votes="38" />
+                <Precinct name="Boynton" votes="201" />
+                <Precinct name="Catoosa Keith" votes="80" />
+                <Precinct name="Chambers" votes="74" />
+                <Precinct name="Ft Oglethorpe" votes="140" />
+                <Precinct name="Graysville" votes="184" />
+                <Precinct name="Lakeview" votes="108" />
+                <Precinct name="Poplar Springs" votes="111" />
+                <Precinct name="Ringgold" votes="193" />
+                <Precinct name="Westside" votes="148" />
+                <Precinct name="Woodstation" votes="92" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="Shane Hazel (Lib)" totalVotes="239">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Blackstock" votes="1" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="2" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="1" />
+                <Precinct name="Graysville" votes="2" />
+                <Precinct name="Lakeview" votes="2" />
+                <Precinct name="Poplar Springs" votes="1" />
+                <Precinct name="Ringgold" votes="2" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="104">
+                <Precinct name="Blackstock" votes="6" />
+                <Precinct name="Boynton" votes="13" />
+                <Precinct name="Catoosa Keith" votes="3" />
+                <Precinct name="Chambers" votes="3" />
+                <Precinct name="Ft Oglethorpe" votes="10" />
+                <Precinct name="Graysville" votes="9" />
+                <Precinct name="Lakeview" votes="4" />
+                <Precinct name="Poplar Springs" votes="11" />
+                <Precinct name="Ringgold" votes="22" />
+                <Precinct name="Westside" votes="19" />
+                <Precinct name="Woodstation" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="120">
+                <Precinct name="Blackstock" votes="8" />
+                <Precinct name="Boynton" votes="13" />
+                <Precinct name="Catoosa Keith" votes="13" />
+                <Precinct name="Chambers" votes="6" />
+                <Precinct name="Ft Oglethorpe" votes="14" />
+                <Precinct name="Graysville" votes="13" />
+                <Precinct name="Lakeview" votes="6" />
+                <Precinct name="Poplar Springs" votes="11" />
+                <Precinct name="Ringgold" votes="14" />
+                <Precinct name="Westside" votes="14" />
+                <Precinct name="Woodstation" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="1" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="263">
+            <Precinct name="Blackstock" votes="14" />
+            <Precinct name="Boynton" votes="25" />
+            <Precinct name="Catoosa Keith" votes="15" />
+            <Precinct name="Chambers" votes="17" />
+            <Precinct name="Ft Oglethorpe" votes="18" />
+            <Precinct name="Graysville" votes="23" />
+            <Precinct name="Lakeview" votes="21" />
+            <Precinct name="Poplar Springs" votes="19" />
+            <Precinct name="Ringgold" votes="54" />
+            <Precinct name="Westside" votes="46" />
+            <Precinct name="Woodstation" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="59" text="Burt Jones (Rep)" totalVotes="19278">
+            <VoteType name="Absentee by Mail Votes" votes="452">
+                <Precinct name="Blackstock" votes="15" />
+                <Precinct name="Boynton" votes="76" />
+                <Precinct name="Catoosa Keith" votes="23" />
+                <Precinct name="Chambers" votes="26" />
+                <Precinct name="Ft Oglethorpe" votes="39" />
+                <Precinct name="Graysville" votes="41" />
+                <Precinct name="Lakeview" votes="25" />
+                <Precinct name="Poplar Springs" votes="45" />
+                <Precinct name="Ringgold" votes="87" />
+                <Precinct name="Westside" votes="58" />
+                <Precinct name="Woodstation" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11035">
+                <Precinct name="Blackstock" votes="351" />
+                <Precinct name="Boynton" votes="1590" />
+                <Precinct name="Catoosa Keith" votes="571" />
+                <Precinct name="Chambers" votes="808" />
+                <Precinct name="Ft Oglethorpe" votes="840" />
+                <Precinct name="Graysville" votes="942" />
+                <Precinct name="Lakeview" votes="651" />
+                <Precinct name="Poplar Springs" votes="1117" />
+                <Precinct name="Ringgold" votes="2026" />
+                <Precinct name="Westside" votes="1463" />
+                <Precinct name="Woodstation" votes="676" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7778">
+                <Precinct name="Blackstock" votes="496" />
+                <Precinct name="Boynton" votes="1051" />
+                <Precinct name="Catoosa Keith" votes="626" />
+                <Precinct name="Chambers" votes="615" />
+                <Precinct name="Ft Oglethorpe" votes="582" />
+                <Precinct name="Graysville" votes="821" />
+                <Precinct name="Lakeview" votes="422" />
+                <Precinct name="Poplar Springs" votes="723" />
+                <Precinct name="Ringgold" votes="1006" />
+                <Precinct name="Westside" votes="652" />
+                <Precinct name="Woodstation" votes="784" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="13">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="2" />
+                <Precinct name="Graysville" votes="3" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="3" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="60" text="Charlie Bailey (Dem)" totalVotes="4583">
+            <VoteType name="Absentee by Mail Votes" votes="382">
+                <Precinct name="Blackstock" votes="9" />
+                <Precinct name="Boynton" votes="41" />
+                <Precinct name="Catoosa Keith" votes="22" />
+                <Precinct name="Chambers" votes="15" />
+                <Precinct name="Ft Oglethorpe" votes="31" />
+                <Precinct name="Graysville" votes="59" />
+                <Precinct name="Lakeview" votes="25" />
+                <Precinct name="Poplar Springs" votes="33" />
+                <Precinct name="Ringgold" votes="76" />
+                <Precinct name="Westside" votes="51" />
+                <Precinct name="Woodstation" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2726">
+                <Precinct name="Blackstock" votes="63" />
+                <Precinct name="Boynton" votes="406" />
+                <Precinct name="Catoosa Keith" votes="128" />
+                <Precinct name="Chambers" votes="145" />
+                <Precinct name="Ft Oglethorpe" votes="255" />
+                <Precinct name="Graysville" votes="205" />
+                <Precinct name="Lakeview" votes="161" />
+                <Precinct name="Poplar Springs" votes="227" />
+                <Precinct name="Ringgold" votes="584" />
+                <Precinct name="Westside" votes="404" />
+                <Precinct name="Woodstation" votes="148" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1474">
+                <Precinct name="Blackstock" votes="45" />
+                <Precinct name="Boynton" votes="212" />
+                <Precinct name="Catoosa Keith" votes="87" />
+                <Precinct name="Chambers" votes="81" />
+                <Precinct name="Ft Oglethorpe" votes="151" />
+                <Precinct name="Graysville" votes="192" />
+                <Precinct name="Lakeview" votes="116" />
+                <Precinct name="Poplar Springs" votes="115" />
+                <Precinct name="Ringgold" votes="210" />
+                <Precinct name="Westside" votes="161" />
+                <Precinct name="Woodstation" votes="104" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Ryan Graham (Lib)" totalVotes="496">
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Blackstock" votes="3" />
+                <Precinct name="Boynton" votes="3" />
+                <Precinct name="Catoosa Keith" votes="3" />
+                <Precinct name="Chambers" votes="2" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="3" />
+                <Precinct name="Lakeview" votes="1" />
+                <Precinct name="Poplar Springs" votes="3" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="1" />
+                <Precinct name="Woodstation" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="200">
+                <Precinct name="Blackstock" votes="10" />
+                <Precinct name="Boynton" votes="31" />
+                <Precinct name="Catoosa Keith" votes="13" />
+                <Precinct name="Chambers" votes="5" />
+                <Precinct name="Ft Oglethorpe" votes="12" />
+                <Precinct name="Graysville" votes="13" />
+                <Precinct name="Lakeview" votes="19" />
+                <Precinct name="Poplar Springs" votes="15" />
+                <Precinct name="Ringgold" votes="51" />
+                <Precinct name="Westside" votes="25" />
+                <Precinct name="Woodstation" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="272">
+                <Precinct name="Blackstock" votes="14" />
+                <Precinct name="Boynton" votes="35" />
+                <Precinct name="Catoosa Keith" votes="20" />
+                <Precinct name="Chambers" votes="15" />
+                <Precinct name="Ft Oglethorpe" votes="22" />
+                <Precinct name="Graysville" votes="36" />
+                <Precinct name="Lakeview" votes="11" />
+                <Precinct name="Poplar Springs" votes="30" />
+                <Precinct name="Ringgold" votes="44" />
+                <Precinct name="Westside" votes="27" />
+                <Precinct name="Woodstation" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="1" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="377">
+            <Precinct name="Blackstock" votes="20" />
+            <Precinct name="Boynton" votes="43" />
+            <Precinct name="Catoosa Keith" votes="32" />
+            <Precinct name="Chambers" votes="16" />
+            <Precinct name="Ft Oglethorpe" votes="30" />
+            <Precinct name="Graysville" votes="31" />
+            <Precinct name="Lakeview" votes="27" />
+            <Precinct name="Poplar Springs" votes="32" />
+            <Precinct name="Ringgold" votes="65" />
+            <Precinct name="Westside" votes="63" />
+            <Precinct name="Woodstation" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="62" text="Brad Raffensperger (I) (Rep)" totalVotes="19522">
+            <VoteType name="Absentee by Mail Votes" votes="539">
+                <Precinct name="Blackstock" votes="16" />
+                <Precinct name="Boynton" votes="86" />
+                <Precinct name="Catoosa Keith" votes="31" />
+                <Precinct name="Chambers" votes="29" />
+                <Precinct name="Ft Oglethorpe" votes="47" />
+                <Precinct name="Graysville" votes="56" />
+                <Precinct name="Lakeview" votes="29" />
+                <Precinct name="Poplar Springs" votes="56" />
+                <Precinct name="Ringgold" votes="103" />
+                <Precinct name="Westside" votes="65" />
+                <Precinct name="Woodstation" votes="21" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11209">
+                <Precinct name="Blackstock" votes="346" />
+                <Precinct name="Boynton" votes="1622" />
+                <Precinct name="Catoosa Keith" votes="575" />
+                <Precinct name="Chambers" votes="816" />
+                <Precinct name="Ft Oglethorpe" votes="847" />
+                <Precinct name="Graysville" votes="947" />
+                <Precinct name="Lakeview" votes="658" />
+                <Precinct name="Poplar Springs" votes="1129" />
+                <Precinct name="Ringgold" votes="2091" />
+                <Precinct name="Westside" votes="1494" />
+                <Precinct name="Woodstation" votes="684" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7761">
+                <Precinct name="Blackstock" votes="487" />
+                <Precinct name="Boynton" votes="1058" />
+                <Precinct name="Catoosa Keith" votes="622" />
+                <Precinct name="Chambers" votes="612" />
+                <Precinct name="Ft Oglethorpe" votes="589" />
+                <Precinct name="Graysville" votes="812" />
+                <Precinct name="Lakeview" votes="430" />
+                <Precinct name="Poplar Springs" votes="711" />
+                <Precinct name="Ringgold" votes="1019" />
+                <Precinct name="Westside" votes="642" />
+                <Precinct name="Woodstation" votes="779" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="13">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="2" />
+                <Precinct name="Graysville" votes="3" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="3" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Bee Nguyen (Dem)" totalVotes="3904">
+            <VoteType name="Absentee by Mail Votes" votes="304">
+                <Precinct name="Blackstock" votes="9" />
+                <Precinct name="Boynton" votes="30" />
+                <Precinct name="Catoosa Keith" votes="15" />
+                <Precinct name="Chambers" votes="13" />
+                <Precinct name="Ft Oglethorpe" votes="24" />
+                <Precinct name="Graysville" votes="47" />
+                <Precinct name="Lakeview" votes="18" />
+                <Precinct name="Poplar Springs" votes="24" />
+                <Precinct name="Ringgold" votes="61" />
+                <Precinct name="Westside" votes="45" />
+                <Precinct name="Woodstation" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2286">
+                <Precinct name="Blackstock" votes="60" />
+                <Precinct name="Boynton" votes="331" />
+                <Precinct name="Catoosa Keith" votes="102" />
+                <Precinct name="Chambers" votes="118" />
+                <Precinct name="Ft Oglethorpe" votes="215" />
+                <Precinct name="Graysville" votes="180" />
+                <Precinct name="Lakeview" votes="143" />
+                <Precinct name="Poplar Springs" votes="194" />
+                <Precinct name="Ringgold" votes="482" />
+                <Precinct name="Westside" votes="340" />
+                <Precinct name="Woodstation" votes="121" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1313">
+                <Precinct name="Blackstock" votes="40" />
+                <Precinct name="Boynton" votes="183" />
+                <Precinct name="Catoosa Keith" votes="74" />
+                <Precinct name="Chambers" votes="73" />
+                <Precinct name="Ft Oglethorpe" votes="135" />
+                <Precinct name="Graysville" votes="179" />
+                <Precinct name="Lakeview" votes="104" />
+                <Precinct name="Poplar Springs" votes="106" />
+                <Precinct name="Ringgold" votes="187" />
+                <Precinct name="Westside" votes="147" />
+                <Precinct name="Woodstation" votes="85" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="98" text="Ted Metz (Lib)" totalVotes="822">
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Blackstock" votes="2" />
+                <Precinct name="Boynton" votes="5" />
+                <Precinct name="Catoosa Keith" votes="3" />
+                <Precinct name="Chambers" votes="1" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="2" />
+                <Precinct name="Lakeview" votes="2" />
+                <Precinct name="Poplar Springs" votes="1" />
+                <Precinct name="Ringgold" votes="2" />
+                <Precinct name="Westside" votes="1" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="403">
+                <Precinct name="Blackstock" votes="17" />
+                <Precinct name="Boynton" votes="65" />
+                <Precinct name="Catoosa Keith" votes="28" />
+                <Precinct name="Chambers" votes="24" />
+                <Precinct name="Ft Oglethorpe" votes="33" />
+                <Precinct name="Graysville" votes="30" />
+                <Precinct name="Lakeview" votes="26" />
+                <Precinct name="Poplar Springs" votes="31" />
+                <Precinct name="Ringgold" votes="76" />
+                <Precinct name="Westside" votes="49" />
+                <Precinct name="Woodstation" votes="24" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="398">
+                <Precinct name="Blackstock" votes="23" />
+                <Precinct name="Boynton" votes="48" />
+                <Precinct name="Catoosa Keith" votes="26" />
+                <Precinct name="Chambers" votes="27" />
+                <Precinct name="Ft Oglethorpe" votes="30" />
+                <Precinct name="Graysville" votes="51" />
+                <Precinct name="Lakeview" votes="15" />
+                <Precinct name="Poplar Springs" votes="44" />
+                <Precinct name="Ringgold" votes="57" />
+                <Precinct name="Westside" votes="41" />
+                <Precinct name="Woodstation" votes="36" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="1" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="256">
+            <Precinct name="Blackstock" votes="15" />
+            <Precinct name="Boynton" votes="22" />
+            <Precinct name="Catoosa Keith" votes="20" />
+            <Precinct name="Chambers" votes="13" />
+            <Precinct name="Ft Oglethorpe" votes="18" />
+            <Precinct name="Graysville" votes="22" />
+            <Precinct name="Lakeview" votes="24" />
+            <Precinct name="Poplar Springs" votes="17" />
+            <Precinct name="Ringgold" votes="51" />
+            <Precinct name="Westside" votes="39" />
+            <Precinct name="Woodstation" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="64" text="Chris Carr (I) (Rep)" totalVotes="19255">
+            <VoteType name="Absentee by Mail Votes" votes="456">
+                <Precinct name="Blackstock" votes="15" />
+                <Precinct name="Boynton" votes="76" />
+                <Precinct name="Catoosa Keith" votes="23" />
+                <Precinct name="Chambers" votes="26" />
+                <Precinct name="Ft Oglethorpe" votes="40" />
+                <Precinct name="Graysville" votes="43" />
+                <Precinct name="Lakeview" votes="24" />
+                <Precinct name="Poplar Springs" votes="48" />
+                <Precinct name="Ringgold" votes="86" />
+                <Precinct name="Westside" votes="58" />
+                <Precinct name="Woodstation" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11006">
+                <Precinct name="Blackstock" votes="350" />
+                <Precinct name="Boynton" votes="1595" />
+                <Precinct name="Catoosa Keith" votes="565" />
+                <Precinct name="Chambers" votes="799" />
+                <Precinct name="Ft Oglethorpe" votes="837" />
+                <Precinct name="Graysville" votes="935" />
+                <Precinct name="Lakeview" votes="645" />
+                <Precinct name="Poplar Springs" votes="1105" />
+                <Precinct name="Ringgold" votes="2038" />
+                <Precinct name="Westside" votes="1464" />
+                <Precinct name="Woodstation" votes="673" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7780">
+                <Precinct name="Blackstock" votes="491" />
+                <Precinct name="Boynton" votes="1044" />
+                <Precinct name="Catoosa Keith" votes="625" />
+                <Precinct name="Chambers" votes="614" />
+                <Precinct name="Ft Oglethorpe" votes="579" />
+                <Precinct name="Graysville" votes="834" />
+                <Precinct name="Lakeview" votes="417" />
+                <Precinct name="Poplar Springs" votes="728" />
+                <Precinct name="Ringgold" votes="1018" />
+                <Precinct name="Westside" votes="657" />
+                <Precinct name="Woodstation" votes="773" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="13">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="2" />
+                <Precinct name="Graysville" votes="3" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="3" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="65" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="4716">
+            <VoteType name="Absentee by Mail Votes" votes="386">
+                <Precinct name="Blackstock" votes="10" />
+                <Precinct name="Boynton" votes="44" />
+                <Precinct name="Catoosa Keith" votes="23" />
+                <Precinct name="Chambers" votes="16" />
+                <Precinct name="Ft Oglethorpe" votes="30" />
+                <Precinct name="Graysville" votes="59" />
+                <Precinct name="Lakeview" votes="23" />
+                <Precinct name="Poplar Springs" votes="33" />
+                <Precinct name="Ringgold" votes="78" />
+                <Precinct name="Westside" votes="50" />
+                <Precinct name="Woodstation" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2799">
+                <Precinct name="Blackstock" votes="62" />
+                <Precinct name="Boynton" votes="415" />
+                <Precinct name="Catoosa Keith" votes="135" />
+                <Precinct name="Chambers" votes="153" />
+                <Precinct name="Ft Oglethorpe" votes="260" />
+                <Precinct name="Graysville" votes="215" />
+                <Precinct name="Lakeview" votes="171" />
+                <Precinct name="Poplar Springs" votes="240" />
+                <Precinct name="Ringgold" votes="584" />
+                <Precinct name="Westside" votes="417" />
+                <Precinct name="Woodstation" votes="147" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1529">
+                <Precinct name="Blackstock" votes="48" />
+                <Precinct name="Boynton" votes="224" />
+                <Precinct name="Catoosa Keith" votes="88" />
+                <Precinct name="Chambers" votes="90" />
+                <Precinct name="Ft Oglethorpe" votes="163" />
+                <Precinct name="Graysville" votes="189" />
+                <Precinct name="Lakeview" votes="120" />
+                <Precinct name="Poplar Springs" votes="123" />
+                <Precinct name="Ringgold" votes="217" />
+                <Precinct name="Westside" votes="156" />
+                <Precinct name="Woodstation" votes="111" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="1" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="66" text="Martin Cowen (Lib)" totalVotes="397">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Blackstock" votes="2" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="2" />
+                <Precinct name="Chambers" votes="1" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="1" />
+                <Precinct name="Lakeview" votes="3" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Woodstation" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="158">
+                <Precinct name="Blackstock" votes="11" />
+                <Precinct name="Boynton" votes="20" />
+                <Precinct name="Catoosa Keith" votes="10" />
+                <Precinct name="Chambers" votes="5" />
+                <Precinct name="Ft Oglethorpe" votes="7" />
+                <Precinct name="Graysville" votes="11" />
+                <Precinct name="Lakeview" votes="12" />
+                <Precinct name="Poplar Springs" votes="15" />
+                <Precinct name="Ringgold" votes="40" />
+                <Precinct name="Westside" votes="18" />
+                <Precinct name="Woodstation" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="223">
+                <Precinct name="Blackstock" votes="16" />
+                <Precinct name="Boynton" votes="30" />
+                <Precinct name="Catoosa Keith" votes="16" />
+                <Precinct name="Chambers" votes="12" />
+                <Precinct name="Ft Oglethorpe" votes="16" />
+                <Precinct name="Graysville" votes="28" />
+                <Precinct name="Lakeview" votes="13" />
+                <Precinct name="Poplar Springs" votes="19" />
+                <Precinct name="Ringgold" votes="28" />
+                <Precinct name="Westside" votes="26" />
+                <Precinct name="Woodstation" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Commissioner Of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="344">
+            <Precinct name="Blackstock" votes="13" />
+            <Precinct name="Boynton" votes="37" />
+            <Precinct name="Catoosa Keith" votes="16" />
+            <Precinct name="Chambers" votes="22" />
+            <Precinct name="Ft Oglethorpe" votes="22" />
+            <Precinct name="Graysville" votes="34" />
+            <Precinct name="Lakeview" votes="28" />
+            <Precinct name="Poplar Springs" votes="21" />
+            <Precinct name="Ringgold" votes="78" />
+            <Precinct name="Westside" votes="56" />
+            <Precinct name="Woodstation" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Tyler Harper (Rep)" totalVotes="19385">
+            <VoteType name="Absentee by Mail Votes" votes="462">
+                <Precinct name="Blackstock" votes="16" />
+                <Precinct name="Boynton" votes="76" />
+                <Precinct name="Catoosa Keith" votes="26" />
+                <Precinct name="Chambers" votes="27" />
+                <Precinct name="Ft Oglethorpe" votes="39" />
+                <Precinct name="Graysville" votes="43" />
+                <Precinct name="Lakeview" votes="24" />
+                <Precinct name="Poplar Springs" votes="47" />
+                <Precinct name="Ringgold" votes="89" />
+                <Precinct name="Westside" votes="57" />
+                <Precinct name="Woodstation" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11083">
+                <Precinct name="Blackstock" votes="355" />
+                <Precinct name="Boynton" votes="1602" />
+                <Precinct name="Catoosa Keith" votes="576" />
+                <Precinct name="Chambers" votes="807" />
+                <Precinct name="Ft Oglethorpe" votes="836" />
+                <Precinct name="Graysville" votes="943" />
+                <Precinct name="Lakeview" votes="651" />
+                <Precinct name="Poplar Springs" votes="1126" />
+                <Precinct name="Ringgold" votes="2041" />
+                <Precinct name="Westside" votes="1471" />
+                <Precinct name="Woodstation" votes="675" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7827">
+                <Precinct name="Blackstock" votes="497" />
+                <Precinct name="Boynton" votes="1060" />
+                <Precinct name="Catoosa Keith" votes="626" />
+                <Precinct name="Chambers" votes="626" />
+                <Precinct name="Ft Oglethorpe" votes="593" />
+                <Precinct name="Graysville" votes="831" />
+                <Precinct name="Lakeview" votes="424" />
+                <Precinct name="Poplar Springs" votes="714" />
+                <Precinct name="Ringgold" votes="1016" />
+                <Precinct name="Westside" votes="658" />
+                <Precinct name="Woodstation" votes="782" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="13">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="2" />
+                <Precinct name="Graysville" votes="3" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="3" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="68" text="Nakita Hemingway (Dem)" totalVotes="4349">
+            <VoteType name="Absentee by Mail Votes" votes="365">
+                <Precinct name="Blackstock" votes="8" />
+                <Precinct name="Boynton" votes="41" />
+                <Precinct name="Catoosa Keith" votes="20" />
+                <Precinct name="Chambers" votes="15" />
+                <Precinct name="Ft Oglethorpe" votes="31" />
+                <Precinct name="Graysville" votes="57" />
+                <Precinct name="Lakeview" votes="25" />
+                <Precinct name="Poplar Springs" votes="32" />
+                <Precinct name="Ringgold" votes="67" />
+                <Precinct name="Westside" votes="49" />
+                <Precinct name="Woodstation" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2596">
+                <Precinct name="Blackstock" votes="62" />
+                <Precinct name="Boynton" votes="388" />
+                <Precinct name="Catoosa Keith" votes="121" />
+                <Precinct name="Chambers" votes="135" />
+                <Precinct name="Ft Oglethorpe" votes="243" />
+                <Precinct name="Graysville" votes="192" />
+                <Precinct name="Lakeview" votes="159" />
+                <Precinct name="Poplar Springs" votes="215" />
+                <Precinct name="Ringgold" votes="553" />
+                <Precinct name="Westside" votes="387" />
+                <Precinct name="Woodstation" votes="141" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1386">
+                <Precinct name="Blackstock" votes="40" />
+                <Precinct name="Boynton" votes="201" />
+                <Precinct name="Catoosa Keith" votes="84" />
+                <Precinct name="Chambers" votes="69" />
+                <Precinct name="Ft Oglethorpe" votes="145" />
+                <Precinct name="Graysville" votes="182" />
+                <Precinct name="Lakeview" votes="108" />
+                <Precinct name="Poplar Springs" votes="116" />
+                <Precinct name="Ringgold" votes="200" />
+                <Precinct name="Westside" votes="149" />
+                <Precinct name="Woodstation" votes="92" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="1" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="69" text="David Raudabaugh (Lib)" totalVotes="548">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Blackstock" votes="3" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="3" />
+                <Precinct name="Chambers" votes="1" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="2" />
+                <Precinct name="Lakeview" votes="1" />
+                <Precinct name="Poplar Springs" votes="3" />
+                <Precinct name="Ringgold" votes="5" />
+                <Precinct name="Westside" votes="1" />
+                <Precinct name="Woodstation" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="233">
+                <Precinct name="Blackstock" votes="8" />
+                <Precinct name="Boynton" votes="30" />
+                <Precinct name="Catoosa Keith" votes="15" />
+                <Precinct name="Chambers" votes="13" />
+                <Precinct name="Ft Oglethorpe" votes="19" />
+                <Precinct name="Graysville" votes="20" />
+                <Precinct name="Lakeview" votes="17" />
+                <Precinct name="Poplar Springs" votes="17" />
+                <Precinct name="Ringgold" votes="52" />
+                <Precinct name="Westside" votes="29" />
+                <Precinct name="Woodstation" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="293">
+                <Precinct name="Blackstock" votes="18" />
+                <Precinct name="Boynton" votes="35" />
+                <Precinct name="Catoosa Keith" votes="21" />
+                <Precinct name="Chambers" votes="14" />
+                <Precinct name="Ft Oglethorpe" votes="22" />
+                <Precinct name="Graysville" votes="33" />
+                <Precinct name="Lakeview" votes="15" />
+                <Precinct name="Poplar Springs" votes="37" />
+                <Precinct name="Ringgold" votes="41" />
+                <Precinct name="Westside" votes="30" />
+                <Precinct name="Woodstation" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="344">
+            <Precinct name="Blackstock" votes="16" />
+            <Precinct name="Boynton" votes="37" />
+            <Precinct name="Catoosa Keith" votes="19" />
+            <Precinct name="Chambers" votes="25" />
+            <Precinct name="Ft Oglethorpe" votes="22" />
+            <Precinct name="Graysville" votes="36" />
+            <Precinct name="Lakeview" votes="21" />
+            <Precinct name="Poplar Springs" votes="28" />
+            <Precinct name="Ringgold" votes="75" />
+            <Precinct name="Westside" votes="47" />
+            <Precinct name="Woodstation" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="70" text="John King (I) (Rep)" totalVotes="19797">
+            <VoteType name="Absentee by Mail Votes" votes="480">
+                <Precinct name="Blackstock" votes="17" />
+                <Precinct name="Boynton" votes="79" />
+                <Precinct name="Catoosa Keith" votes="27" />
+                <Precinct name="Chambers" votes="28" />
+                <Precinct name="Ft Oglethorpe" votes="41" />
+                <Precinct name="Graysville" votes="44" />
+                <Precinct name="Lakeview" votes="27" />
+                <Precinct name="Poplar Springs" votes="47" />
+                <Precinct name="Ringgold" votes="89" />
+                <Precinct name="Westside" votes="61" />
+                <Precinct name="Woodstation" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11262">
+                <Precinct name="Blackstock" votes="357" />
+                <Precinct name="Boynton" votes="1624" />
+                <Precinct name="Catoosa Keith" votes="585" />
+                <Precinct name="Chambers" votes="810" />
+                <Precinct name="Ft Oglethorpe" votes="855" />
+                <Precinct name="Graysville" votes="956" />
+                <Precinct name="Lakeview" votes="671" />
+                <Precinct name="Poplar Springs" votes="1124" />
+                <Precinct name="Ringgold" votes="2090" />
+                <Precinct name="Westside" votes="1504" />
+                <Precinct name="Woodstation" votes="686" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8042">
+                <Precinct name="Blackstock" votes="505" />
+                <Precinct name="Boynton" votes="1087" />
+                <Precinct name="Catoosa Keith" votes="647" />
+                <Precinct name="Chambers" votes="629" />
+                <Precinct name="Ft Oglethorpe" votes="605" />
+                <Precinct name="Graysville" votes="857" />
+                <Precinct name="Lakeview" votes="433" />
+                <Precinct name="Poplar Springs" votes="748" />
+                <Precinct name="Ringgold" votes="1051" />
+                <Precinct name="Westside" votes="678" />
+                <Precinct name="Woodstation" votes="802" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="13">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="2" />
+                <Precinct name="Graysville" votes="3" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="3" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="71" text="Janice Laws Robinson (Dem)" totalVotes="4479">
+            <VoteType name="Absentee by Mail Votes" votes="374">
+                <Precinct name="Blackstock" votes="10" />
+                <Precinct name="Boynton" votes="41" />
+                <Precinct name="Catoosa Keith" votes="22" />
+                <Precinct name="Chambers" votes="15" />
+                <Precinct name="Ft Oglethorpe" votes="29" />
+                <Precinct name="Graysville" votes="59" />
+                <Precinct name="Lakeview" votes="23" />
+                <Precinct name="Poplar Springs" votes="35" />
+                <Precinct name="Ringgold" votes="73" />
+                <Precinct name="Westside" votes="47" />
+                <Precinct name="Woodstation" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2661">
+                <Precinct name="Blackstock" votes="67" />
+                <Precinct name="Boynton" votes="398" />
+                <Precinct name="Catoosa Keith" votes="124" />
+                <Precinct name="Chambers" votes="140" />
+                <Precinct name="Ft Oglethorpe" votes="248" />
+                <Precinct name="Graysville" votes="198" />
+                <Precinct name="Lakeview" votes="160" />
+                <Precinct name="Poplar Springs" votes="229" />
+                <Precinct name="Ringgold" votes="563" />
+                <Precinct name="Westside" votes="390" />
+                <Precinct name="Woodstation" votes="144" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1442">
+                <Precinct name="Blackstock" votes="48" />
+                <Precinct name="Boynton" votes="203" />
+                <Precinct name="Catoosa Keith" votes="83" />
+                <Precinct name="Chambers" votes="82" />
+                <Precinct name="Ft Oglethorpe" votes="148" />
+                <Precinct name="Graysville" votes="186" />
+                <Precinct name="Lakeview" votes="116" />
+                <Precinct name="Poplar Springs" votes="117" />
+                <Precinct name="Ringgold" votes="201" />
+                <Precinct name="Westside" votes="161" />
+                <Precinct name="Woodstation" votes="97" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="1" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="296">
+            <Precinct name="Blackstock" votes="8" />
+            <Precinct name="Boynton" votes="33" />
+            <Precinct name="Catoosa Keith" votes="19" />
+            <Precinct name="Chambers" votes="22" />
+            <Precinct name="Ft Oglethorpe" votes="19" />
+            <Precinct name="Graysville" votes="28" />
+            <Precinct name="Lakeview" votes="21" />
+            <Precinct name="Poplar Springs" votes="22" />
+            <Precinct name="Ringgold" votes="61" />
+            <Precinct name="Westside" votes="46" />
+            <Precinct name="Woodstation" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="72" text="Richard Woods (I) (Rep)" totalVotes="19826">
+            <VoteType name="Absentee by Mail Votes" votes="482">
+                <Precinct name="Blackstock" votes="17" />
+                <Precinct name="Boynton" votes="77" />
+                <Precinct name="Catoosa Keith" votes="27" />
+                <Precinct name="Chambers" votes="28" />
+                <Precinct name="Ft Oglethorpe" votes="41" />
+                <Precinct name="Graysville" votes="44" />
+                <Precinct name="Lakeview" votes="28" />
+                <Precinct name="Poplar Springs" votes="47" />
+                <Precinct name="Ringgold" votes="93" />
+                <Precinct name="Westside" votes="60" />
+                <Precinct name="Woodstation" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11287">
+                <Precinct name="Blackstock" votes="365" />
+                <Precinct name="Boynton" votes="1624" />
+                <Precinct name="Catoosa Keith" votes="588" />
+                <Precinct name="Chambers" votes="816" />
+                <Precinct name="Ft Oglethorpe" votes="858" />
+                <Precinct name="Graysville" votes="954" />
+                <Precinct name="Lakeview" votes="668" />
+                <Precinct name="Poplar Springs" votes="1134" />
+                <Precinct name="Ringgold" votes="2089" />
+                <Precinct name="Westside" votes="1510" />
+                <Precinct name="Woodstation" votes="681" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8044">
+                <Precinct name="Blackstock" votes="509" />
+                <Precinct name="Boynton" votes="1085" />
+                <Precinct name="Catoosa Keith" votes="644" />
+                <Precinct name="Chambers" votes="634" />
+                <Precinct name="Ft Oglethorpe" votes="602" />
+                <Precinct name="Graysville" votes="862" />
+                <Precinct name="Lakeview" votes="433" />
+                <Precinct name="Poplar Springs" votes="751" />
+                <Precinct name="Ringgold" votes="1056" />
+                <Precinct name="Westside" votes="668" />
+                <Precinct name="Woodstation" votes="800" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="13">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="2" />
+                <Precinct name="Graysville" votes="3" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="3" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="73" text="Alisha Thomas Searcy (Dem)" totalVotes="4494">
+            <VoteType name="Absentee by Mail Votes" votes="370">
+                <Precinct name="Blackstock" votes="10" />
+                <Precinct name="Boynton" votes="42" />
+                <Precinct name="Catoosa Keith" votes="22" />
+                <Precinct name="Chambers" votes="14" />
+                <Precinct name="Ft Oglethorpe" votes="29" />
+                <Precinct name="Graysville" votes="59" />
+                <Precinct name="Lakeview" votes="22" />
+                <Precinct name="Poplar Springs" votes="34" />
+                <Precinct name="Ringgold" votes="69" />
+                <Precinct name="Westside" votes="49" />
+                <Precinct name="Woodstation" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2650">
+                <Precinct name="Blackstock" votes="61" />
+                <Precinct name="Boynton" votes="398" />
+                <Precinct name="Catoosa Keith" votes="123" />
+                <Precinct name="Chambers" votes="133" />
+                <Precinct name="Ft Oglethorpe" votes="245" />
+                <Precinct name="Graysville" votes="201" />
+                <Precinct name="Lakeview" votes="163" />
+                <Precinct name="Poplar Springs" votes="224" />
+                <Precinct name="Ringgold" votes="567" />
+                <Precinct name="Westside" votes="387" />
+                <Precinct name="Woodstation" votes="148" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1472">
+                <Precinct name="Blackstock" votes="50" />
+                <Precinct name="Boynton" votes="212" />
+                <Precinct name="Catoosa Keith" votes="84" />
+                <Precinct name="Chambers" votes="81" />
+                <Precinct name="Ft Oglethorpe" votes="152" />
+                <Precinct name="Graysville" votes="188" />
+                <Precinct name="Lakeview" votes="116" />
+                <Precinct name="Poplar Springs" votes="115" />
+                <Precinct name="Ringgold" votes="206" />
+                <Precinct name="Westside" votes="168" />
+                <Precinct name="Woodstation" votes="100" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="1" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="360">
+            <Precinct name="Blackstock" votes="17" />
+            <Precinct name="Boynton" votes="38" />
+            <Precinct name="Catoosa Keith" votes="19" />
+            <Precinct name="Chambers" votes="29" />
+            <Precinct name="Ft Oglethorpe" votes="22" />
+            <Precinct name="Graysville" votes="39" />
+            <Precinct name="Lakeview" votes="25" />
+            <Precinct name="Poplar Springs" votes="26" />
+            <Precinct name="Ringgold" votes="73" />
+            <Precinct name="Westside" votes="52" />
+            <Precinct name="Woodstation" votes="20" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Bruce Thompson (Rep)" totalVotes="19194">
+            <VoteType name="Absentee by Mail Votes" votes="453">
+                <Precinct name="Blackstock" votes="15" />
+                <Precinct name="Boynton" votes="76" />
+                <Precinct name="Catoosa Keith" votes="22" />
+                <Precinct name="Chambers" votes="28" />
+                <Precinct name="Ft Oglethorpe" votes="38" />
+                <Precinct name="Graysville" votes="43" />
+                <Precinct name="Lakeview" votes="24" />
+                <Precinct name="Poplar Springs" votes="45" />
+                <Precinct name="Ringgold" votes="86" />
+                <Precinct name="Westside" votes="57" />
+                <Precinct name="Woodstation" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="10981">
+                <Precinct name="Blackstock" votes="349" />
+                <Precinct name="Boynton" votes="1591" />
+                <Precinct name="Catoosa Keith" votes="565" />
+                <Precinct name="Chambers" votes="790" />
+                <Precinct name="Ft Oglethorpe" votes="833" />
+                <Precinct name="Graysville" votes="930" />
+                <Precinct name="Lakeview" votes="647" />
+                <Precinct name="Poplar Springs" votes="1109" />
+                <Precinct name="Ringgold" votes="2035" />
+                <Precinct name="Westside" votes="1459" />
+                <Precinct name="Woodstation" votes="673" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7747">
+                <Precinct name="Blackstock" votes="493" />
+                <Precinct name="Boynton" votes="1053" />
+                <Precinct name="Catoosa Keith" votes="619" />
+                <Precinct name="Chambers" votes="615" />
+                <Precinct name="Ft Oglethorpe" votes="581" />
+                <Precinct name="Graysville" votes="819" />
+                <Precinct name="Lakeview" votes="422" />
+                <Precinct name="Poplar Springs" votes="714" />
+                <Precinct name="Ringgold" votes="1007" />
+                <Precinct name="Westside" votes="653" />
+                <Precinct name="Woodstation" votes="771" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="13">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="2" />
+                <Precinct name="Graysville" votes="3" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="3" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="4474">
+            <VoteType name="Absentee by Mail Votes" votes="371">
+                <Precinct name="Blackstock" votes="11" />
+                <Precinct name="Boynton" votes="38" />
+                <Precinct name="Catoosa Keith" votes="21" />
+                <Precinct name="Chambers" votes="13" />
+                <Precinct name="Ft Oglethorpe" votes="32" />
+                <Precinct name="Graysville" votes="58" />
+                <Precinct name="Lakeview" votes="23" />
+                <Precinct name="Poplar Springs" votes="34" />
+                <Precinct name="Ringgold" votes="72" />
+                <Precinct name="Westside" votes="50" />
+                <Precinct name="Woodstation" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2673">
+                <Precinct name="Blackstock" votes="63" />
+                <Precinct name="Boynton" votes="393" />
+                <Precinct name="Catoosa Keith" votes="125" />
+                <Precinct name="Chambers" votes="148" />
+                <Precinct name="Ft Oglethorpe" votes="257" />
+                <Precinct name="Graysville" votes="202" />
+                <Precinct name="Lakeview" votes="154" />
+                <Precinct name="Poplar Springs" votes="227" />
+                <Precinct name="Ringgold" votes="567" />
+                <Precinct name="Westside" votes="395" />
+                <Precinct name="Woodstation" votes="142" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1428">
+                <Precinct name="Blackstock" votes="40" />
+                <Precinct name="Boynton" votes="204" />
+                <Precinct name="Catoosa Keith" votes="83" />
+                <Precinct name="Chambers" votes="78" />
+                <Precinct name="Ft Oglethorpe" votes="149" />
+                <Precinct name="Graysville" votes="180" />
+                <Precinct name="Lakeview" votes="112" />
+                <Precinct name="Poplar Springs" votes="119" />
+                <Precinct name="Ringgold" votes="206" />
+                <Precinct name="Westside" votes="158" />
+                <Precinct name="Woodstation" votes="99" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="1" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="99" text="Emily Anderson (Lib)" totalVotes="595">
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Blackstock" votes="1" />
+                <Precinct name="Boynton" votes="5" />
+                <Precinct name="Catoosa Keith" votes="6" />
+                <Precinct name="Chambers" votes="1" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="2" />
+                <Precinct name="Lakeview" votes="3" />
+                <Precinct name="Poplar Springs" votes="2" />
+                <Precinct name="Ringgold" votes="5" />
+                <Precinct name="Westside" votes="1" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="253">
+                <Precinct name="Blackstock" votes="9" />
+                <Precinct name="Boynton" votes="36" />
+                <Precinct name="Catoosa Keith" votes="23" />
+                <Precinct name="Chambers" votes="10" />
+                <Precinct name="Ft Oglethorpe" votes="14" />
+                <Precinct name="Graysville" votes="17" />
+                <Precinct name="Lakeview" votes="28" />
+                <Precinct name="Poplar Springs" votes="17" />
+                <Precinct name="Ringgold" votes="51" />
+                <Precinct name="Westside" votes="37" />
+                <Precinct name="Woodstation" votes="11" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="315">
+                <Precinct name="Blackstock" votes="22" />
+                <Precinct name="Boynton" votes="36" />
+                <Precinct name="Catoosa Keith" votes="25" />
+                <Precinct name="Chambers" votes="17" />
+                <Precinct name="Ft Oglethorpe" votes="24" />
+                <Precinct name="Graysville" votes="45" />
+                <Precinct name="Lakeview" votes="13" />
+                <Precinct name="Poplar Springs" votes="35" />
+                <Precinct name="Ringgold" votes="41" />
+                <Precinct name="Westside" votes="26" />
+                <Precinct name="Woodstation" votes="31" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="US House Dist 14" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="351">
+            <Precinct name="Blackstock" votes="10" />
+            <Precinct name="Boynton" votes="49" />
+            <Precinct name="Catoosa Keith" votes="14" />
+            <Precinct name="Chambers" votes="33" />
+            <Precinct name="Ft Oglethorpe" votes="22" />
+            <Precinct name="Graysville" votes="37" />
+            <Precinct name="Lakeview" votes="14" />
+            <Precinct name="Poplar Springs" votes="30" />
+            <Precinct name="Ringgold" votes="60" />
+            <Precinct name="Westside" votes="52" />
+            <Precinct name="Woodstation" votes="30" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Marjorie Taylor Greene (I) (Rep)" totalVotes="18042">
+            <VoteType name="Absentee by Mail Votes" votes="396">
+                <Precinct name="Blackstock" votes="16" />
+                <Precinct name="Boynton" votes="69" />
+                <Precinct name="Catoosa Keith" votes="21" />
+                <Precinct name="Chambers" votes="22" />
+                <Precinct name="Ft Oglethorpe" votes="35" />
+                <Precinct name="Graysville" votes="38" />
+                <Precinct name="Lakeview" votes="25" />
+                <Precinct name="Poplar Springs" votes="41" />
+                <Precinct name="Ringgold" votes="66" />
+                <Precinct name="Westside" votes="48" />
+                <Precinct name="Woodstation" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="10295">
+                <Precinct name="Blackstock" votes="326" />
+                <Precinct name="Boynton" votes="1456" />
+                <Precinct name="Catoosa Keith" votes="554" />
+                <Precinct name="Chambers" votes="740" />
+                <Precinct name="Ft Oglethorpe" votes="774" />
+                <Precinct name="Graysville" votes="864" />
+                <Precinct name="Lakeview" votes="623" />
+                <Precinct name="Poplar Springs" votes="1058" />
+                <Precinct name="Ringgold" votes="1891" />
+                <Precinct name="Westside" votes="1375" />
+                <Precinct name="Woodstation" votes="634" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7338">
+                <Precinct name="Blackstock" votes="484" />
+                <Precinct name="Boynton" votes="967" />
+                <Precinct name="Catoosa Keith" votes="588" />
+                <Precinct name="Chambers" votes="571" />
+                <Precinct name="Ft Oglethorpe" votes="553" />
+                <Precinct name="Graysville" votes="771" />
+                <Precinct name="Lakeview" votes="408" />
+                <Precinct name="Poplar Springs" votes="671" />
+                <Precinct name="Ringgold" votes="956" />
+                <Precinct name="Westside" votes="629" />
+                <Precinct name="Woodstation" votes="740" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="13">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="2" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="1" />
+                <Precinct name="Graysville" votes="3" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="3" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="Marcus Flowers (Dem)" totalVotes="6117">
+            <VoteType name="Absentee by Mail Votes" votes="458">
+                <Precinct name="Blackstock" votes="11" />
+                <Precinct name="Boynton" votes="52" />
+                <Precinct name="Catoosa Keith" votes="28" />
+                <Precinct name="Chambers" votes="22" />
+                <Precinct name="Ft Oglethorpe" votes="34" />
+                <Precinct name="Graysville" votes="68" />
+                <Precinct name="Lakeview" votes="26" />
+                <Precinct name="Poplar Springs" votes="40" />
+                <Precinct name="Ringgold" votes="96" />
+                <Precinct name="Westside" votes="58" />
+                <Precinct name="Woodstation" votes="23" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3549">
+                <Precinct name="Blackstock" votes="97" />
+                <Precinct name="Boynton" votes="548" />
+                <Precinct name="Catoosa Keith" votes="155" />
+                <Precinct name="Chambers" votes="202" />
+                <Precinct name="Ft Oglethorpe" votes="324" />
+                <Precinct name="Graysville" votes="278" />
+                <Precinct name="Lakeview" votes="207" />
+                <Precinct name="Poplar Springs" votes="286" />
+                <Precinct name="Ringgold" votes="759" />
+                <Precinct name="Westside" votes="509" />
+                <Precinct name="Woodstation" votes="184" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2107">
+                <Precinct name="Blackstock" votes="75" />
+                <Precinct name="Boynton" votes="313" />
+                <Precinct name="Catoosa Keith" votes="138" />
+                <Precinct name="Chambers" votes="127" />
+                <Precinct name="Ft Oglethorpe" votes="201" />
+                <Precinct name="Graysville" votes="266" />
+                <Precinct name="Lakeview" votes="141" />
+                <Precinct name="Poplar Springs" votes="186" />
+                <Precinct name="Ringgold" votes="296" />
+                <Precinct name="Westside" votes="210" />
+                <Precinct name="Woodstation" votes="154" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="1" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="1" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State Senate Dist 53" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="2711">
+            <Precinct name="Blackstock" votes="75" />
+            <Precinct name="Boynton" votes="390" />
+            <Precinct name="Catoosa Keith" votes="164" />
+            <Precinct name="Chambers" votes="186" />
+            <Precinct name="Ft Oglethorpe" votes="214" />
+            <Precinct name="Graysville" votes="272" />
+            <Precinct name="Lakeview" votes="169" />
+            <Precinct name="Poplar Springs" votes="242" />
+            <Precinct name="Ringgold" votes="503" />
+            <Precinct name="Westside" votes="339" />
+            <Precinct name="Woodstation" votes="157" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="82" text="Colton Moore (Rep)" totalVotes="21361">
+            <VoteType name="Absentee by Mail Votes" votes="541">
+                <Precinct name="Blackstock" votes="21" />
+                <Precinct name="Boynton" votes="81" />
+                <Precinct name="Catoosa Keith" votes="24" />
+                <Precinct name="Chambers" votes="30" />
+                <Precinct name="Ft Oglethorpe" votes="50" />
+                <Precinct name="Graysville" votes="54" />
+                <Precinct name="Lakeview" votes="32" />
+                <Precinct name="Poplar Springs" votes="55" />
+                <Precinct name="Ringgold" votes="104" />
+                <Precinct name="Westside" votes="63" />
+                <Precinct name="Woodstation" votes="27" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12103">
+                <Precinct name="Blackstock" votes="372" />
+                <Precinct name="Boynton" votes="1740" />
+                <Precinct name="Catoosa Keith" votes="620" />
+                <Precinct name="Chambers" votes="828" />
+                <Precinct name="Ft Oglethorpe" votes="944" />
+                <Precinct name="Graysville" votes="1015" />
+                <Precinct name="Lakeview" votes="718" />
+                <Precinct name="Poplar Springs" votes="1199" />
+                <Precinct name="Ringgold" votes="2288" />
+                <Precinct name="Westside" votes="1653" />
+                <Precinct name="Woodstation" votes="726" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8703">
+                <Precinct name="Blackstock" votes="528" />
+                <Precinct name="Boynton" votes="1171" />
+                <Precinct name="Catoosa Keith" votes="688" />
+                <Precinct name="Chambers" votes="661" />
+                <Precinct name="Ft Oglethorpe" votes="677" />
+                <Precinct name="Graysville" votes="939" />
+                <Precinct name="Lakeview" votes="492" />
+                <Precinct name="Poplar Springs" votes="790" />
+                <Precinct name="Ringgold" votes="1154" />
+                <Precinct name="Westside" votes="756" />
+                <Precinct name="Woodstation" votes="847" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="14">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="2" />
+                <Precinct name="Graysville" votes="3" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="3" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Woodstation" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="State House Dist 2" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="377">
+            <Precinct name="Chambers" votes="199" />
+            <Precinct name="Woodstation" votes="178" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="83" text="Steve Tarvin (I) (Rep)" totalVotes="3102">
+            <VoteType name="Absentee by Mail Votes" votes="60">
+                <Precinct name="Chambers" votes="33" />
+                <Precinct name="Woodstation" votes="27" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1554">
+                <Precinct name="Chambers" votes="826" />
+                <Precinct name="Woodstation" votes="728" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1488">
+                <Precinct name="Chambers" votes="655" />
+                <Precinct name="Woodstation" votes="833" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Woodstation" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="State House Dist 3" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="Undervotes" votes="2615">
+            <Precinct name="Blackstock" votes="90" />
+            <Precinct name="Boynton" votes="428" />
+            <Precinct name="Catoosa Keith" votes="185" />
+            <Precinct name="Ft Oglethorpe" votes="230" />
+            <Precinct name="Graysville" votes="311" />
+            <Precinct name="Lakeview" votes="182" />
+            <Precinct name="Poplar Springs" votes="269" />
+            <Precinct name="Ringgold" votes="532" />
+            <Precinct name="Westside" votes="388" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+        </VoteType>
+        <Choice key="84" text="Mitchell Horner (Rep)" totalVotes="18088">
+            <VoteType name="Absentee by Mail Votes" votes="491">
+                <Precinct name="Blackstock" votes="21" />
+                <Precinct name="Boynton" votes="82" />
+                <Precinct name="Catoosa Keith" votes="26" />
+                <Precinct name="Ft Oglethorpe" votes="49" />
+                <Precinct name="Graysville" votes="54" />
+                <Precinct name="Lakeview" votes="30" />
+                <Precinct name="Poplar Springs" votes="56" />
+                <Precinct name="Ringgold" votes="108" />
+                <Precinct name="Westside" votes="65" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="10440">
+                <Precinct name="Blackstock" votes="370" />
+                <Precinct name="Boynton" votes="1729" />
+                <Precinct name="Catoosa Keith" votes="609" />
+                <Precinct name="Ft Oglethorpe" votes="938" />
+                <Precinct name="Graysville" votes="995" />
+                <Precinct name="Lakeview" votes="714" />
+                <Precinct name="Poplar Springs" votes="1179" />
+                <Precinct name="Ringgold" votes="2283" />
+                <Precinct name="Westside" votes="1623" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7145">
+                <Precinct name="Blackstock" votes="522" />
+                <Precinct name="Boynton" votes="1163" />
+                <Precinct name="Catoosa Keith" votes="681" />
+                <Precinct name="Ft Oglethorpe" votes="681" />
+                <Precinct name="Graysville" votes="931" />
+                <Precinct name="Lakeview" votes="490" />
+                <Precinct name="Poplar Springs" votes="783" />
+                <Precinct name="Ringgold" votes="1141" />
+                <Precinct name="Westside" votes="753" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="12">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="2" />
+                <Precinct name="Graysville" votes="3" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="3" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="State Court Solicitor" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="2690">
+            <Precinct name="Blackstock" votes="74" />
+            <Precinct name="Boynton" votes="384" />
+            <Precinct name="Catoosa Keith" votes="179" />
+            <Precinct name="Chambers" votes="167" />
+            <Precinct name="Ft Oglethorpe" votes="195" />
+            <Precinct name="Graysville" votes="281" />
+            <Precinct name="Lakeview" votes="171" />
+            <Precinct name="Poplar Springs" votes="232" />
+            <Precinct name="Ringgold" votes="500" />
+            <Precinct name="Westside" votes="354" />
+            <Precinct name="Woodstation" votes="153" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="85" text="Doug Woodruff (I) (Rep)" totalVotes="21551">
+            <VoteType name="Absentee by Mail Votes" votes="566">
+                <Precinct name="Blackstock" votes="21" />
+                <Precinct name="Boynton" votes="84" />
+                <Precinct name="Catoosa Keith" votes="29" />
+                <Precinct name="Chambers" votes="36" />
+                <Precinct name="Ft Oglethorpe" votes="51" />
+                <Precinct name="Graysville" votes="55" />
+                <Precinct name="Lakeview" votes="33" />
+                <Precinct name="Poplar Springs" votes="56" />
+                <Precinct name="Ringgold" votes="110" />
+                <Precinct name="Westside" votes="64" />
+                <Precinct name="Woodstation" votes="27" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12233">
+                <Precinct name="Blackstock" votes="376" />
+                <Precinct name="Boynton" votes="1764" />
+                <Precinct name="Catoosa Keith" votes="617" />
+                <Precinct name="Chambers" votes="843" />
+                <Precinct name="Ft Oglethorpe" votes="969" />
+                <Precinct name="Graysville" votes="1025" />
+                <Precinct name="Lakeview" votes="722" />
+                <Precinct name="Poplar Springs" votes="1209" />
+                <Precinct name="Ringgold" votes="2317" />
+                <Precinct name="Westside" votes="1656" />
+                <Precinct name="Woodstation" votes="735" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8739">
+                <Precinct name="Blackstock" votes="531" />
+                <Precinct name="Boynton" votes="1182" />
+                <Precinct name="Catoosa Keith" votes="679" />
+                <Precinct name="Chambers" votes="672" />
+                <Precinct name="Ft Oglethorpe" votes="690" />
+                <Precinct name="Graysville" votes="937" />
+                <Precinct name="Lakeview" votes="494" />
+                <Precinct name="Poplar Springs" votes="796" />
+                <Precinct name="Ringgold" votes="1154" />
+                <Precinct name="Westside" votes="755" />
+                <Precinct name="Woodstation" votes="849" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="13">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="2" />
+                <Precinct name="Graysville" votes="2" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="3" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Woodstation" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="County Commissioner Dist 2" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="762">
+            <Precinct name="Boynton" votes="408" />
+            <Precinct name="Westside" votes="354" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Westside" votes="0" />
+        </VoteType>
+        <Choice key="86" text="Chuck Harris (I) (Rep)" totalVotes="5214">
+            <VoteType name="Absentee by Mail Votes" votes="142">
+                <Precinct name="Boynton" votes="83" />
+                <Precinct name="Westside" votes="59" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3238">
+                <Precinct name="Boynton" votes="1743" />
+                <Precinct name="Westside" votes="1495" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1832">
+                <Precinct name="Boynton" votes="1171" />
+                <Precinct name="Westside" votes="661" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Westside" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="County Commissioner Dist 4" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="702">
+            <Precinct name="Blackstock" votes="96" />
+            <Precinct name="Catoosa Keith" votes="179" />
+            <Precinct name="Poplar Springs" votes="255" />
+            <Precinct name="Ringgold" votes="13" />
+            <Precinct name="Woodstation" votes="159" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="87" text="Charlie Stephens (I) (Rep)" totalVotes="5792">
+            <VoteType name="Absentee by Mail Votes" votes="124">
+                <Precinct name="Blackstock" votes="22" />
+                <Precinct name="Catoosa Keith" votes="27" />
+                <Precinct name="Poplar Springs" votes="54" />
+                <Precinct name="Ringgold" votes="3" />
+                <Precinct name="Woodstation" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2901">
+                <Precinct name="Blackstock" votes="368" />
+                <Precinct name="Catoosa Keith" votes="614" />
+                <Precinct name="Poplar Springs" votes="1191" />
+                <Precinct name="Ringgold" votes="62" />
+                <Precinct name="Woodstation" votes="666" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2767">
+                <Precinct name="Blackstock" votes="518" />
+                <Precinct name="Catoosa Keith" votes="677" />
+                <Precinct name="Poplar Springs" votes="790" />
+                <Precinct name="Ringgold" votes="30" />
+                <Precinct name="Woodstation" votes="752" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Woodstation" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="Catoosa Soil and Water" voteFor="2" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="10857">
+            <Precinct name="Blackstock" votes="457" />
+            <Precinct name="Boynton" votes="1369" />
+            <Precinct name="Catoosa Keith" votes="652" />
+            <Precinct name="Chambers" votes="777" />
+            <Precinct name="Ft Oglethorpe" votes="892" />
+            <Precinct name="Graysville" votes="1084" />
+            <Precinct name="Lakeview" votes="782" />
+            <Precinct name="Poplar Springs" votes="946" />
+            <Precinct name="Ringgold" votes="1883" />
+            <Precinct name="Westside" votes="1300" />
+            <Precinct name="Woodstation" votes="715" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="88" text="Keith Bonnell (I)" totalVotes="20442">
+            <VoteType name="Absentee by Mail Votes" votes="589">
+                <Precinct name="Blackstock" votes="24" />
+                <Precinct name="Boynton" votes="87" />
+                <Precinct name="Catoosa Keith" votes="28" />
+                <Precinct name="Chambers" votes="33" />
+                <Precinct name="Ft Oglethorpe" votes="54" />
+                <Precinct name="Graysville" votes="62" />
+                <Precinct name="Lakeview" votes="34" />
+                <Precinct name="Poplar Springs" votes="53" />
+                <Precinct name="Ringgold" votes="109" />
+                <Precinct name="Westside" votes="77" />
+                <Precinct name="Woodstation" votes="28" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11646">
+                <Precinct name="Blackstock" votes="350" />
+                <Precinct name="Boynton" votes="1722" />
+                <Precinct name="Catoosa Keith" votes="600" />
+                <Precinct name="Chambers" votes="783" />
+                <Precinct name="Ft Oglethorpe" votes="898" />
+                <Precinct name="Graysville" votes="953" />
+                <Precinct name="Lakeview" votes="663" />
+                <Precinct name="Poplar Springs" votes="1153" />
+                <Precinct name="Ringgold" votes="2200" />
+                <Precinct name="Westside" votes="1608" />
+                <Precinct name="Woodstation" votes="716" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8195">
+                <Precinct name="Blackstock" votes="476" />
+                <Precinct name="Boynton" votes="1142" />
+                <Precinct name="Catoosa Keith" votes="632" />
+                <Precinct name="Chambers" votes="614" />
+                <Precinct name="Ft Oglethorpe" votes="663" />
+                <Precinct name="Graysville" votes="885" />
+                <Precinct name="Lakeview" votes="448" />
+                <Precinct name="Poplar Springs" votes="765" />
+                <Precinct name="Ringgold" votes="1079" />
+                <Precinct name="Westside" votes="707" />
+                <Precinct name="Woodstation" votes="784" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="12">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="2" />
+                <Precinct name="Graysville" votes="3" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="2" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="89" text="Charles J. Lancaster (I)" totalVotes="17957">
+            <VoteType name="Absentee by Mail Votes" votes="581">
+                <Precinct name="Blackstock" votes="25" />
+                <Precinct name="Boynton" votes="87" />
+                <Precinct name="Catoosa Keith" votes="28" />
+                <Precinct name="Chambers" votes="32" />
+                <Precinct name="Ft Oglethorpe" votes="51" />
+                <Precinct name="Graysville" votes="60" />
+                <Precinct name="Lakeview" votes="33" />
+                <Precinct name="Poplar Springs" votes="56" />
+                <Precinct name="Ringgold" votes="106" />
+                <Precinct name="Westside" votes="78" />
+                <Precinct name="Woodstation" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="10129">
+                <Precinct name="Blackstock" votes="297" />
+                <Precinct name="Boynton" votes="1536" />
+                <Precinct name="Catoosa Keith" votes="520" />
+                <Precinct name="Chambers" votes="689" />
+                <Precinct name="Ft Oglethorpe" votes="753" />
+                <Precinct name="Graysville" votes="823" />
+                <Precinct name="Lakeview" votes="552" />
+                <Precinct name="Poplar Springs" votes="1007" />
+                <Precinct name="Ringgold" votes="1947" />
+                <Precinct name="Westside" votes="1380" />
+                <Precinct name="Woodstation" votes="625" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7235">
+                <Precinct name="Blackstock" votes="411" />
+                <Precinct name="Boynton" votes="999" />
+                <Precinct name="Catoosa Keith" votes="558" />
+                <Precinct name="Chambers" votes="530" />
+                <Precinct name="Ft Oglethorpe" votes="589" />
+                <Precinct name="Graysville" votes="807" />
+                <Precinct name="Lakeview" votes="392" />
+                <Precinct name="Poplar Springs" votes="678" />
+                <Precinct name="Ringgold" votes="962" />
+                <Precinct name="Westside" votes="627" />
+                <Precinct name="Woodstation" votes="682" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="12">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="2" />
+                <Precinct name="Graysville" votes="3" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="2" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="1" />
+                <Precinct name="Woodstation" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="Constitutional Amendment #1" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="930">
+            <Precinct name="Blackstock" votes="46" />
+            <Precinct name="Boynton" votes="124" />
+            <Precinct name="Catoosa Keith" votes="54" />
+            <Precinct name="Chambers" votes="63" />
+            <Precinct name="Ft Oglethorpe" votes="62" />
+            <Precinct name="Graysville" votes="81" />
+            <Precinct name="Lakeview" votes="46" />
+            <Precinct name="Poplar Springs" votes="95" />
+            <Precinct name="Ringgold" votes="170" />
+            <Precinct name="Westside" votes="124" />
+            <Precinct name="Woodstation" votes="65" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="90" text="Yes" totalVotes="21229">
+            <VoteType name="Absentee by Mail Votes" votes="763">
+                <Precinct name="Blackstock" votes="26" />
+                <Precinct name="Boynton" votes="102" />
+                <Precinct name="Catoosa Keith" votes="46" />
+                <Precinct name="Chambers" votes="39" />
+                <Precinct name="Ft Oglethorpe" votes="61" />
+                <Precinct name="Graysville" votes="91" />
+                <Precinct name="Lakeview" votes="45" />
+                <Precinct name="Poplar Springs" votes="75" />
+                <Precinct name="Ringgold" votes="146" />
+                <Precinct name="Westside" votes="96" />
+                <Precinct name="Woodstation" votes="36" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12115">
+                <Precinct name="Blackstock" votes="373" />
+                <Precinct name="Boynton" votes="1781" />
+                <Precinct name="Catoosa Keith" votes="617" />
+                <Precinct name="Chambers" votes="827" />
+                <Precinct name="Ft Oglethorpe" votes="961" />
+                <Precinct name="Graysville" votes="1002" />
+                <Precinct name="Lakeview" votes="729" />
+                <Precinct name="Poplar Springs" votes="1157" />
+                <Precinct name="Ringgold" votes="2300" />
+                <Precinct name="Westside" votes="1637" />
+                <Precinct name="Woodstation" votes="731" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8338">
+                <Precinct name="Blackstock" votes="464" />
+                <Precinct name="Boynton" votes="1156" />
+                <Precinct name="Catoosa Keith" votes="627" />
+                <Precinct name="Chambers" votes="613" />
+                <Precinct name="Ft Oglethorpe" votes="669" />
+                <Precinct name="Graysville" votes="932" />
+                <Precinct name="Lakeview" votes="497" />
+                <Precinct name="Poplar Springs" votes="759" />
+                <Precinct name="Ringgold" votes="1100" />
+                <Precinct name="Westside" votes="753" />
+                <Precinct name="Woodstation" votes="768" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="13">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="1" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="1" />
+                <Precinct name="Graysville" votes="3" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="2" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Woodstation" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="91" text="No" totalVotes="2469">
+            <VoteType name="Absentee by Mail Votes" votes="69">
+                <Precinct name="Blackstock" votes="1" />
+                <Precinct name="Boynton" votes="13" />
+                <Precinct name="Catoosa Keith" votes="3" />
+                <Precinct name="Chambers" votes="5" />
+                <Precinct name="Ft Oglethorpe" votes="6" />
+                <Precinct name="Graysville" votes="11" />
+                <Precinct name="Lakeview" votes="6" />
+                <Precinct name="Poplar Springs" votes="4" />
+                <Precinct name="Ringgold" votes="7" />
+                <Precinct name="Westside" votes="11" />
+                <Precinct name="Woodstation" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1454">
+                <Precinct name="Blackstock" votes="41" />
+                <Precinct name="Boynton" votes="190" />
+                <Precinct name="Catoosa Keith" votes="79" />
+                <Precinct name="Chambers" votes="103" />
+                <Precinct name="Ft Oglethorpe" votes="119" />
+                <Precinct name="Graysville" votes="127" />
+                <Precinct name="Lakeview" votes="84" />
+                <Precinct name="Poplar Springs" votes="147" />
+                <Precinct name="Ringgold" votes="291" />
+                <Precinct name="Westside" votes="197" />
+                <Precinct name="Woodstation" votes="76" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="946">
+                <Precinct name="Blackstock" votes="69" />
+                <Precinct name="Boynton" votes="105" />
+                <Precinct name="Catoosa Keith" votes="82" />
+                <Precinct name="Chambers" votes="79" />
+                <Precinct name="Ft Oglethorpe" votes="73" />
+                <Precinct name="Graysville" votes="93" />
+                <Precinct name="Lakeview" votes="45" />
+                <Precinct name="Poplar Springs" votes="92" />
+                <Precinct name="Ringgold" votes="129" />
+                <Precinct name="Westside" votes="70" />
+                <Precinct name="Woodstation" votes="109" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="Constitutional Amendment #2" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="734">
+            <Precinct name="Blackstock" votes="37" />
+            <Precinct name="Boynton" votes="98" />
+            <Precinct name="Catoosa Keith" votes="40" />
+            <Precinct name="Chambers" votes="63" />
+            <Precinct name="Ft Oglethorpe" votes="56" />
+            <Precinct name="Graysville" votes="67" />
+            <Precinct name="Lakeview" votes="37" />
+            <Precinct name="Poplar Springs" votes="70" />
+            <Precinct name="Ringgold" votes="122" />
+            <Precinct name="Westside" votes="100" />
+            <Precinct name="Woodstation" votes="44" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="92" text="Yes" totalVotes="22483">
+            <VoteType name="Absentee by Mail Votes" votes="796">
+                <Precinct name="Blackstock" votes="25" />
+                <Precinct name="Boynton" votes="109" />
+                <Precinct name="Catoosa Keith" votes="48" />
+                <Precinct name="Chambers" votes="40" />
+                <Precinct name="Ft Oglethorpe" votes="64" />
+                <Precinct name="Graysville" votes="96" />
+                <Precinct name="Lakeview" votes="49" />
+                <Precinct name="Poplar Springs" votes="75" />
+                <Precinct name="Ringgold" votes="148" />
+                <Precinct name="Westside" votes="106" />
+                <Precinct name="Woodstation" votes="36" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12870">
+                <Precinct name="Blackstock" votes="402" />
+                <Precinct name="Boynton" votes="1871" />
+                <Precinct name="Catoosa Keith" votes="659" />
+                <Precinct name="Chambers" votes="865" />
+                <Precinct name="Ft Oglethorpe" votes="1025" />
+                <Precinct name="Graysville" votes="1047" />
+                <Precinct name="Lakeview" votes="773" />
+                <Precinct name="Poplar Springs" votes="1243" />
+                <Precinct name="Ringgold" votes="2465" />
+                <Precinct name="Westside" votes="1754" />
+                <Precinct name="Woodstation" votes="766" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8804">
+                <Precinct name="Blackstock" votes="495" />
+                <Precinct name="Boynton" votes="1203" />
+                <Precinct name="Catoosa Keith" votes="662" />
+                <Precinct name="Chambers" votes="646" />
+                <Precinct name="Ft Oglethorpe" votes="709" />
+                <Precinct name="Graysville" votes="970" />
+                <Precinct name="Lakeview" votes="525" />
+                <Precinct name="Poplar Springs" votes="795" />
+                <Precinct name="Ringgold" votes="1183" />
+                <Precinct name="Westside" votes="787" />
+                <Precinct name="Woodstation" votes="829" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="13">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="1" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="1" />
+                <Precinct name="Graysville" votes="3" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="2" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="2" />
+                <Precinct name="Woodstation" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="93" text="No" totalVotes="1411">
+            <VoteType name="Absentee by Mail Votes" votes="33">
+                <Precinct name="Blackstock" votes="2" />
+                <Precinct name="Boynton" votes="5" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="4" />
+                <Precinct name="Ft Oglethorpe" votes="4" />
+                <Precinct name="Graysville" votes="4" />
+                <Precinct name="Lakeview" votes="2" />
+                <Precinct name="Poplar Springs" votes="4" />
+                <Precinct name="Ringgold" votes="4" />
+                <Precinct name="Westside" votes="3" />
+                <Precinct name="Woodstation" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="824">
+                <Precinct name="Blackstock" votes="15" />
+                <Precinct name="Boynton" votes="116" />
+                <Precinct name="Catoosa Keith" votes="41" />
+                <Precinct name="Chambers" votes="68" />
+                <Precinct name="Ft Oglethorpe" votes="60" />
+                <Precinct name="Graysville" votes="88" />
+                <Precinct name="Lakeview" votes="46" />
+                <Precinct name="Poplar Springs" votes="84" />
+                <Precinct name="Ringgold" votes="159" />
+                <Precinct name="Westside" votes="97" />
+                <Precinct name="Woodstation" votes="50" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="554">
+                <Precinct name="Blackstock" votes="44" />
+                <Precinct name="Boynton" votes="69" />
+                <Precinct name="Catoosa Keith" votes="58" />
+                <Precinct name="Chambers" votes="43" />
+                <Precinct name="Ft Oglethorpe" votes="33" />
+                <Precinct name="Graysville" votes="65" />
+                <Precinct name="Lakeview" votes="20" />
+                <Precinct name="Poplar Springs" votes="58" />
+                <Precinct name="Ringgold" votes="62" />
+                <Precinct name="Westside" votes="41" />
+                <Precinct name="Woodstation" votes="61" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="0" />
+                <Precinct name="Woodstation" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="Statewide Referendum A" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="1262">
+            <Precinct name="Blackstock" votes="43" />
+            <Precinct name="Boynton" votes="176" />
+            <Precinct name="Catoosa Keith" votes="76" />
+            <Precinct name="Chambers" votes="96" />
+            <Precinct name="Ft Oglethorpe" votes="93" />
+            <Precinct name="Graysville" votes="115" />
+            <Precinct name="Lakeview" votes="74" />
+            <Precinct name="Poplar Springs" votes="123" />
+            <Precinct name="Ringgold" votes="237" />
+            <Precinct name="Westside" votes="154" />
+            <Precinct name="Woodstation" votes="75" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="96" text="Yes" totalVotes="14340">
+            <VoteType name="Absentee by Mail Votes" votes="362">
+                <Precinct name="Blackstock" votes="11" />
+                <Precinct name="Boynton" votes="47" />
+                <Precinct name="Catoosa Keith" votes="17" />
+                <Precinct name="Chambers" votes="21" />
+                <Precinct name="Ft Oglethorpe" votes="31" />
+                <Precinct name="Graysville" votes="42" />
+                <Precinct name="Lakeview" votes="30" />
+                <Precinct name="Poplar Springs" votes="27" />
+                <Precinct name="Ringgold" votes="65" />
+                <Precinct name="Westside" votes="53" />
+                <Precinct name="Woodstation" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8027">
+                <Precinct name="Blackstock" votes="268" />
+                <Precinct name="Boynton" votes="1177" />
+                <Precinct name="Catoosa Keith" votes="368" />
+                <Precinct name="Chambers" votes="546" />
+                <Precinct name="Ft Oglethorpe" votes="628" />
+                <Precinct name="Graysville" votes="668" />
+                <Precinct name="Lakeview" votes="535" />
+                <Precinct name="Poplar Springs" votes="765" />
+                <Precinct name="Ringgold" votes="1480" />
+                <Precinct name="Westside" votes="1139" />
+                <Precinct name="Woodstation" votes="453" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5940">
+                <Precinct name="Blackstock" votes="345" />
+                <Precinct name="Boynton" votes="797" />
+                <Precinct name="Catoosa Keith" votes="446" />
+                <Precinct name="Chambers" votes="440" />
+                <Precinct name="Ft Oglethorpe" votes="486" />
+                <Precinct name="Graysville" votes="645" />
+                <Precinct name="Lakeview" votes="364" />
+                <Precinct name="Poplar Springs" votes="546" />
+                <Precinct name="Ringgold" votes="771" />
+                <Precinct name="Westside" votes="531" />
+                <Precinct name="Woodstation" votes="569" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="11">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="1" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="1" />
+                <Precinct name="Graysville" votes="2" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="2" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="1" />
+                <Precinct name="Woodstation" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="No" totalVotes="9026">
+            <VoteType name="Absentee by Mail Votes" votes="444">
+                <Precinct name="Blackstock" votes="16" />
+                <Precinct name="Boynton" votes="63" />
+                <Precinct name="Catoosa Keith" votes="29" />
+                <Precinct name="Chambers" votes="22" />
+                <Precinct name="Ft Oglethorpe" votes="36" />
+                <Precinct name="Graysville" votes="56" />
+                <Precinct name="Lakeview" votes="18" />
+                <Precinct name="Poplar Springs" votes="49" />
+                <Precinct name="Ringgold" votes="86" />
+                <Precinct name="Westside" votes="51" />
+                <Precinct name="Woodstation" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5347">
+                <Precinct name="Blackstock" votes="146" />
+                <Precinct name="Boynton" votes="766" />
+                <Precinct name="Catoosa Keith" votes="309" />
+                <Precinct name="Chambers" votes="369" />
+                <Precinct name="Ft Oglethorpe" votes="428" />
+                <Precinct name="Graysville" votes="445" />
+                <Precinct name="Lakeview" votes="263" />
+                <Precinct name="Poplar Springs" votes="524" />
+                <Precinct name="Ringgold" votes="1072" />
+                <Precinct name="Westside" votes="674" />
+                <Precinct name="Woodstation" votes="351" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3234">
+                <Precinct name="Blackstock" votes="191" />
+                <Precinct name="Boynton" votes="445" />
+                <Precinct name="Catoosa Keith" votes="263" />
+                <Precinct name="Chambers" votes="235" />
+                <Precinct name="Ft Oglethorpe" votes="249" />
+                <Precinct name="Graysville" votes="367" />
+                <Precinct name="Lakeview" votes="168" />
+                <Precinct name="Poplar Springs" votes="295" />
+                <Precinct name="Ringgold" votes="432" />
+                <Precinct name="Westside" votes="286" />
+                <Precinct name="Woodstation" votes="303" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="1" />
+                <Precinct name="Woodstation" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="Statewide Referendum B" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="1074">
+            <Precinct name="Blackstock" votes="44" />
+            <Precinct name="Boynton" votes="143" />
+            <Precinct name="Catoosa Keith" votes="52" />
+            <Precinct name="Chambers" votes="88" />
+            <Precinct name="Ft Oglethorpe" votes="79" />
+            <Precinct name="Graysville" votes="98" />
+            <Precinct name="Lakeview" votes="67" />
+            <Precinct name="Poplar Springs" votes="97" />
+            <Precinct name="Ringgold" votes="219" />
+            <Precinct name="Westside" votes="129" />
+            <Precinct name="Woodstation" votes="58" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Blackstock" votes="0" />
+            <Precinct name="Boynton" votes="0" />
+            <Precinct name="Catoosa Keith" votes="0" />
+            <Precinct name="Chambers" votes="0" />
+            <Precinct name="Ft Oglethorpe" votes="0" />
+            <Precinct name="Graysville" votes="0" />
+            <Precinct name="Lakeview" votes="0" />
+            <Precinct name="Poplar Springs" votes="0" />
+            <Precinct name="Ringgold" votes="0" />
+            <Precinct name="Westside" votes="0" />
+            <Precinct name="Woodstation" votes="0" />
+        </VoteType>
+        <Choice key="94" text="Yes" totalVotes="19304">
+            <VoteType name="Absentee by Mail Votes" votes="559">
+                <Precinct name="Blackstock" votes="17" />
+                <Precinct name="Boynton" votes="75" />
+                <Precinct name="Catoosa Keith" votes="34" />
+                <Precinct name="Chambers" votes="36" />
+                <Precinct name="Ft Oglethorpe" votes="39" />
+                <Precinct name="Graysville" votes="68" />
+                <Precinct name="Lakeview" votes="41" />
+                <Precinct name="Poplar Springs" votes="40" />
+                <Precinct name="Ringgold" votes="104" />
+                <Precinct name="Westside" votes="80" />
+                <Precinct name="Woodstation" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="10952">
+                <Precinct name="Blackstock" votes="351" />
+                <Precinct name="Boynton" votes="1620" />
+                <Precinct name="Catoosa Keith" votes="577" />
+                <Precinct name="Chambers" votes="744" />
+                <Precinct name="Ft Oglethorpe" votes="852" />
+                <Precinct name="Graysville" votes="890" />
+                <Precinct name="Lakeview" votes="677" />
+                <Precinct name="Poplar Springs" votes="1037" />
+                <Precinct name="Ringgold" votes="2031" />
+                <Precinct name="Westside" votes="1519" />
+                <Precinct name="Woodstation" votes="654" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7782">
+                <Precinct name="Blackstock" votes="439" />
+                <Precinct name="Boynton" votes="1045" />
+                <Precinct name="Catoosa Keith" votes="609" />
+                <Precinct name="Chambers" votes="576" />
+                <Precinct name="Ft Oglethorpe" votes="612" />
+                <Precinct name="Graysville" votes="862" />
+                <Precinct name="Lakeview" votes="461" />
+                <Precinct name="Poplar Springs" votes="724" />
+                <Precinct name="Ringgold" votes="1002" />
+                <Precinct name="Westside" votes="696" />
+                <Precinct name="Woodstation" votes="756" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="11">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="1" />
+                <Precinct name="Catoosa Keith" votes="1" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="1" />
+                <Precinct name="Graysville" votes="2" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="2" />
+                <Precinct name="Ringgold" votes="1" />
+                <Precinct name="Westside" votes="1" />
+                <Precinct name="Woodstation" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="95" text="No" totalVotes="4250">
+            <VoteType name="Absentee by Mail Votes" votes="251">
+                <Precinct name="Blackstock" votes="9" />
+                <Precinct name="Boynton" votes="36" />
+                <Precinct name="Catoosa Keith" votes="13" />
+                <Precinct name="Chambers" votes="8" />
+                <Precinct name="Ft Oglethorpe" votes="26" />
+                <Precinct name="Graysville" votes="31" />
+                <Precinct name="Lakeview" votes="7" />
+                <Precinct name="Poplar Springs" votes="37" />
+                <Precinct name="Ringgold" votes="49" />
+                <Precinct name="Westside" votes="24" />
+                <Precinct name="Woodstation" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2542">
+                <Precinct name="Blackstock" votes="65" />
+                <Precinct name="Boynton" votes="346" />
+                <Precinct name="Catoosa Keith" votes="114" />
+                <Precinct name="Chambers" votes="174" />
+                <Precinct name="Ft Oglethorpe" votes="218" />
+                <Precinct name="Graysville" votes="230" />
+                <Precinct name="Lakeview" votes="127" />
+                <Precinct name="Poplar Springs" votes="271" />
+                <Precinct name="Ringgold" votes="526" />
+                <Precinct name="Westside" votes="317" />
+                <Precinct name="Woodstation" votes="154" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1456">
+                <Precinct name="Blackstock" votes="95" />
+                <Precinct name="Boynton" votes="206" />
+                <Precinct name="Catoosa Keith" votes="109" />
+                <Precinct name="Chambers" votes="103" />
+                <Precinct name="Ft Oglethorpe" votes="125" />
+                <Precinct name="Graysville" votes="159" />
+                <Precinct name="Lakeview" votes="72" />
+                <Precinct name="Poplar Springs" votes="123" />
+                <Precinct name="Ringgold" votes="212" />
+                <Precinct name="Westside" votes="123" />
+                <Precinct name="Woodstation" votes="129" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Blackstock" votes="0" />
+                <Precinct name="Boynton" votes="0" />
+                <Precinct name="Catoosa Keith" votes="0" />
+                <Precinct name="Chambers" votes="0" />
+                <Precinct name="Ft Oglethorpe" votes="0" />
+                <Precinct name="Graysville" votes="0" />
+                <Precinct name="Lakeview" votes="0" />
+                <Precinct name="Poplar Springs" votes="0" />
+                <Precinct name="Ringgold" votes="0" />
+                <Precinct name="Westside" votes="1" />
+                <Precinct name="Woodstation" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

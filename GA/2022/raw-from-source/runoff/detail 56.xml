@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/16/2022 8:50:56 AM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Wilcox</Region>
+    <VoterTurnout totalVoters="4337" ballotsCast="2387" voterTurnout="55.04">
+        <Precincts>
+            <Precinct name="Rochelle North #1" totalVoters="459" ballotsCast="197" voterTurnout="42.92" percentReporting="4" />
+            <Precinct name="Abbeville North #2" totalVoters="383" ballotsCast="199" voterTurnout="51.96" percentReporting="4" />
+            <Precinct name="Pineview #2" totalVoters="591" ballotsCast="364" voterTurnout="61.59" percentReporting="4" />
+            <Precinct name="Pitts #3" totalVoters="840" ballotsCast="458" voterTurnout="54.52" percentReporting="4" />
+            <Precinct name="Rochelle South #4" totalVoters="987" ballotsCast="565" voterTurnout="57.24" percentReporting="4" />
+            <Precinct name="Abbeville South #5" totalVoters="1077" ballotsCast="604" voterTurnout="56.08" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Rochelle North #1" votes="2" />
+            <Precinct name="Abbeville North #2" votes="1" />
+            <Precinct name="Pineview #2" votes="3" />
+            <Precinct name="Pitts #3" votes="1" />
+            <Precinct name="Rochelle South #4" votes="0" />
+            <Precinct name="Abbeville South #5" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rochelle North #1" votes="0" />
+            <Precinct name="Abbeville North #2" votes="0" />
+            <Precinct name="Pineview #2" votes="0" />
+            <Precinct name="Pitts #3" votes="0" />
+            <Precinct name="Rochelle South #4" votes="0" />
+            <Precinct name="Abbeville South #5" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="1765">
+            <VoteType name="Absentee by Mail Votes" votes="69">
+                <Precinct name="Rochelle North #1" votes="4" />
+                <Precinct name="Abbeville North #2" votes="3" />
+                <Precinct name="Pineview #2" votes="6" />
+                <Precinct name="Pitts #3" votes="4" />
+                <Precinct name="Rochelle South #4" votes="15" />
+                <Precinct name="Abbeville South #5" votes="37" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="630">
+                <Precinct name="Rochelle North #1" votes="15" />
+                <Precinct name="Abbeville North #2" votes="50" />
+                <Precinct name="Pineview #2" votes="43" />
+                <Precinct name="Pitts #3" votes="102" />
+                <Precinct name="Rochelle South #4" votes="175" />
+                <Precinct name="Abbeville South #5" votes="245" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1066">
+                <Precinct name="Rochelle North #1" votes="37" />
+                <Precinct name="Abbeville North #2" votes="63" />
+                <Precinct name="Pineview #2" votes="153" />
+                <Precinct name="Pitts #3" votes="307" />
+                <Precinct name="Rochelle South #4" votes="311" />
+                <Precinct name="Abbeville South #5" votes="195" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rochelle North #1" votes="0" />
+                <Precinct name="Abbeville North #2" votes="0" />
+                <Precinct name="Pineview #2" votes="0" />
+                <Precinct name="Pitts #3" votes="0" />
+                <Precinct name="Rochelle South #4" votes="0" />
+                <Precinct name="Abbeville South #5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="615">
+            <VoteType name="Absentee by Mail Votes" votes="37">
+                <Precinct name="Rochelle North #1" votes="5" />
+                <Precinct name="Abbeville North #2" votes="6" />
+                <Precinct name="Pineview #2" votes="13" />
+                <Precinct name="Pitts #3" votes="2" />
+                <Precinct name="Rochelle South #4" votes="1" />
+                <Precinct name="Abbeville South #5" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="248">
+                <Precinct name="Rochelle North #1" votes="55" />
+                <Precinct name="Abbeville North #2" votes="42" />
+                <Precinct name="Pineview #2" votes="38" />
+                <Precinct name="Pitts #3" votes="15" />
+                <Precinct name="Rochelle South #4" votes="30" />
+                <Precinct name="Abbeville South #5" votes="68" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="330">
+                <Precinct name="Rochelle North #1" votes="79" />
+                <Precinct name="Abbeville North #2" votes="34" />
+                <Precinct name="Pineview #2" votes="108" />
+                <Precinct name="Pitts #3" votes="27" />
+                <Precinct name="Rochelle South #4" votes="33" />
+                <Precinct name="Abbeville South #5" votes="49" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rochelle North #1" votes="0" />
+                <Precinct name="Abbeville North #2" votes="0" />
+                <Precinct name="Pineview #2" votes="0" />
+                <Precinct name="Pitts #3" votes="0" />
+                <Precinct name="Rochelle South #4" votes="0" />
+                <Precinct name="Abbeville South #5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

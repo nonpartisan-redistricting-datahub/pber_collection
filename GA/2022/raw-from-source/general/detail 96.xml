@@ -1,0 +1,1534 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/15/2022 4:42:11 PM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Crawford</Region>
+    <VoterTurnout totalVoters="8267" ballotsCast="4847" voterTurnout="58.63">
+        <Precincts>
+            <Precinct name="District 1" totalVoters="1634" ballotsCast="967" voterTurnout="59.18" percentReporting="4" />
+            <Precinct name="District 2" totalVoters="1648" ballotsCast="1040" voterTurnout="63.11" percentReporting="4" />
+            <Precinct name="District 3" totalVoters="1561" ballotsCast="863" voterTurnout="55.29" percentReporting="4" />
+            <Precinct name="District 4" totalVoters="1813" ballotsCast="1090" voterTurnout="60.12" percentReporting="4" />
+            <Precinct name="District 5" totalVoters="1593" ballotsCast="887" voterTurnout="55.68" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="3" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="27">
+            <Precinct name="District 1" votes="7" />
+            <Precinct name="District 2" votes="8" />
+            <Precinct name="District 3" votes="5" />
+            <Precinct name="District 4" votes="4" />
+            <Precinct name="District 5" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Herschel Junior Walker (Rep)" totalVotes="3440">
+            <VoteType name="Absentee by Mail Votes" votes="116">
+                <Precinct name="District 1" votes="21" />
+                <Precinct name="District 2" votes="22" />
+                <Precinct name="District 3" votes="21" />
+                <Precinct name="District 4" votes="34" />
+                <Precinct name="District 5" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1677">
+                <Precinct name="District 1" votes="261" />
+                <Precinct name="District 2" votes="369" />
+                <Precinct name="District 3" votes="395" />
+                <Precinct name="District 4" votes="382" />
+                <Precinct name="District 5" votes="270" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1645">
+                <Precinct name="District 1" votes="121" />
+                <Precinct name="District 2" votes="288" />
+                <Precinct name="District 3" votes="304" />
+                <Precinct name="District 4" votes="491" />
+                <Precinct name="District 5" votes="441" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Raphael Warnock (I) (Dem)" totalVotes="1298">
+            <VoteType name="Absentee by Mail Votes" votes="152">
+                <Precinct name="District 1" votes="69" />
+                <Precinct name="District 2" votes="45" />
+                <Precinct name="District 3" votes="10" />
+                <Precinct name="District 4" votes="17" />
+                <Precinct name="District 5" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="801">
+                <Precinct name="District 1" votes="346" />
+                <Precinct name="District 2" votes="212" />
+                <Precinct name="District 3" votes="78" />
+                <Precinct name="District 4" votes="89" />
+                <Precinct name="District 5" votes="76" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="342">
+                <Precinct name="District 1" votes="126" />
+                <Precinct name="District 2" votes="80" />
+                <Precinct name="District 3" votes="28" />
+                <Precinct name="District 4" votes="55" />
+                <Precinct name="District 5" votes="53" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="Chase Oliver (Lib)" totalVotes="78">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="3" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="31">
+                <Precinct name="District 1" votes="9" />
+                <Precinct name="District 2" votes="8" />
+                <Precinct name="District 3" votes="3" />
+                <Precinct name="District 4" votes="6" />
+                <Precinct name="District 5" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="41">
+                <Precinct name="District 1" votes="4" />
+                <Precinct name="District 2" votes="5" />
+                <Precinct name="District 3" votes="13" />
+                <Precinct name="District 4" votes="10" />
+                <Precinct name="District 5" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="District 1" votes="0" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="District 1" votes="3" />
+            <Precinct name="District 2" votes="4" />
+            <Precinct name="District 3" votes="1" />
+            <Precinct name="District 4" votes="2" />
+            <Precinct name="District 5" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="56" text="Brian Kemp (I) (Rep)" totalVotes="3633">
+            <VoteType name="Absentee by Mail Votes" votes="136">
+                <Precinct name="District 1" votes="21" />
+                <Precinct name="District 2" votes="29" />
+                <Precinct name="District 3" votes="26" />
+                <Precinct name="District 4" votes="38" />
+                <Precinct name="District 5" votes="22" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1774">
+                <Precinct name="District 1" votes="284" />
+                <Precinct name="District 2" votes="392" />
+                <Precinct name="District 3" votes="411" />
+                <Precinct name="District 4" votes="394" />
+                <Precinct name="District 5" votes="293" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1721">
+                <Precinct name="District 1" votes="133" />
+                <Precinct name="District 2" votes="300" />
+                <Precinct name="District 3" votes="322" />
+                <Precinct name="District 4" votes="509" />
+                <Precinct name="District 5" votes="457" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="57" text="Stacey Abrams (Dem)" totalVotes="1171">
+            <VoteType name="Absentee by Mail Votes" votes="137">
+                <Precinct name="District 1" votes="69" />
+                <Precinct name="District 2" votes="39" />
+                <Precinct name="District 3" votes="8" />
+                <Precinct name="District 4" votes="14" />
+                <Precinct name="District 5" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="736">
+                <Precinct name="District 1" votes="334" />
+                <Precinct name="District 2" votes="196" />
+                <Precinct name="District 3" votes="66" />
+                <Precinct name="District 4" votes="82" />
+                <Precinct name="District 5" votes="58" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="295">
+                <Precinct name="District 1" votes="115" />
+                <Precinct name="District 2" votes="71" />
+                <Precinct name="District 3" votes="23" />
+                <Precinct name="District 4" votes="42" />
+                <Precinct name="District 5" votes="44" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="Shane Hazel (Lib)" totalVotes="31">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="10">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="3" />
+                <Precinct name="District 3" votes="2" />
+                <Precinct name="District 4" votes="3" />
+                <Precinct name="District 5" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="20">
+                <Precinct name="District 1" votes="3" />
+                <Precinct name="District 2" votes="5" />
+                <Precinct name="District 3" votes="3" />
+                <Precinct name="District 4" votes="5" />
+                <Precinct name="District 5" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="District 1" votes="0" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="82">
+            <Precinct name="District 1" votes="34" />
+            <Precinct name="District 2" votes="25" />
+            <Precinct name="District 3" votes="9" />
+            <Precinct name="District 4" votes="7" />
+            <Precinct name="District 5" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="59" text="Burt Jones (Rep)" totalVotes="3538">
+            <VoteType name="Absentee by Mail Votes" votes="128">
+                <Precinct name="District 1" votes="22" />
+                <Precinct name="District 2" votes="25" />
+                <Precinct name="District 3" votes="26" />
+                <Precinct name="District 4" votes="35" />
+                <Precinct name="District 5" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1736">
+                <Precinct name="District 1" votes="279" />
+                <Precinct name="District 2" votes="381" />
+                <Precinct name="District 3" votes="402" />
+                <Precinct name="District 4" votes="391" />
+                <Precinct name="District 5" votes="283" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1672">
+                <Precinct name="District 1" votes="125" />
+                <Precinct name="District 2" votes="290" />
+                <Precinct name="District 3" votes="314" />
+                <Precinct name="District 4" votes="497" />
+                <Precinct name="District 5" votes="446" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="60" text="Charlie Bailey (Dem)" totalVotes="1167">
+            <VoteType name="Absentee by Mail Votes" votes="141">
+                <Precinct name="District 1" votes="66" />
+                <Precinct name="District 2" votes="43" />
+                <Precinct name="District 3" votes="7" />
+                <Precinct name="District 4" votes="16" />
+                <Precinct name="District 5" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="717">
+                <Precinct name="District 1" votes="312" />
+                <Precinct name="District 2" votes="191" />
+                <Precinct name="District 3" votes="67" />
+                <Precinct name="District 4" votes="81" />
+                <Precinct name="District 5" votes="66" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="307">
+                <Precinct name="District 1" votes="114" />
+                <Precinct name="District 2" votes="71" />
+                <Precinct name="District 3" votes="27" />
+                <Precinct name="District 4" votes="49" />
+                <Precinct name="District 5" votes="46" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Ryan Graham (Lib)" totalVotes="58">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="22">
+                <Precinct name="District 1" votes="6" />
+                <Precinct name="District 2" votes="5" />
+                <Precinct name="District 3" votes="5" />
+                <Precinct name="District 4" votes="5" />
+                <Precinct name="District 5" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="32">
+                <Precinct name="District 1" votes="4" />
+                <Precinct name="District 2" votes="8" />
+                <Precinct name="District 3" votes="4" />
+                <Precinct name="District 4" votes="7" />
+                <Precinct name="District 5" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="District 1" votes="0" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="84">
+            <Precinct name="District 1" votes="33" />
+            <Precinct name="District 2" votes="22" />
+            <Precinct name="District 3" votes="9" />
+            <Precinct name="District 4" votes="8" />
+            <Precinct name="District 5" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="62" text="Brad Raffensperger (I) (Rep)" totalVotes="3490">
+            <VoteType name="Absentee by Mail Votes" votes="126">
+                <Precinct name="District 1" votes="22" />
+                <Precinct name="District 2" votes="28" />
+                <Precinct name="District 3" votes="22" />
+                <Precinct name="District 4" votes="35" />
+                <Precinct name="District 5" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1708">
+                <Precinct name="District 1" votes="280" />
+                <Precinct name="District 2" votes="378" />
+                <Precinct name="District 3" votes="396" />
+                <Precinct name="District 4" votes="385" />
+                <Precinct name="District 5" votes="269" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1654">
+                <Precinct name="District 1" votes="134" />
+                <Precinct name="District 2" votes="285" />
+                <Precinct name="District 3" votes="303" />
+                <Precinct name="District 4" votes="495" />
+                <Precinct name="District 5" votes="437" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Bee Nguyen (Dem)" totalVotes="1116">
+            <VoteType name="Absentee by Mail Votes" votes="133">
+                <Precinct name="District 1" votes="66" />
+                <Precinct name="District 2" votes="38" />
+                <Precinct name="District 3" votes="8" />
+                <Precinct name="District 4" votes="11" />
+                <Precinct name="District 5" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="697">
+                <Precinct name="District 1" votes="302" />
+                <Precinct name="District 2" votes="186" />
+                <Precinct name="District 3" votes="64" />
+                <Precinct name="District 4" votes="77" />
+                <Precinct name="District 5" votes="68" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="283">
+                <Precinct name="District 1" votes="100" />
+                <Precinct name="District 2" votes="69" />
+                <Precinct name="District 3" votes="26" />
+                <Precinct name="District 4" votes="43" />
+                <Precinct name="District 5" votes="45" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="95" text="Ted Metz (Lib)" totalVotes="155">
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="2" />
+                <Precinct name="District 3" votes="4" />
+                <Precinct name="District 4" votes="6" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="73">
+                <Precinct name="District 1" votes="17" />
+                <Precinct name="District 2" votes="18" />
+                <Precinct name="District 3" votes="16" />
+                <Precinct name="District 4" votes="13" />
+                <Precinct name="District 5" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="69">
+                <Precinct name="District 1" votes="9" />
+                <Precinct name="District 2" votes="13" />
+                <Precinct name="District 3" votes="14" />
+                <Precinct name="District 4" votes="16" />
+                <Precinct name="District 5" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="District 1" votes="0" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="65">
+            <Precinct name="District 1" votes="29" />
+            <Precinct name="District 2" votes="16" />
+            <Precinct name="District 3" votes="8" />
+            <Precinct name="District 4" votes="2" />
+            <Precinct name="District 5" votes="10" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="64" text="Chris Carr (I) (Rep)" totalVotes="3532">
+            <VoteType name="Absentee by Mail Votes" votes="127">
+                <Precinct name="District 1" votes="22" />
+                <Precinct name="District 2" votes="25" />
+                <Precinct name="District 3" votes="25" />
+                <Precinct name="District 4" votes="35" />
+                <Precinct name="District 5" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1720">
+                <Precinct name="District 1" votes="275" />
+                <Precinct name="District 2" votes="375" />
+                <Precinct name="District 3" votes="402" />
+                <Precinct name="District 4" votes="390" />
+                <Precinct name="District 5" votes="278" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1683">
+                <Precinct name="District 1" votes="129" />
+                <Precinct name="District 2" votes="292" />
+                <Precinct name="District 3" votes="314" />
+                <Precinct name="District 4" votes="500" />
+                <Precinct name="District 5" votes="448" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="65" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="1209">
+            <VoteType name="Absentee by Mail Votes" votes="142">
+                <Precinct name="District 1" votes="67" />
+                <Precinct name="District 2" votes="43" />
+                <Precinct name="District 3" votes="8" />
+                <Precinct name="District 4" votes="16" />
+                <Precinct name="District 5" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="746">
+                <Precinct name="District 1" votes="320" />
+                <Precinct name="District 2" votes="203" />
+                <Precinct name="District 3" votes="70" />
+                <Precinct name="District 4" votes="84" />
+                <Precinct name="District 5" votes="69" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="318">
+                <Precinct name="District 1" votes="113" />
+                <Precinct name="District 2" votes="77" />
+                <Precinct name="District 3" votes="29" />
+                <Precinct name="District 4" votes="51" />
+                <Precinct name="District 5" votes="48" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="66" text="Martin Cowen (Lib)" totalVotes="40">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="18">
+                <Precinct name="District 1" votes="5" />
+                <Precinct name="District 2" votes="5" />
+                <Precinct name="District 3" votes="3" />
+                <Precinct name="District 4" votes="4" />
+                <Precinct name="District 5" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="District 1" votes="3" />
+                <Precinct name="District 2" votes="3" />
+                <Precinct name="District 3" votes="2" />
+                <Precinct name="District 4" votes="6" />
+                <Precinct name="District 5" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="District 1" votes="0" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Commissioner Of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="65">
+            <Precinct name="District 1" votes="27" />
+            <Precinct name="District 2" votes="17" />
+            <Precinct name="District 3" votes="7" />
+            <Precinct name="District 4" votes="6" />
+            <Precinct name="District 5" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Tyler Harper (Rep)" totalVotes="3575">
+            <VoteType name="Absentee by Mail Votes" votes="130">
+                <Precinct name="District 1" votes="21" />
+                <Precinct name="District 2" votes="28" />
+                <Precinct name="District 3" votes="26" />
+                <Precinct name="District 4" votes="36" />
+                <Precinct name="District 5" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1742">
+                <Precinct name="District 1" votes="278" />
+                <Precinct name="District 2" votes="387" />
+                <Precinct name="District 3" votes="400" />
+                <Precinct name="District 4" votes="389" />
+                <Precinct name="District 5" votes="288" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1701">
+                <Precinct name="District 1" votes="130" />
+                <Precinct name="District 2" votes="299" />
+                <Precinct name="District 3" votes="322" />
+                <Precinct name="District 4" votes="500" />
+                <Precinct name="District 5" votes="450" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="68" text="Nakita Hemingway (Dem)" totalVotes="1133">
+            <VoteType name="Absentee by Mail Votes" votes="136">
+                <Precinct name="District 1" votes="67" />
+                <Precinct name="District 2" votes="38" />
+                <Precinct name="District 3" votes="8" />
+                <Precinct name="District 4" votes="14" />
+                <Precinct name="District 5" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="711">
+                <Precinct name="District 1" votes="311" />
+                <Precinct name="District 2" votes="193" />
+                <Precinct name="District 3" votes="66" />
+                <Precinct name="District 4" votes="80" />
+                <Precinct name="District 5" votes="61" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="284">
+                <Precinct name="District 1" votes="113" />
+                <Precinct name="District 2" votes="64" />
+                <Precinct name="District 3" votes="21" />
+                <Precinct name="District 4" votes="44" />
+                <Precinct name="District 5" votes="42" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="69" text="David Raudabaugh (Lib)" totalVotes="72">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="District 1" votes="2" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="2" />
+                <Precinct name="District 5" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="38">
+                <Precinct name="District 1" votes="12" />
+                <Precinct name="District 2" votes="6" />
+                <Precinct name="District 3" votes="10" />
+                <Precinct name="District 4" votes="8" />
+                <Precinct name="District 5" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="District 1" votes="3" />
+                <Precinct name="District 2" votes="7" />
+                <Precinct name="District 3" votes="2" />
+                <Precinct name="District 4" votes="10" />
+                <Precinct name="District 5" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="District 1" votes="0" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="84">
+            <Precinct name="District 1" votes="36" />
+            <Precinct name="District 2" votes="18" />
+            <Precinct name="District 3" votes="11" />
+            <Precinct name="District 4" votes="9" />
+            <Precinct name="District 5" votes="10" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="70" text="John King (I) (Rep)" totalVotes="3602">
+            <VoteType name="Absentee by Mail Votes" votes="130">
+                <Precinct name="District 1" votes="21" />
+                <Precinct name="District 2" votes="27" />
+                <Precinct name="District 3" votes="27" />
+                <Precinct name="District 4" votes="35" />
+                <Precinct name="District 5" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1751">
+                <Precinct name="District 1" votes="279" />
+                <Precinct name="District 2" votes="389" />
+                <Precinct name="District 3" votes="403" />
+                <Precinct name="District 4" votes="393" />
+                <Precinct name="District 5" votes="287" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1719">
+                <Precinct name="District 1" votes="134" />
+                <Precinct name="District 2" votes="304" />
+                <Precinct name="District 3" votes="318" />
+                <Precinct name="District 4" votes="508" />
+                <Precinct name="District 5" votes="455" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="71" text="Janice Laws Robinson (Dem)" totalVotes="1159">
+            <VoteType name="Absentee by Mail Votes" votes="140">
+                <Precinct name="District 1" votes="66" />
+                <Precinct name="District 2" votes="41" />
+                <Precinct name="District 3" votes="7" />
+                <Precinct name="District 4" votes="17" />
+                <Precinct name="District 5" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="727">
+                <Precinct name="District 1" votes="318" />
+                <Precinct name="District 2" votes="194" />
+                <Precinct name="District 3" votes="71" />
+                <Precinct name="District 4" votes="82" />
+                <Precinct name="District 5" votes="62" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="289">
+                <Precinct name="District 1" votes="110" />
+                <Precinct name="District 2" votes="66" />
+                <Precinct name="District 3" votes="25" />
+                <Precinct name="District 4" votes="45" />
+                <Precinct name="District 5" votes="43" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="79">
+            <Precinct name="District 1" votes="31" />
+            <Precinct name="District 2" votes="18" />
+            <Precinct name="District 3" votes="11" />
+            <Precinct name="District 4" votes="8" />
+            <Precinct name="District 5" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="72" text="Richard Woods (I) (Rep)" totalVotes="3599">
+            <VoteType name="Absentee by Mail Votes" votes="131">
+                <Precinct name="District 1" votes="21" />
+                <Precinct name="District 2" votes="28" />
+                <Precinct name="District 3" votes="27" />
+                <Precinct name="District 4" votes="36" />
+                <Precinct name="District 5" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1752">
+                <Precinct name="District 1" votes="278" />
+                <Precinct name="District 2" votes="388" />
+                <Precinct name="District 3" votes="404" />
+                <Precinct name="District 4" votes="394" />
+                <Precinct name="District 5" votes="288" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1714">
+                <Precinct name="District 1" votes="128" />
+                <Precinct name="District 2" votes="306" />
+                <Precinct name="District 3" votes="320" />
+                <Precinct name="District 4" votes="506" />
+                <Precinct name="District 5" votes="454" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="73" text="Alisha Thomas Searcy (Dem)" totalVotes="1166">
+            <VoteType name="Absentee by Mail Votes" votes="140">
+                <Precinct name="District 1" votes="68" />
+                <Precinct name="District 2" votes="40" />
+                <Precinct name="District 3" votes="7" />
+                <Precinct name="District 4" votes="16" />
+                <Precinct name="District 5" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="726">
+                <Precinct name="District 1" votes="319" />
+                <Precinct name="District 2" votes="195" />
+                <Precinct name="District 3" votes="70" />
+                <Precinct name="District 4" votes="81" />
+                <Precinct name="District 5" votes="61" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="297">
+                <Precinct name="District 1" votes="118" />
+                <Precinct name="District 2" votes="64" />
+                <Precinct name="District 3" votes="23" />
+                <Precinct name="District 4" votes="48" />
+                <Precinct name="District 5" votes="44" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="94">
+            <Precinct name="District 1" votes="36" />
+            <Precinct name="District 2" votes="27" />
+            <Precinct name="District 3" votes="11" />
+            <Precinct name="District 4" votes="12" />
+            <Precinct name="District 5" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Bruce Thompson (Rep)" totalVotes="3545">
+            <VoteType name="Absentee by Mail Votes" votes="129">
+                <Precinct name="District 1" votes="21" />
+                <Precinct name="District 2" votes="28" />
+                <Precinct name="District 3" votes="26" />
+                <Precinct name="District 4" votes="35" />
+                <Precinct name="District 5" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1730">
+                <Precinct name="District 1" votes="274" />
+                <Precinct name="District 2" votes="385" />
+                <Precinct name="District 3" votes="402" />
+                <Precinct name="District 4" votes="386" />
+                <Precinct name="District 5" votes="283" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1684">
+                <Precinct name="District 1" votes="128" />
+                <Precinct name="District 2" votes="298" />
+                <Precinct name="District 3" votes="314" />
+                <Precinct name="District 4" votes="496" />
+                <Precinct name="District 5" votes="448" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="1137">
+            <VoteType name="Absentee by Mail Votes" votes="134">
+                <Precinct name="District 1" votes="66" />
+                <Precinct name="District 2" votes="37" />
+                <Precinct name="District 3" votes="8" />
+                <Precinct name="District 4" votes="14" />
+                <Precinct name="District 5" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="708">
+                <Precinct name="District 1" votes="313" />
+                <Precinct name="District 2" votes="185" />
+                <Precinct name="District 3" votes="68" />
+                <Precinct name="District 4" votes="79" />
+                <Precinct name="District 5" votes="63" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="293">
+                <Precinct name="District 1" votes="112" />
+                <Precinct name="District 2" votes="67" />
+                <Precinct name="District 3" votes="25" />
+                <Precinct name="District 4" votes="47" />
+                <Precinct name="District 5" votes="42" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="Emily Anderson (Lib)" totalVotes="70">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="District 1" votes="2" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="3" />
+                <Precinct name="District 5" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="36">
+                <Precinct name="District 1" votes="8" />
+                <Precinct name="District 2" votes="7" />
+                <Precinct name="District 3" votes="5" />
+                <Precinct name="District 4" votes="11" />
+                <Precinct name="District 5" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="District 1" votes="4" />
+                <Precinct name="District 2" votes="4" />
+                <Precinct name="District 3" votes="3" />
+                <Precinct name="District 4" votes="6" />
+                <Precinct name="District 5" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="District 1" votes="0" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="US House Dist 2" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="48">
+            <Precinct name="District 1" votes="17" />
+            <Precinct name="District 2" votes="15" />
+            <Precinct name="District 3" votes="4" />
+            <Precinct name="District 4" votes="2" />
+            <Precinct name="District 5" votes="10" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Chris West (Rep)" totalVotes="3446">
+            <VoteType name="Absentee by Mail Votes" votes="117">
+                <Precinct name="District 1" votes="20" />
+                <Precinct name="District 2" votes="24" />
+                <Precinct name="District 3" votes="22" />
+                <Precinct name="District 4" votes="32" />
+                <Precinct name="District 5" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1677">
+                <Precinct name="District 1" votes="262" />
+                <Precinct name="District 2" votes="365" />
+                <Precinct name="District 3" votes="393" />
+                <Precinct name="District 4" votes="386" />
+                <Precinct name="District 5" votes="271" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1650">
+                <Precinct name="District 1" votes="121" />
+                <Precinct name="District 2" votes="294" />
+                <Precinct name="District 3" votes="304" />
+                <Precinct name="District 4" votes="488" />
+                <Precinct name="District 5" votes="443" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="Sanford Bishop (I) (Dem)" totalVotes="1351">
+            <VoteType name="Absentee by Mail Votes" votes="156">
+                <Precinct name="District 1" votes="71" />
+                <Precinct name="District 2" votes="44" />
+                <Precinct name="District 3" votes="12" />
+                <Precinct name="District 4" votes="20" />
+                <Precinct name="District 5" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="820">
+                <Precinct name="District 1" votes="347" />
+                <Precinct name="District 2" votes="218" />
+                <Precinct name="District 3" votes="84" />
+                <Precinct name="District 4" votes="93" />
+                <Precinct name="District 5" votes="78" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="372">
+                <Precinct name="District 1" votes="126" />
+                <Precinct name="District 2" votes="79" />
+                <Precinct name="District 3" votes="43" />
+                <Precinct name="District 4" votes="68" />
+                <Precinct name="District 5" votes="56" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State Senate Dist 18" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="77">
+            <Precinct name="District 1" votes="34" />
+            <Precinct name="District 2" votes="22" />
+            <Precinct name="District 3" votes="5" />
+            <Precinct name="District 4" votes="7" />
+            <Precinct name="District 5" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="82" text="John F. Kennedy (I) (Rep)" totalVotes="3636">
+            <VoteType name="Absentee by Mail Votes" votes="133">
+                <Precinct name="District 1" votes="22" />
+                <Precinct name="District 2" votes="28" />
+                <Precinct name="District 3" votes="27" />
+                <Precinct name="District 4" votes="36" />
+                <Precinct name="District 5" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1776">
+                <Precinct name="District 1" votes="288" />
+                <Precinct name="District 2" votes="394" />
+                <Precinct name="District 3" votes="410" />
+                <Precinct name="District 4" votes="397" />
+                <Precinct name="District 5" votes="287" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1725">
+                <Precinct name="District 1" votes="135" />
+                <Precinct name="District 2" votes="305" />
+                <Precinct name="District 3" votes="323" />
+                <Precinct name="District 4" votes="506" />
+                <Precinct name="District 5" votes="456" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="83" text="Chris Benton (Dem)" totalVotes="1133">
+            <VoteType name="Absentee by Mail Votes" votes="137">
+                <Precinct name="District 1" votes="67" />
+                <Precinct name="District 2" votes="38" />
+                <Precinct name="District 3" votes="7" />
+                <Precinct name="District 4" votes="16" />
+                <Precinct name="District 5" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="708">
+                <Precinct name="District 1" votes="310" />
+                <Precinct name="District 2" votes="186" />
+                <Precinct name="District 3" votes="68" />
+                <Precinct name="District 4" votes="80" />
+                <Precinct name="District 5" votes="64" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="285">
+                <Precinct name="District 1" votes="108" />
+                <Precinct name="District 2" votes="66" />
+                <Precinct name="District 3" votes="22" />
+                <Precinct name="District 4" votes="47" />
+                <Precinct name="District 5" votes="42" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="State House Dist 145" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="620">
+            <Precinct name="District 1" votes="250" />
+            <Precinct name="District 2" votes="168" />
+            <Precinct name="District 3" votes="65" />
+            <Precinct name="District 4" votes="76" />
+            <Precinct name="District 5" votes="61" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="84" text="Robert Dickey (I) (Rep)" totalVotes="4218">
+            <VoteType name="Absentee by Mail Votes" votes="178">
+                <Precinct name="District 1" votes="53" />
+                <Precinct name="District 2" votes="37" />
+                <Precinct name="District 3" votes="24" />
+                <Precinct name="District 4" votes="41" />
+                <Precinct name="District 5" votes="23" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2128">
+                <Precinct name="District 1" votes="449" />
+                <Precinct name="District 2" votes="497" />
+                <Precinct name="District 3" votes="433" />
+                <Precinct name="District 4" votes="433" />
+                <Precinct name="District 5" votes="316" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1909">
+                <Precinct name="District 1" votes="212" />
+                <Precinct name="District 2" votes="337" />
+                <Precinct name="District 3" votes="340" />
+                <Precinct name="District 4" votes="538" />
+                <Precinct name="District 5" votes="482" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="County Commissioner Dist 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="197">
+            <Precinct name="District 1" votes="197" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+        </VoteType>
+        <Choice key="85" text="Omar Dewayne Dickey (I) (Dem)" totalVotes="730">
+            <VoteType name="Absentee by Mail Votes" votes="74">
+                <Precinct name="District 1" votes="74" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="466">
+                <Precinct name="District 1" votes="466" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="188">
+                <Precinct name="District 1" votes="188" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="County Commissioner Dist 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="71">
+            <Precinct name="District 5" votes="71" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="86" text="Dale Jump (I) (Rep)" totalVotes="808">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="District 5" votes="22" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="312">
+                <Precinct name="District 5" votes="312" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="474">
+                <Precinct name="District 5" votes="474" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="Constitutional Amendment #1" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="214">
+            <Precinct name="District 1" votes="79" />
+            <Precinct name="District 2" votes="53" />
+            <Precinct name="District 3" votes="20" />
+            <Precinct name="District 4" votes="39" />
+            <Precinct name="District 5" votes="23" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="87" text="Yes" totalVotes="3988">
+            <VoteType name="Absentee by Mail Votes" votes="229">
+                <Precinct name="District 1" votes="67" />
+                <Precinct name="District 2" votes="55" />
+                <Precinct name="District 3" votes="30" />
+                <Precinct name="District 4" votes="51" />
+                <Precinct name="District 5" votes="26" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2067">
+                <Precinct name="District 1" votes="464" />
+                <Precinct name="District 2" votes="489" />
+                <Precinct name="District 3" votes="414" />
+                <Precinct name="District 4" votes="401" />
+                <Precinct name="District 5" votes="299" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1688">
+                <Precinct name="District 1" votes="194" />
+                <Precinct name="District 2" votes="306" />
+                <Precinct name="District 3" votes="288" />
+                <Precinct name="District 4" votes="471" />
+                <Precinct name="District 5" votes="429" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="88" text="No" totalVotes="644">
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="District 1" votes="14" />
+                <Precinct name="District 2" votes="9" />
+                <Precinct name="District 3" votes="4" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="335">
+                <Precinct name="District 1" votes="100" />
+                <Precinct name="District 2" votes="75" />
+                <Precinct name="District 3" votes="57" />
+                <Precinct name="District 4" votes="58" />
+                <Precinct name="District 5" votes="45" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="279">
+                <Precinct name="District 1" votes="46" />
+                <Precinct name="District 2" votes="52" />
+                <Precinct name="District 3" votes="49" />
+                <Precinct name="District 4" votes="69" />
+                <Precinct name="District 5" votes="63" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="Constitutional Amendment #2" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="179">
+            <Precinct name="District 1" votes="70" />
+            <Precinct name="District 2" votes="49" />
+            <Precinct name="District 3" votes="16" />
+            <Precinct name="District 4" votes="28" />
+            <Precinct name="District 5" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="89" text="Yes" totalVotes="4180">
+            <VoteType name="Absentee by Mail Votes" votes="235">
+                <Precinct name="District 1" votes="74" />
+                <Precinct name="District 2" votes="54" />
+                <Precinct name="District 3" votes="32" />
+                <Precinct name="District 4" votes="48" />
+                <Precinct name="District 5" votes="27" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2141">
+                <Precinct name="District 1" votes="486" />
+                <Precinct name="District 2" votes="501" />
+                <Precinct name="District 3" votes="410" />
+                <Precinct name="District 4" votes="432" />
+                <Precinct name="District 5" votes="312" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1800">
+                <Precinct name="District 1" votes="214" />
+                <Precinct name="District 2" votes="315" />
+                <Precinct name="District 3" votes="322" />
+                <Precinct name="District 4" votes="505" />
+                <Precinct name="District 5" votes="444" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="90" text="No" totalVotes="487">
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="District 1" votes="7" />
+                <Precinct name="District 2" votes="10" />
+                <Precinct name="District 3" votes="2" />
+                <Precinct name="District 4" votes="3" />
+                <Precinct name="District 5" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="287">
+                <Precinct name="District 1" votes="87" />
+                <Precinct name="District 2" votes="65" />
+                <Precinct name="District 3" votes="61" />
+                <Precinct name="District 4" votes="38" />
+                <Precinct name="District 5" votes="36" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="175">
+                <Precinct name="District 1" votes="26" />
+                <Precinct name="District 2" votes="45" />
+                <Precinct name="District 3" votes="19" />
+                <Precinct name="District 4" votes="35" />
+                <Precinct name="District 5" votes="50" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="Statewide Referendum A" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="224">
+            <Precinct name="District 1" votes="82" />
+            <Precinct name="District 2" votes="56" />
+            <Precinct name="District 3" votes="20" />
+            <Precinct name="District 4" votes="40" />
+            <Precinct name="District 5" votes="26" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="93" text="Yes" totalVotes="2877">
+            <VoteType name="Absentee by Mail Votes" votes="124">
+                <Precinct name="District 1" votes="32" />
+                <Precinct name="District 2" votes="29" />
+                <Precinct name="District 3" votes="18" />
+                <Precinct name="District 4" votes="29" />
+                <Precinct name="District 5" votes="16" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1395">
+                <Precinct name="District 1" votes="300" />
+                <Precinct name="District 2" votes="327" />
+                <Precinct name="District 3" votes="264" />
+                <Precinct name="District 4" votes="286" />
+                <Precinct name="District 5" votes="218" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1355">
+                <Precinct name="District 1" votes="154" />
+                <Precinct name="District 2" votes="245" />
+                <Precinct name="District 3" votes="255" />
+                <Precinct name="District 4" votes="361" />
+                <Precinct name="District 5" votes="340" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="District 1" votes="0" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="94" text="No" totalVotes="1745">
+            <VoteType name="Absentee by Mail Votes" votes="134">
+                <Precinct name="District 1" votes="51" />
+                <Precinct name="District 2" votes="33" />
+                <Precinct name="District 3" votes="16" />
+                <Precinct name="District 4" votes="21" />
+                <Precinct name="District 5" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1003">
+                <Precinct name="District 1" votes="260" />
+                <Precinct name="District 2" votes="234" />
+                <Precinct name="District 3" votes="205" />
+                <Precinct name="District 4" votes="177" />
+                <Precinct name="District 5" votes="127" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="606">
+                <Precinct name="District 1" votes="85" />
+                <Precinct name="District 2" votes="115" />
+                <Precinct name="District 3" votes="84" />
+                <Precinct name="District 4" votes="175" />
+                <Precinct name="District 5" votes="147" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="2" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="Statewide Referendum B" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="212">
+            <Precinct name="District 1" votes="82" />
+            <Precinct name="District 2" votes="56" />
+            <Precinct name="District 3" votes="19" />
+            <Precinct name="District 4" votes="36" />
+            <Precinct name="District 5" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="91" text="Yes" totalVotes="3554">
+            <VoteType name="Absentee by Mail Votes" votes="158">
+                <Precinct name="District 1" votes="41" />
+                <Precinct name="District 2" votes="33" />
+                <Precinct name="District 3" votes="25" />
+                <Precinct name="District 4" votes="36" />
+                <Precinct name="District 5" votes="23" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1760">
+                <Precinct name="District 1" votes="373" />
+                <Precinct name="District 2" votes="401" />
+                <Precinct name="District 3" votes="357" />
+                <Precinct name="District 4" votes="356" />
+                <Precinct name="District 5" votes="273" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1632">
+                <Precinct name="District 1" votes="184" />
+                <Precinct name="District 2" votes="290" />
+                <Precinct name="District 3" votes="299" />
+                <Precinct name="District 4" votes="456" />
+                <Precinct name="District 5" votes="403" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="1" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="92" text="No" totalVotes="1080">
+            <VoteType name="Absentee by Mail Votes" votes="99">
+                <Precinct name="District 1" votes="42" />
+                <Precinct name="District 2" votes="28" />
+                <Precinct name="District 3" votes="9" />
+                <Precinct name="District 4" votes="14" />
+                <Precinct name="District 5" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="644">
+                <Precinct name="District 1" votes="189" />
+                <Precinct name="District 2" votes="161" />
+                <Precinct name="District 3" votes="113" />
+                <Precinct name="District 4" votes="107" />
+                <Precinct name="District 5" votes="74" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="336">
+                <Precinct name="District 1" votes="53" />
+                <Precinct name="District 2" votes="70" />
+                <Precinct name="District 3" votes="40" />
+                <Precinct name="District 4" votes="84" />
+                <Precinct name="District 5" votes="89" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="Crawford County ESPLOST" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="177">
+            <Precinct name="District 1" votes="58" />
+            <Precinct name="District 2" votes="45" />
+            <Precinct name="District 3" votes="21" />
+            <Precinct name="District 4" votes="34" />
+            <Precinct name="District 5" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="97" text="Yes" totalVotes="3359">
+            <VoteType name="Absentee by Mail Votes" votes="193">
+                <Precinct name="District 1" votes="67" />
+                <Precinct name="District 2" votes="47" />
+                <Precinct name="District 3" votes="21" />
+                <Precinct name="District 4" votes="38" />
+                <Precinct name="District 5" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1753">
+                <Precinct name="District 1" votes="417" />
+                <Precinct name="District 2" votes="415" />
+                <Precinct name="District 3" votes="333" />
+                <Precinct name="District 4" votes="340" />
+                <Precinct name="District 5" votes="248" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1411">
+                <Precinct name="District 1" votes="181" />
+                <Precinct name="District 2" votes="258" />
+                <Precinct name="District 3" votes="231" />
+                <Precinct name="District 4" votes="403" />
+                <Precinct name="District 5" votes="338" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="1" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="98" text="No" totalVotes="1310">
+            <VoteType name="Absentee by Mail Votes" votes="63">
+                <Precinct name="District 1" votes="17" />
+                <Precinct name="District 2" votes="15" />
+                <Precinct name="District 3" votes="12" />
+                <Precinct name="District 4" votes="10" />
+                <Precinct name="District 5" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="678">
+                <Precinct name="District 1" votes="164" />
+                <Precinct name="District 2" votes="156" />
+                <Precinct name="District 3" votes="137" />
+                <Precinct name="District 4" votes="123" />
+                <Precinct name="District 5" votes="98" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="567">
+                <Precinct name="District 1" votes="60" />
+                <Precinct name="District 2" votes="103" />
+                <Precinct name="District 3" votes="107" />
+                <Precinct name="District 4" votes="142" />
+                <Precinct name="District 5" votes="155" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="1" />
+                <Precinct name="District 2" votes="1" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

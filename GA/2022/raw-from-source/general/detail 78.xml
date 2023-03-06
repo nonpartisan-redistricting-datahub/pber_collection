@@ -1,0 +1,740 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/15/2022 9:55:36 AM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Candler</Region>
+    <VoterTurnout totalVoters="6427" ballotsCast="3571" voterTurnout="55.56">
+        <Precincts>
+            <Precinct name="JSCC" totalVoters="0" ballotsCast="3571" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="17">
+            <Precinct name="JSCC" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="2552">
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="JSCC" votes="51" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1764">
+                <Precinct name="JSCC" votes="1764" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="735">
+                <Precinct name="JSCC" votes="735" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="950">
+            <VoteType name="Absentee by Mail Votes" votes="82">
+                <Precinct name="JSCC" votes="82" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="603">
+                <Precinct name="JSCC" votes="603" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="265">
+                <Precinct name="JSCC" votes="265" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Chase Oliver (Lib)" totalVotes="51">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="32">
+                <Precinct name="JSCC" votes="32" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="JSCC" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="8">
+            <Precinct name="JSCC" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="4" text="Brian Kemp (I) (Rep)" totalVotes="2666">
+            <VoteType name="Absentee by Mail Votes" votes="52">
+                <Precinct name="JSCC" votes="52" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1849">
+                <Precinct name="JSCC" votes="1849" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="763">
+                <Precinct name="JSCC" votes="763" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Stacey Abrams (Dem)" totalVotes="885">
+            <VoteType name="Absentee by Mail Votes" votes="81">
+                <Precinct name="JSCC" votes="81" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="551">
+                <Precinct name="JSCC" votes="551" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="253">
+                <Precinct name="JSCC" votes="253" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Shane Hazel (Lib)" totalVotes="11">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="JSCC" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="8">
+                <Precinct name="JSCC" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="45">
+            <Precinct name="JSCC" votes="45" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="8" text="Burt Jones (Rep)" totalVotes="2619">
+            <VoteType name="Absentee by Mail Votes" votes="50">
+                <Precinct name="JSCC" votes="50" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1814">
+                <Precinct name="JSCC" votes="1814" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="753">
+                <Precinct name="JSCC" votes="753" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="9" text="Charlie Bailey (Dem)" totalVotes="868">
+            <VoteType name="Absentee by Mail Votes" votes="82">
+                <Precinct name="JSCC" votes="82" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="542">
+                <Precinct name="JSCC" votes="542" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="244">
+                <Precinct name="JSCC" votes="244" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="10" text="Ryan Graham (Lib)" totalVotes="39">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="20">
+                <Precinct name="JSCC" votes="20" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="JSCC" votes="17" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="59">
+            <Precinct name="JSCC" votes="59" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="11" text="Brad Raffensperger (I) (Rep)" totalVotes="2603">
+            <VoteType name="Absentee by Mail Votes" votes="58">
+                <Precinct name="JSCC" votes="58" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1802">
+                <Precinct name="JSCC" votes="1802" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="741">
+                <Precinct name="JSCC" votes="741" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Bee Nguyen (Dem)" totalVotes="832">
+            <VoteType name="Absentee by Mail Votes" votes="77">
+                <Precinct name="JSCC" votes="77" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="517">
+                <Precinct name="JSCC" votes="517" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="238">
+                <Precinct name="JSCC" votes="238" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="13" text="Ted Metz (Lib)" totalVotes="76">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="44">
+                <Precinct name="JSCC" votes="44" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="32">
+                <Precinct name="JSCC" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="41">
+            <Precinct name="JSCC" votes="41" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="14" text="Chris Carr (I) (Rep)" totalVotes="2602">
+            <VoteType name="Absentee by Mail Votes" votes="55">
+                <Precinct name="JSCC" votes="55" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1796">
+                <Precinct name="JSCC" votes="1796" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="749">
+                <Precinct name="JSCC" votes="749" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="15" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="897">
+            <VoteType name="Absentee by Mail Votes" votes="79">
+                <Precinct name="JSCC" votes="79" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="569">
+                <Precinct name="JSCC" votes="569" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="249">
+                <Precinct name="JSCC" votes="249" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="16" text="Martin Cowen (Lib)" totalVotes="30">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="14">
+                <Precinct name="JSCC" votes="14" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="JSCC" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Commissioner of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="38">
+            <Precinct name="JSCC" votes="38" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="17" text="Tyler Harper (Rep)" totalVotes="2650">
+            <VoteType name="Absentee by Mail Votes" votes="54">
+                <Precinct name="JSCC" votes="54" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1836">
+                <Precinct name="JSCC" votes="1836" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="758">
+                <Precinct name="JSCC" votes="758" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="Nakita Hemingway (Dem)" totalVotes="850">
+            <VoteType name="Absentee by Mail Votes" votes="76">
+                <Precinct name="JSCC" votes="76" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="535">
+                <Precinct name="JSCC" votes="535" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="239">
+                <Precinct name="JSCC" votes="239" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="19" text="David Raudabaugh (Lib)" totalVotes="32">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12">
+                <Precinct name="JSCC" votes="12" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="18">
+                <Precinct name="JSCC" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Commissioner of Insurance" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="50">
+            <Precinct name="JSCC" votes="50" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="21" text="John King (I) (Rep)" totalVotes="2636">
+            <VoteType name="Absentee by Mail Votes" votes="53">
+                <Precinct name="JSCC" votes="53" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1813">
+                <Precinct name="JSCC" votes="1813" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="768">
+                <Precinct name="JSCC" votes="768" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Janice Laws Robinson (Dem)" totalVotes="882">
+            <VoteType name="Absentee by Mail Votes" votes="79">
+                <Precinct name="JSCC" votes="79" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="556">
+                <Precinct name="JSCC" votes="556" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="247">
+                <Precinct name="JSCC" votes="247" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="46">
+            <Precinct name="JSCC" votes="46" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="23" text="Richard Woods (I) (Rep)" totalVotes="2660">
+            <VoteType name="Absentee by Mail Votes" votes="55">
+                <Precinct name="JSCC" votes="55" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1837">
+                <Precinct name="JSCC" votes="1837" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="766">
+                <Precinct name="JSCC" votes="766" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="Alisha Thomas Searcy (Dem)" totalVotes="862">
+            <VoteType name="Absentee by Mail Votes" votes="77">
+                <Precinct name="JSCC" votes="77" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="539">
+                <Precinct name="JSCC" votes="539" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="246">
+                <Precinct name="JSCC" votes="246" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner of Labor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="42">
+            <Precinct name="JSCC" votes="42" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="25" text="Bruce Thompson (Rep)" totalVotes="2615">
+            <VoteType name="Absentee by Mail Votes" votes="53">
+                <Precinct name="JSCC" votes="53" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1811">
+                <Precinct name="JSCC" votes="1811" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="749">
+                <Precinct name="JSCC" votes="749" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="26" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="868">
+            <VoteType name="Absentee by Mail Votes" votes="77">
+                <Precinct name="JSCC" votes="77" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="552">
+                <Precinct name="JSCC" votes="552" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="239">
+                <Precinct name="JSCC" votes="239" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Emily Anderson (Lib)" totalVotes="45">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="JSCC" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="16">
+                <Precinct name="JSCC" votes="16" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="JSCC" votes="28" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="US House of Representatives - District 12" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="27">
+            <Precinct name="JSCC" votes="27" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="33" text="Rick W. Allen (I) (Rep)" totalVotes="2653">
+            <VoteType name="Absentee by Mail Votes" votes="54">
+                <Precinct name="JSCC" votes="54" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1831">
+                <Precinct name="JSCC" votes="1831" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="766">
+                <Precinct name="JSCC" votes="766" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="34" text="Elizabeth 'Liz' Johnson (Dem)" totalVotes="889">
+            <VoteType name="Absentee by Mail Votes" votes="81">
+                <Precinct name="JSCC" votes="81" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="560">
+                <Precinct name="JSCC" votes="560" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="248">
+                <Precinct name="JSCC" votes="248" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="State Senate - District 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="430">
+            <Precinct name="JSCC" votes="430" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="35" text="Billy Hickman (I) (Rep)" totalVotes="3084">
+            <VoteType name="Absentee by Mail Votes" votes="87">
+                <Precinct name="JSCC" votes="87" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2082">
+                <Precinct name="JSCC" votes="2082" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="913">
+                <Precinct name="JSCC" votes="913" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="State House - District 158" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="31">
+            <Precinct name="JSCC" votes="31" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="36" text="Butch Parrish (I) (Rep)" totalVotes="2705">
+            <VoteType name="Absentee by Mail Votes" votes="55">
+                <Precinct name="JSCC" votes="55" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1868">
+                <Precinct name="JSCC" votes="1868" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="780">
+                <Precinct name="JSCC" votes="780" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="37" text="Madeline Ryan Smith (Dem)" totalVotes="833">
+            <VoteType name="Absentee by Mail Votes" votes="80">
+                <Precinct name="JSCC" votes="80" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="519">
+                <Precinct name="JSCC" votes="519" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="234">
+                <Precinct name="JSCC" votes="234" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="County Commissioner - Dist 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="77">
+            <Precinct name="JSCC" votes="77" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="38" text="Brad Jones (I) (Rep)" totalVotes="720">
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="JSCC" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="486">
+                <Precinct name="JSCC" votes="486" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="210">
+                <Precinct name="JSCC" votes="210" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="County Commissioner - Dist 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="89">
+            <Precinct name="JSCC" votes="89" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Blake Hendrix (I) (Rep)" totalVotes="1054">
+            <VoteType name="Absentee by Mail Votes" votes="28">
+                <Precinct name="JSCC" votes="28" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="715">
+                <Precinct name="JSCC" votes="715" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="309">
+                <Precinct name="JSCC" votes="309" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Soil and Water" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="425">
+            <Precinct name="JSCC" votes="425" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="40" text="Morgan Trapnell (I)" totalVotes="3146">
+            <VoteType name="Absentee by Mail Votes" votes="97">
+                <Precinct name="JSCC" votes="97" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2130">
+                <Precinct name="JSCC" votes="2130" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="918">
+                <Precinct name="JSCC" votes="918" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="JSCC" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Proposed Constitutional Amendment 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="157">
+            <Precinct name="JSCC" votes="157" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Yes" totalVotes="2983">
+            <VoteType name="Absentee by Mail Votes" votes="107">
+                <Precinct name="JSCC" votes="107" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2012">
+                <Precinct name="JSCC" votes="2012" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="862">
+                <Precinct name="JSCC" votes="862" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="42" text="No" totalVotes="431">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="JSCC" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="289">
+                <Precinct name="JSCC" votes="289" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="124">
+                <Precinct name="JSCC" votes="124" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="Proposed Constitutional Amendment 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="133">
+            <Precinct name="JSCC" votes="133" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="43" text="Yes" totalVotes="3092">
+            <VoteType name="Absentee by Mail Votes" votes="116">
+                <Precinct name="JSCC" votes="116" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2081">
+                <Precinct name="JSCC" votes="2081" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="893">
+                <Precinct name="JSCC" votes="893" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="No" totalVotes="346">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="JSCC" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="234">
+                <Precinct name="JSCC" votes="234" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="102">
+                <Precinct name="JSCC" votes="102" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="Statewide Referendum Question A" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="186">
+            <Precinct name="JSCC" votes="186" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="47" text="Yes" totalVotes="2217">
+            <VoteType name="Absentee by Mail Votes" votes="65">
+                <Precinct name="JSCC" votes="65" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1485">
+                <Precinct name="JSCC" votes="1485" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="666">
+                <Precinct name="JSCC" votes="666" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="JSCC" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="48" text="No" totalVotes="1168">
+            <VoteType name="Absentee by Mail Votes" votes="53">
+                <Precinct name="JSCC" votes="53" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="802">
+                <Precinct name="JSCC" votes="802" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="312">
+                <Precinct name="JSCC" votes="312" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="JSCC" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="Statewide Referendum Question B" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="178">
+            <Precinct name="JSCC" votes="178" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="JSCC" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Yes" totalVotes="2667">
+            <VoteType name="Absentee by Mail Votes" votes="74">
+                <Precinct name="JSCC" votes="74" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1793">
+                <Precinct name="JSCC" votes="1793" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="798">
+                <Precinct name="JSCC" votes="798" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="JSCC" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="No" totalVotes="726">
+            <VoteType name="Absentee by Mail Votes" votes="44">
+                <Precinct name="JSCC" votes="44" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="506">
+                <Precinct name="JSCC" votes="506" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="176">
+                <Precinct name="JSCC" votes="176" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="JSCC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

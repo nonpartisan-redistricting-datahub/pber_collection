@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 7:13:54 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Murray</Region>
+    <VoterTurnout totalVoters="23188" ballotsCast="10238" voterTurnout="44.15">
+        <Precincts>
+            <Precinct name="McDonald" totalVoters="2659" ballotsCast="1139" voterTurnout="42.84" percentReporting="4" />
+            <Precinct name="Shuck Pen" totalVoters="3064" ballotsCast="1322" voterTurnout="43.15" percentReporting="4" />
+            <Precinct name="Southwest" totalVoters="3311" ballotsCast="1299" voterTurnout="39.23" percentReporting="4" />
+            <Precinct name="Spring Place" totalVoters="3748" ballotsCast="1670" voterTurnout="44.56" percentReporting="4" />
+            <Precinct name="Town" totalVoters="6059" ballotsCast="2800" voterTurnout="46.21" percentReporting="4" />
+            <Precinct name="Carters-Doolittle" totalVoters="2138" ballotsCast="982" voterTurnout="45.93" percentReporting="4" />
+            <Precinct name="North" totalVoters="2209" ballotsCast="1026" voterTurnout="46.45" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="3" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="McDonald" votes="1" />
+            <Precinct name="Shuck Pen" votes="1" />
+            <Precinct name="Southwest" votes="0" />
+            <Precinct name="Spring Place" votes="0" />
+            <Precinct name="Town" votes="2" />
+            <Precinct name="Carters-Doolittle" votes="2" />
+            <Precinct name="North" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="McDonald" votes="0" />
+            <Precinct name="Shuck Pen" votes="0" />
+            <Precinct name="Southwest" votes="0" />
+            <Precinct name="Spring Place" votes="0" />
+            <Precinct name="Town" votes="0" />
+            <Precinct name="Carters-Doolittle" votes="0" />
+            <Precinct name="North" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Herschel Junior Walker (Rep)" totalVotes="8893">
+            <VoteType name="Absentee by Mail Votes" votes="148">
+                <Precinct name="McDonald" votes="11" />
+                <Precinct name="Shuck Pen" votes="10" />
+                <Precinct name="Southwest" votes="3" />
+                <Precinct name="Spring Place" votes="21" />
+                <Precinct name="Town" votes="65" />
+                <Precinct name="Carters-Doolittle" votes="13" />
+                <Precinct name="North" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3501">
+                <Precinct name="McDonald" votes="491" />
+                <Precinct name="Shuck Pen" votes="338" />
+                <Precinct name="Southwest" votes="355" />
+                <Precinct name="Spring Place" votes="566" />
+                <Precinct name="Town" votes="1243" />
+                <Precinct name="Carters-Doolittle" votes="271" />
+                <Precinct name="North" votes="237" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5244">
+                <Precinct name="McDonald" votes="497" />
+                <Precinct name="Shuck Pen" votes="813" />
+                <Precinct name="Southwest" votes="788" />
+                <Precinct name="Spring Place" votes="839" />
+                <Precinct name="Town" votes="1060" />
+                <Precinct name="Carters-Doolittle" votes="598" />
+                <Precinct name="North" votes="649" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="0" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Raphael Warnock (I) (Dem)" totalVotes="1339">
+            <VoteType name="Absentee by Mail Votes" votes="83">
+                <Precinct name="McDonald" votes="7" />
+                <Precinct name="Shuck Pen" votes="8" />
+                <Precinct name="Southwest" votes="9" />
+                <Precinct name="Spring Place" votes="14" />
+                <Precinct name="Town" votes="26" />
+                <Precinct name="Carters-Doolittle" votes="10" />
+                <Precinct name="North" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="615">
+                <Precinct name="McDonald" votes="67" />
+                <Precinct name="Shuck Pen" votes="56" />
+                <Precinct name="Southwest" votes="61" />
+                <Precinct name="Spring Place" votes="112" />
+                <Precinct name="Town" votes="242" />
+                <Precinct name="Carters-Doolittle" votes="35" />
+                <Precinct name="North" votes="42" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="641">
+                <Precinct name="McDonald" votes="65" />
+                <Precinct name="Shuck Pen" votes="96" />
+                <Precinct name="Southwest" votes="83" />
+                <Precinct name="Spring Place" votes="118" />
+                <Precinct name="Town" votes="162" />
+                <Precinct name="Carters-Doolittle" votes="53" />
+                <Precinct name="North" votes="64" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="McDonald" votes="0" />
+                <Precinct name="Shuck Pen" votes="0" />
+                <Precinct name="Southwest" votes="0" />
+                <Precinct name="Spring Place" votes="0" />
+                <Precinct name="Town" votes="0" />
+                <Precinct name="Carters-Doolittle" votes="0" />
+                <Precinct name="North" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 10:36:52 AM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Camden</Region>
+    <VoterTurnout totalVoters="35376" ballotsCast="16446" voterTurnout="46.49">
+        <Precincts>
+            <Precinct name="Tarboro" totalVoters="995" ballotsCast="536" voterTurnout="53.87" percentReporting="4" />
+            <Precinct name="Waverly" totalVoters="1613" ballotsCast="1034" voterTurnout="64.10" percentReporting="4" />
+            <Precinct name="Woodbine" totalVoters="1946" ballotsCast="1004" voterTurnout="51.59" percentReporting="4" />
+            <Precinct name="Browntown" totalVoters="727" ballotsCast="319" voterTurnout="43.88" percentReporting="4" />
+            <Precinct name="Harriets Bluff" totalVoters="1835" ballotsCast="1033" voterTurnout="56.29" percentReporting="4" />
+            <Precinct name="West Kingsland" totalVoters="2804" ballotsCast="1170" voterTurnout="41.73" percentReporting="4" />
+            <Precinct name="North Kingsland" totalVoters="2445" ballotsCast="1000" voterTurnout="40.90" percentReporting="4" />
+            <Precinct name="Kingsland" totalVoters="2200" ballotsCast="811" voterTurnout="36.86" percentReporting="4" />
+            <Precinct name="East Kingsland" totalVoters="7225" ballotsCast="3175" voterTurnout="43.94" percentReporting="4" />
+            <Precinct name="North St. Marys" totalVoters="2020" ballotsCast="534" voterTurnout="26.44" percentReporting="4" />
+            <Precinct name="St. Marys " totalVoters="3300" ballotsCast="1254" voterTurnout="38.00" percentReporting="4" />
+            <Precinct name="South St. Marys" totalVoters="2176" ballotsCast="1196" voterTurnout="54.96" percentReporting="4" />
+            <Precinct name="Mush Bluff" totalVoters="2857" ballotsCast="1292" voterTurnout="45.22" percentReporting="4" />
+            <Precinct name="West St. Marys " totalVoters="3233" ballotsCast="2088" voterTurnout="64.58" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="Undervotes" votes="18">
+            <Precinct name="Tarboro" votes="2" />
+            <Precinct name="Waverly" votes="1" />
+            <Precinct name="Woodbine" votes="1" />
+            <Precinct name="Browntown" votes="0" />
+            <Precinct name="Harriets Bluff" votes="1" />
+            <Precinct name="West Kingsland" votes="0" />
+            <Precinct name="North Kingsland" votes="0" />
+            <Precinct name="Kingsland" votes="0" />
+            <Precinct name="East Kingsland" votes="0" />
+            <Precinct name="North St. Marys" votes="1" />
+            <Precinct name="St. Marys " votes="1" />
+            <Precinct name="South St. Marys" votes="5" />
+            <Precinct name="Mush Bluff" votes="1" />
+            <Precinct name="West St. Marys " votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Tarboro" votes="0" />
+            <Precinct name="Waverly" votes="0" />
+            <Precinct name="Woodbine" votes="0" />
+            <Precinct name="Browntown" votes="0" />
+            <Precinct name="Harriets Bluff" votes="0" />
+            <Precinct name="West Kingsland" votes="0" />
+            <Precinct name="North Kingsland" votes="0" />
+            <Precinct name="Kingsland" votes="0" />
+            <Precinct name="East Kingsland" votes="0" />
+            <Precinct name="North St. Marys" votes="0" />
+            <Precinct name="St. Marys " votes="0" />
+            <Precinct name="South St. Marys" votes="0" />
+            <Precinct name="Mush Bluff" votes="0" />
+            <Precinct name="West St. Marys " votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="10823">
+            <VoteType name="Absentee by Mail Votes" votes="326">
+                <Precinct name="Tarboro" votes="10" />
+                <Precinct name="Waverly" votes="31" />
+                <Precinct name="Woodbine" votes="15" />
+                <Precinct name="Browntown" votes="5" />
+                <Precinct name="Harriets Bluff" votes="19" />
+                <Precinct name="West Kingsland" votes="21" />
+                <Precinct name="North Kingsland" votes="7" />
+                <Precinct name="Kingsland" votes="11" />
+                <Precinct name="East Kingsland" votes="37" />
+                <Precinct name="North St. Marys" votes="14" />
+                <Precinct name="St. Marys " votes="18" />
+                <Precinct name="South St. Marys" votes="38" />
+                <Precinct name="Mush Bluff" votes="18" />
+                <Precinct name="West St. Marys " votes="82" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4997">
+                <Precinct name="Tarboro" votes="79" />
+                <Precinct name="Waverly" votes="226" />
+                <Precinct name="Woodbine" votes="157" />
+                <Precinct name="Browntown" votes="102" />
+                <Precinct name="Harriets Bluff" votes="259" />
+                <Precinct name="West Kingsland" votes="424" />
+                <Precinct name="North Kingsland" votes="224" />
+                <Precinct name="Kingsland" votes="241" />
+                <Precinct name="East Kingsland" votes="1133" />
+                <Precinct name="North St. Marys" votes="118" />
+                <Precinct name="St. Marys " votes="306" />
+                <Precinct name="South St. Marys" votes="416" />
+                <Precinct name="Mush Bluff" votes="389" />
+                <Precinct name="West St. Marys " votes="923" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5500">
+                <Precinct name="Tarboro" votes="310" />
+                <Precinct name="Waverly" votes="490" />
+                <Precinct name="Woodbine" votes="458" />
+                <Precinct name="Browntown" votes="159" />
+                <Precinct name="Harriets Bluff" votes="522" />
+                <Precinct name="West Kingsland" votes="405" />
+                <Precinct name="North Kingsland" votes="235" />
+                <Precinct name="Kingsland" votes="230" />
+                <Precinct name="East Kingsland" votes="833" />
+                <Precinct name="North St. Marys" votes="177" />
+                <Precinct name="St. Marys " votes="392" />
+                <Precinct name="South St. Marys" votes="320" />
+                <Precinct name="Mush Bluff" votes="443" />
+                <Precinct name="West St. Marys " votes="526" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Tarboro" votes="0" />
+                <Precinct name="Waverly" votes="0" />
+                <Precinct name="Woodbine" votes="0" />
+                <Precinct name="Browntown" votes="0" />
+                <Precinct name="Harriets Bluff" votes="0" />
+                <Precinct name="West Kingsland" votes="0" />
+                <Precinct name="North Kingsland" votes="0" />
+                <Precinct name="Kingsland" votes="0" />
+                <Precinct name="East Kingsland" votes="0" />
+                <Precinct name="North St. Marys" votes="0" />
+                <Precinct name="St. Marys " votes="0" />
+                <Precinct name="South St. Marys" votes="0" />
+                <Precinct name="Mush Bluff" votes="0" />
+                <Precinct name="West St. Marys " votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="5605">
+            <VoteType name="Absentee by Mail Votes" votes="610">
+                <Precinct name="Tarboro" votes="27" />
+                <Precinct name="Waverly" votes="46" />
+                <Precinct name="Woodbine" votes="59" />
+                <Precinct name="Browntown" votes="9" />
+                <Precinct name="Harriets Bluff" votes="24" />
+                <Precinct name="West Kingsland" votes="28" />
+                <Precinct name="North Kingsland" votes="65" />
+                <Precinct name="Kingsland" votes="26" />
+                <Precinct name="East Kingsland" votes="98" />
+                <Precinct name="North St. Marys" votes="23" />
+                <Precinct name="St. Marys " votes="42" />
+                <Precinct name="South St. Marys" votes="66" />
+                <Precinct name="Mush Bluff" votes="39" />
+                <Precinct name="West St. Marys " votes="58" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3078">
+                <Precinct name="Tarboro" votes="40" />
+                <Precinct name="Waverly" votes="87" />
+                <Precinct name="Woodbine" votes="141" />
+                <Precinct name="Browntown" votes="30" />
+                <Precinct name="Harriets Bluff" votes="114" />
+                <Precinct name="West Kingsland" votes="191" />
+                <Precinct name="North Kingsland" votes="275" />
+                <Precinct name="Kingsland" votes="194" />
+                <Precinct name="East Kingsland" votes="761" />
+                <Precinct name="North St. Marys" votes="93" />
+                <Precinct name="St. Marys " votes="297" />
+                <Precinct name="South St. Marys" votes="225" />
+                <Precinct name="Mush Bluff" votes="247" />
+                <Precinct name="West St. Marys " votes="383" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1915">
+                <Precinct name="Tarboro" votes="68" />
+                <Precinct name="Waverly" votes="151" />
+                <Precinct name="Woodbine" votes="173" />
+                <Precinct name="Browntown" votes="14" />
+                <Precinct name="Harriets Bluff" votes="94" />
+                <Precinct name="West Kingsland" votes="101" />
+                <Precinct name="North Kingsland" votes="194" />
+                <Precinct name="Kingsland" votes="109" />
+                <Precinct name="East Kingsland" votes="313" />
+                <Precinct name="North St. Marys" votes="108" />
+                <Precinct name="St. Marys " votes="198" />
+                <Precinct name="South St. Marys" votes="126" />
+                <Precinct name="Mush Bluff" votes="155" />
+                <Precinct name="West St. Marys " votes="111" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Tarboro" votes="0" />
+                <Precinct name="Waverly" votes="2" />
+                <Precinct name="Woodbine" votes="0" />
+                <Precinct name="Browntown" votes="0" />
+                <Precinct name="Harriets Bluff" votes="0" />
+                <Precinct name="West Kingsland" votes="0" />
+                <Precinct name="North Kingsland" votes="0" />
+                <Precinct name="Kingsland" votes="0" />
+                <Precinct name="East Kingsland" votes="0" />
+                <Precinct name="North St. Marys" votes="0" />
+                <Precinct name="St. Marys " votes="0" />
+                <Precinct name="South St. Marys" votes="0" />
+                <Precinct name="Mush Bluff" votes="0" />
+                <Precinct name="West St. Marys " votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="44" text="St. Marys City Council P2" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="520">
+            <Precinct name="North St. Marys" votes="42" />
+            <Precinct name="St. Marys " votes="110" />
+            <Precinct name="South St. Marys" votes="75" />
+            <Precinct name="Mush Bluff" votes="79" />
+            <Precinct name="West St. Marys " votes="214" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="North St. Marys" votes="0" />
+            <Precinct name="St. Marys " votes="0" />
+            <Precinct name="South St. Marys" votes="0" />
+            <Precinct name="Mush Bluff" votes="0" />
+            <Precinct name="West St. Marys " votes="0" />
+        </VoteType>
+        <Choice key="55" text="Steven Conner" totalVotes="2762">
+            <VoteType name="Absentee by Mail Votes" votes="184">
+                <Precinct name="North St. Marys" votes="20" />
+                <Precinct name="St. Marys " votes="28" />
+                <Precinct name="South St. Marys" votes="48" />
+                <Precinct name="Mush Bluff" votes="20" />
+                <Precinct name="West St. Marys " votes="68" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1478">
+                <Precinct name="North St. Marys" votes="100" />
+                <Precinct name="St. Marys " votes="270" />
+                <Precinct name="South St. Marys" votes="261" />
+                <Precinct name="Mush Bluff" votes="217" />
+                <Precinct name="West St. Marys " votes="630" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1100">
+                <Precinct name="North St. Marys" votes="147" />
+                <Precinct name="St. Marys " votes="279" />
+                <Precinct name="South St. Marys" votes="191" />
+                <Precinct name="Mush Bluff" votes="216" />
+                <Precinct name="West St. Marys " votes="267" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="North St. Marys" votes="0" />
+                <Precinct name="St. Marys " votes="0" />
+                <Precinct name="South St. Marys" votes="0" />
+                <Precinct name="Mush Bluff" votes="0" />
+                <Precinct name="West St. Marys " votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="56" text="Chad Ingram" totalVotes="2515">
+            <VoteType name="Absentee by Mail Votes" votes="118">
+                <Precinct name="North St. Marys" votes="10" />
+                <Precinct name="St. Marys " votes="26" />
+                <Precinct name="South St. Marys" votes="30" />
+                <Precinct name="Mush Bluff" votes="11" />
+                <Precinct name="West St. Marys " votes="41" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1344">
+                <Precinct name="North St. Marys" votes="68" />
+                <Precinct name="St. Marys " votes="273" />
+                <Precinct name="South St. Marys" votes="267" />
+                <Precinct name="Mush Bluff" votes="188" />
+                <Precinct name="West St. Marys " votes="548" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1053">
+                <Precinct name="North St. Marys" votes="95" />
+                <Precinct name="St. Marys " votes="266" />
+                <Precinct name="South St. Marys" votes="176" />
+                <Precinct name="Mush Bluff" votes="200" />
+                <Precinct name="West St. Marys " votes="316" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="North St. Marys" votes="0" />
+                <Precinct name="St. Marys " votes="0" />
+                <Precinct name="South St. Marys" votes="0" />
+                <Precinct name="Mush Bluff" votes="0" />
+                <Precinct name="West St. Marys " votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

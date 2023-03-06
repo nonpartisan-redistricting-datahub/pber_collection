@@ -1,0 +1,2224 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/9/2022 4:54:15 PM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Talbot</Region>
+    <VoterTurnout totalVoters="4504" ballotsCast="2878" voterTurnout="63.90">
+        <Precincts>
+            <Precinct name="ONeal" totalVoters="493" ballotsCast="328" voterTurnout="66.53" percentReporting="4" />
+            <Precinct name="Valley" totalVoters="716" ballotsCast="481" voterTurnout="67.18" percentReporting="4" />
+            <Precinct name="Junction City" totalVoters="436" ballotsCast="251" voterTurnout="57.57" percentReporting="4" />
+            <Precinct name="Geneva" totalVoters="499" ballotsCast="306" voterTurnout="61.32" percentReporting="4" />
+            <Precinct name="Talbotton" totalVoters="1033" ballotsCast="557" voterTurnout="53.92" percentReporting="4" />
+            <Precinct name="Box Springs" totalVoters="496" ballotsCast="275" voterTurnout="55.44" percentReporting="4" />
+            <Precinct name="Flint Hill" totalVoters="1116" ballotsCast="680" voterTurnout="60.93" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="3" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="24">
+            <Precinct name="ONeal" votes="5" />
+            <Precinct name="Valley" votes="5" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="3" />
+            <Precinct name="Talbotton" votes="2" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Herschel Junior Walker (Rep)" totalVotes="1118">
+            <VoteType name="Absentee by Mail Votes" votes="39">
+                <Precinct name="ONeal" votes="5" />
+                <Precinct name="Valley" votes="9" />
+                <Precinct name="Junction City" votes="3" />
+                <Precinct name="Geneva" votes="9" />
+                <Precinct name="Talbotton" votes="4" />
+                <Precinct name="Box Springs" votes="4" />
+                <Precinct name="Flint Hill" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="445">
+                <Precinct name="ONeal" votes="61" />
+                <Precinct name="Valley" votes="95" />
+                <Precinct name="Junction City" votes="49" />
+                <Precinct name="Geneva" votes="47" />
+                <Precinct name="Talbotton" votes="50" />
+                <Precinct name="Box Springs" votes="25" />
+                <Precinct name="Flint Hill" votes="118" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="634">
+                <Precinct name="ONeal" votes="91" />
+                <Precinct name="Valley" votes="126" />
+                <Precinct name="Junction City" votes="47" />
+                <Precinct name="Geneva" votes="73" />
+                <Precinct name="Talbotton" votes="36" />
+                <Precinct name="Box Springs" votes="134" />
+                <Precinct name="Flint Hill" votes="127" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Raphael Warnock (I) (Dem)" totalVotes="1688">
+            <VoteType name="Absentee by Mail Votes" votes="229">
+                <Precinct name="ONeal" votes="17" />
+                <Precinct name="Valley" votes="20" />
+                <Precinct name="Junction City" votes="29" />
+                <Precinct name="Geneva" votes="24" />
+                <Precinct name="Talbotton" votes="59" />
+                <Precinct name="Box Springs" votes="16" />
+                <Precinct name="Flint Hill" votes="64" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="690">
+                <Precinct name="ONeal" votes="79" />
+                <Precinct name="Valley" votes="102" />
+                <Precinct name="Junction City" votes="44" />
+                <Precinct name="Geneva" votes="61" />
+                <Precinct name="Talbotton" votes="209" />
+                <Precinct name="Box Springs" votes="30" />
+                <Precinct name="Flint Hill" votes="165" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="769">
+                <Precinct name="ONeal" votes="63" />
+                <Precinct name="Valley" votes="113" />
+                <Precinct name="Junction City" votes="77" />
+                <Precinct name="Geneva" votes="83" />
+                <Precinct name="Talbotton" votes="193" />
+                <Precinct name="Box Springs" votes="58" />
+                <Precinct name="Flint Hill" votes="182" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="Chase Oliver (Lib)" totalVotes="43">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="1" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="16">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="5" />
+                <Precinct name="Junction City" votes="1" />
+                <Precinct name="Geneva" votes="3" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="2" />
+                <Precinct name="Flint Hill" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="ONeal" votes="6" />
+                <Precinct name="Valley" votes="5" />
+                <Precinct name="Junction City" votes="1" />
+                <Precinct name="Geneva" votes="2" />
+                <Precinct name="Talbotton" votes="3" />
+                <Precinct name="Box Springs" votes="4" />
+                <Precinct name="Flint Hill" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="14">
+            <Precinct name="ONeal" votes="2" />
+            <Precinct name="Valley" votes="2" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="2" />
+            <Precinct name="Talbotton" votes="3" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="56" text="Brian Kemp (I) (Rep)" totalVotes="1214">
+            <VoteType name="Absentee by Mail Votes" votes="43">
+                <Precinct name="ONeal" votes="5" />
+                <Precinct name="Valley" votes="11" />
+                <Precinct name="Junction City" votes="3" />
+                <Precinct name="Geneva" votes="8" />
+                <Precinct name="Talbotton" votes="3" />
+                <Precinct name="Box Springs" votes="5" />
+                <Precinct name="Flint Hill" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="479">
+                <Precinct name="ONeal" votes="66" />
+                <Precinct name="Valley" votes="99" />
+                <Precinct name="Junction City" votes="52" />
+                <Precinct name="Geneva" votes="50" />
+                <Precinct name="Talbotton" votes="61" />
+                <Precinct name="Box Springs" votes="25" />
+                <Precinct name="Flint Hill" votes="126" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="692">
+                <Precinct name="ONeal" votes="107" />
+                <Precinct name="Valley" votes="142" />
+                <Precinct name="Junction City" votes="51" />
+                <Precinct name="Geneva" votes="74" />
+                <Precinct name="Talbotton" votes="41" />
+                <Precinct name="Box Springs" votes="141" />
+                <Precinct name="Flint Hill" votes="136" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="57" text="Stacey Abrams (Dem)" totalVotes="1628">
+            <VoteType name="Absentee by Mail Votes" votes="224">
+                <Precinct name="ONeal" votes="17" />
+                <Precinct name="Valley" votes="18" />
+                <Precinct name="Junction City" votes="28" />
+                <Precinct name="Geneva" votes="25" />
+                <Precinct name="Talbotton" votes="60" />
+                <Precinct name="Box Springs" votes="15" />
+                <Precinct name="Flint Hill" votes="61" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="665">
+                <Precinct name="ONeal" votes="77" />
+                <Precinct name="Valley" votes="99" />
+                <Precinct name="Junction City" votes="42" />
+                <Precinct name="Geneva" votes="62" />
+                <Precinct name="Talbotton" votes="197" />
+                <Precinct name="Box Springs" votes="30" />
+                <Precinct name="Flint Hill" votes="158" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="739">
+                <Precinct name="ONeal" votes="52" />
+                <Precinct name="Valley" votes="102" />
+                <Precinct name="Junction City" votes="74" />
+                <Precinct name="Geneva" votes="83" />
+                <Precinct name="Talbotton" votes="191" />
+                <Precinct name="Box Springs" votes="57" />
+                <Precinct name="Flint Hill" votes="180" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="Shane Hazel (Lib)" totalVotes="22">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="1" />
+                <Precinct name="Geneva" votes="1" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="6" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="1" />
+                <Precinct name="Box Springs" votes="2" />
+                <Precinct name="Flint Hill" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="ONeal" votes="2" />
+                <Precinct name="Valley" votes="2" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="1" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="119">
+            <Precinct name="ONeal" votes="8" />
+            <Precinct name="Valley" votes="17" />
+            <Precinct name="Junction City" votes="13" />
+            <Precinct name="Geneva" votes="22" />
+            <Precinct name="Talbotton" votes="38" />
+            <Precinct name="Box Springs" votes="2" />
+            <Precinct name="Flint Hill" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="59" text="Burt Jones (Rep)" totalVotes="1178">
+            <VoteType name="Absentee by Mail Votes" votes="43">
+                <Precinct name="ONeal" votes="5" />
+                <Precinct name="Valley" votes="11" />
+                <Precinct name="Junction City" votes="4" />
+                <Precinct name="Geneva" votes="9" />
+                <Precinct name="Talbotton" votes="3" />
+                <Precinct name="Box Springs" votes="4" />
+                <Precinct name="Flint Hill" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="464">
+                <Precinct name="ONeal" votes="63" />
+                <Precinct name="Valley" votes="100" />
+                <Precinct name="Junction City" votes="51" />
+                <Precinct name="Geneva" votes="47" />
+                <Precinct name="Talbotton" votes="53" />
+                <Precinct name="Box Springs" votes="25" />
+                <Precinct name="Flint Hill" votes="125" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="671">
+                <Precinct name="ONeal" votes="100" />
+                <Precinct name="Valley" votes="135" />
+                <Precinct name="Junction City" votes="49" />
+                <Precinct name="Geneva" votes="73" />
+                <Precinct name="Talbotton" votes="39" />
+                <Precinct name="Box Springs" votes="140" />
+                <Precinct name="Flint Hill" votes="135" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="60" text="Charlie Bailey (Dem)" totalVotes="1527">
+            <VoteType name="Absentee by Mail Votes" votes="212">
+                <Precinct name="ONeal" votes="17" />
+                <Precinct name="Valley" votes="18" />
+                <Precinct name="Junction City" votes="26" />
+                <Precinct name="Geneva" votes="22" />
+                <Precinct name="Talbotton" votes="57" />
+                <Precinct name="Box Springs" votes="16" />
+                <Precinct name="Flint Hill" votes="56" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="618">
+                <Precinct name="ONeal" votes="74" />
+                <Precinct name="Valley" votes="90" />
+                <Precinct name="Junction City" votes="39" />
+                <Precinct name="Geneva" votes="52" />
+                <Precinct name="Talbotton" votes="182" />
+                <Precinct name="Box Springs" votes="29" />
+                <Precinct name="Flint Hill" votes="152" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="697">
+                <Precinct name="ONeal" votes="55" />
+                <Precinct name="Valley" votes="98" />
+                <Precinct name="Junction City" votes="65" />
+                <Precinct name="Geneva" votes="73" />
+                <Precinct name="Talbotton" votes="177" />
+                <Precinct name="Box Springs" votes="56" />
+                <Precinct name="Flint Hill" votes="173" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Ryan Graham (Lib)" totalVotes="52">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="2" />
+                <Precinct name="Talbotton" votes="1" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="22">
+                <Precinct name="ONeal" votes="1" />
+                <Precinct name="Valley" votes="6" />
+                <Precinct name="Junction City" votes="1" />
+                <Precinct name="Geneva" votes="4" />
+                <Precinct name="Talbotton" votes="2" />
+                <Precinct name="Box Springs" votes="2" />
+                <Precinct name="Flint Hill" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="ONeal" votes="5" />
+                <Precinct name="Valley" votes="6" />
+                <Precinct name="Junction City" votes="3" />
+                <Precinct name="Geneva" votes="2" />
+                <Precinct name="Talbotton" votes="4" />
+                <Precinct name="Box Springs" votes="1" />
+                <Precinct name="Flint Hill" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="122">
+            <Precinct name="ONeal" votes="7" />
+            <Precinct name="Valley" votes="22" />
+            <Precinct name="Junction City" votes="12" />
+            <Precinct name="Geneva" votes="25" />
+            <Precinct name="Talbotton" votes="33" />
+            <Precinct name="Box Springs" votes="4" />
+            <Precinct name="Flint Hill" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="62" text="Brad Raffensperger (I) (Rep)" totalVotes="1190">
+            <VoteType name="Absentee by Mail Votes" votes="44">
+                <Precinct name="ONeal" votes="5" />
+                <Precinct name="Valley" votes="9" />
+                <Precinct name="Junction City" votes="5" />
+                <Precinct name="Geneva" votes="8" />
+                <Precinct name="Talbotton" votes="4" />
+                <Precinct name="Box Springs" votes="3" />
+                <Precinct name="Flint Hill" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="472">
+                <Precinct name="ONeal" votes="65" />
+                <Precinct name="Valley" votes="90" />
+                <Precinct name="Junction City" votes="51" />
+                <Precinct name="Geneva" votes="49" />
+                <Precinct name="Talbotton" votes="68" />
+                <Precinct name="Box Springs" votes="23" />
+                <Precinct name="Flint Hill" votes="126" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="674">
+                <Precinct name="ONeal" votes="102" />
+                <Precinct name="Valley" votes="140" />
+                <Precinct name="Junction City" votes="47" />
+                <Precinct name="Geneva" votes="74" />
+                <Precinct name="Talbotton" votes="48" />
+                <Precinct name="Box Springs" votes="134" />
+                <Precinct name="Flint Hill" votes="129" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Bee Nguyen (Dem)" totalVotes="1480">
+            <VoteType name="Absentee by Mail Votes" votes="214">
+                <Precinct name="ONeal" votes="17" />
+                <Precinct name="Valley" votes="18" />
+                <Precinct name="Junction City" votes="25" />
+                <Precinct name="Geneva" votes="24" />
+                <Precinct name="Talbotton" votes="56" />
+                <Precinct name="Box Springs" votes="15" />
+                <Precinct name="Flint Hill" votes="59" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="593">
+                <Precinct name="ONeal" votes="72" />
+                <Precinct name="Valley" votes="92" />
+                <Precinct name="Junction City" votes="37" />
+                <Precinct name="Geneva" votes="48" />
+                <Precinct name="Talbotton" votes="171" />
+                <Precinct name="Box Springs" votes="29" />
+                <Precinct name="Flint Hill" votes="144" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="673">
+                <Precinct name="ONeal" votes="51" />
+                <Precinct name="Valley" votes="90" />
+                <Precinct name="Junction City" votes="65" />
+                <Precinct name="Geneva" votes="70" />
+                <Precinct name="Talbotton" votes="170" />
+                <Precinct name="Box Springs" votes="58" />
+                <Precinct name="Flint Hill" votes="169" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="64" text="Ted Metz (Lib)" totalVotes="86">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="2" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="1" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="40">
+                <Precinct name="ONeal" votes="3" />
+                <Precinct name="Valley" votes="14" />
+                <Precinct name="Junction City" votes="4" />
+                <Precinct name="Geneva" votes="3" />
+                <Precinct name="Talbotton" votes="2" />
+                <Precinct name="Box Springs" votes="3" />
+                <Precinct name="Flint Hill" votes="11" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="ONeal" votes="6" />
+                <Precinct name="Valley" votes="4" />
+                <Precinct name="Junction City" votes="5" />
+                <Precinct name="Geneva" votes="4" />
+                <Precinct name="Talbotton" votes="5" />
+                <Precinct name="Box Springs" votes="6" />
+                <Precinct name="Flint Hill" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="84">
+            <Precinct name="ONeal" votes="3" />
+            <Precinct name="Valley" votes="14" />
+            <Precinct name="Junction City" votes="10" />
+            <Precinct name="Geneva" votes="18" />
+            <Precinct name="Talbotton" votes="24" />
+            <Precinct name="Box Springs" votes="1" />
+            <Precinct name="Flint Hill" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Chris Carr (I) (Rep)" totalVotes="1164">
+            <VoteType name="Absentee by Mail Votes" votes="40">
+                <Precinct name="ONeal" votes="5" />
+                <Precinct name="Valley" votes="9" />
+                <Precinct name="Junction City" votes="3" />
+                <Precinct name="Geneva" votes="8" />
+                <Precinct name="Talbotton" votes="3" />
+                <Precinct name="Box Springs" votes="5" />
+                <Precinct name="Flint Hill" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="464">
+                <Precinct name="ONeal" votes="62" />
+                <Precinct name="Valley" votes="98" />
+                <Precinct name="Junction City" votes="50" />
+                <Precinct name="Geneva" votes="50" />
+                <Precinct name="Talbotton" votes="52" />
+                <Precinct name="Box Springs" votes="24" />
+                <Precinct name="Flint Hill" votes="128" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="660">
+                <Precinct name="ONeal" votes="100" />
+                <Precinct name="Valley" votes="135" />
+                <Precinct name="Junction City" votes="48" />
+                <Precinct name="Geneva" votes="73" />
+                <Precinct name="Talbotton" votes="39" />
+                <Precinct name="Box Springs" votes="138" />
+                <Precinct name="Flint Hill" votes="127" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="66" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="1586">
+            <VoteType name="Absentee by Mail Votes" votes="220">
+                <Precinct name="ONeal" votes="16" />
+                <Precinct name="Valley" votes="20" />
+                <Precinct name="Junction City" votes="26" />
+                <Precinct name="Geneva" votes="25" />
+                <Precinct name="Talbotton" votes="58" />
+                <Precinct name="Box Springs" votes="15" />
+                <Precinct name="Flint Hill" votes="60" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="639">
+                <Precinct name="ONeal" votes="79" />
+                <Precinct name="Valley" votes="95" />
+                <Precinct name="Junction City" votes="39" />
+                <Precinct name="Geneva" votes="54" />
+                <Precinct name="Talbotton" votes="193" />
+                <Precinct name="Box Springs" votes="31" />
+                <Precinct name="Flint Hill" votes="148" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="727">
+                <Precinct name="ONeal" votes="58" />
+                <Precinct name="Valley" votes="101" />
+                <Precinct name="Junction City" votes="72" />
+                <Precinct name="Geneva" votes="75" />
+                <Precinct name="Talbotton" votes="183" />
+                <Precinct name="Box Springs" votes="58" />
+                <Precinct name="Flint Hill" votes="180" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="67" text="Martin Cowen (Lib)" totalVotes="43">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="1" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="1" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="19">
+                <Precinct name="ONeal" votes="1" />
+                <Precinct name="Valley" votes="6" />
+                <Precinct name="Junction City" votes="1" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="2" />
+                <Precinct name="Box Springs" votes="2" />
+                <Precinct name="Flint Hill" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="ONeal" votes="4" />
+                <Precinct name="Valley" votes="3" />
+                <Precinct name="Junction City" votes="1" />
+                <Precinct name="Geneva" votes="3" />
+                <Precinct name="Talbotton" votes="2" />
+                <Precinct name="Box Springs" votes="1" />
+                <Precinct name="Flint Hill" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Commissioner Of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="99">
+            <Precinct name="ONeal" votes="1" />
+            <Precinct name="Valley" votes="15" />
+            <Precinct name="Junction City" votes="10" />
+            <Precinct name="Geneva" votes="19" />
+            <Precinct name="Talbotton" votes="30" />
+            <Precinct name="Box Springs" votes="2" />
+            <Precinct name="Flint Hill" votes="22" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="68" text="Tyler Harper (Rep)" totalVotes="1192">
+            <VoteType name="Absentee by Mail Votes" votes="42">
+                <Precinct name="ONeal" votes="5" />
+                <Precinct name="Valley" votes="11" />
+                <Precinct name="Junction City" votes="3" />
+                <Precinct name="Geneva" votes="8" />
+                <Precinct name="Talbotton" votes="3" />
+                <Precinct name="Box Springs" votes="5" />
+                <Precinct name="Flint Hill" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="476">
+                <Precinct name="ONeal" votes="66" />
+                <Precinct name="Valley" votes="101" />
+                <Precinct name="Junction City" votes="51" />
+                <Precinct name="Geneva" votes="51" />
+                <Precinct name="Talbotton" votes="57" />
+                <Precinct name="Box Springs" votes="25" />
+                <Precinct name="Flint Hill" votes="125" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="674">
+                <Precinct name="ONeal" votes="103" />
+                <Precinct name="Valley" votes="139" />
+                <Precinct name="Junction City" votes="49" />
+                <Precinct name="Geneva" votes="73" />
+                <Precinct name="Talbotton" votes="41" />
+                <Precinct name="Box Springs" votes="139" />
+                <Precinct name="Flint Hill" votes="130" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="69" text="Nakita Hemingway (Dem)" totalVotes="1534">
+            <VoteType name="Absentee by Mail Votes" votes="211">
+                <Precinct name="ONeal" votes="17" />
+                <Precinct name="Valley" votes="18" />
+                <Precinct name="Junction City" votes="26" />
+                <Precinct name="Geneva" votes="24" />
+                <Precinct name="Talbotton" votes="55" />
+                <Precinct name="Box Springs" votes="15" />
+                <Precinct name="Flint Hill" votes="56" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="615">
+                <Precinct name="ONeal" votes="76" />
+                <Precinct name="Valley" votes="90" />
+                <Precinct name="Junction City" votes="38" />
+                <Precinct name="Geneva" votes="53" />
+                <Precinct name="Talbotton" votes="183" />
+                <Precinct name="Box Springs" votes="30" />
+                <Precinct name="Flint Hill" votes="145" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="708">
+                <Precinct name="ONeal" votes="58" />
+                <Precinct name="Valley" votes="95" />
+                <Precinct name="Junction City" votes="70" />
+                <Precinct name="Geneva" votes="73" />
+                <Precinct name="Talbotton" votes="178" />
+                <Precinct name="Box Springs" votes="56" />
+                <Precinct name="Flint Hill" votes="178" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="David Raudabaugh (Lib)" totalVotes="53">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="2" />
+                <Precinct name="Geneva" votes="1" />
+                <Precinct name="Talbotton" votes="2" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="24">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="8" />
+                <Precinct name="Junction City" votes="1" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="4" />
+                <Precinct name="Box Springs" votes="2" />
+                <Precinct name="Flint Hill" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="ONeal" votes="2" />
+                <Precinct name="Valley" votes="4" />
+                <Precinct name="Junction City" votes="1" />
+                <Precinct name="Geneva" votes="4" />
+                <Precinct name="Talbotton" votes="4" />
+                <Precinct name="Box Springs" votes="1" />
+                <Precinct name="Flint Hill" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="113">
+            <Precinct name="ONeal" votes="5" />
+            <Precinct name="Valley" votes="15" />
+            <Precinct name="Junction City" votes="11" />
+            <Precinct name="Geneva" votes="25" />
+            <Precinct name="Talbotton" votes="32" />
+            <Precinct name="Box Springs" votes="3" />
+            <Precinct name="Flint Hill" votes="22" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="71" text="John King (I) (Rep)" totalVotes="1195">
+            <VoteType name="Absentee by Mail Votes" votes="45">
+                <Precinct name="ONeal" votes="5" />
+                <Precinct name="Valley" votes="11" />
+                <Precinct name="Junction City" votes="3" />
+                <Precinct name="Geneva" votes="8" />
+                <Precinct name="Talbotton" votes="3" />
+                <Precinct name="Box Springs" votes="5" />
+                <Precinct name="Flint Hill" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="473">
+                <Precinct name="ONeal" votes="63" />
+                <Precinct name="Valley" votes="100" />
+                <Precinct name="Junction City" votes="51" />
+                <Precinct name="Geneva" votes="49" />
+                <Precinct name="Talbotton" votes="54" />
+                <Precinct name="Box Springs" votes="25" />
+                <Precinct name="Flint Hill" votes="131" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="677">
+                <Precinct name="ONeal" votes="103" />
+                <Precinct name="Valley" votes="139" />
+                <Precinct name="Junction City" votes="50" />
+                <Precinct name="Geneva" votes="73" />
+                <Precinct name="Talbotton" votes="40" />
+                <Precinct name="Box Springs" votes="141" />
+                <Precinct name="Flint Hill" votes="131" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="72" text="Janice Laws Robinson (Dem)" totalVotes="1569">
+            <VoteType name="Absentee by Mail Votes" votes="213">
+                <Precinct name="ONeal" votes="16" />
+                <Precinct name="Valley" votes="18" />
+                <Precinct name="Junction City" votes="27" />
+                <Precinct name="Geneva" votes="25" />
+                <Precinct name="Talbotton" votes="57" />
+                <Precinct name="Box Springs" votes="15" />
+                <Precinct name="Flint Hill" votes="55" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="633">
+                <Precinct name="ONeal" votes="78" />
+                <Precinct name="Valley" votes="97" />
+                <Precinct name="Junction City" votes="39" />
+                <Precinct name="Geneva" votes="52" />
+                <Precinct name="Talbotton" votes="188" />
+                <Precinct name="Box Springs" votes="31" />
+                <Precinct name="Flint Hill" votes="148" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="723">
+                <Precinct name="ONeal" votes="58" />
+                <Precinct name="Valley" votes="101" />
+                <Precinct name="Junction City" votes="70" />
+                <Precinct name="Geneva" votes="74" />
+                <Precinct name="Talbotton" votes="183" />
+                <Precinct name="Box Springs" votes="55" />
+                <Precinct name="Flint Hill" votes="182" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="86">
+            <Precinct name="ONeal" votes="2" />
+            <Precinct name="Valley" votes="15" />
+            <Precinct name="Junction City" votes="7" />
+            <Precinct name="Geneva" votes="20" />
+            <Precinct name="Talbotton" votes="23" />
+            <Precinct name="Box Springs" votes="1" />
+            <Precinct name="Flint Hill" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="73" text="Richard Woods (I) (Rep)" totalVotes="1197">
+            <VoteType name="Absentee by Mail Votes" votes="43">
+                <Precinct name="ONeal" votes="5" />
+                <Precinct name="Valley" votes="11" />
+                <Precinct name="Junction City" votes="3" />
+                <Precinct name="Geneva" votes="8" />
+                <Precinct name="Talbotton" votes="4" />
+                <Precinct name="Box Springs" votes="5" />
+                <Precinct name="Flint Hill" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="479">
+                <Precinct name="ONeal" votes="65" />
+                <Precinct name="Valley" votes="99" />
+                <Precinct name="Junction City" votes="49" />
+                <Precinct name="Geneva" votes="50" />
+                <Precinct name="Talbotton" votes="56" />
+                <Precinct name="Box Springs" votes="28" />
+                <Precinct name="Flint Hill" votes="132" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="675">
+                <Precinct name="ONeal" votes="102" />
+                <Precinct name="Valley" votes="136" />
+                <Precinct name="Junction City" votes="49" />
+                <Precinct name="Geneva" votes="75" />
+                <Precinct name="Talbotton" votes="42" />
+                <Precinct name="Box Springs" votes="141" />
+                <Precinct name="Flint Hill" votes="130" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="74" text="Alisha Thomas Searcy (Dem)" totalVotes="1595">
+            <VoteType name="Absentee by Mail Votes" votes="219">
+                <Precinct name="ONeal" votes="17" />
+                <Precinct name="Valley" votes="18" />
+                <Precinct name="Junction City" votes="28" />
+                <Precinct name="Geneva" votes="24" />
+                <Precinct name="Talbotton" votes="58" />
+                <Precinct name="Box Springs" votes="15" />
+                <Precinct name="Flint Hill" votes="59" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="644">
+                <Precinct name="ONeal" votes="78" />
+                <Precinct name="Valley" votes="99" />
+                <Precinct name="Junction City" votes="43" />
+                <Precinct name="Geneva" votes="56" />
+                <Precinct name="Talbotton" votes="190" />
+                <Precinct name="Box Springs" votes="29" />
+                <Precinct name="Flint Hill" votes="149" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="732">
+                <Precinct name="ONeal" votes="59" />
+                <Precinct name="Valley" votes="103" />
+                <Precinct name="Junction City" votes="72" />
+                <Precinct name="Geneva" votes="73" />
+                <Precinct name="Talbotton" votes="184" />
+                <Precinct name="Box Springs" votes="56" />
+                <Precinct name="Flint Hill" votes="185" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="96">
+            <Precinct name="ONeal" votes="4" />
+            <Precinct name="Valley" votes="15" />
+            <Precinct name="Junction City" votes="10" />
+            <Precinct name="Geneva" votes="20" />
+            <Precinct name="Talbotton" votes="29" />
+            <Precinct name="Box Springs" votes="2" />
+            <Precinct name="Flint Hill" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="75" text="Bruce Thompson (Rep)" totalVotes="1172">
+            <VoteType name="Absentee by Mail Votes" votes="43">
+                <Precinct name="ONeal" votes="5" />
+                <Precinct name="Valley" votes="11" />
+                <Precinct name="Junction City" votes="3" />
+                <Precinct name="Geneva" votes="7" />
+                <Precinct name="Talbotton" votes="3" />
+                <Precinct name="Box Springs" votes="4" />
+                <Precinct name="Flint Hill" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="463">
+                <Precinct name="ONeal" votes="64" />
+                <Precinct name="Valley" votes="99" />
+                <Precinct name="Junction City" votes="50" />
+                <Precinct name="Geneva" votes="49" />
+                <Precinct name="Talbotton" votes="53" />
+                <Precinct name="Box Springs" votes="25" />
+                <Precinct name="Flint Hill" votes="123" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="666">
+                <Precinct name="ONeal" votes="101" />
+                <Precinct name="Valley" votes="131" />
+                <Precinct name="Junction City" votes="50" />
+                <Precinct name="Geneva" votes="71" />
+                <Precinct name="Talbotton" votes="41" />
+                <Precinct name="Box Springs" votes="139" />
+                <Precinct name="Flint Hill" votes="133" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="1552">
+            <VoteType name="Absentee by Mail Votes" votes="213">
+                <Precinct name="ONeal" votes="17" />
+                <Precinct name="Valley" votes="18" />
+                <Precinct name="Junction City" votes="25" />
+                <Precinct name="Geneva" votes="23" />
+                <Precinct name="Talbotton" votes="57" />
+                <Precinct name="Box Springs" votes="16" />
+                <Precinct name="Flint Hill" votes="57" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="627">
+                <Precinct name="ONeal" votes="74" />
+                <Precinct name="Valley" votes="94" />
+                <Precinct name="Junction City" votes="40" />
+                <Precinct name="Geneva" votes="53" />
+                <Precinct name="Talbotton" votes="186" />
+                <Precinct name="Box Springs" votes="32" />
+                <Precinct name="Flint Hill" votes="148" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="712">
+                <Precinct name="ONeal" votes="56" />
+                <Precinct name="Valley" votes="99" />
+                <Precinct name="Junction City" votes="70" />
+                <Precinct name="Geneva" votes="74" />
+                <Precinct name="Talbotton" votes="179" />
+                <Precinct name="Box Springs" votes="56" />
+                <Precinct name="Flint Hill" votes="178" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="77" text="Emily Anderson (Lib)" totalVotes="58">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="2" />
+                <Precinct name="Geneva" votes="2" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="28">
+                <Precinct name="ONeal" votes="3" />
+                <Precinct name="Valley" votes="5" />
+                <Precinct name="Junction City" votes="1" />
+                <Precinct name="Geneva" votes="3" />
+                <Precinct name="Talbotton" votes="6" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="10" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="ONeal" votes="4" />
+                <Precinct name="Valley" votes="9" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="4" />
+                <Precinct name="Talbotton" votes="3" />
+                <Precinct name="Box Springs" votes="1" />
+                <Precinct name="Flint Hill" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="US House Dist 2" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="35">
+            <Precinct name="ONeal" votes="2" />
+            <Precinct name="Valley" votes="7" />
+            <Precinct name="Junction City" votes="3" />
+            <Precinct name="Geneva" votes="8" />
+            <Precinct name="Talbotton" votes="7" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="83" text="Chris West (Rep)" totalVotes="1126">
+            <VoteType name="Absentee by Mail Votes" votes="37">
+                <Precinct name="ONeal" votes="5" />
+                <Precinct name="Valley" votes="9" />
+                <Precinct name="Junction City" votes="2" />
+                <Precinct name="Geneva" votes="9" />
+                <Precinct name="Talbotton" votes="3" />
+                <Precinct name="Box Springs" votes="3" />
+                <Precinct name="Flint Hill" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="444">
+                <Precinct name="ONeal" votes="55" />
+                <Precinct name="Valley" votes="94" />
+                <Precinct name="Junction City" votes="47" />
+                <Precinct name="Geneva" votes="51" />
+                <Precinct name="Talbotton" votes="50" />
+                <Precinct name="Box Springs" votes="26" />
+                <Precinct name="Flint Hill" votes="121" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="645">
+                <Precinct name="ONeal" votes="99" />
+                <Precinct name="Valley" votes="128" />
+                <Precinct name="Junction City" votes="45" />
+                <Precinct name="Geneva" votes="68" />
+                <Precinct name="Talbotton" votes="41" />
+                <Precinct name="Box Springs" votes="136" />
+                <Precinct name="Flint Hill" votes="128" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="84" text="Sanford Bishop (I) (Dem)" totalVotes="1714">
+            <VoteType name="Absentee by Mail Votes" votes="231">
+                <Precinct name="ONeal" votes="17" />
+                <Precinct name="Valley" votes="20" />
+                <Precinct name="Junction City" votes="30" />
+                <Precinct name="Geneva" votes="24" />
+                <Precinct name="Talbotton" votes="60" />
+                <Precinct name="Box Springs" votes="17" />
+                <Precinct name="Flint Hill" votes="63" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="702">
+                <Precinct name="ONeal" votes="87" />
+                <Precinct name="Valley" votes="108" />
+                <Precinct name="Junction City" votes="46" />
+                <Precinct name="Geneva" votes="59" />
+                <Precinct name="Talbotton" votes="207" />
+                <Precinct name="Box Springs" votes="31" />
+                <Precinct name="Flint Hill" votes="164" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="781">
+                <Precinct name="ONeal" votes="63" />
+                <Precinct name="Valley" votes="114" />
+                <Precinct name="Junction City" votes="78" />
+                <Precinct name="Geneva" votes="87" />
+                <Precinct name="Talbotton" votes="188" />
+                <Precinct name="Box Springs" votes="62" />
+                <Precinct name="Flint Hill" votes="189" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State Senate Dist 15" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="687">
+            <Precinct name="ONeal" votes="95" />
+            <Precinct name="Valley" votes="125" />
+            <Precinct name="Junction City" votes="57" />
+            <Precinct name="Geneva" votes="85" />
+            <Precinct name="Talbotton" votes="97" />
+            <Precinct name="Box Springs" votes="93" />
+            <Precinct name="Flint Hill" votes="135" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="85" text="Ed Harbison (I) (Dem)" totalVotes="2077">
+            <VoteType name="Absentee by Mail Votes" votes="229">
+                <Precinct name="ONeal" votes="16" />
+                <Precinct name="Valley" votes="26" />
+                <Precinct name="Junction City" votes="28" />
+                <Precinct name="Geneva" votes="30" />
+                <Precinct name="Talbotton" votes="55" />
+                <Precinct name="Box Springs" votes="17" />
+                <Precinct name="Flint Hill" votes="57" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="832">
+                <Precinct name="ONeal" votes="101" />
+                <Precinct name="Valley" votes="138" />
+                <Precinct name="Junction City" votes="63" />
+                <Precinct name="Geneva" votes="76" />
+                <Precinct name="Talbotton" votes="208" />
+                <Precinct name="Box Springs" votes="42" />
+                <Precinct name="Flint Hill" votes="204" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1016">
+                <Precinct name="ONeal" votes="100" />
+                <Precinct name="Valley" votes="164" />
+                <Precinct name="Junction City" votes="96" />
+                <Precinct name="Geneva" votes="107" />
+                <Precinct name="Talbotton" votes="189" />
+                <Precinct name="Box Springs" votes="104" />
+                <Precinct name="Flint Hill" votes="256" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="State House Dist 137" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="84">
+            <Precinct name="ONeal" votes="2" />
+            <Precinct name="Valley" votes="13" />
+            <Precinct name="Junction City" votes="5" />
+            <Precinct name="Geneva" votes="16" />
+            <Precinct name="Talbotton" votes="27" />
+            <Precinct name="Box Springs" votes="1" />
+            <Precinct name="Flint Hill" votes="20" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="86" text="Justin Rickett (Rep)" totalVotes="1022">
+            <VoteType name="Absentee by Mail Votes" votes="33">
+                <Precinct name="ONeal" votes="5" />
+                <Precinct name="Valley" votes="7" />
+                <Precinct name="Junction City" votes="3" />
+                <Precinct name="Geneva" votes="7" />
+                <Precinct name="Talbotton" votes="2" />
+                <Precinct name="Box Springs" votes="3" />
+                <Precinct name="Flint Hill" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="403">
+                <Precinct name="ONeal" votes="56" />
+                <Precinct name="Valley" votes="79" />
+                <Precinct name="Junction City" votes="40" />
+                <Precinct name="Geneva" votes="49" />
+                <Precinct name="Talbotton" votes="50" />
+                <Precinct name="Box Springs" votes="25" />
+                <Precinct name="Flint Hill" votes="104" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="586">
+                <Precinct name="ONeal" votes="89" />
+                <Precinct name="Valley" votes="114" />
+                <Precinct name="Junction City" votes="38" />
+                <Precinct name="Geneva" votes="61" />
+                <Precinct name="Talbotton" votes="37" />
+                <Precinct name="Box Springs" votes="128" />
+                <Precinct name="Flint Hill" votes="119" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="87" text="Debbie G. Buckner (I) (Dem)" totalVotes="1772">
+            <VoteType name="Absentee by Mail Votes" votes="227">
+                <Precinct name="ONeal" votes="17" />
+                <Precinct name="Valley" votes="22" />
+                <Precinct name="Junction City" votes="28" />
+                <Precinct name="Geneva" votes="26" />
+                <Precinct name="Talbotton" votes="59" />
+                <Precinct name="Box Springs" votes="16" />
+                <Precinct name="Flint Hill" votes="59" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="724">
+                <Precinct name="ONeal" votes="87" />
+                <Precinct name="Valley" votes="120" />
+                <Precinct name="Junction City" votes="50" />
+                <Precinct name="Geneva" votes="58" />
+                <Precinct name="Talbotton" votes="197" />
+                <Precinct name="Box Springs" votes="32" />
+                <Precinct name="Flint Hill" votes="180" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="821">
+                <Precinct name="ONeal" votes="72" />
+                <Precinct name="Valley" votes="126" />
+                <Precinct name="Junction City" votes="87" />
+                <Precinct name="Geneva" votes="89" />
+                <Precinct name="Talbotton" votes="185" />
+                <Precinct name="Box Springs" votes="70" />
+                <Precinct name="Flint Hill" votes="192" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="Probate Judge - Special" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="125">
+            <Precinct name="ONeal" votes="15" />
+            <Precinct name="Valley" votes="16" />
+            <Precinct name="Junction City" votes="9" />
+            <Precinct name="Geneva" votes="30" />
+            <Precinct name="Talbotton" votes="14" />
+            <Precinct name="Box Springs" votes="23" />
+            <Precinct name="Flint Hill" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="101" text="Brian &quot;&quot;Kemp&quot;&quot; Kempson (Ind)" totalVotes="781">
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="ONeal" votes="2" />
+                <Precinct name="Valley" votes="7" />
+                <Precinct name="Junction City" votes="1" />
+                <Precinct name="Geneva" votes="3" />
+                <Precinct name="Talbotton" votes="2" />
+                <Precinct name="Box Springs" votes="2" />
+                <Precinct name="Flint Hill" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="287">
+                <Precinct name="ONeal" votes="36" />
+                <Precinct name="Valley" votes="66" />
+                <Precinct name="Junction City" votes="35" />
+                <Precinct name="Geneva" votes="24" />
+                <Precinct name="Talbotton" votes="27" />
+                <Precinct name="Box Springs" votes="18" />
+                <Precinct name="Flint Hill" votes="81" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="469">
+                <Precinct name="ONeal" votes="77" />
+                <Precinct name="Valley" votes="95" />
+                <Precinct name="Junction City" votes="27" />
+                <Precinct name="Geneva" votes="51" />
+                <Precinct name="Talbotton" votes="23" />
+                <Precinct name="Box Springs" votes="97" />
+                <Precinct name="Flint Hill" votes="99" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="102" text="Shatara Powell (I) (Ind)" totalVotes="990">
+            <VoteType name="Absentee by Mail Votes" votes="123">
+                <Precinct name="ONeal" votes="7" />
+                <Precinct name="Valley" votes="13" />
+                <Precinct name="Junction City" votes="20" />
+                <Precinct name="Geneva" votes="15" />
+                <Precinct name="Talbotton" votes="41" />
+                <Precinct name="Box Springs" votes="10" />
+                <Precinct name="Flint Hill" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="427">
+                <Precinct name="ONeal" votes="42" />
+                <Precinct name="Valley" votes="62" />
+                <Precinct name="Junction City" votes="46" />
+                <Precinct name="Geneva" votes="31" />
+                <Precinct name="Talbotton" votes="152" />
+                <Precinct name="Box Springs" votes="15" />
+                <Precinct name="Flint Hill" votes="79" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="440">
+                <Precinct name="ONeal" votes="36" />
+                <Precinct name="Valley" votes="60" />
+                <Precinct name="Junction City" votes="56" />
+                <Precinct name="Geneva" votes="46" />
+                <Precinct name="Talbotton" votes="130" />
+                <Precinct name="Box Springs" votes="35" />
+                <Precinct name="Flint Hill" votes="77" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="103" text="Trenda Hobbs Thomas (Dem)" totalVotes="977">
+            <VoteType name="Absentee by Mail Votes" votes="117">
+                <Precinct name="ONeal" votes="12" />
+                <Precinct name="Valley" votes="9" />
+                <Precinct name="Junction City" votes="11" />
+                <Precinct name="Geneva" votes="13" />
+                <Precinct name="Talbotton" votes="20" />
+                <Precinct name="Box Springs" votes="8" />
+                <Precinct name="Flint Hill" votes="44" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="388">
+                <Precinct name="ONeal" votes="57" />
+                <Precinct name="Valley" votes="69" />
+                <Precinct name="Junction City" votes="8" />
+                <Precinct name="Geneva" votes="44" />
+                <Precinct name="Talbotton" votes="75" />
+                <Precinct name="Box Springs" votes="19" />
+                <Precinct name="Flint Hill" votes="116" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="472">
+                <Precinct name="ONeal" votes="44" />
+                <Precinct name="Valley" votes="83" />
+                <Precinct name="Junction City" votes="38" />
+                <Precinct name="Geneva" votes="49" />
+                <Precinct name="Talbotton" votes="73" />
+                <Precinct name="Box Springs" votes="46" />
+                <Precinct name="Flint Hill" votes="139" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="County Commissioner Dist 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="87">
+            <Precinct name="Talbotton" votes="87" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Talbotton" votes="0" />
+        </VoteType>
+        <Choice key="88" text="Walter Wilson, Jr. (Dem)" totalVotes="434">
+            <VoteType name="Absentee by Mail Votes" votes="44">
+                <Precinct name="Talbotton" votes="44" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="198">
+                <Precinct name="Talbotton" votes="198" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="192">
+                <Precinct name="Talbotton" votes="192" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Talbotton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="County Commissioner Dist 2" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="25">
+            <Precinct name="Valley" votes="19" />
+            <Precinct name="Flint Hill" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="89" text="Ken Chapman (I) (Dem)" totalVotes="353">
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Valley" votes="19" />
+                <Precinct name="Flint Hill" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="151">
+                <Precinct name="Valley" votes="123" />
+                <Precinct name="Flint Hill" votes="28" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="182">
+                <Precinct name="Valley" votes="148" />
+                <Precinct name="Flint Hill" votes="34" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="106" text="Danny W. Barron, Sr. (Ind)" totalVotes="208">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Valley" votes="10" />
+                <Precinct name="Flint Hill" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="89">
+                <Precinct name="Valley" votes="76" />
+                <Precinct name="Flint Hill" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="108">
+                <Precinct name="Valley" votes="84" />
+                <Precinct name="Flint Hill" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="County Commissioner Dist 3" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="186">
+            <Precinct name="ONeal" votes="86" />
+            <Precinct name="Box Springs" votes="100" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+        </VoteType>
+        <Choice key="90" text="Nigel Anthony Couch (Dem)" totalVotes="389">
+            <VoteType name="Absentee by Mail Votes" votes="34">
+                <Precinct name="ONeal" votes="17" />
+                <Precinct name="Box Springs" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="146">
+                <Precinct name="ONeal" votes="106" />
+                <Precinct name="Box Springs" votes="40" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="209">
+                <Precinct name="ONeal" votes="106" />
+                <Precinct name="Box Springs" votes="103" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="County Board of Education Dist 2" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="137">
+            <Precinct name="Valley" votes="114" />
+            <Precinct name="Flint Hill" votes="23" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="91" text="James A. Steverson (I) (Dem)" totalVotes="429">
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Valley" votes="27" />
+                <Precinct name="Flint Hill" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="172">
+                <Precinct name="Valley" votes="145" />
+                <Precinct name="Flint Hill" votes="27" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="228">
+                <Precinct name="Valley" votes="180" />
+                <Precinct name="Flint Hill" votes="48" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="County Board of Education Dist 3" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="191">
+            <Precinct name="ONeal" votes="94" />
+            <Precinct name="Box Springs" votes="97" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+        </VoteType>
+        <Choice key="92" text="Sharleta &quot;&quot;Lisa&quot;&quot; Hall (I) (Dem)" totalVotes="390">
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="ONeal" votes="16" />
+                <Precinct name="Box Springs" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="144">
+                <Precinct name="ONeal" votes="103" />
+                <Precinct name="Box Springs" votes="41" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="215">
+                <Precinct name="ONeal" votes="105" />
+                <Precinct name="Box Springs" votes="110" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="28" text="Pine Mountain Soil and Water" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="610">
+            <Precinct name="ONeal" votes="70" />
+            <Precinct name="Valley" votes="91" />
+            <Precinct name="Junction City" votes="33" />
+            <Precinct name="Geneva" votes="81" />
+            <Precinct name="Talbotton" votes="151" />
+            <Precinct name="Box Springs" votes="76" />
+            <Precinct name="Flint Hill" votes="108" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="125" text="Mike H. Buckner (I)" totalVotes="2268">
+            <VoteType name="Absentee by Mail Votes" votes="214">
+                <Precinct name="ONeal" votes="13" />
+                <Precinct name="Valley" votes="24" />
+                <Precinct name="Junction City" votes="29" />
+                <Precinct name="Geneva" votes="29" />
+                <Precinct name="Talbotton" votes="48" />
+                <Precinct name="Box Springs" votes="14" />
+                <Precinct name="Flint Hill" votes="57" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="909">
+                <Precinct name="ONeal" votes="120" />
+                <Precinct name="Valley" votes="162" />
+                <Precinct name="Junction City" votes="84" />
+                <Precinct name="Geneva" votes="77" />
+                <Precinct name="Talbotton" votes="179" />
+                <Precinct name="Box Springs" votes="41" />
+                <Precinct name="Flint Hill" votes="246" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1145">
+                <Precinct name="ONeal" votes="125" />
+                <Precinct name="Valley" votes="204" />
+                <Precinct name="Junction City" votes="105" />
+                <Precinct name="Geneva" votes="119" />
+                <Precinct name="Talbotton" votes="179" />
+                <Precinct name="Box Springs" votes="144" />
+                <Precinct name="Flint Hill" votes="269" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="Constitutional Amendment #1" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="239">
+            <Precinct name="ONeal" votes="16" />
+            <Precinct name="Valley" votes="28" />
+            <Precinct name="Junction City" votes="32" />
+            <Precinct name="Geneva" votes="35" />
+            <Precinct name="Talbotton" votes="74" />
+            <Precinct name="Box Springs" votes="22" />
+            <Precinct name="Flint Hill" votes="32" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="93" text="Yes" totalVotes="2224">
+            <VoteType name="Absentee by Mail Votes" votes="194">
+                <Precinct name="ONeal" votes="16" />
+                <Precinct name="Valley" votes="23" />
+                <Precinct name="Junction City" votes="21" />
+                <Precinct name="Geneva" votes="23" />
+                <Precinct name="Talbotton" votes="49" />
+                <Precinct name="Box Springs" votes="14" />
+                <Precinct name="Flint Hill" votes="48" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="905">
+                <Precinct name="ONeal" votes="113" />
+                <Precinct name="Valley" votes="166" />
+                <Precinct name="Junction City" votes="79" />
+                <Precinct name="Geneva" votes="85" />
+                <Precinct name="Talbotton" votes="175" />
+                <Precinct name="Box Springs" votes="48" />
+                <Precinct name="Flint Hill" votes="239" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1125">
+                <Precinct name="ONeal" votes="127" />
+                <Precinct name="Valley" votes="203" />
+                <Precinct name="Junction City" votes="90" />
+                <Precinct name="Geneva" votes="119" />
+                <Precinct name="Talbotton" votes="172" />
+                <Precinct name="Box Springs" votes="152" />
+                <Precinct name="Flint Hill" votes="262" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="94" text="No" totalVotes="415">
+            <VoteType name="Absentee by Mail Votes" votes="48">
+                <Precinct name="ONeal" votes="4" />
+                <Precinct name="Valley" votes="4" />
+                <Precinct name="Junction City" votes="5" />
+                <Precinct name="Geneva" votes="7" />
+                <Precinct name="Talbotton" votes="9" />
+                <Precinct name="Box Springs" votes="3" />
+                <Precinct name="Flint Hill" votes="16" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="164">
+                <Precinct name="ONeal" votes="23" />
+                <Precinct name="Valley" votes="26" />
+                <Precinct name="Junction City" votes="9" />
+                <Precinct name="Geneva" votes="17" />
+                <Precinct name="Talbotton" votes="44" />
+                <Precinct name="Box Springs" votes="7" />
+                <Precinct name="Flint Hill" votes="38" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="203">
+                <Precinct name="ONeal" votes="29" />
+                <Precinct name="Valley" votes="31" />
+                <Precinct name="Junction City" votes="15" />
+                <Precinct name="Geneva" votes="20" />
+                <Precinct name="Talbotton" votes="34" />
+                <Precinct name="Box Springs" votes="29" />
+                <Precinct name="Flint Hill" votes="45" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="Constitutional Amendment #2" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="201">
+            <Precinct name="ONeal" votes="10" />
+            <Precinct name="Valley" votes="29" />
+            <Precinct name="Junction City" votes="24" />
+            <Precinct name="Geneva" votes="30" />
+            <Precinct name="Talbotton" votes="62" />
+            <Precinct name="Box Springs" votes="19" />
+            <Precinct name="Flint Hill" votes="27" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Yes" totalVotes="2399">
+            <VoteType name="Absentee by Mail Votes" votes="230">
+                <Precinct name="ONeal" votes="19" />
+                <Precinct name="Valley" votes="26" />
+                <Precinct name="Junction City" votes="24" />
+                <Precinct name="Geneva" votes="26" />
+                <Precinct name="Talbotton" votes="55" />
+                <Precinct name="Box Springs" votes="18" />
+                <Precinct name="Flint Hill" votes="62" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="959">
+                <Precinct name="ONeal" votes="119" />
+                <Precinct name="Valley" votes="166" />
+                <Precinct name="Junction City" votes="77" />
+                <Precinct name="Geneva" votes="92" />
+                <Precinct name="Talbotton" votes="205" />
+                <Precinct name="Box Springs" votes="51" />
+                <Precinct name="Flint Hill" votes="249" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1210">
+                <Precinct name="ONeal" votes="137" />
+                <Precinct name="Valley" votes="209" />
+                <Precinct name="Junction City" votes="100" />
+                <Precinct name="Geneva" votes="124" />
+                <Precinct name="Talbotton" votes="196" />
+                <Precinct name="Box Springs" votes="167" />
+                <Precinct name="Flint Hill" votes="277" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="No" totalVotes="278">
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="ONeal" votes="1" />
+                <Precinct name="Valley" votes="2" />
+                <Precinct name="Junction City" votes="3" />
+                <Precinct name="Geneva" votes="3" />
+                <Precinct name="Talbotton" votes="1" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="129">
+                <Precinct name="ONeal" votes="20" />
+                <Precinct name="Valley" votes="25" />
+                <Precinct name="Junction City" votes="15" />
+                <Precinct name="Geneva" votes="11" />
+                <Precinct name="Talbotton" votes="25" />
+                <Precinct name="Box Springs" votes="3" />
+                <Precinct name="Flint Hill" votes="30" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="134">
+                <Precinct name="ONeal" votes="22" />
+                <Precinct name="Valley" votes="24" />
+                <Precinct name="Junction City" votes="8" />
+                <Precinct name="Geneva" votes="20" />
+                <Precinct name="Talbotton" votes="13" />
+                <Precinct name="Box Springs" votes="17" />
+                <Precinct name="Flint Hill" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="Statewide Referendum A" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="250">
+            <Precinct name="ONeal" votes="16" />
+            <Precinct name="Valley" votes="33" />
+            <Precinct name="Junction City" votes="27" />
+            <Precinct name="Geneva" votes="37" />
+            <Precinct name="Talbotton" votes="73" />
+            <Precinct name="Box Springs" votes="23" />
+            <Precinct name="Flint Hill" votes="41" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="99" text="Yes" totalVotes="1628">
+            <VoteType name="Absentee by Mail Votes" votes="124">
+                <Precinct name="ONeal" votes="11" />
+                <Precinct name="Valley" votes="10" />
+                <Precinct name="Junction City" votes="11" />
+                <Precinct name="Geneva" votes="15" />
+                <Precinct name="Talbotton" votes="33" />
+                <Precinct name="Box Springs" votes="9" />
+                <Precinct name="Flint Hill" votes="35" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="614">
+                <Precinct name="ONeal" votes="73" />
+                <Precinct name="Valley" votes="105" />
+                <Precinct name="Junction City" votes="53" />
+                <Precinct name="Geneva" votes="62" />
+                <Precinct name="Talbotton" votes="139" />
+                <Precinct name="Box Springs" votes="33" />
+                <Precinct name="Flint Hill" votes="149" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="890">
+                <Precinct name="ONeal" votes="82" />
+                <Precinct name="Valley" votes="155" />
+                <Precinct name="Junction City" votes="68" />
+                <Precinct name="Geneva" votes="98" />
+                <Precinct name="Talbotton" votes="161" />
+                <Precinct name="Box Springs" votes="126" />
+                <Precinct name="Flint Hill" votes="200" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="100" text="No" totalVotes="1000">
+            <VoteType name="Absentee by Mail Votes" votes="116">
+                <Precinct name="ONeal" votes="9" />
+                <Precinct name="Valley" votes="14" />
+                <Precinct name="Junction City" votes="16" />
+                <Precinct name="Geneva" votes="15" />
+                <Precinct name="Talbotton" votes="24" />
+                <Precinct name="Box Springs" votes="10" />
+                <Precinct name="Flint Hill" votes="28" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="446">
+                <Precinct name="ONeal" votes="62" />
+                <Precinct name="Valley" votes="87" />
+                <Precinct name="Junction City" votes="38" />
+                <Precinct name="Geneva" votes="34" />
+                <Precinct name="Talbotton" votes="79" />
+                <Precinct name="Box Springs" votes="21" />
+                <Precinct name="Flint Hill" votes="125" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="438">
+                <Precinct name="ONeal" votes="75" />
+                <Precinct name="Valley" votes="77" />
+                <Precinct name="Junction City" votes="38" />
+                <Precinct name="Geneva" votes="45" />
+                <Precinct name="Talbotton" votes="48" />
+                <Precinct name="Box Springs" votes="53" />
+                <Precinct name="Flint Hill" votes="102" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="Statewide Referendum B" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="242">
+            <Precinct name="ONeal" votes="15" />
+            <Precinct name="Valley" votes="32" />
+            <Precinct name="Junction City" votes="25" />
+            <Precinct name="Geneva" votes="33" />
+            <Precinct name="Talbotton" votes="77" />
+            <Precinct name="Box Springs" votes="21" />
+            <Precinct name="Flint Hill" votes="39" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="97" text="Yes" totalVotes="2018">
+            <VoteType name="Absentee by Mail Votes" votes="157">
+                <Precinct name="ONeal" votes="13" />
+                <Precinct name="Valley" votes="15" />
+                <Precinct name="Junction City" votes="14" />
+                <Precinct name="Geneva" votes="20" />
+                <Precinct name="Talbotton" votes="40" />
+                <Precinct name="Box Springs" votes="14" />
+                <Precinct name="Flint Hill" votes="41" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="781">
+                <Precinct name="ONeal" votes="102" />
+                <Precinct name="Valley" votes="127" />
+                <Precinct name="Junction City" votes="70" />
+                <Precinct name="Geneva" votes="80" />
+                <Precinct name="Talbotton" votes="163" />
+                <Precinct name="Box Springs" votes="39" />
+                <Precinct name="Flint Hill" votes="200" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1080">
+                <Precinct name="ONeal" votes="134" />
+                <Precinct name="Valley" votes="186" />
+                <Precinct name="Junction City" votes="83" />
+                <Precinct name="Geneva" votes="105" />
+                <Precinct name="Talbotton" votes="173" />
+                <Precinct name="Box Springs" votes="159" />
+                <Precinct name="Flint Hill" votes="240" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="98" text="No" totalVotes="618">
+            <VoteType name="Absentee by Mail Votes" votes="81">
+                <Precinct name="ONeal" votes="7" />
+                <Precinct name="Valley" votes="8" />
+                <Precinct name="Junction City" votes="14" />
+                <Precinct name="Geneva" votes="9" />
+                <Precinct name="Talbotton" votes="16" />
+                <Precinct name="Box Springs" votes="5" />
+                <Precinct name="Flint Hill" votes="22" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="286">
+                <Precinct name="ONeal" votes="33" />
+                <Precinct name="Valley" votes="65" />
+                <Precinct name="Junction City" votes="22" />
+                <Precinct name="Geneva" votes="21" />
+                <Precinct name="Talbotton" votes="54" />
+                <Precinct name="Box Springs" votes="16" />
+                <Precinct name="Flint Hill" votes="75" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="251">
+                <Precinct name="ONeal" votes="24" />
+                <Precinct name="Valley" votes="48" />
+                <Precinct name="Junction City" votes="23" />
+                <Precinct name="Geneva" votes="38" />
+                <Precinct name="Talbotton" votes="34" />
+                <Precinct name="Box Springs" votes="21" />
+                <Precinct name="Flint Hill" votes="63" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="Talbot County ESPLOST" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="146">
+            <Precinct name="ONeal" votes="10" />
+            <Precinct name="Valley" votes="22" />
+            <Precinct name="Junction City" votes="17" />
+            <Precinct name="Geneva" votes="22" />
+            <Precinct name="Talbotton" votes="32" />
+            <Precinct name="Box Springs" votes="15" />
+            <Precinct name="Flint Hill" votes="28" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="ONeal" votes="0" />
+            <Precinct name="Valley" votes="0" />
+            <Precinct name="Junction City" votes="0" />
+            <Precinct name="Geneva" votes="0" />
+            <Precinct name="Talbotton" votes="0" />
+            <Precinct name="Box Springs" votes="0" />
+            <Precinct name="Flint Hill" votes="0" />
+        </VoteType>
+        <Choice key="104" text="Yes" totalVotes="1779">
+            <VoteType name="Absentee by Mail Votes" votes="186">
+                <Precinct name="ONeal" votes="13" />
+                <Precinct name="Valley" votes="22" />
+                <Precinct name="Junction City" votes="23" />
+                <Precinct name="Geneva" votes="21" />
+                <Precinct name="Talbotton" votes="44" />
+                <Precinct name="Box Springs" votes="15" />
+                <Precinct name="Flint Hill" votes="48" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="714">
+                <Precinct name="ONeal" votes="87" />
+                <Precinct name="Valley" votes="120" />
+                <Precinct name="Junction City" votes="53" />
+                <Precinct name="Geneva" votes="77" />
+                <Precinct name="Talbotton" votes="164" />
+                <Precinct name="Box Springs" votes="37" />
+                <Precinct name="Flint Hill" votes="176" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="879">
+                <Precinct name="ONeal" votes="89" />
+                <Precinct name="Valley" votes="152" />
+                <Precinct name="Junction City" votes="81" />
+                <Precinct name="Geneva" votes="90" />
+                <Precinct name="Talbotton" votes="166" />
+                <Precinct name="Box Springs" votes="89" />
+                <Precinct name="Flint Hill" votes="212" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="105" text="No" totalVotes="953">
+            <VoteType name="Absentee by Mail Votes" votes="56">
+                <Precinct name="ONeal" votes="6" />
+                <Precinct name="Valley" votes="6" />
+                <Precinct name="Junction City" votes="4" />
+                <Precinct name="Geneva" votes="8" />
+                <Precinct name="Talbotton" votes="12" />
+                <Precinct name="Box Springs" votes="4" />
+                <Precinct name="Flint Hill" votes="16" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="396">
+                <Precinct name="ONeal" votes="52" />
+                <Precinct name="Valley" votes="74" />
+                <Precinct name="Junction City" votes="41" />
+                <Precinct name="Geneva" votes="28" />
+                <Precinct name="Talbotton" votes="80" />
+                <Precinct name="Box Springs" votes="20" />
+                <Precinct name="Flint Hill" votes="101" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="501">
+                <Precinct name="ONeal" votes="71" />
+                <Precinct name="Valley" votes="85" />
+                <Precinct name="Junction City" votes="32" />
+                <Precinct name="Geneva" votes="60" />
+                <Precinct name="Talbotton" votes="59" />
+                <Precinct name="Box Springs" votes="95" />
+                <Precinct name="Flint Hill" votes="99" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="ONeal" votes="0" />
+                <Precinct name="Valley" votes="0" />
+                <Precinct name="Junction City" votes="0" />
+                <Precinct name="Geneva" votes="0" />
+                <Precinct name="Talbotton" votes="0" />
+                <Precinct name="Box Springs" votes="0" />
+                <Precinct name="Flint Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

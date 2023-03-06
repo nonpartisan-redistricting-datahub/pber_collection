@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 12:38:24 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Jeff Davis</Region>
+    <VoterTurnout totalVoters="8196" ballotsCast="4217" voterTurnout="51.45">
+        <Precincts>
+            <Precinct name="Hazlehurst" totalVoters="1365" ballotsCast="612" voterTurnout="44.84" percentReporting="4" />
+            <Precinct name="Altamaha 1" totalVoters="674" ballotsCast="371" voterTurnout="55.04" percentReporting="4" />
+            <Precinct name="Altamaha 2" totalVoters="1231" ballotsCast="720" voterTurnout="58.49" percentReporting="4" />
+            <Precinct name="Blackburn 1" totalVoters="746" ballotsCast="301" voterTurnout="40.35" percentReporting="4" />
+            <Precinct name="Blackburn 2" totalVoters="693" ballotsCast="394" voterTurnout="56.85" percentReporting="4" />
+            <Precinct name="Whitehead 1" totalVoters="1053" ballotsCast="476" voterTurnout="45.20" percentReporting="4" />
+            <Precinct name="Whitehead 2" totalVoters="600" ballotsCast="344" voterTurnout="57.33" percentReporting="4" />
+            <Precinct name="Ocmulgee 1" totalVoters="1302" ballotsCast="702" voterTurnout="53.92" percentReporting="4" />
+            <Precinct name="Ocmulgee 2" totalVoters="532" ballotsCast="297" voterTurnout="55.83" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Hazlehurst" votes="1" />
+            <Precinct name="Altamaha 1" votes="0" />
+            <Precinct name="Altamaha 2" votes="1" />
+            <Precinct name="Blackburn 1" votes="1" />
+            <Precinct name="Blackburn 2" votes="0" />
+            <Precinct name="Whitehead 1" votes="1" />
+            <Precinct name="Whitehead 2" votes="0" />
+            <Precinct name="Ocmulgee 1" votes="0" />
+            <Precinct name="Ocmulgee 2" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hazlehurst" votes="0" />
+            <Precinct name="Altamaha 1" votes="0" />
+            <Precinct name="Altamaha 2" votes="0" />
+            <Precinct name="Blackburn 1" votes="0" />
+            <Precinct name="Blackburn 2" votes="0" />
+            <Precinct name="Whitehead 1" votes="0" />
+            <Precinct name="Whitehead 2" votes="0" />
+            <Precinct name="Ocmulgee 1" votes="0" />
+            <Precinct name="Ocmulgee 2" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="3471">
+            <VoteType name="Absentee by Mail Votes" votes="72">
+                <Precinct name="Hazlehurst" votes="7" />
+                <Precinct name="Altamaha 1" votes="7" />
+                <Precinct name="Altamaha 2" votes="13" />
+                <Precinct name="Blackburn 1" votes="6" />
+                <Precinct name="Blackburn 2" votes="7" />
+                <Precinct name="Whitehead 1" votes="9" />
+                <Precinct name="Whitehead 2" votes="4" />
+                <Precinct name="Ocmulgee 1" votes="15" />
+                <Precinct name="Ocmulgee 2" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1484">
+                <Precinct name="Hazlehurst" votes="141" />
+                <Precinct name="Altamaha 1" votes="151" />
+                <Precinct name="Altamaha 2" votes="237" />
+                <Precinct name="Blackburn 1" votes="113" />
+                <Precinct name="Blackburn 2" votes="137" />
+                <Precinct name="Whitehead 1" votes="226" />
+                <Precinct name="Whitehead 2" votes="102" />
+                <Precinct name="Ocmulgee 1" votes="289" />
+                <Precinct name="Ocmulgee 2" votes="88" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1915">
+                <Precinct name="Hazlehurst" votes="133" />
+                <Precinct name="Altamaha 1" votes="180" />
+                <Precinct name="Altamaha 2" votes="442" />
+                <Precinct name="Blackburn 1" votes="109" />
+                <Precinct name="Blackburn 2" votes="234" />
+                <Precinct name="Whitehead 1" votes="154" />
+                <Precinct name="Whitehead 2" votes="218" />
+                <Precinct name="Ocmulgee 1" votes="298" />
+                <Precinct name="Ocmulgee 2" votes="147" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hazlehurst" votes="0" />
+                <Precinct name="Altamaha 1" votes="0" />
+                <Precinct name="Altamaha 2" votes="0" />
+                <Precinct name="Blackburn 1" votes="0" />
+                <Precinct name="Blackburn 2" votes="0" />
+                <Precinct name="Whitehead 1" votes="0" />
+                <Precinct name="Whitehead 2" votes="0" />
+                <Precinct name="Ocmulgee 1" votes="0" />
+                <Precinct name="Ocmulgee 2" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="742">
+            <VoteType name="Absentee by Mail Votes" votes="47">
+                <Precinct name="Hazlehurst" votes="21" />
+                <Precinct name="Altamaha 1" votes="2" />
+                <Precinct name="Altamaha 2" votes="0" />
+                <Precinct name="Blackburn 1" votes="4" />
+                <Precinct name="Blackburn 2" votes="0" />
+                <Precinct name="Whitehead 1" votes="3" />
+                <Precinct name="Whitehead 2" votes="5" />
+                <Precinct name="Ocmulgee 1" votes="9" />
+                <Precinct name="Ocmulgee 2" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="370">
+                <Precinct name="Hazlehurst" votes="175" />
+                <Precinct name="Altamaha 1" votes="20" />
+                <Precinct name="Altamaha 2" votes="8" />
+                <Precinct name="Blackburn 1" votes="27" />
+                <Precinct name="Blackburn 2" votes="5" />
+                <Precinct name="Whitehead 1" votes="41" />
+                <Precinct name="Whitehead 2" votes="9" />
+                <Precinct name="Ocmulgee 1" votes="40" />
+                <Precinct name="Ocmulgee 2" votes="45" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="325">
+                <Precinct name="Hazlehurst" votes="134" />
+                <Precinct name="Altamaha 1" votes="11" />
+                <Precinct name="Altamaha 2" votes="19" />
+                <Precinct name="Blackburn 1" votes="41" />
+                <Precinct name="Blackburn 2" votes="11" />
+                <Precinct name="Whitehead 1" votes="42" />
+                <Precinct name="Whitehead 2" votes="6" />
+                <Precinct name="Ocmulgee 1" votes="51" />
+                <Precinct name="Ocmulgee 2" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hazlehurst" votes="0" />
+                <Precinct name="Altamaha 1" votes="0" />
+                <Precinct name="Altamaha 2" votes="0" />
+                <Precinct name="Blackburn 1" votes="0" />
+                <Precinct name="Blackburn 2" votes="0" />
+                <Precinct name="Whitehead 1" votes="0" />
+                <Precinct name="Whitehead 2" votes="0" />
+                <Precinct name="Ocmulgee 1" votes="0" />
+                <Precinct name="Ocmulgee 2" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="Special - Bd of Education - Dist 5" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="33">
+            <Precinct name="Ocmulgee 1" votes="20" />
+            <Precinct name="Ocmulgee 2" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ocmulgee 1" votes="0" />
+            <Precinct name="Ocmulgee 2" votes="0" />
+        </VoteType>
+        <Choice key="38" text="Gary J. Brown (Rep)" totalVotes="418">
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Ocmulgee 1" votes="15" />
+                <Precinct name="Ocmulgee 2" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="200">
+                <Precinct name="Ocmulgee 1" votes="154" />
+                <Precinct name="Ocmulgee 2" votes="46" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="199">
+                <Precinct name="Ocmulgee 1" votes="136" />
+                <Precinct name="Ocmulgee 2" votes="63" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ocmulgee 1" votes="0" />
+                <Precinct name="Ocmulgee 2" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="51" text="Shannon Jump New (Rep)" totalVotes="547">
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Ocmulgee 1" votes="9" />
+                <Precinct name="Ocmulgee 2" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="242">
+                <Precinct name="Ocmulgee 1" votes="167" />
+                <Precinct name="Ocmulgee 2" votes="75" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="293">
+                <Precinct name="Ocmulgee 1" votes="200" />
+                <Precinct name="Ocmulgee 2" votes="93" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ocmulgee 1" votes="0" />
+                <Precinct name="Ocmulgee 2" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

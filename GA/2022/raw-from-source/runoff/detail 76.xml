@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 9:53:43 AM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Butts</Region>
+    <VoterTurnout totalVoters="17087" ballotsCast="8726" voterTurnout="51.07">
+        <Precincts>
+            <Precinct name="Butts County Recreation Center" totalVoters="4989" ballotsCast="2378" voterTurnout="47.66" percentReporting="4" />
+            <Precinct name="Jenkinsburg City Hall" totalVoters="3316" ballotsCast="1666" voterTurnout="50.24" percentReporting="4" />
+            <Precinct name="Rock Creek Missionary" totalVoters="1998" ballotsCast="947" voterTurnout="47.40" percentReporting="4" />
+            <Precinct name="Stark United Methodist Church" totalVoters="3301" ballotsCast="1822" voterTurnout="55.20" percentReporting="4" />
+            <Precinct name="Towaliga Baptist Church" totalVoters="3468" ballotsCast="1913" voterTurnout="55.16" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Butts County Recreation Center" votes="5" />
+            <Precinct name="Jenkinsburg City Hall" votes="1" />
+            <Precinct name="Rock Creek Missionary" votes="1" />
+            <Precinct name="Stark United Methodist Church" votes="0" />
+            <Precinct name="Towaliga Baptist Church" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Butts County Recreation Center" votes="0" />
+            <Precinct name="Jenkinsburg City Hall" votes="0" />
+            <Precinct name="Rock Creek Missionary" votes="0" />
+            <Precinct name="Stark United Methodist Church" votes="0" />
+            <Precinct name="Towaliga Baptist Church" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="6222">
+            <VoteType name="Absentee by Mail Votes" votes="192">
+                <Precinct name="Butts County Recreation Center" votes="64" />
+                <Precinct name="Jenkinsburg City Hall" votes="28" />
+                <Precinct name="Rock Creek Missionary" votes="17" />
+                <Precinct name="Stark United Methodist Church" votes="44" />
+                <Precinct name="Towaliga Baptist Church" votes="39" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3890">
+                <Precinct name="Butts County Recreation Center" votes="900" />
+                <Precinct name="Jenkinsburg City Hall" votes="762" />
+                <Precinct name="Rock Creek Missionary" votes="342" />
+                <Precinct name="Stark United Methodist Church" votes="974" />
+                <Precinct name="Towaliga Baptist Church" votes="912" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2138">
+                <Precinct name="Butts County Recreation Center" votes="358" />
+                <Precinct name="Jenkinsburg City Hall" votes="427" />
+                <Precinct name="Rock Creek Missionary" votes="185" />
+                <Precinct name="Stark United Methodist Church" votes="631" />
+                <Precinct name="Towaliga Baptist Church" votes="537" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Butts County Recreation Center" votes="2" />
+                <Precinct name="Jenkinsburg City Hall" votes="0" />
+                <Precinct name="Rock Creek Missionary" votes="0" />
+                <Precinct name="Stark United Methodist Church" votes="0" />
+                <Precinct name="Towaliga Baptist Church" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="2497">
+            <VoteType name="Absentee by Mail Votes" votes="176">
+                <Precinct name="Butts County Recreation Center" votes="70" />
+                <Precinct name="Jenkinsburg City Hall" votes="32" />
+                <Precinct name="Rock Creek Missionary" votes="35" />
+                <Precinct name="Stark United Methodist Church" votes="12" />
+                <Precinct name="Towaliga Baptist Church" votes="27" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1714">
+                <Precinct name="Butts County Recreation Center" votes="741" />
+                <Precinct name="Jenkinsburg City Hall" votes="301" />
+                <Precinct name="Rock Creek Missionary" votes="270" />
+                <Precinct name="Stark United Methodist Church" votes="111" />
+                <Precinct name="Towaliga Baptist Church" votes="291" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="607">
+                <Precinct name="Butts County Recreation Center" votes="238" />
+                <Precinct name="Jenkinsburg City Hall" votes="115" />
+                <Precinct name="Rock Creek Missionary" votes="97" />
+                <Precinct name="Stark United Methodist Church" votes="50" />
+                <Precinct name="Towaliga Baptist Church" votes="107" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Butts County Recreation Center" votes="0" />
+                <Precinct name="Jenkinsburg City Hall" votes="0" />
+                <Precinct name="Rock Creek Missionary" votes="0" />
+                <Precinct name="Stark United Methodist Church" votes="0" />
+                <Precinct name="Towaliga Baptist Church" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

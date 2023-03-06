@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 4:54:55 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Toombs</Region>
+    <VoterTurnout totalVoters="16031" ballotsCast="7763" voterTurnout="48.42">
+        <Precincts>
+            <Precinct name="15361 Lyons" totalVoters="3682" ballotsCast="1572" voterTurnout="42.69" percentReporting="4" />
+            <Precinct name="39 Newbranch" totalVoters="1451" ballotsCast="821" voterTurnout="56.58" percentReporting="4" />
+            <Precinct name="43 Cedar Crossing" totalVoters="1472" ballotsCast="754" voterTurnout="51.22" percentReporting="4" />
+            <Precinct name="513 VPD" totalVoters="5643" ballotsCast="2841" voterTurnout="50.35" percentReporting="4" />
+            <Precinct name="514 STIALC" totalVoters="3782" ballotsCast="1775" voterTurnout="46.93" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="15361 Lyons" votes="5" />
+            <Precinct name="39 Newbranch" votes="0" />
+            <Precinct name="43 Cedar Crossing" votes="0" />
+            <Precinct name="513 VPD" votes="3" />
+            <Precinct name="514 STIALC" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="15361 Lyons" votes="0" />
+            <Precinct name="39 Newbranch" votes="0" />
+            <Precinct name="43 Cedar Crossing" votes="0" />
+            <Precinct name="513 VPD" votes="0" />
+            <Precinct name="514 STIALC" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="5780">
+            <VoteType name="Absentee by Mail Votes" votes="238">
+                <Precinct name="15361 Lyons" votes="51" />
+                <Precinct name="39 Newbranch" votes="15" />
+                <Precinct name="43 Cedar Crossing" votes="21" />
+                <Precinct name="513 VPD" votes="93" />
+                <Precinct name="514 STIALC" votes="58" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2778">
+                <Precinct name="15361 Lyons" votes="613" />
+                <Precinct name="39 Newbranch" votes="284" />
+                <Precinct name="43 Cedar Crossing" votes="228" />
+                <Precinct name="513 VPD" votes="1050" />
+                <Precinct name="514 STIALC" votes="603" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2761">
+                <Precinct name="15361 Lyons" votes="513" />
+                <Precinct name="39 Newbranch" votes="437" />
+                <Precinct name="43 Cedar Crossing" votes="467" />
+                <Precinct name="513 VPD" votes="843" />
+                <Precinct name="514 STIALC" votes="501" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="15361 Lyons" votes="0" />
+                <Precinct name="39 Newbranch" votes="2" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="1" />
+                <Precinct name="514 STIALC" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1972">
+            <VoteType name="Absentee by Mail Votes" votes="223">
+                <Precinct name="15361 Lyons" votes="38" />
+                <Precinct name="39 Newbranch" votes="27" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="79" />
+                <Precinct name="514 STIALC" votes="79" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="969">
+                <Precinct name="15361 Lyons" votes="210" />
+                <Precinct name="39 Newbranch" votes="26" />
+                <Precinct name="43 Cedar Crossing" votes="15" />
+                <Precinct name="513 VPD" votes="438" />
+                <Precinct name="514 STIALC" votes="280" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="779">
+                <Precinct name="15361 Lyons" votes="142" />
+                <Precinct name="39 Newbranch" votes="30" />
+                <Precinct name="43 Cedar Crossing" votes="23" />
+                <Precinct name="513 VPD" votes="333" />
+                <Precinct name="514 STIALC" votes="251" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="15361 Lyons" votes="0" />
+                <Precinct name="39 Newbranch" votes="0" />
+                <Precinct name="43 Cedar Crossing" votes="0" />
+                <Precinct name="513 VPD" votes="1" />
+                <Precinct name="514 STIALC" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

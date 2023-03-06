@@ -1,0 +1,1274 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/15/2022 1:58:21 PM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Oglethorpe</Region>
+    <VoterTurnout totalVoters="10628" ballotsCast="6821" voterTurnout="64.18">
+        <Precincts>
+            <Precinct name="Beaverdam" totalVoters="3512" ballotsCast="2221" voterTurnout="63.24" percentReporting="4" />
+            <Precinct name="Crawford" totalVoters="2925" ballotsCast="1835" voterTurnout="62.74" percentReporting="4" />
+            <Precinct name="Lexington" totalVoters="4171" ballotsCast="2765" voterTurnout="66.29" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="35">
+            <Precinct name="Beaverdam" votes="17" />
+            <Precinct name="Crawford" votes="5" />
+            <Precinct name="Lexington" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="4638">
+            <VoteType name="Absentee by Mail Votes" votes="228">
+                <Precinct name="Beaverdam" votes="58" />
+                <Precinct name="Crawford" votes="59" />
+                <Precinct name="Lexington" votes="111" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2718">
+                <Precinct name="Beaverdam" votes="737" />
+                <Precinct name="Crawford" votes="724" />
+                <Precinct name="Lexington" votes="1257" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1692">
+                <Precinct name="Beaverdam" votes="695" />
+                <Precinct name="Crawford" votes="443" />
+                <Precinct name="Lexington" votes="554" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1996">
+            <VoteType name="Absentee by Mail Votes" votes="223">
+                <Precinct name="Beaverdam" votes="53" />
+                <Precinct name="Crawford" votes="76" />
+                <Precinct name="Lexington" votes="94" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1153">
+                <Precinct name="Beaverdam" votes="349" />
+                <Precinct name="Crawford" votes="320" />
+                <Precinct name="Lexington" votes="484" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="619">
+                <Precinct name="Beaverdam" votes="260" />
+                <Precinct name="Crawford" votes="169" />
+                <Precinct name="Lexington" votes="190" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Chase Oliver (Lib)" totalVotes="152">
+            <VoteType name="Absentee by Mail Votes" votes="20">
+                <Precinct name="Beaverdam" votes="6" />
+                <Precinct name="Crawford" votes="2" />
+                <Precinct name="Lexington" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="74">
+                <Precinct name="Beaverdam" votes="27" />
+                <Precinct name="Crawford" votes="20" />
+                <Precinct name="Lexington" votes="27" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="58">
+                <Precinct name="Beaverdam" votes="19" />
+                <Precinct name="Crawford" votes="17" />
+                <Precinct name="Lexington" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Beaverdam" votes="3" />
+            <Precinct name="Crawford" votes="1" />
+            <Precinct name="Lexington" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="4" text="Brian Kemp (I) (Rep)" totalVotes="4998">
+            <VoteType name="Absentee by Mail Votes" votes="262">
+                <Precinct name="Beaverdam" votes="67" />
+                <Precinct name="Crawford" votes="71" />
+                <Precinct name="Lexington" votes="124" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2915">
+                <Precinct name="Beaverdam" votes="811" />
+                <Precinct name="Crawford" votes="771" />
+                <Precinct name="Lexington" votes="1333" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1821">
+                <Precinct name="Beaverdam" votes="754" />
+                <Precinct name="Crawford" votes="478" />
+                <Precinct name="Lexington" votes="589" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Stacey Abrams (Dem)" totalVotes="1766">
+            <VoteType name="Absentee by Mail Votes" votes="209">
+                <Precinct name="Beaverdam" votes="50" />
+                <Precinct name="Crawford" votes="66" />
+                <Precinct name="Lexington" votes="93" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1025">
+                <Precinct name="Beaverdam" votes="303" />
+                <Precinct name="Crawford" votes="292" />
+                <Precinct name="Lexington" votes="430" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="531">
+                <Precinct name="Beaverdam" votes="219" />
+                <Precinct name="Crawford" votes="144" />
+                <Precinct name="Lexington" votes="168" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Shane Hazel (Lib)" totalVotes="47">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="18">
+                <Precinct name="Beaverdam" votes="7" />
+                <Precinct name="Crawford" votes="4" />
+                <Precinct name="Lexington" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Beaverdam" votes="7" />
+                <Precinct name="Crawford" votes="8" />
+                <Precinct name="Lexington" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="97">
+            <Precinct name="Beaverdam" votes="25" />
+            <Precinct name="Crawford" votes="20" />
+            <Precinct name="Lexington" votes="52" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Burt Jones (Rep)" totalVotes="4726">
+            <VoteType name="Absentee by Mail Votes" votes="247">
+                <Precinct name="Beaverdam" votes="63" />
+                <Precinct name="Crawford" votes="63" />
+                <Precinct name="Lexington" votes="121" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2757">
+                <Precinct name="Beaverdam" votes="763" />
+                <Precinct name="Crawford" votes="735" />
+                <Precinct name="Lexington" votes="1259" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1721">
+                <Precinct name="Beaverdam" votes="706" />
+                <Precinct name="Crawford" votes="456" />
+                <Precinct name="Lexington" votes="559" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Charlie Bailey (Dem)" totalVotes="1837">
+            <VoteType name="Absentee by Mail Votes" votes="214">
+                <Precinct name="Beaverdam" votes="53" />
+                <Precinct name="Crawford" votes="73" />
+                <Precinct name="Lexington" votes="88" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1074">
+                <Precinct name="Beaverdam" votes="322" />
+                <Precinct name="Crawford" votes="301" />
+                <Precinct name="Lexington" votes="451" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="549">
+                <Precinct name="Beaverdam" votes="239" />
+                <Precinct name="Crawford" votes="146" />
+                <Precinct name="Lexington" votes="164" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="9" text="Ryan Graham (Lib)" totalVotes="161">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Beaverdam" votes="2" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="78">
+                <Precinct name="Beaverdam" votes="24" />
+                <Precinct name="Crawford" votes="22" />
+                <Precinct name="Lexington" votes="32" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="76">
+                <Precinct name="Beaverdam" votes="24" />
+                <Precinct name="Crawford" votes="19" />
+                <Precinct name="Lexington" votes="33" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="105">
+            <Precinct name="Beaverdam" votes="24" />
+            <Precinct name="Crawford" votes="23" />
+            <Precinct name="Lexington" votes="58" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="10" text="Brad Raffensperger (I) (Rep)" totalVotes="4737">
+            <VoteType name="Absentee by Mail Votes" votes="252">
+                <Precinct name="Beaverdam" votes="63" />
+                <Precinct name="Crawford" votes="70" />
+                <Precinct name="Lexington" votes="119" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2762">
+                <Precinct name="Beaverdam" votes="775" />
+                <Precinct name="Crawford" votes="732" />
+                <Precinct name="Lexington" votes="1255" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1723">
+                <Precinct name="Beaverdam" votes="712" />
+                <Precinct name="Crawford" votes="459" />
+                <Precinct name="Lexington" votes="552" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="Bee Nguyen (Dem)" totalVotes="1708">
+            <VoteType name="Absentee by Mail Votes" votes="200">
+                <Precinct name="Beaverdam" votes="50" />
+                <Precinct name="Crawford" votes="61" />
+                <Precinct name="Lexington" votes="89" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="992">
+                <Precinct name="Beaverdam" votes="298" />
+                <Precinct name="Crawford" votes="278" />
+                <Precinct name="Lexington" votes="416" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="515">
+                <Precinct name="Beaverdam" votes="218" />
+                <Precinct name="Crawford" votes="140" />
+                <Precinct name="Lexington" votes="157" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Ted Metz (Lib)" totalVotes="269">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Beaverdam" votes="3" />
+                <Precinct name="Crawford" votes="5" />
+                <Precinct name="Lexington" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="147">
+                <Precinct name="Beaverdam" votes="38" />
+                <Precinct name="Crawford" votes="44" />
+                <Precinct name="Lexington" votes="65" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="108">
+                <Precinct name="Beaverdam" votes="40" />
+                <Precinct name="Crawford" votes="21" />
+                <Precinct name="Lexington" votes="47" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="78">
+            <Precinct name="Beaverdam" votes="26" />
+            <Precinct name="Crawford" votes="15" />
+            <Precinct name="Lexington" votes="37" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="13" text="Chris Carr (I) (Rep)" totalVotes="4794">
+            <VoteType name="Absentee by Mail Votes" votes="254">
+                <Precinct name="Beaverdam" votes="66" />
+                <Precinct name="Crawford" votes="67" />
+                <Precinct name="Lexington" votes="121" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2800">
+                <Precinct name="Beaverdam" votes="777" />
+                <Precinct name="Crawford" votes="739" />
+                <Precinct name="Lexington" votes="1284" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1740">
+                <Precinct name="Beaverdam" votes="712" />
+                <Precinct name="Crawford" votes="462" />
+                <Precinct name="Lexington" votes="566" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="14" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="1835">
+            <VoteType name="Absentee by Mail Votes" votes="210">
+                <Precinct name="Beaverdam" votes="50" />
+                <Precinct name="Crawford" votes="68" />
+                <Precinct name="Lexington" votes="92" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1071">
+                <Precinct name="Beaverdam" votes="322" />
+                <Precinct name="Crawford" votes="306" />
+                <Precinct name="Lexington" votes="443" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="553">
+                <Precinct name="Beaverdam" votes="231" />
+                <Precinct name="Crawford" votes="152" />
+                <Precinct name="Lexington" votes="170" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="15" text="Martin Cowen (Lib)" totalVotes="114">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Beaverdam" votes="1" />
+                <Precinct name="Crawford" votes="1" />
+                <Precinct name="Lexington" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="48">
+                <Precinct name="Beaverdam" votes="10" />
+                <Precinct name="Crawford" votes="16" />
+                <Precinct name="Lexington" votes="22" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="61">
+                <Precinct name="Beaverdam" votes="26" />
+                <Precinct name="Crawford" votes="9" />
+                <Precinct name="Lexington" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Commissioner of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="89">
+            <Precinct name="Beaverdam" votes="25" />
+            <Precinct name="Crawford" votes="21" />
+            <Precinct name="Lexington" votes="43" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="16" text="Tyler Harper (Rep)" totalVotes="4825">
+            <VoteType name="Absentee by Mail Votes" votes="262">
+                <Precinct name="Beaverdam" votes="67" />
+                <Precinct name="Crawford" votes="69" />
+                <Precinct name="Lexington" votes="126" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2813">
+                <Precinct name="Beaverdam" votes="785" />
+                <Precinct name="Crawford" votes="746" />
+                <Precinct name="Lexington" votes="1282" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1750">
+                <Precinct name="Beaverdam" votes="718" />
+                <Precinct name="Crawford" votes="463" />
+                <Precinct name="Lexington" votes="569" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Nakita Hemingway (Dem)" totalVotes="1739">
+            <VoteType name="Absentee by Mail Votes" votes="200">
+                <Precinct name="Beaverdam" votes="49" />
+                <Precinct name="Crawford" votes="66" />
+                <Precinct name="Lexington" votes="85" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1015">
+                <Precinct name="Beaverdam" votes="306" />
+                <Precinct name="Crawford" votes="285" />
+                <Precinct name="Lexington" votes="424" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="524">
+                <Precinct name="Beaverdam" votes="218" />
+                <Precinct name="Crawford" votes="143" />
+                <Precinct name="Lexington" votes="163" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="David Raudabaugh (Lib)" totalVotes="168">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Beaverdam" votes="2" />
+                <Precinct name="Crawford" votes="2" />
+                <Precinct name="Lexington" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="84">
+                <Precinct name="Beaverdam" votes="18" />
+                <Precinct name="Crawford" votes="26" />
+                <Precinct name="Lexington" votes="40" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="77">
+                <Precinct name="Beaverdam" votes="33" />
+                <Precinct name="Crawford" votes="14" />
+                <Precinct name="Lexington" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Commissioner of Insurance" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="122">
+            <Precinct name="Beaverdam" votes="41" />
+            <Precinct name="Crawford" votes="26" />
+            <Precinct name="Lexington" votes="55" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="19" text="John King (I) (Rep)" totalVotes="4925">
+            <VoteType name="Absentee by Mail Votes" votes="259">
+                <Precinct name="Beaverdam" votes="65" />
+                <Precinct name="Crawford" votes="68" />
+                <Precinct name="Lexington" votes="126" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2866">
+                <Precinct name="Beaverdam" votes="793" />
+                <Precinct name="Crawford" votes="762" />
+                <Precinct name="Lexington" votes="1311" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1800">
+                <Precinct name="Beaverdam" votes="739" />
+                <Precinct name="Crawford" votes="476" />
+                <Precinct name="Lexington" votes="585" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Janice Laws Robinson (Dem)" totalVotes="1774">
+            <VoteType name="Absentee by Mail Votes" votes="208">
+                <Precinct name="Beaverdam" votes="52" />
+                <Precinct name="Crawford" votes="69" />
+                <Precinct name="Lexington" votes="87" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1030">
+                <Precinct name="Beaverdam" votes="310" />
+                <Precinct name="Crawford" votes="291" />
+                <Precinct name="Lexington" votes="429" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="535">
+                <Precinct name="Beaverdam" votes="221" />
+                <Precinct name="Crawford" votes="143" />
+                <Precinct name="Lexington" votes="171" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="97">
+            <Precinct name="Beaverdam" votes="30" />
+            <Precinct name="Crawford" votes="23" />
+            <Precinct name="Lexington" votes="44" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="21" text="Richard Woods (I) (Rep)" totalVotes="4954">
+            <VoteType name="Absentee by Mail Votes" votes="265">
+                <Precinct name="Beaverdam" votes="68" />
+                <Precinct name="Crawford" votes="71" />
+                <Precinct name="Lexington" votes="126" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2885">
+                <Precinct name="Beaverdam" votes="797" />
+                <Precinct name="Crawford" votes="770" />
+                <Precinct name="Lexington" votes="1318" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1804">
+                <Precinct name="Beaverdam" votes="741" />
+                <Precinct name="Crawford" votes="474" />
+                <Precinct name="Lexington" votes="589" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Alisha Thomas Searcy (Dem)" totalVotes="1770">
+            <VoteType name="Absentee by Mail Votes" votes="203">
+                <Precinct name="Beaverdam" votes="49" />
+                <Precinct name="Crawford" votes="64" />
+                <Precinct name="Lexington" votes="90" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1021">
+                <Precinct name="Beaverdam" votes="311" />
+                <Precinct name="Crawford" votes="283" />
+                <Precinct name="Lexington" votes="427" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="545">
+                <Precinct name="Beaverdam" votes="225" />
+                <Precinct name="Crawford" votes="150" />
+                <Precinct name="Lexington" votes="170" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner of Labor" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="114">
+            <Precinct name="Beaverdam" votes="41" />
+            <Precinct name="Crawford" votes="24" />
+            <Precinct name="Lexington" votes="49" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="23" text="Bruce Thompson (Rep)" totalVotes="4784">
+            <VoteType name="Absentee by Mail Votes" votes="254">
+                <Precinct name="Beaverdam" votes="64" />
+                <Precinct name="Crawford" votes="66" />
+                <Precinct name="Lexington" votes="124" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2809">
+                <Precinct name="Beaverdam" votes="774" />
+                <Precinct name="Crawford" votes="743" />
+                <Precinct name="Lexington" votes="1292" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1721">
+                <Precinct name="Beaverdam" votes="713" />
+                <Precinct name="Crawford" votes="452" />
+                <Precinct name="Lexington" votes="556" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="1753">
+            <VoteType name="Absentee by Mail Votes" votes="209">
+                <Precinct name="Beaverdam" votes="52" />
+                <Precinct name="Crawford" votes="71" />
+                <Precinct name="Lexington" votes="86" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1007">
+                <Precinct name="Beaverdam" votes="300" />
+                <Precinct name="Crawford" votes="286" />
+                <Precinct name="Lexington" votes="421" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="536">
+                <Precinct name="Beaverdam" votes="221" />
+                <Precinct name="Crawford" votes="147" />
+                <Precinct name="Lexington" votes="168" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Emily Anderson (Lib)" totalVotes="170">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Beaverdam" votes="1" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="86">
+                <Precinct name="Beaverdam" votes="28" />
+                <Precinct name="Crawford" votes="27" />
+                <Precinct name="Lexington" votes="31" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="79">
+                <Precinct name="Beaverdam" votes="27" />
+                <Precinct name="Crawford" votes="19" />
+                <Precinct name="Lexington" votes="33" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="US House of Representatives - District 10" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="94">
+            <Precinct name="Beaverdam" votes="30" />
+            <Precinct name="Crawford" votes="20" />
+            <Precinct name="Lexington" votes="44" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="26" text="Mike Collins (Rep)" totalVotes="4896">
+            <VoteType name="Absentee by Mail Votes" votes="254">
+                <Precinct name="Beaverdam" votes="66" />
+                <Precinct name="Crawford" votes="66" />
+                <Precinct name="Lexington" votes="122" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2855">
+                <Precinct name="Beaverdam" votes="788" />
+                <Precinct name="Crawford" votes="762" />
+                <Precinct name="Lexington" votes="1305" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1787">
+                <Precinct name="Beaverdam" votes="730" />
+                <Precinct name="Crawford" votes="475" />
+                <Precinct name="Lexington" votes="582" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Tabitha Johnson-Green (Dem)" totalVotes="1831">
+            <VoteType name="Absentee by Mail Votes" votes="212">
+                <Precinct name="Beaverdam" votes="50" />
+                <Precinct name="Crawford" votes="71" />
+                <Precinct name="Lexington" votes="91" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1060">
+                <Precinct name="Beaverdam" votes="321" />
+                <Precinct name="Crawford" votes="295" />
+                <Precinct name="Lexington" votes="444" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="558">
+                <Precinct name="Beaverdam" votes="236" />
+                <Precinct name="Crawford" votes="146" />
+                <Precinct name="Lexington" votes="176" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="State Senate - District 24" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="1265">
+            <Precinct name="Beaverdam" votes="408" />
+            <Precinct name="Crawford" votes="340" />
+            <Precinct name="Lexington" votes="517" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="28" text="Lee Anderson (I) (Rep)" totalVotes="5554">
+            <VoteType name="Absentee by Mail Votes" votes="296">
+                <Precinct name="Beaverdam" votes="81" />
+                <Precinct name="Crawford" votes="85" />
+                <Precinct name="Lexington" votes="130" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3235">
+                <Precinct name="Beaverdam" votes="899" />
+                <Precinct name="Crawford" votes="870" />
+                <Precinct name="Lexington" votes="1466" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2022">
+                <Precinct name="Beaverdam" votes="832" />
+                <Precinct name="Crawford" votes="539" />
+                <Precinct name="Lexington" votes="651" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="State House of Representatives - District 124" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="118">
+            <Precinct name="Beaverdam" votes="33" />
+            <Precinct name="Crawford" votes="28" />
+            <Precinct name="Lexington" votes="57" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="29" text="Trey Rhodes (I) (Rep)" totalVotes="4841">
+            <VoteType name="Absentee by Mail Votes" votes="253">
+                <Precinct name="Beaverdam" votes="66" />
+                <Precinct name="Crawford" votes="66" />
+                <Precinct name="Lexington" votes="121" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2818">
+                <Precinct name="Beaverdam" votes="774" />
+                <Precinct name="Crawford" votes="743" />
+                <Precinct name="Lexington" votes="1301" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1769">
+                <Precinct name="Beaverdam" votes="726" />
+                <Precinct name="Crawford" votes="467" />
+                <Precinct name="Lexington" votes="576" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="Kat Howkins (Dem)" totalVotes="1862">
+            <VoteType name="Absentee by Mail Votes" votes="207">
+                <Precinct name="Beaverdam" votes="50" />
+                <Precinct name="Crawford" votes="70" />
+                <Precinct name="Lexington" votes="87" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1089">
+                <Precinct name="Beaverdam" votes="335" />
+                <Precinct name="Crawford" votes="308" />
+                <Precinct name="Lexington" votes="446" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="566">
+                <Precinct name="Beaverdam" votes="237" />
+                <Precinct name="Crawford" votes="153" />
+                <Precinct name="Lexington" votes="176" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="County Commission - District 1" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="240">
+            <Precinct name="Crawford" votes="62" />
+            <Precinct name="Lexington" votes="178" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="31" text="Howard Sanders (Rep)" totalVotes="998">
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="Crawford" votes="17" />
+                <Precinct name="Lexington" votes="34" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="624">
+                <Precinct name="Crawford" votes="64" />
+                <Precinct name="Lexington" votes="560" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="323">
+                <Precinct name="Crawford" votes="82" />
+                <Precinct name="Lexington" votes="241" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="County Commission - District 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="292">
+            <Precinct name="Beaverdam" votes="292" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+        </VoteType>
+        <Choice key="32" text="David R. Clark (I) (Rep)" totalVotes="1128">
+            <VoteType name="Absentee by Mail Votes" votes="55">
+                <Precinct name="Beaverdam" votes="55" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="523">
+                <Precinct name="Beaverdam" votes="523" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="550">
+                <Precinct name="Beaverdam" votes="550" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="County Commission - District 5" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="182">
+            <Precinct name="Beaverdam" votes="120" />
+            <Precinct name="Crawford" votes="23" />
+            <Precinct name="Lexington" votes="39" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="33" text="Tracy Alan Norman (I) (Rep)" totalVotes="1201">
+            <VoteType name="Absentee by Mail Votes" votes="60">
+                <Precinct name="Beaverdam" votes="29" />
+                <Precinct name="Crawford" votes="8" />
+                <Precinct name="Lexington" votes="23" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="710">
+                <Precinct name="Beaverdam" votes="374" />
+                <Precinct name="Crawford" votes="140" />
+                <Precinct name="Lexington" votes="196" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="431">
+                <Precinct name="Beaverdam" votes="277" />
+                <Precinct name="Crawford" votes="70" />
+                <Precinct name="Lexington" votes="84" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="County BOE - District 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="287">
+            <Precinct name="Beaverdam" votes="287" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+        </VoteType>
+        <Choice key="34" text="Susan H. Robinson (Rep)" totalVotes="1133">
+            <VoteType name="Absentee by Mail Votes" votes="52">
+                <Precinct name="Beaverdam" votes="52" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="525">
+                <Precinct name="Beaverdam" votes="525" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="556">
+                <Precinct name="Beaverdam" votes="556" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="County BOE - District 5" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="182">
+            <Precinct name="Beaverdam" votes="111" />
+            <Precinct name="Crawford" votes="32" />
+            <Precinct name="Lexington" votes="39" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="35" text="Rebecca &quot;&quot;Becky&quot;&quot; Soto (I) (Rep)" totalVotes="1201">
+            <VoteType name="Absentee by Mail Votes" votes="59">
+                <Precinct name="Beaverdam" votes="29" />
+                <Precinct name="Crawford" votes="6" />
+                <Precinct name="Lexington" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="709">
+                <Precinct name="Beaverdam" votes="382" />
+                <Precinct name="Crawford" votes="133" />
+                <Precinct name="Lexington" votes="194" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="433">
+                <Precinct name="Beaverdam" votes="278" />
+                <Precinct name="Crawford" votes="70" />
+                <Precinct name="Lexington" votes="85" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Soil and Water Conservation District Supervisor - Broad River" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="1191">
+            <Precinct name="Beaverdam" votes="398" />
+            <Precinct name="Crawford" votes="291" />
+            <Precinct name="Lexington" votes="502" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="36" text="Ted Hughes (I)" totalVotes="5630">
+            <VoteType name="Absentee by Mail Votes" votes="353">
+                <Precinct name="Beaverdam" votes="88" />
+                <Precinct name="Crawford" votes="103" />
+                <Precinct name="Lexington" votes="162" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3263">
+                <Precinct name="Beaverdam" votes="909" />
+                <Precinct name="Crawford" votes="904" />
+                <Precinct name="Lexington" votes="1450" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2013">
+                <Precinct name="Beaverdam" votes="826" />
+                <Precinct name="Crawford" votes="537" />
+                <Precinct name="Lexington" votes="650" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="Proposed Constitutional Amendment 1" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="255">
+            <Precinct name="Beaverdam" votes="67" />
+            <Precinct name="Crawford" votes="53" />
+            <Precinct name="Lexington" votes="135" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Yes" totalVotes="5803">
+            <VoteType name="Absentee by Mail Votes" votes="413">
+                <Precinct name="Beaverdam" votes="109" />
+                <Precinct name="Crawford" votes="121" />
+                <Precinct name="Lexington" votes="183" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3384">
+                <Precinct name="Beaverdam" votes="976" />
+                <Precinct name="Crawford" votes="917" />
+                <Precinct name="Lexington" votes="1491" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2005">
+                <Precinct name="Beaverdam" votes="837" />
+                <Precinct name="Crawford" votes="522" />
+                <Precinct name="Lexington" votes="646" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="38" text="No" totalVotes="763">
+            <VoteType name="Absentee by Mail Votes" votes="40">
+                <Precinct name="Beaverdam" votes="6" />
+                <Precinct name="Crawford" votes="10" />
+                <Precinct name="Lexington" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="427">
+                <Precinct name="Beaverdam" votes="114" />
+                <Precinct name="Crawford" votes="120" />
+                <Precinct name="Lexington" votes="193" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="296">
+                <Precinct name="Beaverdam" votes="112" />
+                <Precinct name="Crawford" votes="92" />
+                <Precinct name="Lexington" votes="92" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="Proposed Constitutional Amendment 2" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="215">
+            <Precinct name="Beaverdam" votes="45" />
+            <Precinct name="Crawford" votes="47" />
+            <Precinct name="Lexington" votes="123" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Yes" totalVotes="5986">
+            <VoteType name="Absentee by Mail Votes" votes="422">
+                <Precinct name="Beaverdam" votes="108" />
+                <Precinct name="Crawford" votes="124" />
+                <Precinct name="Lexington" votes="190" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3446">
+                <Precinct name="Beaverdam" votes="984" />
+                <Precinct name="Crawford" votes="941" />
+                <Precinct name="Lexington" votes="1521" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2117">
+                <Precinct name="Beaverdam" votes="894" />
+                <Precinct name="Crawford" votes="558" />
+                <Precinct name="Lexington" votes="665" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="No" totalVotes="620">
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Beaverdam" votes="8" />
+                <Precinct name="Crawford" votes="6" />
+                <Precinct name="Lexington" votes="16" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="385">
+                <Precinct name="Beaverdam" votes="114" />
+                <Precinct name="Crawford" votes="101" />
+                <Precinct name="Lexington" votes="170" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="205">
+                <Precinct name="Beaverdam" votes="68" />
+                <Precinct name="Crawford" votes="58" />
+                <Precinct name="Lexington" votes="79" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="Statewide Referendum Question 1" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="333">
+            <Precinct name="Beaverdam" votes="86" />
+            <Precinct name="Crawford" votes="75" />
+            <Precinct name="Lexington" votes="172" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Yes" totalVotes="3639">
+            <VoteType name="Absentee by Mail Votes" votes="195">
+                <Precinct name="Beaverdam" votes="55" />
+                <Precinct name="Crawford" votes="55" />
+                <Precinct name="Lexington" votes="85" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2034">
+                <Precinct name="Beaverdam" votes="573" />
+                <Precinct name="Crawford" votes="540" />
+                <Precinct name="Lexington" votes="921" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1409">
+                <Precinct name="Beaverdam" votes="581" />
+                <Precinct name="Crawford" votes="387" />
+                <Precinct name="Lexington" votes="441" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="42" text="No" totalVotes="2849">
+            <VoteType name="Absentee by Mail Votes" votes="249">
+                <Precinct name="Beaverdam" votes="59" />
+                <Precinct name="Crawford" votes="71" />
+                <Precinct name="Lexington" votes="119" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1732">
+                <Precinct name="Beaverdam" votes="503" />
+                <Precinct name="Crawford" votes="489" />
+                <Precinct name="Lexington" votes="740" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="868">
+                <Precinct name="Beaverdam" votes="364" />
+                <Precinct name="Crawford" votes="218" />
+                <Precinct name="Lexington" votes="286" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="Statewide Referendum Question 2" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="333">
+            <Precinct name="Beaverdam" votes="88" />
+            <Precinct name="Crawford" votes="81" />
+            <Precinct name="Lexington" votes="164" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="43" text="Yes" totalVotes="4917">
+            <VoteType name="Absentee by Mail Votes" votes="281">
+                <Precinct name="Beaverdam" votes="79" />
+                <Precinct name="Crawford" votes="82" />
+                <Precinct name="Lexington" votes="120" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2798">
+                <Precinct name="Beaverdam" votes="810" />
+                <Precinct name="Crawford" votes="767" />
+                <Precinct name="Lexington" votes="1221" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1838">
+                <Precinct name="Beaverdam" votes="759" />
+                <Precinct name="Crawford" votes="483" />
+                <Precinct name="Lexington" votes="596" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="No" totalVotes="1571">
+            <VoteType name="Absentee by Mail Votes" votes="157">
+                <Precinct name="Beaverdam" votes="32" />
+                <Precinct name="Crawford" votes="42" />
+                <Precinct name="Lexington" votes="83" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="965">
+                <Precinct name="Beaverdam" votes="265" />
+                <Precinct name="Crawford" votes="258" />
+                <Precinct name="Lexington" votes="442" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="448">
+                <Precinct name="Beaverdam" votes="188" />
+                <Precinct name="Crawford" votes="122" />
+                <Precinct name="Lexington" votes="138" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="T-SPLOST" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="262">
+            <Precinct name="Beaverdam" votes="59" />
+            <Precinct name="Crawford" votes="59" />
+            <Precinct name="Lexington" votes="144" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Yes" totalVotes="3714">
+            <VoteType name="Absentee by Mail Votes" votes="248">
+                <Precinct name="Beaverdam" votes="71" />
+                <Precinct name="Crawford" votes="75" />
+                <Precinct name="Lexington" votes="102" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2220">
+                <Precinct name="Beaverdam" votes="643" />
+                <Precinct name="Crawford" votes="624" />
+                <Precinct name="Lexington" votes="953" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1246">
+                <Precinct name="Beaverdam" votes="526" />
+                <Precinct name="Crawford" votes="344" />
+                <Precinct name="Lexington" votes="376" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="No" totalVotes="2845">
+            <VoteType name="Absentee by Mail Votes" votes="202">
+                <Precinct name="Beaverdam" votes="45" />
+                <Precinct name="Crawford" votes="54" />
+                <Precinct name="Lexington" votes="103" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1593">
+                <Precinct name="Beaverdam" votes="454" />
+                <Precinct name="Crawford" votes="411" />
+                <Precinct name="Lexington" votes="728" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1049">
+                <Precinct name="Beaverdam" votes="423" />
+                <Precinct name="Crawford" votes="268" />
+                <Precinct name="Lexington" votes="358" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

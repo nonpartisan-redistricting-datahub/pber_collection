@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 9:34:45 AM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Troup</Region>
+    <VoterTurnout totalVoters="41609" ballotsCast="21116" voterTurnout="50.75">
+        <Precincts>
+            <Precinct name="Hollis Hand" totalVoters="3327" ballotsCast="1998" voterTurnout="60.05" percentReporting="4" />
+            <Precinct name="Administration Bldg" totalVoters="3464" ballotsCast="1222" voterTurnout="35.28" percentReporting="4" />
+            <Precinct name="Hammett Rd" totalVoters="4125" ballotsCast="1810" voterTurnout="43.88" percentReporting="4" />
+            <Precinct name="Griggs Center" totalVoters="2207" ballotsCast="841" voterTurnout="38.11" percentReporting="4" />
+            <Precinct name="West Point" totalVoters="1834" ballotsCast="820" voterTurnout="44.71" percentReporting="4" />
+            <Precinct name="Hogansville" totalVoters="3848" ballotsCast="1931" voterTurnout="50.18" percentReporting="4" />
+            <Precinct name="East Vernon" totalVoters="3098" ballotsCast="1824" voterTurnout="58.88" percentReporting="4" />
+            <Precinct name="Rosemont" totalVoters="4093" ballotsCast="2368" voterTurnout="57.85" percentReporting="4" />
+            <Precinct name="McClendon" totalVoters="3499" ballotsCast="2042" voterTurnout="58.36" percentReporting="4" />
+            <Precinct name="Long Cane" totalVoters="3150" ballotsCast="1733" voterTurnout="55.02" percentReporting="4" />
+            <Precinct name="Gardner Newman" totalVoters="2910" ballotsCast="1454" voterTurnout="49.97" percentReporting="4" />
+            <Precinct name="Gray Hill" totalVoters="1818" ballotsCast="974" voterTurnout="53.58" percentReporting="4" />
+            <Precinct name="Highland" totalVoters="1738" ballotsCast="799" voterTurnout="45.97" percentReporting="4" />
+            <Precinct name="Northside" totalVoters="2498" ballotsCast="1300" voterTurnout="52.04" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="3" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="14" precinctsReported="14">
+        <VoteType name="Undervotes" votes="20">
+            <Precinct name="Hollis Hand" votes="1" />
+            <Precinct name="Administration Bldg" votes="2" />
+            <Precinct name="Hammett Rd" votes="1" />
+            <Precinct name="Griggs Center" votes="2" />
+            <Precinct name="West Point" votes="1" />
+            <Precinct name="Hogansville" votes="2" />
+            <Precinct name="East Vernon" votes="2" />
+            <Precinct name="Rosemont" votes="0" />
+            <Precinct name="McClendon" votes="2" />
+            <Precinct name="Long Cane" votes="1" />
+            <Precinct name="Gardner Newman" votes="1" />
+            <Precinct name="Gray Hill" votes="2" />
+            <Precinct name="Highland" votes="1" />
+            <Precinct name="Northside" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hollis Hand" votes="0" />
+            <Precinct name="Administration Bldg" votes="0" />
+            <Precinct name="Hammett Rd" votes="0" />
+            <Precinct name="Griggs Center" votes="0" />
+            <Precinct name="West Point" votes="0" />
+            <Precinct name="Hogansville" votes="0" />
+            <Precinct name="East Vernon" votes="0" />
+            <Precinct name="Rosemont" votes="0" />
+            <Precinct name="McClendon" votes="0" />
+            <Precinct name="Long Cane" votes="0" />
+            <Precinct name="Gardner Newman" votes="0" />
+            <Precinct name="Gray Hill" votes="0" />
+            <Precinct name="Highland" votes="0" />
+            <Precinct name="Northside" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Herschel Junior Walker (Rep)" totalVotes="12757">
+            <VoteType name="Absentee by Mail Votes" votes="484">
+                <Precinct name="Hollis Hand" votes="92" />
+                <Precinct name="Administration Bldg" votes="24" />
+                <Precinct name="Hammett Rd" votes="38" />
+                <Precinct name="Griggs Center" votes="2" />
+                <Precinct name="West Point" votes="8" />
+                <Precinct name="Hogansville" votes="38" />
+                <Precinct name="East Vernon" votes="56" />
+                <Precinct name="Rosemont" votes="61" />
+                <Precinct name="McClendon" votes="38" />
+                <Precinct name="Long Cane" votes="26" />
+                <Precinct name="Gardner Newman" votes="34" />
+                <Precinct name="Gray Hill" votes="15" />
+                <Precinct name="Highland" votes="18" />
+                <Precinct name="Northside" votes="34" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4887">
+                <Precinct name="Hollis Hand" votes="680" />
+                <Precinct name="Administration Bldg" votes="165" />
+                <Precinct name="Hammett Rd" votes="247" />
+                <Precinct name="Griggs Center" votes="36" />
+                <Precinct name="West Point" votes="53" />
+                <Precinct name="Hogansville" votes="359" />
+                <Precinct name="East Vernon" votes="531" />
+                <Precinct name="Rosemont" votes="783" />
+                <Precinct name="McClendon" votes="595" />
+                <Precinct name="Long Cane" votes="388" />
+                <Precinct name="Gardner Newman" votes="364" />
+                <Precinct name="Gray Hill" votes="180" />
+                <Precinct name="Highland" votes="156" />
+                <Precinct name="Northside" votes="350" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7378">
+                <Precinct name="Hollis Hand" votes="708" />
+                <Precinct name="Administration Bldg" votes="155" />
+                <Precinct name="Hammett Rd" votes="336" />
+                <Precinct name="Griggs Center" votes="21" />
+                <Precinct name="West Point" votes="214" />
+                <Precinct name="Hogansville" votes="870" />
+                <Precinct name="East Vernon" votes="865" />
+                <Precinct name="Rosemont" votes="1073" />
+                <Precinct name="McClendon" votes="876" />
+                <Precinct name="Long Cane" votes="856" />
+                <Precinct name="Gardner Newman" votes="413" />
+                <Precinct name="Gray Hill" votes="510" />
+                <Precinct name="Highland" votes="155" />
+                <Precinct name="Northside" votes="326" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="8">
+                <Precinct name="Hollis Hand" votes="0" />
+                <Precinct name="Administration Bldg" votes="0" />
+                <Precinct name="Hammett Rd" votes="0" />
+                <Precinct name="Griggs Center" votes="0" />
+                <Precinct name="West Point" votes="0" />
+                <Precinct name="Hogansville" votes="3" />
+                <Precinct name="East Vernon" votes="1" />
+                <Precinct name="Rosemont" votes="1" />
+                <Precinct name="McClendon" votes="0" />
+                <Precinct name="Long Cane" votes="0" />
+                <Precinct name="Gardner Newman" votes="2" />
+                <Precinct name="Gray Hill" votes="0" />
+                <Precinct name="Highland" votes="0" />
+                <Precinct name="Northside" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Raphael Warnock (I) (Dem)" totalVotes="8339">
+            <VoteType name="Absentee by Mail Votes" votes="650">
+                <Precinct name="Hollis Hand" votes="47" />
+                <Precinct name="Administration Bldg" votes="90" />
+                <Precinct name="Hammett Rd" votes="61" />
+                <Precinct name="Griggs Center" votes="81" />
+                <Precinct name="West Point" votes="66" />
+                <Precinct name="Hogansville" votes="46" />
+                <Precinct name="East Vernon" votes="25" />
+                <Precinct name="Rosemont" votes="35" />
+                <Precinct name="McClendon" votes="35" />
+                <Precinct name="Long Cane" votes="37" />
+                <Precinct name="Gardner Newman" votes="49" />
+                <Precinct name="Gray Hill" votes="14" />
+                <Precinct name="Highland" votes="29" />
+                <Precinct name="Northside" votes="35" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3882">
+                <Precinct name="Hollis Hand" votes="269" />
+                <Precinct name="Administration Bldg" votes="410" />
+                <Precinct name="Hammett Rd" votes="571" />
+                <Precinct name="Griggs Center" votes="333" />
+                <Precinct name="West Point" votes="116" />
+                <Precinct name="Hogansville" votes="224" />
+                <Precinct name="East Vernon" votes="177" />
+                <Precinct name="Rosemont" votes="261" />
+                <Precinct name="McClendon" votes="298" />
+                <Precinct name="Long Cane" votes="233" />
+                <Precinct name="Gardner Newman" votes="326" />
+                <Precinct name="Gray Hill" votes="103" />
+                <Precinct name="Highland" votes="263" />
+                <Precinct name="Northside" votes="298" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3800">
+                <Precinct name="Hollis Hand" votes="201" />
+                <Precinct name="Administration Bldg" votes="375" />
+                <Precinct name="Hammett Rd" votes="555" />
+                <Precinct name="Griggs Center" votes="366" />
+                <Precinct name="West Point" votes="362" />
+                <Precinct name="Hogansville" votes="389" />
+                <Precinct name="East Vernon" votes="164" />
+                <Precinct name="Rosemont" votes="154" />
+                <Precinct name="McClendon" votes="198" />
+                <Precinct name="Long Cane" votes="192" />
+                <Precinct name="Gardner Newman" votes="265" />
+                <Precinct name="Gray Hill" votes="150" />
+                <Precinct name="Highland" votes="176" />
+                <Precinct name="Northside" votes="253" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="7">
+                <Precinct name="Hollis Hand" votes="0" />
+                <Precinct name="Administration Bldg" votes="1" />
+                <Precinct name="Hammett Rd" votes="1" />
+                <Precinct name="Griggs Center" votes="0" />
+                <Precinct name="West Point" votes="0" />
+                <Precinct name="Hogansville" votes="0" />
+                <Precinct name="East Vernon" votes="3" />
+                <Precinct name="Rosemont" votes="0" />
+                <Precinct name="McClendon" votes="0" />
+                <Precinct name="Long Cane" votes="0" />
+                <Precinct name="Gardner Newman" votes="0" />
+                <Precinct name="Gray Hill" votes="0" />
+                <Precinct name="Highland" votes="1" />
+                <Precinct name="Northside" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="LaGrange - City Council D2 Special" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="Undervotes" votes="157">
+            <Precinct name="Hollis Hand" votes="1" />
+            <Precinct name="Administration Bldg" votes="61" />
+            <Precinct name="Hammett Rd" votes="15" />
+            <Precinct name="Griggs Center" votes="36" />
+            <Precinct name="Long Cane" votes="0" />
+            <Precinct name="Gardner Newman" votes="17" />
+            <Precinct name="Gray Hill" votes="0" />
+            <Precinct name="Highland" votes="23" />
+            <Precinct name="Northside" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hollis Hand" votes="0" />
+            <Precinct name="Administration Bldg" votes="0" />
+            <Precinct name="Hammett Rd" votes="0" />
+            <Precinct name="Griggs Center" votes="0" />
+            <Precinct name="Long Cane" votes="0" />
+            <Precinct name="Gardner Newman" votes="0" />
+            <Precinct name="Gray Hill" votes="0" />
+            <Precinct name="Highland" votes="0" />
+            <Precinct name="Northside" votes="0" />
+        </VoteType>
+        <Choice key="106" text="Marquavious &quot;&quot;Quay&quot;&quot; Boddie" totalVotes="1096">
+            <VoteType name="Absentee by Mail Votes" votes="89">
+                <Precinct name="Hollis Hand" votes="0" />
+                <Precinct name="Administration Bldg" votes="39" />
+                <Precinct name="Hammett Rd" votes="4" />
+                <Precinct name="Griggs Center" votes="30" />
+                <Precinct name="Long Cane" votes="0" />
+                <Precinct name="Gardner Newman" votes="4" />
+                <Precinct name="Gray Hill" votes="0" />
+                <Precinct name="Highland" votes="11" />
+                <Precinct name="Northside" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="496">
+                <Precinct name="Hollis Hand" votes="2" />
+                <Precinct name="Administration Bldg" votes="147" />
+                <Precinct name="Hammett Rd" votes="38" />
+                <Precinct name="Griggs Center" votes="135" />
+                <Precinct name="Long Cane" votes="0" />
+                <Precinct name="Gardner Newman" votes="40" />
+                <Precinct name="Gray Hill" votes="0" />
+                <Precinct name="Highland" votes="119" />
+                <Precinct name="Northside" votes="15" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="509">
+                <Precinct name="Hollis Hand" votes="0" />
+                <Precinct name="Administration Bldg" votes="168" />
+                <Precinct name="Hammett Rd" votes="47" />
+                <Precinct name="Griggs Center" votes="155" />
+                <Precinct name="Long Cane" votes="0" />
+                <Precinct name="Gardner Newman" votes="30" />
+                <Precinct name="Gray Hill" votes="0" />
+                <Precinct name="Highland" votes="87" />
+                <Precinct name="Northside" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Hollis Hand" votes="0" />
+                <Precinct name="Administration Bldg" votes="1" />
+                <Precinct name="Hammett Rd" votes="0" />
+                <Precinct name="Griggs Center" votes="0" />
+                <Precinct name="Long Cane" votes="0" />
+                <Precinct name="Gardner Newman" votes="0" />
+                <Precinct name="Gray Hill" votes="0" />
+                <Precinct name="Highland" votes="1" />
+                <Precinct name="Northside" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="107" text="Leon Childs, Jr." totalVotes="1529">
+            <VoteType name="Absentee by Mail Votes" votes="147">
+                <Precinct name="Hollis Hand" votes="0" />
+                <Precinct name="Administration Bldg" votes="53" />
+                <Precinct name="Hammett Rd" votes="16" />
+                <Precinct name="Griggs Center" votes="50" />
+                <Precinct name="Long Cane" votes="0" />
+                <Precinct name="Gardner Newman" votes="5" />
+                <Precinct name="Gray Hill" votes="0" />
+                <Precinct name="Highland" votes="20" />
+                <Precinct name="Northside" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="717">
+                <Precinct name="Hollis Hand" votes="2" />
+                <Precinct name="Administration Bldg" votes="239" />
+                <Precinct name="Hammett Rd" votes="62" />
+                <Precinct name="Griggs Center" votes="212" />
+                <Precinct name="Long Cane" votes="0" />
+                <Precinct name="Gardner Newman" votes="23" />
+                <Precinct name="Gray Hill" votes="0" />
+                <Precinct name="Highland" votes="156" />
+                <Precinct name="Northside" votes="23" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="665">
+                <Precinct name="Hollis Hand" votes="4" />
+                <Precinct name="Administration Bldg" votes="208" />
+                <Precinct name="Hammett Rd" votes="70" />
+                <Precinct name="Griggs Center" votes="218" />
+                <Precinct name="Long Cane" votes="0" />
+                <Precinct name="Gardner Newman" votes="34" />
+                <Precinct name="Gray Hill" votes="0" />
+                <Precinct name="Highland" votes="101" />
+                <Precinct name="Northside" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hollis Hand" votes="0" />
+                <Precinct name="Administration Bldg" votes="0" />
+                <Precinct name="Hammett Rd" votes="0" />
+                <Precinct name="Griggs Center" votes="0" />
+                <Precinct name="Long Cane" votes="0" />
+                <Precinct name="Gardner Newman" votes="0" />
+                <Precinct name="Gray Hill" votes="0" />
+                <Precinct name="Highland" votes="0" />
+                <Precinct name="Northside" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

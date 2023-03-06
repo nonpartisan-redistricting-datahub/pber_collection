@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 4:02:12 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Barrow</Region>
+    <VoterTurnout totalVoters="55948" ballotsCast="25404" voterTurnout="45.41">
+        <Precincts>
+            <Precinct name="01" totalVoters="3424" ballotsCast="1585" voterTurnout="46.29" percentReporting="4" />
+            <Precinct name="02" totalVoters="6902" ballotsCast="3676" voterTurnout="53.26" percentReporting="4" />
+            <Precinct name="03" totalVoters="6346" ballotsCast="2704" voterTurnout="42.61" percentReporting="4" />
+            <Precinct name="04" totalVoters="3780" ballotsCast="1568" voterTurnout="41.48" percentReporting="4" />
+            <Precinct name="05" totalVoters="8675" ballotsCast="4349" voterTurnout="50.13" percentReporting="4" />
+            <Precinct name="08" totalVoters="7162" ballotsCast="3570" voterTurnout="49.85" percentReporting="4" />
+            <Precinct name="13" totalVoters="11106" ballotsCast="4312" voterTurnout="38.83" percentReporting="4" />
+            <Precinct name="16" totalVoters="8552" ballotsCast="3640" voterTurnout="42.56" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="01" votes="2" />
+            <Precinct name="02" votes="1" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="1" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="1" />
+            <Precinct name="16" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="17945">
+            <VoteType name="Absentee by Mail Votes" votes="629">
+                <Precinct name="01" votes="30" />
+                <Precinct name="02" votes="134" />
+                <Precinct name="03" votes="67" />
+                <Precinct name="04" votes="31" />
+                <Precinct name="05" votes="117" />
+                <Precinct name="08" votes="90" />
+                <Precinct name="13" votes="98" />
+                <Precinct name="16" votes="62" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7627">
+                <Precinct name="01" votes="408" />
+                <Precinct name="02" votes="1259" />
+                <Precinct name="03" votes="658" />
+                <Precinct name="04" votes="525" />
+                <Precinct name="05" votes="1314" />
+                <Precinct name="08" votes="1339" />
+                <Precinct name="13" votes="1235" />
+                <Precinct name="16" votes="889" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9689">
+                <Precinct name="01" votes="752" />
+                <Precinct name="02" votes="1549" />
+                <Precinct name="03" votes="1271" />
+                <Precinct name="04" votes="649" />
+                <Precinct name="05" votes="1597" />
+                <Precinct name="08" votes="1271" />
+                <Precinct name="13" votes="1289" />
+                <Precinct name="16" votes="1311" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="7453">
+            <VoteType name="Absentee by Mail Votes" votes="549">
+                <Precinct name="01" votes="23" />
+                <Precinct name="02" votes="70" />
+                <Precinct name="03" votes="55" />
+                <Precinct name="04" votes="32" />
+                <Precinct name="05" votes="98" />
+                <Precinct name="08" votes="62" />
+                <Precinct name="13" votes="129" />
+                <Precinct name="16" votes="80" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3699">
+                <Precinct name="01" votes="188" />
+                <Precinct name="02" votes="366" />
+                <Precinct name="03" votes="282" />
+                <Precinct name="04" votes="184" />
+                <Precinct name="05" votes="648" />
+                <Precinct name="08" votes="483" />
+                <Precinct name="13" votes="887" />
+                <Precinct name="16" votes="661" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3205">
+                <Precinct name="01" votes="182" />
+                <Precinct name="02" votes="297" />
+                <Precinct name="03" votes="371" />
+                <Precinct name="04" votes="146" />
+                <Precinct name="05" votes="575" />
+                <Precinct name="08" votes="325" />
+                <Precinct name="13" votes="673" />
+                <Precinct name="16" votes="636" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

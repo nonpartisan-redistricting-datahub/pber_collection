@@ -1,0 +1,2427 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/15/2022 3:15:56 PM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Washington</Region>
+    <VoterTurnout totalVoters="12816" ballotsCast="7831" voterTurnout="61.10">
+        <Precincts>
+            <Precinct name="Riddleville" totalVoters="559" ballotsCast="375" voterTurnout="67.08" percentReporting="4" />
+            <Precinct name="Warthen" totalVoters="685" ballotsCast="456" voterTurnout="66.57" percentReporting="4" />
+            <Precinct name="Tennille" totalVoters="2495" ballotsCast="1420" voterTurnout="56.91" percentReporting="4" />
+            <Precinct name="Oconee" totalVoters="560" ballotsCast="368" voterTurnout="65.71" percentReporting="4" />
+            <Precinct name="Harrison" totalVoters="1013" ballotsCast="630" voterTurnout="62.19" percentReporting="4" />
+            <Precinct name="Davisboro" totalVoters="780" ballotsCast="515" voterTurnout="66.03" percentReporting="4" />
+            <Precinct name="Sandersville" totalVoters="6176" ballotsCast="3697" voterTurnout="59.86" percentReporting="4" />
+            <Precinct name="Deepstep" totalVoters="549" ballotsCast="370" voterTurnout="67.40" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="62">
+            <Precinct name="Riddleville" votes="2" />
+            <Precinct name="Warthen" votes="3" />
+            <Precinct name="Tennille" votes="7" />
+            <Precinct name="Oconee" votes="5" />
+            <Precinct name="Harrison" votes="5" />
+            <Precinct name="Davisboro" votes="5" />
+            <Precinct name="Sandersville" votes="32" />
+            <Precinct name="Deepstep" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="1">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="1" />
+            <Precinct name="Sandersville" votes="0" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="3904">
+            <VoteType name="Absentee by Mail Votes" votes="175">
+                <Precinct name="Riddleville" votes="7" />
+                <Precinct name="Warthen" votes="7" />
+                <Precinct name="Tennille" votes="26" />
+                <Precinct name="Oconee" votes="9" />
+                <Precinct name="Harrison" votes="14" />
+                <Precinct name="Davisboro" votes="16" />
+                <Precinct name="Sandersville" votes="89" />
+                <Precinct name="Deepstep" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1937">
+                <Precinct name="Riddleville" votes="88" />
+                <Precinct name="Warthen" votes="94" />
+                <Precinct name="Tennille" votes="333" />
+                <Precinct name="Oconee" votes="57" />
+                <Precinct name="Harrison" votes="167" />
+                <Precinct name="Davisboro" votes="115" />
+                <Precinct name="Sandersville" votes="1020" />
+                <Precinct name="Deepstep" votes="63" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1790">
+                <Precinct name="Riddleville" votes="149" />
+                <Precinct name="Warthen" votes="170" />
+                <Precinct name="Tennille" votes="250" />
+                <Precinct name="Oconee" votes="139" />
+                <Precinct name="Harrison" votes="232" />
+                <Precinct name="Davisboro" votes="177" />
+                <Precinct name="Sandersville" votes="475" />
+                <Precinct name="Deepstep" votes="198" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="3793">
+            <VoteType name="Absentee by Mail Votes" votes="535">
+                <Precinct name="Riddleville" votes="16" />
+                <Precinct name="Warthen" votes="18" />
+                <Precinct name="Tennille" votes="79" />
+                <Precinct name="Oconee" votes="24" />
+                <Precinct name="Harrison" votes="25" />
+                <Precinct name="Davisboro" votes="22" />
+                <Precinct name="Sandersville" votes="333" />
+                <Precinct name="Deepstep" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1906">
+                <Precinct name="Riddleville" votes="51" />
+                <Precinct name="Warthen" votes="55" />
+                <Precinct name="Tennille" votes="398" />
+                <Precinct name="Oconee" votes="64" />
+                <Precinct name="Harrison" votes="88" />
+                <Precinct name="Davisboro" votes="66" />
+                <Precinct name="Sandersville" votes="1151" />
+                <Precinct name="Deepstep" votes="33" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1351">
+                <Precinct name="Riddleville" votes="57" />
+                <Precinct name="Warthen" votes="104" />
+                <Precinct name="Tennille" votes="317" />
+                <Precinct name="Oconee" votes="68" />
+                <Precinct name="Harrison" votes="92" />
+                <Precinct name="Davisboro" votes="112" />
+                <Precinct name="Sandersville" votes="557" />
+                <Precinct name="Deepstep" votes="44" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="1" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Chase Oliver (Lib)" totalVotes="66">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="1" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="4" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="26">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="4" />
+                <Precinct name="Oconee" votes="1" />
+                <Precinct name="Harrison" votes="3" />
+                <Precinct name="Davisboro" votes="1" />
+                <Precinct name="Sandersville" votes="16" />
+                <Precinct name="Deepstep" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Riddleville" votes="3" />
+                <Precinct name="Warthen" votes="4" />
+                <Precinct name="Tennille" votes="4" />
+                <Precinct name="Oconee" votes="1" />
+                <Precinct name="Harrison" votes="2" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="18" />
+                <Precinct name="Deepstep" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="35">
+            <Precinct name="Riddleville" votes="1" />
+            <Precinct name="Warthen" votes="3" />
+            <Precinct name="Tennille" votes="3" />
+            <Precinct name="Oconee" votes="3" />
+            <Precinct name="Harrison" votes="2" />
+            <Precinct name="Davisboro" votes="3" />
+            <Precinct name="Sandersville" votes="20" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="1">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="1" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="4" text="Brian Kemp (I) (Rep)" totalVotes="4098">
+            <VoteType name="Absentee by Mail Votes" votes="207">
+                <Precinct name="Riddleville" votes="8" />
+                <Precinct name="Warthen" votes="8" />
+                <Precinct name="Tennille" votes="32" />
+                <Precinct name="Oconee" votes="9" />
+                <Precinct name="Harrison" votes="16" />
+                <Precinct name="Davisboro" votes="19" />
+                <Precinct name="Sandersville" votes="107" />
+                <Precinct name="Deepstep" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2021">
+                <Precinct name="Riddleville" votes="90" />
+                <Precinct name="Warthen" votes="96" />
+                <Precinct name="Tennille" votes="360" />
+                <Precinct name="Oconee" votes="59" />
+                <Precinct name="Harrison" votes="166" />
+                <Precinct name="Davisboro" votes="119" />
+                <Precinct name="Sandersville" votes="1068" />
+                <Precinct name="Deepstep" votes="63" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1868">
+                <Precinct name="Riddleville" votes="153" />
+                <Precinct name="Warthen" votes="179" />
+                <Precinct name="Tennille" votes="262" />
+                <Precinct name="Oconee" votes="143" />
+                <Precinct name="Harrison" votes="240" />
+                <Precinct name="Davisboro" votes="181" />
+                <Precinct name="Sandersville" votes="503" />
+                <Precinct name="Deepstep" votes="207" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Stacey Abrams (Dem)" totalVotes="3665">
+            <VoteType name="Absentee by Mail Votes" votes="508">
+                <Precinct name="Riddleville" votes="15" />
+                <Precinct name="Warthen" votes="18" />
+                <Precinct name="Tennille" votes="73" />
+                <Precinct name="Oconee" votes="24" />
+                <Precinct name="Harrison" votes="23" />
+                <Precinct name="Davisboro" votes="21" />
+                <Precinct name="Sandersville" votes="316" />
+                <Precinct name="Deepstep" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1846">
+                <Precinct name="Riddleville" votes="49" />
+                <Precinct name="Warthen" votes="52" />
+                <Precinct name="Tennille" votes="376" />
+                <Precinct name="Oconee" votes="62" />
+                <Precinct name="Harrison" votes="91" />
+                <Precinct name="Davisboro" votes="63" />
+                <Precinct name="Sandersville" votes="1121" />
+                <Precinct name="Deepstep" votes="32" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1310">
+                <Precinct name="Riddleville" votes="56" />
+                <Precinct name="Warthen" votes="99" />
+                <Precinct name="Tennille" votes="311" />
+                <Precinct name="Oconee" votes="67" />
+                <Precinct name="Harrison" votes="89" />
+                <Precinct name="Davisboro" votes="108" />
+                <Precinct name="Sandersville" votes="543" />
+                <Precinct name="Deepstep" votes="37" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="1" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Shane Hazel (Lib)" totalVotes="31">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="2" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="2" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="2" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="6" />
+                <Precinct name="Deepstep" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Riddleville" votes="3" />
+                <Precinct name="Warthen" votes="1" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="1" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="1" />
+                <Precinct name="Sandersville" votes="8" />
+                <Precinct name="Deepstep" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="266">
+            <Precinct name="Riddleville" votes="10" />
+            <Precinct name="Warthen" votes="17" />
+            <Precinct name="Tennille" votes="47" />
+            <Precinct name="Oconee" votes="20" />
+            <Precinct name="Harrison" votes="23" />
+            <Precinct name="Davisboro" votes="13" />
+            <Precinct name="Sandersville" votes="129" />
+            <Precinct name="Deepstep" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Burt Jones (Rep)" totalVotes="3982">
+            <VoteType name="Absentee by Mail Votes" votes="191">
+                <Precinct name="Riddleville" votes="7" />
+                <Precinct name="Warthen" votes="8" />
+                <Precinct name="Tennille" votes="30" />
+                <Precinct name="Oconee" votes="10" />
+                <Precinct name="Harrison" votes="14" />
+                <Precinct name="Davisboro" votes="17" />
+                <Precinct name="Sandersville" votes="97" />
+                <Precinct name="Deepstep" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1974">
+                <Precinct name="Riddleville" votes="89" />
+                <Precinct name="Warthen" votes="93" />
+                <Precinct name="Tennille" votes="338" />
+                <Precinct name="Oconee" votes="58" />
+                <Precinct name="Harrison" votes="165" />
+                <Precinct name="Davisboro" votes="119" />
+                <Precinct name="Sandersville" votes="1049" />
+                <Precinct name="Deepstep" votes="63" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1817">
+                <Precinct name="Riddleville" votes="152" />
+                <Precinct name="Warthen" votes="173" />
+                <Precinct name="Tennille" votes="257" />
+                <Precinct name="Oconee" votes="137" />
+                <Precinct name="Harrison" votes="230" />
+                <Precinct name="Davisboro" votes="175" />
+                <Precinct name="Sandersville" votes="494" />
+                <Precinct name="Deepstep" votes="199" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Charlie Bailey (Dem)" totalVotes="3493">
+            <VoteType name="Absentee by Mail Votes" votes="502">
+                <Precinct name="Riddleville" votes="15" />
+                <Precinct name="Warthen" votes="18" />
+                <Precinct name="Tennille" votes="71" />
+                <Precinct name="Oconee" votes="22" />
+                <Precinct name="Harrison" votes="23" />
+                <Precinct name="Davisboro" votes="21" />
+                <Precinct name="Sandersville" votes="314" />
+                <Precinct name="Deepstep" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1751">
+                <Precinct name="Riddleville" votes="47" />
+                <Precinct name="Warthen" votes="53" />
+                <Precinct name="Tennille" votes="370" />
+                <Precinct name="Oconee" votes="57" />
+                <Precinct name="Harrison" votes="85" />
+                <Precinct name="Davisboro" votes="58" />
+                <Precinct name="Sandersville" votes="1048" />
+                <Precinct name="Deepstep" votes="33" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1238">
+                <Precinct name="Riddleville" votes="52" />
+                <Precinct name="Warthen" votes="87" />
+                <Precinct name="Tennille" votes="291" />
+                <Precinct name="Oconee" votes="61" />
+                <Precinct name="Harrison" votes="81" />
+                <Precinct name="Davisboro" votes="106" />
+                <Precinct name="Sandersville" votes="520" />
+                <Precinct name="Deepstep" votes="40" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="1" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="9" text="Ryan Graham (Lib)" totalVotes="87">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="1" />
+                <Precinct name="Sandersville" votes="5" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="35">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="7" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="2" />
+                <Precinct name="Davisboro" votes="2" />
+                <Precinct name="Sandersville" votes="24" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="44">
+                <Precinct name="Riddleville" votes="3" />
+                <Precinct name="Warthen" votes="7" />
+                <Precinct name="Tennille" votes="7" />
+                <Precinct name="Oconee" votes="2" />
+                <Precinct name="Harrison" votes="5" />
+                <Precinct name="Davisboro" votes="3" />
+                <Precinct name="Sandersville" votes="15" />
+                <Precinct name="Deepstep" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="275">
+            <Precinct name="Riddleville" votes="11" />
+            <Precinct name="Warthen" votes="16" />
+            <Precinct name="Tennille" votes="54" />
+            <Precinct name="Oconee" votes="21" />
+            <Precinct name="Harrison" votes="23" />
+            <Precinct name="Davisboro" votes="19" />
+            <Precinct name="Sandersville" votes="123" />
+            <Precinct name="Deepstep" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="1">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="1" />
+            <Precinct name="Sandersville" votes="0" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="10" text="Brad Raffensperger (I) (Rep)" totalVotes="4011">
+            <VoteType name="Absentee by Mail Votes" votes="209">
+                <Precinct name="Riddleville" votes="6" />
+                <Precinct name="Warthen" votes="8" />
+                <Precinct name="Tennille" votes="34" />
+                <Precinct name="Oconee" votes="9" />
+                <Precinct name="Harrison" votes="16" />
+                <Precinct name="Davisboro" votes="20" />
+                <Precinct name="Sandersville" votes="108" />
+                <Precinct name="Deepstep" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1969">
+                <Precinct name="Riddleville" votes="84" />
+                <Precinct name="Warthen" votes="87" />
+                <Precinct name="Tennille" votes="344" />
+                <Precinct name="Oconee" votes="53" />
+                <Precinct name="Harrison" votes="158" />
+                <Precinct name="Davisboro" votes="114" />
+                <Precinct name="Sandersville" votes="1065" />
+                <Precinct name="Deepstep" votes="64" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1832">
+                <Precinct name="Riddleville" votes="155" />
+                <Precinct name="Warthen" votes="178" />
+                <Precinct name="Tennille" votes="264" />
+                <Precinct name="Oconee" votes="129" />
+                <Precinct name="Harrison" votes="231" />
+                <Precinct name="Davisboro" votes="176" />
+                <Precinct name="Sandersville" votes="503" />
+                <Precinct name="Deepstep" votes="196" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="Bee Nguyen (Dem)" totalVotes="3404">
+            <VoteType name="Absentee by Mail Votes" votes="494">
+                <Precinct name="Riddleville" votes="15" />
+                <Precinct name="Warthen" votes="18" />
+                <Precinct name="Tennille" votes="70" />
+                <Precinct name="Oconee" votes="23" />
+                <Precinct name="Harrison" votes="22" />
+                <Precinct name="Davisboro" votes="19" />
+                <Precinct name="Sandersville" votes="309" />
+                <Precinct name="Deepstep" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1712">
+                <Precinct name="Riddleville" votes="47" />
+                <Precinct name="Warthen" votes="55" />
+                <Precinct name="Tennille" votes="357" />
+                <Precinct name="Oconee" votes="58" />
+                <Precinct name="Harrison" votes="81" />
+                <Precinct name="Davisboro" votes="56" />
+                <Precinct name="Sandersville" votes="1025" />
+                <Precinct name="Deepstep" votes="33" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1196">
+                <Precinct name="Riddleville" votes="48" />
+                <Precinct name="Warthen" votes="84" />
+                <Precinct name="Tennille" votes="285" />
+                <Precinct name="Oconee" votes="64" />
+                <Precinct name="Harrison" votes="76" />
+                <Precinct name="Davisboro" votes="101" />
+                <Precinct name="Sandersville" votes="502" />
+                <Precinct name="Deepstep" votes="36" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="1" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Ted Metz (Lib)" totalVotes="138">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Riddleville" votes="1" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="4" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="65">
+                <Precinct name="Riddleville" votes="6" />
+                <Precinct name="Warthen" votes="2" />
+                <Precinct name="Tennille" votes="8" />
+                <Precinct name="Oconee" votes="2" />
+                <Precinct name="Harrison" votes="12" />
+                <Precinct name="Davisboro" votes="4" />
+                <Precinct name="Sandersville" votes="31" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="68">
+                <Precinct name="Riddleville" votes="2" />
+                <Precinct name="Warthen" votes="8" />
+                <Precinct name="Tennille" votes="3" />
+                <Precinct name="Oconee" votes="8" />
+                <Precinct name="Harrison" votes="10" />
+                <Precinct name="Davisboro" votes="5" />
+                <Precinct name="Sandersville" votes="25" />
+                <Precinct name="Deepstep" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="222">
+            <Precinct name="Riddleville" votes="5" />
+            <Precinct name="Warthen" votes="17" />
+            <Precinct name="Tennille" votes="36" />
+            <Precinct name="Oconee" votes="17" />
+            <Precinct name="Harrison" votes="22" />
+            <Precinct name="Davisboro" votes="17" />
+            <Precinct name="Sandersville" votes="99" />
+            <Precinct name="Deepstep" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="1">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="1" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="13" text="Chris Carr (I) (Rep)" totalVotes="3945">
+            <VoteType name="Absentee by Mail Votes" votes="187">
+                <Precinct name="Riddleville" votes="7" />
+                <Precinct name="Warthen" votes="8" />
+                <Precinct name="Tennille" votes="31" />
+                <Precinct name="Oconee" votes="9" />
+                <Precinct name="Harrison" votes="13" />
+                <Precinct name="Davisboro" votes="17" />
+                <Precinct name="Sandersville" votes="95" />
+                <Precinct name="Deepstep" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1952">
+                <Precinct name="Riddleville" votes="89" />
+                <Precinct name="Warthen" votes="91" />
+                <Precinct name="Tennille" votes="332" />
+                <Precinct name="Oconee" votes="61" />
+                <Precinct name="Harrison" votes="162" />
+                <Precinct name="Davisboro" votes="116" />
+                <Precinct name="Sandersville" votes="1039" />
+                <Precinct name="Deepstep" votes="62" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1804">
+                <Precinct name="Riddleville" votes="152" />
+                <Precinct name="Warthen" votes="174" />
+                <Precinct name="Tennille" votes="250" />
+                <Precinct name="Oconee" votes="140" />
+                <Precinct name="Harrison" votes="231" />
+                <Precinct name="Davisboro" votes="170" />
+                <Precinct name="Sandersville" votes="488" />
+                <Precinct name="Deepstep" votes="199" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="14" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="3603">
+            <VoteType name="Absentee by Mail Votes" votes="511">
+                <Precinct name="Riddleville" votes="15" />
+                <Precinct name="Warthen" votes="18" />
+                <Precinct name="Tennille" votes="71" />
+                <Precinct name="Oconee" votes="23" />
+                <Precinct name="Harrison" votes="23" />
+                <Precinct name="Davisboro" votes="22" />
+                <Precinct name="Sandersville" votes="321" />
+                <Precinct name="Deepstep" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1801">
+                <Precinct name="Riddleville" votes="49" />
+                <Precinct name="Warthen" votes="52" />
+                <Precinct name="Tennille" votes="382" />
+                <Precinct name="Oconee" votes="57" />
+                <Precinct name="Harrison" votes="84" />
+                <Precinct name="Davisboro" votes="59" />
+                <Precinct name="Sandersville" votes="1083" />
+                <Precinct name="Deepstep" votes="35" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1290">
+                <Precinct name="Riddleville" votes="55" />
+                <Precinct name="Warthen" votes="92" />
+                <Precinct name="Tennille" votes="313" />
+                <Precinct name="Oconee" votes="61" />
+                <Precinct name="Harrison" votes="84" />
+                <Precinct name="Davisboro" votes="109" />
+                <Precinct name="Sandersville" votes="537" />
+                <Precinct name="Deepstep" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="1" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="15" text="Martin Cowen (Lib)" totalVotes="58">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="4" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="31">
+                <Precinct name="Riddleville" votes="1" />
+                <Precinct name="Warthen" votes="2" />
+                <Precinct name="Tennille" votes="3" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="4" />
+                <Precinct name="Davisboro" votes="1" />
+                <Precinct name="Sandersville" votes="20" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Riddleville" votes="2" />
+                <Precinct name="Warthen" votes="2" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="5" />
+                <Precinct name="Davisboro" votes="4" />
+                <Precinct name="Sandersville" votes="8" />
+                <Precinct name="Deepstep" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Commissioner of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="246">
+            <Precinct name="Riddleville" votes="12" />
+            <Precinct name="Warthen" votes="18" />
+            <Precinct name="Tennille" votes="47" />
+            <Precinct name="Oconee" votes="18" />
+            <Precinct name="Harrison" votes="25" />
+            <Precinct name="Davisboro" votes="15" />
+            <Precinct name="Sandersville" votes="104" />
+            <Precinct name="Deepstep" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="1">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="1" />
+            <Precinct name="Sandersville" votes="0" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="16" text="Tyler Harper (Rep)" totalVotes="3983">
+            <VoteType name="Absentee by Mail Votes" votes="190">
+                <Precinct name="Riddleville" votes="6" />
+                <Precinct name="Warthen" votes="8" />
+                <Precinct name="Tennille" votes="32" />
+                <Precinct name="Oconee" votes="9" />
+                <Precinct name="Harrison" votes="11" />
+                <Precinct name="Davisboro" votes="18" />
+                <Precinct name="Sandersville" votes="98" />
+                <Precinct name="Deepstep" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1973">
+                <Precinct name="Riddleville" votes="89" />
+                <Precinct name="Warthen" votes="90" />
+                <Precinct name="Tennille" votes="336" />
+                <Precinct name="Oconee" votes="61" />
+                <Precinct name="Harrison" votes="158" />
+                <Precinct name="Davisboro" votes="117" />
+                <Precinct name="Sandersville" votes="1057" />
+                <Precinct name="Deepstep" votes="65" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1819">
+                <Precinct name="Riddleville" votes="151" />
+                <Precinct name="Warthen" votes="175" />
+                <Precinct name="Tennille" votes="255" />
+                <Precinct name="Oconee" votes="136" />
+                <Precinct name="Harrison" votes="231" />
+                <Precinct name="Davisboro" votes="170" />
+                <Precinct name="Sandersville" votes="500" />
+                <Precinct name="Deepstep" votes="201" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Nakita Hemingway (Dem)" totalVotes="3504">
+            <VoteType name="Absentee by Mail Votes" votes="497">
+                <Precinct name="Riddleville" votes="15" />
+                <Precinct name="Warthen" votes="17" />
+                <Precinct name="Tennille" votes="68" />
+                <Precinct name="Oconee" votes="23" />
+                <Precinct name="Harrison" votes="22" />
+                <Precinct name="Davisboro" votes="20" />
+                <Precinct name="Sandersville" votes="314" />
+                <Precinct name="Deepstep" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1749">
+                <Precinct name="Riddleville" votes="47" />
+                <Precinct name="Warthen" votes="52" />
+                <Precinct name="Tennille" votes="372" />
+                <Precinct name="Oconee" votes="55" />
+                <Precinct name="Harrison" votes="82" />
+                <Precinct name="Davisboro" votes="58" />
+                <Precinct name="Sandersville" votes="1052" />
+                <Precinct name="Deepstep" votes="31" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1257">
+                <Precinct name="Riddleville" votes="50" />
+                <Precinct name="Warthen" votes="90" />
+                <Precinct name="Tennille" votes="299" />
+                <Precinct name="Oconee" votes="64" />
+                <Precinct name="Harrison" votes="85" />
+                <Precinct name="Davisboro" votes="107" />
+                <Precinct name="Sandersville" votes="524" />
+                <Precinct name="Deepstep" votes="38" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="1" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="David Raudabaugh (Lib)" totalVotes="94">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="2" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="6" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="45">
+                <Precinct name="Riddleville" votes="1" />
+                <Precinct name="Warthen" votes="3" />
+                <Precinct name="Tennille" votes="2" />
+                <Precinct name="Oconee" votes="1" />
+                <Precinct name="Harrison" votes="9" />
+                <Precinct name="Davisboro" votes="2" />
+                <Precinct name="Sandersville" votes="26" />
+                <Precinct name="Deepstep" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Riddleville" votes="4" />
+                <Precinct name="Warthen" votes="3" />
+                <Precinct name="Tennille" votes="7" />
+                <Precinct name="Oconee" votes="1" />
+                <Precinct name="Harrison" votes="4" />
+                <Precinct name="Davisboro" votes="6" />
+                <Precinct name="Sandersville" votes="13" />
+                <Precinct name="Deepstep" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Commissioner of Insurance" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="256">
+            <Precinct name="Riddleville" votes="6" />
+            <Precinct name="Warthen" votes="19" />
+            <Precinct name="Tennille" votes="43" />
+            <Precinct name="Oconee" votes="18" />
+            <Precinct name="Harrison" votes="29" />
+            <Precinct name="Davisboro" votes="19" />
+            <Precinct name="Sandersville" votes="115" />
+            <Precinct name="Deepstep" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="19" text="John King (I) (Rep)" totalVotes="4008">
+            <VoteType name="Absentee by Mail Votes" votes="201">
+                <Precinct name="Riddleville" votes="7" />
+                <Precinct name="Warthen" votes="8" />
+                <Precinct name="Tennille" votes="32" />
+                <Precinct name="Oconee" votes="9" />
+                <Precinct name="Harrison" votes="16" />
+                <Precinct name="Davisboro" votes="18" />
+                <Precinct name="Sandersville" votes="103" />
+                <Precinct name="Deepstep" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1969">
+                <Precinct name="Riddleville" votes="89" />
+                <Precinct name="Warthen" votes="91" />
+                <Precinct name="Tennille" votes="338" />
+                <Precinct name="Oconee" votes="58" />
+                <Precinct name="Harrison" votes="161" />
+                <Precinct name="Davisboro" votes="119" />
+                <Precinct name="Sandersville" votes="1049" />
+                <Precinct name="Deepstep" votes="64" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1836">
+                <Precinct name="Riddleville" votes="156" />
+                <Precinct name="Warthen" votes="175" />
+                <Precinct name="Tennille" votes="256" />
+                <Precinct name="Oconee" votes="138" />
+                <Precinct name="Harrison" votes="235" />
+                <Precinct name="Davisboro" votes="176" />
+                <Precinct name="Sandersville" votes="498" />
+                <Precinct name="Deepstep" votes="202" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Janice Laws Robinson (Dem)" totalVotes="3562">
+            <VoteType name="Absentee by Mail Votes" votes="495">
+                <Precinct name="Riddleville" votes="15" />
+                <Precinct name="Warthen" votes="17" />
+                <Precinct name="Tennille" votes="68" />
+                <Precinct name="Oconee" votes="23" />
+                <Precinct name="Harrison" votes="19" />
+                <Precinct name="Davisboro" votes="20" />
+                <Precinct name="Sandersville" votes="315" />
+                <Precinct name="Deepstep" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1801">
+                <Precinct name="Riddleville" votes="49" />
+                <Precinct name="Warthen" votes="54" />
+                <Precinct name="Tennille" votes="381" />
+                <Precinct name="Oconee" votes="59" />
+                <Precinct name="Harrison" votes="86" />
+                <Precinct name="Davisboro" votes="56" />
+                <Precinct name="Sandersville" votes="1083" />
+                <Precinct name="Deepstep" votes="33" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1265">
+                <Precinct name="Riddleville" votes="52" />
+                <Precinct name="Warthen" votes="92" />
+                <Precinct name="Tennille" votes="301" />
+                <Precinct name="Oconee" votes="62" />
+                <Precinct name="Harrison" votes="82" />
+                <Precinct name="Davisboro" votes="106" />
+                <Precinct name="Sandersville" votes="532" />
+                <Precinct name="Deepstep" votes="38" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="1" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="239">
+            <Precinct name="Riddleville" votes="10" />
+            <Precinct name="Warthen" votes="16" />
+            <Precinct name="Tennille" votes="40" />
+            <Precinct name="Oconee" votes="16" />
+            <Precinct name="Harrison" votes="27" />
+            <Precinct name="Davisboro" votes="20" />
+            <Precinct name="Sandersville" votes="101" />
+            <Precinct name="Deepstep" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="21" text="Richard Woods (I) (Rep)" totalVotes="4007">
+            <VoteType name="Absentee by Mail Votes" votes="198">
+                <Precinct name="Riddleville" votes="7" />
+                <Precinct name="Warthen" votes="8" />
+                <Precinct name="Tennille" votes="33" />
+                <Precinct name="Oconee" votes="9" />
+                <Precinct name="Harrison" votes="15" />
+                <Precinct name="Davisboro" votes="17" />
+                <Precinct name="Sandersville" votes="101" />
+                <Precinct name="Deepstep" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1978">
+                <Precinct name="Riddleville" votes="89" />
+                <Precinct name="Warthen" votes="92" />
+                <Precinct name="Tennille" votes="340" />
+                <Precinct name="Oconee" votes="60" />
+                <Precinct name="Harrison" votes="164" />
+                <Precinct name="Davisboro" votes="119" />
+                <Precinct name="Sandersville" votes="1048" />
+                <Precinct name="Deepstep" votes="66" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1830">
+                <Precinct name="Riddleville" votes="152" />
+                <Precinct name="Warthen" votes="178" />
+                <Precinct name="Tennille" votes="254" />
+                <Precinct name="Oconee" votes="140" />
+                <Precinct name="Harrison" votes="233" />
+                <Precinct name="Davisboro" votes="174" />
+                <Precinct name="Sandersville" votes="501" />
+                <Precinct name="Deepstep" votes="198" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Alisha Thomas Searcy (Dem)" totalVotes="3580">
+            <VoteType name="Absentee by Mail Votes" votes="497">
+                <Precinct name="Riddleville" votes="15" />
+                <Precinct name="Warthen" votes="18" />
+                <Precinct name="Tennille" votes="68" />
+                <Precinct name="Oconee" votes="23" />
+                <Precinct name="Harrison" votes="20" />
+                <Precinct name="Davisboro" votes="20" />
+                <Precinct name="Sandersville" votes="315" />
+                <Precinct name="Deepstep" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1799">
+                <Precinct name="Riddleville" votes="49" />
+                <Precinct name="Warthen" votes="52" />
+                <Precinct name="Tennille" votes="376" />
+                <Precinct name="Oconee" votes="58" />
+                <Precinct name="Harrison" votes="85" />
+                <Precinct name="Davisboro" votes="57" />
+                <Precinct name="Sandersville" votes="1091" />
+                <Precinct name="Deepstep" votes="31" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1282">
+                <Precinct name="Riddleville" votes="52" />
+                <Precinct name="Warthen" votes="92" />
+                <Precinct name="Tennille" votes="308" />
+                <Precinct name="Oconee" votes="62" />
+                <Precinct name="Harrison" votes="83" />
+                <Precinct name="Davisboro" votes="108" />
+                <Precinct name="Sandersville" votes="537" />
+                <Precinct name="Deepstep" votes="40" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="1" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner of Labor" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="272">
+            <Precinct name="Riddleville" votes="9" />
+            <Precinct name="Warthen" votes="22" />
+            <Precinct name="Tennille" votes="48" />
+            <Precinct name="Oconee" votes="17" />
+            <Precinct name="Harrison" votes="30" />
+            <Precinct name="Davisboro" votes="13" />
+            <Precinct name="Sandersville" votes="117" />
+            <Precinct name="Deepstep" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="1">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="1" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="23" text="Bruce Thompson (Rep)" totalVotes="3913">
+            <VoteType name="Absentee by Mail Votes" votes="187">
+                <Precinct name="Riddleville" votes="6" />
+                <Precinct name="Warthen" votes="7" />
+                <Precinct name="Tennille" votes="30" />
+                <Precinct name="Oconee" votes="9" />
+                <Precinct name="Harrison" votes="12" />
+                <Precinct name="Davisboro" votes="18" />
+                <Precinct name="Sandersville" votes="98" />
+                <Precinct name="Deepstep" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1930">
+                <Precinct name="Riddleville" votes="89" />
+                <Precinct name="Warthen" votes="91" />
+                <Precinct name="Tennille" votes="327" />
+                <Precinct name="Oconee" votes="57" />
+                <Precinct name="Harrison" votes="157" />
+                <Precinct name="Davisboro" votes="119" />
+                <Precinct name="Sandersville" votes="1027" />
+                <Precinct name="Deepstep" votes="63" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1795">
+                <Precinct name="Riddleville" votes="152" />
+                <Precinct name="Warthen" votes="171" />
+                <Precinct name="Tennille" votes="253" />
+                <Precinct name="Oconee" votes="135" />
+                <Precinct name="Harrison" votes="228" />
+                <Precinct name="Davisboro" votes="175" />
+                <Precinct name="Sandersville" votes="487" />
+                <Precinct name="Deepstep" votes="194" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="3549">
+            <VoteType name="Absentee by Mail Votes" votes="494">
+                <Precinct name="Riddleville" votes="15" />
+                <Precinct name="Warthen" votes="17" />
+                <Precinct name="Tennille" votes="70" />
+                <Precinct name="Oconee" votes="23" />
+                <Precinct name="Harrison" votes="22" />
+                <Precinct name="Davisboro" votes="21" />
+                <Precinct name="Sandersville" votes="309" />
+                <Precinct name="Deepstep" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1787">
+                <Precinct name="Riddleville" votes="47" />
+                <Precinct name="Warthen" votes="51" />
+                <Precinct name="Tennille" votes="378" />
+                <Precinct name="Oconee" votes="59" />
+                <Precinct name="Harrison" votes="82" />
+                <Precinct name="Davisboro" votes="57" />
+                <Precinct name="Sandersville" votes="1082" />
+                <Precinct name="Deepstep" votes="31" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1266">
+                <Precinct name="Riddleville" votes="53" />
+                <Precinct name="Warthen" votes="93" />
+                <Precinct name="Tennille" votes="301" />
+                <Precinct name="Oconee" votes="64" />
+                <Precinct name="Harrison" votes="84" />
+                <Precinct name="Davisboro" votes="107" />
+                <Precinct name="Sandersville" votes="525" />
+                <Precinct name="Deepstep" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="1" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Emily Anderson (Lib)" totalVotes="93">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="1" />
+                <Precinct name="Tennille" votes="3" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="6" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="46">
+                <Precinct name="Riddleville" votes="1" />
+                <Precinct name="Warthen" votes="2" />
+                <Precinct name="Tennille" votes="5" />
+                <Precinct name="Oconee" votes="2" />
+                <Precinct name="Harrison" votes="8" />
+                <Precinct name="Davisboro" votes="3" />
+                <Precinct name="Sandersville" votes="23" />
+                <Precinct name="Deepstep" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="36">
+                <Precinct name="Riddleville" votes="3" />
+                <Precinct name="Warthen" votes="1" />
+                <Precinct name="Tennille" votes="4" />
+                <Precinct name="Oconee" votes="2" />
+                <Precinct name="Harrison" votes="3" />
+                <Precinct name="Davisboro" votes="2" />
+                <Precinct name="Sandersville" votes="20" />
+                <Precinct name="Deepstep" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="US House of Representatives - District 12" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="259">
+            <Precinct name="Riddleville" votes="9" />
+            <Precinct name="Warthen" votes="20" />
+            <Precinct name="Tennille" votes="48" />
+            <Precinct name="Oconee" votes="19" />
+            <Precinct name="Harrison" votes="27" />
+            <Precinct name="Davisboro" votes="17" />
+            <Precinct name="Sandersville" votes="108" />
+            <Precinct name="Deepstep" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="26" text="Rick W. Allen (I) (Rep)" totalVotes="3976">
+            <VoteType name="Absentee by Mail Votes" votes="195">
+                <Precinct name="Riddleville" votes="7" />
+                <Precinct name="Warthen" votes="8" />
+                <Precinct name="Tennille" votes="30" />
+                <Precinct name="Oconee" votes="9" />
+                <Precinct name="Harrison" votes="15" />
+                <Precinct name="Davisboro" votes="18" />
+                <Precinct name="Sandersville" votes="100" />
+                <Precinct name="Deepstep" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1965">
+                <Precinct name="Riddleville" votes="88" />
+                <Precinct name="Warthen" votes="91" />
+                <Precinct name="Tennille" votes="333" />
+                <Precinct name="Oconee" votes="61" />
+                <Precinct name="Harrison" votes="165" />
+                <Precinct name="Davisboro" votes="120" />
+                <Precinct name="Sandersville" votes="1044" />
+                <Precinct name="Deepstep" votes="63" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1815">
+                <Precinct name="Riddleville" votes="152" />
+                <Precinct name="Warthen" votes="175" />
+                <Precinct name="Tennille" votes="253" />
+                <Precinct name="Oconee" votes="138" />
+                <Precinct name="Harrison" votes="232" />
+                <Precinct name="Davisboro" votes="171" />
+                <Precinct name="Sandersville" votes="496" />
+                <Precinct name="Deepstep" votes="198" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Elizabeth 'Liz' Johnson (Dem)" totalVotes="3594">
+            <VoteType name="Absentee by Mail Votes" votes="506">
+                <Precinct name="Riddleville" votes="15" />
+                <Precinct name="Warthen" votes="18" />
+                <Precinct name="Tennille" votes="71" />
+                <Precinct name="Oconee" votes="23" />
+                <Precinct name="Harrison" votes="20" />
+                <Precinct name="Davisboro" votes="21" />
+                <Precinct name="Sandersville" votes="320" />
+                <Precinct name="Deepstep" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1803">
+                <Precinct name="Riddleville" votes="49" />
+                <Precinct name="Warthen" votes="54" />
+                <Precinct name="Tennille" votes="379" />
+                <Precinct name="Oconee" votes="56" />
+                <Precinct name="Harrison" votes="84" />
+                <Precinct name="Davisboro" votes="58" />
+                <Precinct name="Sandersville" votes="1090" />
+                <Precinct name="Deepstep" votes="33" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1283">
+                <Precinct name="Riddleville" votes="55" />
+                <Precinct name="Warthen" votes="90" />
+                <Precinct name="Tennille" votes="305" />
+                <Precinct name="Oconee" votes="61" />
+                <Precinct name="Harrison" votes="86" />
+                <Precinct name="Davisboro" votes="110" />
+                <Precinct name="Sandersville" votes="537" />
+                <Precinct name="Deepstep" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="1" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="State Senate - District 26" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="2271">
+            <Precinct name="Riddleville" votes="139" />
+            <Precinct name="Warthen" votes="150" />
+            <Precinct name="Tennille" votes="343" />
+            <Precinct name="Oconee" votes="132" />
+            <Precinct name="Harrison" votes="246" />
+            <Precinct name="Davisboro" votes="159" />
+            <Precinct name="Sandersville" votes="954" />
+            <Precinct name="Deepstep" votes="148" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="28" text="David E. Lucas, Sr. (I) (Dem)" totalVotes="5390">
+            <VoteType name="Absentee by Mail Votes" votes="579">
+                <Precinct name="Riddleville" votes="16" />
+                <Precinct name="Warthen" votes="21" />
+                <Precinct name="Tennille" votes="87" />
+                <Precinct name="Oconee" votes="23" />
+                <Precinct name="Harrison" votes="27" />
+                <Precinct name="Davisboro" votes="25" />
+                <Precinct name="Sandersville" votes="360" />
+                <Precinct name="Deepstep" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2629">
+                <Precinct name="Riddleville" votes="85" />
+                <Precinct name="Warthen" votes="98" />
+                <Precinct name="Tennille" votes="524" />
+                <Precinct name="Oconee" votes="88" />
+                <Precinct name="Harrison" votes="151" />
+                <Precinct name="Davisboro" votes="109" />
+                <Precinct name="Sandersville" votes="1519" />
+                <Precinct name="Deepstep" votes="55" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2179">
+                <Precinct name="Riddleville" votes="123" />
+                <Precinct name="Warthen" votes="177" />
+                <Precinct name="Tennille" votes="446" />
+                <Precinct name="Oconee" votes="118" />
+                <Precinct name="Harrison" votes="189" />
+                <Precinct name="Davisboro" votes="199" />
+                <Precinct name="Sandersville" votes="798" />
+                <Precinct name="Deepstep" votes="129" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="1" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="State House - District 128" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="1896">
+            <Precinct name="Riddleville" votes="117" />
+            <Precinct name="Warthen" votes="128" />
+            <Precinct name="Tennille" votes="281" />
+            <Precinct name="Oconee" votes="125" />
+            <Precinct name="Harrison" votes="212" />
+            <Precinct name="Davisboro" votes="140" />
+            <Precinct name="Sandersville" votes="762" />
+            <Precinct name="Deepstep" votes="131" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="29" text="Mack Jackson (I) (Dem)" totalVotes="5807">
+            <VoteType name="Absentee by Mail Votes" votes="590">
+                <Precinct name="Riddleville" votes="18" />
+                <Precinct name="Warthen" votes="22" />
+                <Precinct name="Tennille" votes="91" />
+                <Precinct name="Oconee" votes="22" />
+                <Precinct name="Harrison" votes="28" />
+                <Precinct name="Davisboro" votes="30" />
+                <Precinct name="Sandersville" votes="359" />
+                <Precinct name="Deepstep" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2909">
+                <Precinct name="Riddleville" votes="90" />
+                <Precinct name="Warthen" votes="109" />
+                <Precinct name="Tennille" votes="566" />
+                <Precinct name="Oconee" votes="91" />
+                <Precinct name="Harrison" votes="175" />
+                <Precinct name="Davisboro" votes="115" />
+                <Precinct name="Sandersville" votes="1698" />
+                <Precinct name="Deepstep" votes="65" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2305">
+                <Precinct name="Riddleville" votes="140" />
+                <Precinct name="Warthen" votes="189" />
+                <Precinct name="Tennille" votes="458" />
+                <Precinct name="Oconee" votes="125" />
+                <Precinct name="Harrison" votes="201" />
+                <Precinct name="Davisboro" votes="216" />
+                <Precinct name="Sandersville" votes="837" />
+                <Precinct name="Deepstep" votes="139" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="1" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="Chairman - County Commission" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="1711">
+            <Precinct name="Riddleville" votes="110" />
+            <Precinct name="Warthen" votes="96" />
+            <Precinct name="Tennille" votes="272" />
+            <Precinct name="Oconee" votes="109" />
+            <Precinct name="Harrison" votes="183" />
+            <Precinct name="Davisboro" votes="118" />
+            <Precinct name="Sandersville" votes="717" />
+            <Precinct name="Deepstep" votes="106" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="30" text="Horace M. Daniel, Sr. (I) (Dem)" totalVotes="6000">
+            <VoteType name="Absentee by Mail Votes" votes="587">
+                <Precinct name="Riddleville" votes="16" />
+                <Precinct name="Warthen" votes="24" />
+                <Precinct name="Tennille" votes="88" />
+                <Precinct name="Oconee" votes="23" />
+                <Precinct name="Harrison" votes="31" />
+                <Precinct name="Davisboro" votes="26" />
+                <Precinct name="Sandersville" votes="359" />
+                <Precinct name="Deepstep" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2984">
+                <Precinct name="Riddleville" votes="99" />
+                <Precinct name="Warthen" votes="115" />
+                <Precinct name="Tennille" votes="570" />
+                <Precinct name="Oconee" votes="100" />
+                <Precinct name="Harrison" votes="181" />
+                <Precinct name="Davisboro" votes="129" />
+                <Precinct name="Sandersville" votes="1722" />
+                <Precinct name="Deepstep" votes="68" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2426">
+                <Precinct name="Riddleville" votes="142" />
+                <Precinct name="Warthen" votes="213" />
+                <Precinct name="Tennille" votes="470" />
+                <Precinct name="Oconee" votes="132" />
+                <Precinct name="Harrison" votes="223" />
+                <Precinct name="Davisboro" votes="225" />
+                <Precinct name="Sandersville" votes="852" />
+                <Precinct name="Deepstep" votes="169" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="1" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="Bd of Commissioners - Dist 1" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="505">
+            <Precinct name="Warthen" votes="57" />
+            <Precinct name="Davisboro" votes="5" />
+            <Precinct name="Sandersville" votes="330" />
+            <Precinct name="Deepstep" votes="113" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="31" text="Doug Watkins (I) (Dem)" totalVotes="1721">
+            <VoteType name="Absentee by Mail Votes" votes="157">
+                <Precinct name="Warthen" votes="9" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="128" />
+                <Precinct name="Deepstep" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="912">
+                <Precinct name="Warthen" votes="56" />
+                <Precinct name="Davisboro" votes="14" />
+                <Precinct name="Sandersville" votes="775" />
+                <Precinct name="Deepstep" votes="67" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="652">
+                <Precinct name="Warthen" votes="105" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="384" />
+                <Precinct name="Deepstep" votes="163" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="Bd of Commissioners - Dist 2" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="448">
+            <Precinct name="Riddleville" votes="71" />
+            <Precinct name="Warthen" votes="64" />
+            <Precinct name="Davisboro" votes="126" />
+            <Precinct name="Sandersville" votes="187" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Bobby Jackson (Dem)" totalVotes="1489">
+            <VoteType name="Absentee by Mail Votes" votes="157">
+                <Precinct name="Riddleville" votes="11" />
+                <Precinct name="Warthen" votes="13" />
+                <Precinct name="Davisboro" votes="32" />
+                <Precinct name="Sandersville" votes="101" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="691">
+                <Precinct name="Riddleville" votes="43" />
+                <Precinct name="Warthen" votes="54" />
+                <Precinct name="Davisboro" votes="102" />
+                <Precinct name="Sandersville" votes="492" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="641">
+                <Precinct name="Riddleville" votes="73" />
+                <Precinct name="Warthen" votes="93" />
+                <Precinct name="Davisboro" votes="222" />
+                <Precinct name="Sandersville" votes="253" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="Bd of Commissioners - Dist 3" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="383">
+            <Precinct name="Riddleville" votes="40" />
+            <Precinct name="Tennille" votes="145" />
+            <Precinct name="Harrison" votes="149" />
+            <Precinct name="Sandersville" votes="49" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+        </VoteType>
+        <Choice key="33" text="James W. Hitchcock, Jr. (I) (Dem)" totalVotes="1498">
+            <VoteType name="Absentee by Mail Votes" votes="131">
+                <Precinct name="Riddleville" votes="6" />
+                <Precinct name="Tennille" votes="70" />
+                <Precinct name="Harrison" votes="29" />
+                <Precinct name="Sandersville" votes="26" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="712">
+                <Precinct name="Riddleville" votes="59" />
+                <Precinct name="Tennille" votes="349" />
+                <Precinct name="Harrison" votes="195" />
+                <Precinct name="Sandersville" votes="109" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="653">
+                <Precinct name="Riddleville" votes="70" />
+                <Precinct name="Tennille" votes="302" />
+                <Precinct name="Harrison" votes="247" />
+                <Precinct name="Sandersville" votes="34" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Sandersville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Bd of Commissioners - Dist 4" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="406">
+            <Precinct name="Tennille" votes="115" />
+            <Precinct name="Oconee" votes="133" />
+            <Precinct name="Sandersville" votes="158" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+        </VoteType>
+        <Choice key="34" text="Frank &quot;&quot;Bossman&quot;&quot; Simmons (I) (Dem)" totalVotes="1286">
+            <VoteType name="Absentee by Mail Votes" votes="161">
+                <Precinct name="Tennille" votes="25" />
+                <Precinct name="Oconee" votes="23" />
+                <Precinct name="Sandersville" votes="113" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="655">
+                <Precinct name="Tennille" votes="222" />
+                <Precinct name="Oconee" votes="86" />
+                <Precinct name="Sandersville" votes="347" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="470">
+                <Precinct name="Tennille" votes="171" />
+                <Precinct name="Oconee" votes="118" />
+                <Precinct name="Sandersville" votes="181" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Chairman - Bd of Education" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="1859">
+            <Precinct name="Riddleville" votes="111" />
+            <Precinct name="Warthen" votes="121" />
+            <Precinct name="Tennille" votes="283" />
+            <Precinct name="Oconee" votes="118" />
+            <Precinct name="Harrison" votes="189" />
+            <Precinct name="Davisboro" votes="134" />
+            <Precinct name="Sandersville" votes="770" />
+            <Precinct name="Deepstep" votes="133" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="35" text="Robert Blocker, Jr. (Dem)" totalVotes="5892">
+            <VoteType name="Absentee by Mail Votes" votes="582">
+                <Precinct name="Riddleville" votes="17" />
+                <Precinct name="Warthen" votes="23" />
+                <Precinct name="Tennille" votes="91" />
+                <Precinct name="Oconee" votes="23" />
+                <Precinct name="Harrison" votes="28" />
+                <Precinct name="Davisboro" votes="29" />
+                <Precinct name="Sandersville" votes="352" />
+                <Precinct name="Deepstep" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2918">
+                <Precinct name="Riddleville" votes="98" />
+                <Precinct name="Warthen" votes="107" />
+                <Precinct name="Tennille" votes="565" />
+                <Precinct name="Oconee" votes="93" />
+                <Precinct name="Harrison" votes="177" />
+                <Precinct name="Davisboro" votes="121" />
+                <Precinct name="Sandersville" votes="1692" />
+                <Precinct name="Deepstep" votes="65" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2389">
+                <Precinct name="Riddleville" votes="145" />
+                <Precinct name="Warthen" votes="197" />
+                <Precinct name="Tennille" votes="464" />
+                <Precinct name="Oconee" votes="132" />
+                <Precinct name="Harrison" votes="225" />
+                <Precinct name="Davisboro" votes="222" />
+                <Precinct name="Sandersville" votes="857" />
+                <Precinct name="Deepstep" votes="147" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="1" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="Bd of Education - Dist 1" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="589">
+            <Precinct name="Warthen" votes="62" />
+            <Precinct name="Davisboro" votes="5" />
+            <Precinct name="Sandersville" votes="391" />
+            <Precinct name="Deepstep" votes="131" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="36" text="Alan Gray (Dem)" totalVotes="1642">
+            <VoteType name="Absentee by Mail Votes" votes="148">
+                <Precinct name="Warthen" votes="9" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="119" />
+                <Precinct name="Deepstep" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="864">
+                <Precinct name="Warthen" votes="50" />
+                <Precinct name="Davisboro" votes="14" />
+                <Precinct name="Sandersville" votes="735" />
+                <Precinct name="Deepstep" votes="65" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="630">
+                <Precinct name="Warthen" votes="105" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="377" />
+                <Precinct name="Deepstep" votes="148" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="Bd of Education - Dist 2" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="515">
+            <Precinct name="Riddleville" votes="79" />
+            <Precinct name="Warthen" votes="68" />
+            <Precinct name="Davisboro" votes="144" />
+            <Precinct name="Sandersville" votes="224" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Kristi Jenkins (Dem)" totalVotes="1415">
+            <VoteType name="Absentee by Mail Votes" votes="146">
+                <Precinct name="Riddleville" votes="9" />
+                <Precinct name="Warthen" votes="14" />
+                <Precinct name="Davisboro" votes="24" />
+                <Precinct name="Sandersville" votes="99" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="658">
+                <Precinct name="Riddleville" votes="39" />
+                <Precinct name="Warthen" votes="55" />
+                <Precinct name="Davisboro" votes="102" />
+                <Precinct name="Sandersville" votes="462" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="611">
+                <Precinct name="Riddleville" votes="71" />
+                <Precinct name="Warthen" votes="87" />
+                <Precinct name="Davisboro" votes="210" />
+                <Precinct name="Sandersville" votes="243" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="Bd of Education - Dist 3" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="434">
+            <Precinct name="Riddleville" votes="41" />
+            <Precinct name="Tennille" votes="160" />
+            <Precinct name="Harrison" votes="186" />
+            <Precinct name="Sandersville" votes="47" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+        </VoteType>
+        <Choice key="38" text="Leigh Jordan (Dem)" totalVotes="1450">
+            <VoteType name="Absentee by Mail Votes" votes="123">
+                <Precinct name="Riddleville" votes="6" />
+                <Precinct name="Tennille" votes="66" />
+                <Precinct name="Harrison" votes="25" />
+                <Precinct name="Sandersville" votes="26" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="684">
+                <Precinct name="Riddleville" votes="56" />
+                <Precinct name="Tennille" votes="343" />
+                <Precinct name="Harrison" votes="176" />
+                <Precinct name="Sandersville" votes="109" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="641">
+                <Precinct name="Riddleville" votes="71" />
+                <Precinct name="Tennille" votes="298" />
+                <Precinct name="Harrison" votes="236" />
+                <Precinct name="Sandersville" votes="36" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Sandersville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="Bd of Education - Dist 4" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="350">
+            <Precinct name="Tennille" votes="102" />
+            <Precinct name="Oconee" votes="114" />
+            <Precinct name="Sandersville" votes="134" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Melvin Williams (Dem)" totalVotes="1360">
+            <VoteType name="Absentee by Mail Votes" votes="164">
+                <Precinct name="Tennille" votes="25" />
+                <Precinct name="Oconee" votes="22" />
+                <Precinct name="Sandersville" votes="117" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="693">
+                <Precinct name="Tennille" votes="231" />
+                <Precinct name="Oconee" votes="95" />
+                <Precinct name="Sandersville" votes="367" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="503">
+                <Precinct name="Tennille" votes="181" />
+                <Precinct name="Oconee" votes="135" />
+                <Precinct name="Sandersville" votes="187" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="Soil and Water" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="2136">
+            <Precinct name="Riddleville" votes="92" />
+            <Precinct name="Warthen" votes="135" />
+            <Precinct name="Tennille" votes="355" />
+            <Precinct name="Oconee" votes="128" />
+            <Precinct name="Harrison" votes="187" />
+            <Precinct name="Davisboro" votes="146" />
+            <Precinct name="Sandersville" votes="986" />
+            <Precinct name="Deepstep" votes="107" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="40" text="Rufus H. Hartley, Jr." totalVotes="5694">
+            <VoteType name="Absentee by Mail Votes" votes="560">
+                <Precinct name="Riddleville" votes="19" />
+                <Precinct name="Warthen" votes="19" />
+                <Precinct name="Tennille" votes="84" />
+                <Precinct name="Oconee" votes="19" />
+                <Precinct name="Harrison" votes="25" />
+                <Precinct name="Davisboro" votes="29" />
+                <Precinct name="Sandersville" votes="348" />
+                <Precinct name="Deepstep" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2791">
+                <Precinct name="Riddleville" votes="105" />
+                <Precinct name="Warthen" votes="109" />
+                <Precinct name="Tennille" votes="543" />
+                <Precinct name="Oconee" votes="88" />
+                <Precinct name="Harrison" votes="176" />
+                <Precinct name="Davisboro" votes="131" />
+                <Precinct name="Sandersville" votes="1571" />
+                <Precinct name="Deepstep" votes="68" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2340">
+                <Precinct name="Riddleville" votes="159" />
+                <Precinct name="Warthen" votes="193" />
+                <Precinct name="Tennille" votes="437" />
+                <Precinct name="Oconee" votes="133" />
+                <Precinct name="Harrison" votes="241" />
+                <Precinct name="Davisboro" votes="209" />
+                <Precinct name="Sandersville" votes="790" />
+                <Precinct name="Deepstep" votes="178" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="1" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="Proposed Constitutional Amendment 1" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="733">
+            <Precinct name="Riddleville" votes="29" />
+            <Precinct name="Warthen" votes="48" />
+            <Precinct name="Tennille" votes="112" />
+            <Precinct name="Oconee" votes="49" />
+            <Precinct name="Harrison" votes="81" />
+            <Precinct name="Davisboro" votes="50" />
+            <Precinct name="Sandersville" votes="331" />
+            <Precinct name="Deepstep" votes="33" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Yes" totalVotes="5988">
+            <VoteType name="Absentee by Mail Votes" votes="555">
+                <Precinct name="Riddleville" votes="16" />
+                <Precinct name="Warthen" votes="21" />
+                <Precinct name="Tennille" votes="81" />
+                <Precinct name="Oconee" votes="27" />
+                <Precinct name="Harrison" votes="26" />
+                <Precinct name="Davisboro" votes="35" />
+                <Precinct name="Sandersville" votes="328" />
+                <Precinct name="Deepstep" votes="21" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2975">
+                <Precinct name="Riddleville" votes="112" />
+                <Precinct name="Warthen" votes="123" />
+                <Precinct name="Tennille" votes="559" />
+                <Precinct name="Oconee" votes="86" />
+                <Precinct name="Harrison" votes="190" />
+                <Precinct name="Davisboro" votes="138" />
+                <Precinct name="Sandersville" votes="1693" />
+                <Precinct name="Deepstep" votes="74" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2457">
+                <Precinct name="Riddleville" votes="158" />
+                <Precinct name="Warthen" votes="213" />
+                <Precinct name="Tennille" votes="455" />
+                <Precinct name="Oconee" votes="156" />
+                <Precinct name="Harrison" votes="243" />
+                <Precinct name="Davisboro" votes="222" />
+                <Precinct name="Sandersville" votes="813" />
+                <Precinct name="Deepstep" votes="197" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="42" text="No" totalVotes="1109">
+            <VoteType name="Absentee by Mail Votes" votes="126">
+                <Precinct name="Riddleville" votes="5" />
+                <Precinct name="Warthen" votes="4" />
+                <Precinct name="Tennille" votes="19" />
+                <Precinct name="Oconee" votes="5" />
+                <Precinct name="Harrison" votes="7" />
+                <Precinct name="Davisboro" votes="4" />
+                <Precinct name="Sandersville" votes="78" />
+                <Precinct name="Deepstep" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="528">
+                <Precinct name="Riddleville" votes="18" />
+                <Precinct name="Warthen" votes="13" />
+                <Precinct name="Tennille" votes="116" />
+                <Precinct name="Oconee" votes="17" />
+                <Precinct name="Harrison" votes="36" />
+                <Precinct name="Davisboro" votes="26" />
+                <Precinct name="Sandersville" votes="286" />
+                <Precinct name="Deepstep" votes="16" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="454">
+                <Precinct name="Riddleville" votes="37" />
+                <Precinct name="Warthen" votes="34" />
+                <Precinct name="Tennille" votes="77" />
+                <Precinct name="Oconee" votes="28" />
+                <Precinct name="Harrison" votes="46" />
+                <Precinct name="Davisboro" votes="40" />
+                <Precinct name="Sandersville" votes="167" />
+                <Precinct name="Deepstep" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="Proposed Constitutional Amendment 2" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="503">
+            <Precinct name="Riddleville" votes="19" />
+            <Precinct name="Warthen" votes="32" />
+            <Precinct name="Tennille" votes="76" />
+            <Precinct name="Oconee" votes="41" />
+            <Precinct name="Harrison" votes="49" />
+            <Precinct name="Davisboro" votes="36" />
+            <Precinct name="Sandersville" votes="231" />
+            <Precinct name="Deepstep" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="0" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="43" text="Yes" totalVotes="6562">
+            <VoteType name="Absentee by Mail Votes" votes="608">
+                <Precinct name="Riddleville" votes="21" />
+                <Precinct name="Warthen" votes="23" />
+                <Precinct name="Tennille" votes="84" />
+                <Precinct name="Oconee" votes="26" />
+                <Precinct name="Harrison" votes="29" />
+                <Precinct name="Davisboro" votes="37" />
+                <Precinct name="Sandersville" votes="365" />
+                <Precinct name="Deepstep" votes="23" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3272">
+                <Precinct name="Riddleville" votes="126" />
+                <Precinct name="Warthen" votes="130" />
+                <Precinct name="Tennille" votes="621" />
+                <Precinct name="Oconee" votes="101" />
+                <Precinct name="Harrison" votes="221" />
+                <Precinct name="Davisboro" votes="156" />
+                <Precinct name="Sandersville" votes="1832" />
+                <Precinct name="Deepstep" votes="85" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2680">
+                <Precinct name="Riddleville" votes="184" />
+                <Precinct name="Warthen" votes="232" />
+                <Precinct name="Tennille" votes="494" />
+                <Precinct name="Oconee" votes="166" />
+                <Precinct name="Harrison" votes="278" />
+                <Precinct name="Davisboro" votes="236" />
+                <Precinct name="Sandersville" votes="880" />
+                <Precinct name="Deepstep" votes="210" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="No" totalVotes="765">
+            <VoteType name="Absentee by Mail Votes" votes="76">
+                <Precinct name="Riddleville" votes="1" />
+                <Precinct name="Warthen" votes="2" />
+                <Precinct name="Tennille" votes="16" />
+                <Precinct name="Oconee" votes="6" />
+                <Precinct name="Harrison" votes="5" />
+                <Precinct name="Davisboro" votes="1" />
+                <Precinct name="Sandersville" votes="43" />
+                <Precinct name="Deepstep" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="361">
+                <Precinct name="Riddleville" votes="8" />
+                <Precinct name="Warthen" votes="9" />
+                <Precinct name="Tennille" votes="72" />
+                <Precinct name="Oconee" votes="7" />
+                <Precinct name="Harrison" votes="18" />
+                <Precinct name="Davisboro" votes="13" />
+                <Precinct name="Sandersville" votes="225" />
+                <Precinct name="Deepstep" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="328">
+                <Precinct name="Riddleville" votes="16" />
+                <Precinct name="Warthen" votes="28" />
+                <Precinct name="Tennille" votes="56" />
+                <Precinct name="Oconee" votes="21" />
+                <Precinct name="Harrison" votes="29" />
+                <Precinct name="Davisboro" votes="36" />
+                <Precinct name="Sandersville" votes="120" />
+                <Precinct name="Deepstep" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="Statewide Referendum Question A" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="654">
+            <Precinct name="Riddleville" votes="27" />
+            <Precinct name="Warthen" votes="42" />
+            <Precinct name="Tennille" votes="99" />
+            <Precinct name="Oconee" votes="47" />
+            <Precinct name="Harrison" votes="60" />
+            <Precinct name="Davisboro" votes="46" />
+            <Precinct name="Sandersville" votes="306" />
+            <Precinct name="Deepstep" votes="27" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="1">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="0" />
+            <Precinct name="Sandersville" votes="1" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Yes" totalVotes="4497">
+            <VoteType name="Absentee by Mail Votes" votes="324">
+                <Precinct name="Riddleville" votes="16" />
+                <Precinct name="Warthen" votes="12" />
+                <Precinct name="Tennille" votes="58" />
+                <Precinct name="Oconee" votes="20" />
+                <Precinct name="Harrison" votes="16" />
+                <Precinct name="Davisboro" votes="16" />
+                <Precinct name="Sandersville" votes="179" />
+                <Precinct name="Deepstep" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2166">
+                <Precinct name="Riddleville" votes="85" />
+                <Precinct name="Warthen" votes="87" />
+                <Precinct name="Tennille" votes="409" />
+                <Precinct name="Oconee" votes="67" />
+                <Precinct name="Harrison" votes="143" />
+                <Precinct name="Davisboro" votes="105" />
+                <Precinct name="Sandersville" votes="1220" />
+                <Precinct name="Deepstep" votes="50" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2005">
+                <Precinct name="Riddleville" votes="135" />
+                <Precinct name="Warthen" votes="182" />
+                <Precinct name="Tennille" votes="373" />
+                <Precinct name="Oconee" votes="131" />
+                <Precinct name="Harrison" votes="195" />
+                <Precinct name="Davisboro" votes="186" />
+                <Precinct name="Sandersville" votes="656" />
+                <Precinct name="Deepstep" votes="147" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="No" totalVotes="2678">
+            <VoteType name="Absentee by Mail Votes" votes="344">
+                <Precinct name="Riddleville" votes="4" />
+                <Precinct name="Warthen" votes="13" />
+                <Precinct name="Tennille" votes="41" />
+                <Precinct name="Oconee" votes="12" />
+                <Precinct name="Harrison" votes="18" />
+                <Precinct name="Davisboro" votes="20" />
+                <Precinct name="Sandersville" votes="219" />
+                <Precinct name="Deepstep" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1382">
+                <Precinct name="Riddleville" votes="46" />
+                <Precinct name="Warthen" votes="51" />
+                <Precinct name="Tennille" votes="270" />
+                <Precinct name="Oconee" votes="39" />
+                <Precinct name="Harrison" votes="90" />
+                <Precinct name="Davisboro" votes="60" />
+                <Precinct name="Sandersville" votes="784" />
+                <Precinct name="Deepstep" votes="42" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="952">
+                <Precinct name="Riddleville" votes="62" />
+                <Precinct name="Warthen" votes="69" />
+                <Precinct name="Tennille" votes="169" />
+                <Precinct name="Oconee" votes="52" />
+                <Precinct name="Harrison" votes="107" />
+                <Precinct name="Davisboro" votes="82" />
+                <Precinct name="Sandersville" votes="331" />
+                <Precinct name="Deepstep" votes="80" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="Statewide Referendum Question B" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="605">
+            <Precinct name="Riddleville" votes="26" />
+            <Precinct name="Warthen" votes="36" />
+            <Precinct name="Tennille" votes="104" />
+            <Precinct name="Oconee" votes="40" />
+            <Precinct name="Harrison" votes="54" />
+            <Precinct name="Davisboro" votes="41" />
+            <Precinct name="Sandersville" votes="282" />
+            <Precinct name="Deepstep" votes="22" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="1">
+            <Precinct name="Riddleville" votes="0" />
+            <Precinct name="Warthen" votes="0" />
+            <Precinct name="Tennille" votes="0" />
+            <Precinct name="Oconee" votes="0" />
+            <Precinct name="Harrison" votes="0" />
+            <Precinct name="Davisboro" votes="1" />
+            <Precinct name="Sandersville" votes="0" />
+            <Precinct name="Deepstep" votes="0" />
+        </VoteType>
+        <Choice key="47" text="Yes" totalVotes="5399">
+            <VoteType name="Absentee by Mail Votes" votes="389">
+                <Precinct name="Riddleville" votes="18" />
+                <Precinct name="Warthen" votes="15" />
+                <Precinct name="Tennille" votes="58" />
+                <Precinct name="Oconee" votes="23" />
+                <Precinct name="Harrison" votes="22" />
+                <Precinct name="Davisboro" votes="22" />
+                <Precinct name="Sandersville" votes="221" />
+                <Precinct name="Deepstep" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2621">
+                <Precinct name="Riddleville" votes="94" />
+                <Precinct name="Warthen" votes="109" />
+                <Precinct name="Tennille" votes="493" />
+                <Precinct name="Oconee" votes="76" />
+                <Precinct name="Harrison" votes="181" />
+                <Precinct name="Davisboro" votes="141" />
+                <Precinct name="Sandersville" votes="1463" />
+                <Precinct name="Deepstep" votes="64" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2387">
+                <Precinct name="Riddleville" votes="164" />
+                <Precinct name="Warthen" votes="210" />
+                <Precinct name="Tennille" votes="436" />
+                <Precinct name="Oconee" votes="157" />
+                <Precinct name="Harrison" votes="241" />
+                <Precinct name="Davisboro" votes="221" />
+                <Precinct name="Sandersville" votes="768" />
+                <Precinct name="Deepstep" votes="190" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="1" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="1" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="48" text="No" totalVotes="1825">
+            <VoteType name="Absentee by Mail Votes" votes="272">
+                <Precinct name="Riddleville" votes="3" />
+                <Precinct name="Warthen" votes="10" />
+                <Precinct name="Tennille" votes="40" />
+                <Precinct name="Oconee" votes="9" />
+                <Precinct name="Harrison" votes="12" />
+                <Precinct name="Davisboro" votes="12" />
+                <Precinct name="Sandersville" votes="171" />
+                <Precinct name="Deepstep" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="960">
+                <Precinct name="Riddleville" votes="37" />
+                <Precinct name="Warthen" votes="32" />
+                <Precinct name="Tennille" votes="179" />
+                <Precinct name="Oconee" votes="32" />
+                <Precinct name="Harrison" votes="57" />
+                <Precinct name="Davisboro" votes="30" />
+                <Precinct name="Sandersville" votes="566" />
+                <Precinct name="Deepstep" votes="27" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="593">
+                <Precinct name="Riddleville" votes="33" />
+                <Precinct name="Warthen" votes="44" />
+                <Precinct name="Tennille" votes="109" />
+                <Precinct name="Oconee" votes="31" />
+                <Precinct name="Harrison" votes="62" />
+                <Precinct name="Davisboro" votes="47" />
+                <Precinct name="Sandersville" votes="225" />
+                <Precinct name="Deepstep" votes="42" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Riddleville" votes="0" />
+                <Precinct name="Warthen" votes="0" />
+                <Precinct name="Tennille" votes="0" />
+                <Precinct name="Oconee" votes="0" />
+                <Precinct name="Harrison" votes="0" />
+                <Precinct name="Davisboro" votes="0" />
+                <Precinct name="Sandersville" votes="0" />
+                <Precinct name="Deepstep" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

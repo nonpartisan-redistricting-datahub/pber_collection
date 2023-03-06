@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/6/2022 8:29:19 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Miller</Region>
+    <VoterTurnout totalVoters="3752" ballotsCast="1935" voterTurnout="51.57">
+        <Precincts>
+            <Precinct name="Colquitt-Miller" totalVoters="3752" ballotsCast="1935" voterTurnout="51.57" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colquitt-Miller" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="1493">
+            <VoteType name="Absentee by Mail Votes" votes="66">
+                <Precinct name="Colquitt-Miller" votes="66" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="754">
+                <Precinct name="Colquitt-Miller" votes="754" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="673">
+                <Precinct name="Colquitt-Miller" votes="673" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="442">
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Colquitt-Miller" votes="35" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="222">
+                <Precinct name="Colquitt-Miller" votes="222" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="185">
+                <Precinct name="Colquitt-Miller" votes="185" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colquitt-Miller" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,1799 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/14/2022 9:18:57 AM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Randolph</Region>
+    <VoterTurnout totalVoters="4228" ballotsCast="2581" voterTurnout="61.05">
+        <Precincts>
+            <Precinct name="Coleman" totalVoters="238" ballotsCast="156" voterTurnout="65.55" percentReporting="4" />
+            <Precinct name="Shellman" totalVoters="889" ballotsCast="575" voterTurnout="64.68" percentReporting="4" />
+            <Precinct name="Benevolence" totalVoters="248" ballotsCast="172" voterTurnout="69.35" percentReporting="4" />
+            <Precinct name="Cuthbert-Courthouse" totalVoters="2247" ballotsCast="1338" voterTurnout="59.55" percentReporting="4" />
+            <Precinct name="Cuthbert" totalVoters="356" ballotsCast="179" voterTurnout="50.28" percentReporting="4" />
+            <Precinct name="Springvale" totalVoters="255" ballotsCast="161" voterTurnout="63.14" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="33">
+            <Precinct name="Coleman" votes="2" />
+            <Precinct name="Shellman" votes="12" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="17" />
+            <Precinct name="Cuthbert" votes="1" />
+            <Precinct name="Springvale" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="1158">
+            <VoteType name="Absentee by Mail Votes" votes="37">
+                <Precinct name="Coleman" votes="4" />
+                <Precinct name="Shellman" votes="10" />
+                <Precinct name="Benevolence" votes="3" />
+                <Precinct name="Cuthbert-Courthouse" votes="13" />
+                <Precinct name="Cuthbert" votes="1" />
+                <Precinct name="Springvale" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="628">
+                <Precinct name="Coleman" votes="40" />
+                <Precinct name="Shellman" votes="101" />
+                <Precinct name="Benevolence" votes="53" />
+                <Precinct name="Cuthbert-Courthouse" votes="417" />
+                <Precinct name="Cuthbert" votes="3" />
+                <Precinct name="Springvale" votes="14" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="492">
+                <Precinct name="Coleman" votes="50" />
+                <Precinct name="Shellman" votes="171" />
+                <Precinct name="Benevolence" votes="59" />
+                <Precinct name="Cuthbert-Courthouse" votes="184" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="28" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="1" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1366">
+            <VoteType name="Absentee by Mail Votes" votes="194">
+                <Precinct name="Coleman" votes="3" />
+                <Precinct name="Shellman" votes="60" />
+                <Precinct name="Benevolence" votes="3" />
+                <Precinct name="Cuthbert-Courthouse" votes="106" />
+                <Precinct name="Cuthbert" votes="16" />
+                <Precinct name="Springvale" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="688">
+                <Precinct name="Coleman" votes="20" />
+                <Precinct name="Shellman" votes="66" />
+                <Precinct name="Benevolence" votes="18" />
+                <Precinct name="Cuthbert-Courthouse" votes="417" />
+                <Precinct name="Cuthbert" votes="98" />
+                <Precinct name="Springvale" votes="69" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="484">
+                <Precinct name="Coleman" votes="36" />
+                <Precinct name="Shellman" votes="148" />
+                <Precinct name="Benevolence" votes="36" />
+                <Precinct name="Cuthbert-Courthouse" votes="172" />
+                <Precinct name="Cuthbert" votes="56" />
+                <Precinct name="Springvale" votes="36" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Chase Oliver (L)" totalVotes="23">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="1" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="2" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="9" />
+                <Precinct name="Cuthbert" votes="1" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Coleman" votes="1" />
+                <Precinct name="Shellman" votes="4" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="2" />
+                <Precinct name="Cuthbert" votes="3" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="16">
+            <Precinct name="Coleman" votes="1" />
+            <Precinct name="Shellman" votes="5" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="10" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="4" text="Brian Kemp (I) (Rep)" totalVotes="1243">
+            <VoteType name="Absentee by Mail Votes" votes="42">
+                <Precinct name="Coleman" votes="5" />
+                <Precinct name="Shellman" votes="10" />
+                <Precinct name="Benevolence" votes="3" />
+                <Precinct name="Cuthbert-Courthouse" votes="16" />
+                <Precinct name="Cuthbert" votes="1" />
+                <Precinct name="Springvale" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="674">
+                <Precinct name="Coleman" votes="45" />
+                <Precinct name="Shellman" votes="108" />
+                <Precinct name="Benevolence" votes="55" />
+                <Precinct name="Cuthbert-Courthouse" votes="446" />
+                <Precinct name="Cuthbert" votes="4" />
+                <Precinct name="Springvale" votes="16" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="526">
+                <Precinct name="Coleman" votes="52" />
+                <Precinct name="Shellman" votes="186" />
+                <Precinct name="Benevolence" votes="62" />
+                <Precinct name="Cuthbert-Courthouse" votes="195" />
+                <Precinct name="Cuthbert" votes="2" />
+                <Precinct name="Springvale" votes="29" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="1" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Stacey Abrams (Dem)" totalVotes="1317">
+            <VoteType name="Absentee by Mail Votes" votes="189">
+                <Precinct name="Coleman" votes="2" />
+                <Precinct name="Shellman" votes="60" />
+                <Precinct name="Benevolence" votes="3" />
+                <Precinct name="Cuthbert-Courthouse" votes="103" />
+                <Precinct name="Cuthbert" votes="16" />
+                <Precinct name="Springvale" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="663">
+                <Precinct name="Coleman" votes="15" />
+                <Precinct name="Shellman" votes="64" />
+                <Precinct name="Benevolence" votes="16" />
+                <Precinct name="Cuthbert-Courthouse" votes="402" />
+                <Precinct name="Cuthbert" votes="98" />
+                <Precinct name="Springvale" votes="68" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="465">
+                <Precinct name="Coleman" votes="36" />
+                <Precinct name="Shellman" votes="140" />
+                <Precinct name="Benevolence" votes="33" />
+                <Precinct name="Cuthbert-Courthouse" votes="163" />
+                <Precinct name="Cuthbert" votes="57" />
+                <Precinct name="Springvale" votes="36" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="7" text="Shane Hazel (L)" totalVotes="5">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="1" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="3" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="1" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="73">
+            <Precinct name="Coleman" votes="2" />
+            <Precinct name="Shellman" votes="15" />
+            <Precinct name="Benevolence" votes="5" />
+            <Precinct name="Cuthbert-Courthouse" votes="42" />
+            <Precinct name="Cuthbert" votes="3" />
+            <Precinct name="Springvale" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="8" text="Burt Jones (Rep)" totalVotes="1198">
+            <VoteType name="Absentee by Mail Votes" votes="41">
+                <Precinct name="Coleman" votes="5" />
+                <Precinct name="Shellman" votes="10" />
+                <Precinct name="Benevolence" votes="3" />
+                <Precinct name="Cuthbert-Courthouse" votes="15" />
+                <Precinct name="Cuthbert" votes="1" />
+                <Precinct name="Springvale" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="653">
+                <Precinct name="Coleman" votes="44" />
+                <Precinct name="Shellman" votes="103" />
+                <Precinct name="Benevolence" votes="52" />
+                <Precinct name="Cuthbert-Courthouse" votes="434" />
+                <Precinct name="Cuthbert" votes="4" />
+                <Precinct name="Springvale" votes="16" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="503">
+                <Precinct name="Coleman" votes="51" />
+                <Precinct name="Shellman" votes="178" />
+                <Precinct name="Benevolence" votes="59" />
+                <Precinct name="Cuthbert-Courthouse" votes="186" />
+                <Precinct name="Cuthbert" votes="2" />
+                <Precinct name="Springvale" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="1" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="9" text="Charlie Bailey (Dem)" totalVotes="1283">
+            <VoteType name="Absentee by Mail Votes" votes="188">
+                <Precinct name="Coleman" votes="1" />
+                <Precinct name="Shellman" votes="60" />
+                <Precinct name="Benevolence" votes="3" />
+                <Precinct name="Cuthbert-Courthouse" votes="103" />
+                <Precinct name="Cuthbert" votes="16" />
+                <Precinct name="Springvale" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="641">
+                <Precinct name="Coleman" votes="16" />
+                <Precinct name="Shellman" votes="63" />
+                <Precinct name="Benevolence" votes="18" />
+                <Precinct name="Cuthbert-Courthouse" votes="383" />
+                <Precinct name="Cuthbert" votes="96" />
+                <Precinct name="Springvale" votes="65" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="454">
+                <Precinct name="Coleman" votes="34" />
+                <Precinct name="Shellman" votes="138" />
+                <Precinct name="Benevolence" votes="32" />
+                <Precinct name="Cuthbert-Courthouse" votes="159" />
+                <Precinct name="Cuthbert" votes="56" />
+                <Precinct name="Springvale" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="10" text="Ryan Graham (L)" totalVotes="27">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Coleman" votes="1" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="14">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="3" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="11" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Coleman" votes="2" />
+                <Precinct name="Shellman" votes="4" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="5" />
+                <Precinct name="Cuthbert" votes="1" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="79">
+            <Precinct name="Coleman" votes="2" />
+            <Precinct name="Shellman" votes="20" />
+            <Precinct name="Benevolence" votes="4" />
+            <Precinct name="Cuthbert-Courthouse" votes="44" />
+            <Precinct name="Cuthbert" votes="4" />
+            <Precinct name="Springvale" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="11" text="Brad Raffensperger (I) (Rep)" totalVotes="1245">
+            <VoteType name="Absentee by Mail Votes" votes="48">
+                <Precinct name="Coleman" votes="6" />
+                <Precinct name="Shellman" votes="10" />
+                <Precinct name="Benevolence" votes="4" />
+                <Precinct name="Cuthbert-Courthouse" votes="19" />
+                <Precinct name="Cuthbert" votes="2" />
+                <Precinct name="Springvale" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="674">
+                <Precinct name="Coleman" votes="41" />
+                <Precinct name="Shellman" votes="107" />
+                <Precinct name="Benevolence" votes="55" />
+                <Precinct name="Cuthbert-Courthouse" votes="447" />
+                <Precinct name="Cuthbert" votes="5" />
+                <Precinct name="Springvale" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="523">
+                <Precinct name="Coleman" votes="54" />
+                <Precinct name="Shellman" votes="187" />
+                <Precinct name="Benevolence" votes="58" />
+                <Precinct name="Cuthbert-Courthouse" votes="191" />
+                <Precinct name="Cuthbert" votes="6" />
+                <Precinct name="Springvale" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Bee Nguyen (Dem)" totalVotes="1211">
+            <VoteType name="Absentee by Mail Votes" votes="183">
+                <Precinct name="Coleman" votes="1" />
+                <Precinct name="Shellman" votes="60" />
+                <Precinct name="Benevolence" votes="2" />
+                <Precinct name="Cuthbert-Courthouse" votes="100" />
+                <Precinct name="Cuthbert" votes="15" />
+                <Precinct name="Springvale" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="602">
+                <Precinct name="Coleman" votes="17" />
+                <Precinct name="Shellman" votes="56" />
+                <Precinct name="Benevolence" votes="14" />
+                <Precinct name="Cuthbert-Courthouse" votes="358" />
+                <Precinct name="Cuthbert" votes="94" />
+                <Precinct name="Springvale" votes="63" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="426">
+                <Precinct name="Coleman" votes="31" />
+                <Precinct name="Shellman" votes="126" />
+                <Precinct name="Benevolence" votes="32" />
+                <Precinct name="Cuthbert-Courthouse" votes="152" />
+                <Precinct name="Cuthbert" votes="52" />
+                <Precinct name="Springvale" votes="33" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="13" text="Ted Metz (L)" totalVotes="46">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="25">
+                <Precinct name="Coleman" votes="2" />
+                <Precinct name="Shellman" votes="3" />
+                <Precinct name="Benevolence" votes="1" />
+                <Precinct name="Cuthbert-Courthouse" votes="19" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="21">
+                <Precinct name="Coleman" votes="2" />
+                <Precinct name="Shellman" votes="6" />
+                <Precinct name="Benevolence" votes="2" />
+                <Precinct name="Cuthbert-Courthouse" votes="8" />
+                <Precinct name="Cuthbert" votes="1" />
+                <Precinct name="Springvale" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="67">
+            <Precinct name="Coleman" votes="2" />
+            <Precinct name="Shellman" votes="16" />
+            <Precinct name="Benevolence" votes="2" />
+            <Precinct name="Cuthbert-Courthouse" votes="40" />
+            <Precinct name="Cuthbert" votes="3" />
+            <Precinct name="Springvale" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="14" text="Chris Carr (I) (Rep)" totalVotes="1217">
+            <VoteType name="Absentee by Mail Votes" votes="45">
+                <Precinct name="Coleman" votes="6" />
+                <Precinct name="Shellman" votes="10" />
+                <Precinct name="Benevolence" votes="3" />
+                <Precinct name="Cuthbert-Courthouse" votes="17" />
+                <Precinct name="Cuthbert" votes="2" />
+                <Precinct name="Springvale" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="668">
+                <Precinct name="Coleman" votes="44" />
+                <Precinct name="Shellman" votes="105" />
+                <Precinct name="Benevolence" votes="54" />
+                <Precinct name="Cuthbert-Courthouse" votes="443" />
+                <Precinct name="Cuthbert" votes="4" />
+                <Precinct name="Springvale" votes="18" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="503">
+                <Precinct name="Coleman" votes="50" />
+                <Precinct name="Shellman" votes="176" />
+                <Precinct name="Benevolence" votes="59" />
+                <Precinct name="Cuthbert-Courthouse" votes="187" />
+                <Precinct name="Cuthbert" votes="3" />
+                <Precinct name="Springvale" votes="28" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="1" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="15" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="1277">
+            <VoteType name="Absentee by Mail Votes" votes="181">
+                <Precinct name="Coleman" votes="1" />
+                <Precinct name="Shellman" votes="58" />
+                <Precinct name="Benevolence" votes="3" />
+                <Precinct name="Cuthbert-Courthouse" votes="99" />
+                <Precinct name="Cuthbert" votes="15" />
+                <Precinct name="Springvale" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="635">
+                <Precinct name="Coleman" votes="15" />
+                <Precinct name="Shellman" votes="62" />
+                <Precinct name="Benevolence" votes="17" />
+                <Precinct name="Cuthbert-Courthouse" votes="382" />
+                <Precinct name="Cuthbert" votes="96" />
+                <Precinct name="Springvale" votes="63" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="461">
+                <Precinct name="Coleman" votes="37" />
+                <Precinct name="Shellman" votes="142" />
+                <Precinct name="Benevolence" votes="34" />
+                <Precinct name="Cuthbert-Courthouse" votes="158" />
+                <Precinct name="Cuthbert" votes="55" />
+                <Precinct name="Springvale" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="16" text="Martin Cowen (L)" totalVotes="20">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="1" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="1" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="5" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Coleman" votes="1" />
+                <Precinct name="Shellman" votes="4" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="6" />
+                <Precinct name="Cuthbert" votes="1" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Commissioner of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="72">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="20" />
+            <Precinct name="Benevolence" votes="3" />
+            <Precinct name="Cuthbert-Courthouse" votes="40" />
+            <Precinct name="Cuthbert" votes="3" />
+            <Precinct name="Springvale" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="17" text="Tyler Harper (Rep)" totalVotes="1217">
+            <VoteType name="Absentee by Mail Votes" votes="43">
+                <Precinct name="Coleman" votes="6" />
+                <Precinct name="Shellman" votes="10" />
+                <Precinct name="Benevolence" votes="3" />
+                <Precinct name="Cuthbert-Courthouse" votes="16" />
+                <Precinct name="Cuthbert" votes="1" />
+                <Precinct name="Springvale" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="664">
+                <Precinct name="Coleman" votes="44" />
+                <Precinct name="Shellman" votes="104" />
+                <Precinct name="Benevolence" votes="54" />
+                <Precinct name="Cuthbert-Courthouse" votes="442" />
+                <Precinct name="Cuthbert" votes="3" />
+                <Precinct name="Springvale" votes="17" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="509">
+                <Precinct name="Coleman" votes="51" />
+                <Precinct name="Shellman" votes="175" />
+                <Precinct name="Benevolence" votes="60" />
+                <Precinct name="Cuthbert-Courthouse" votes="191" />
+                <Precinct name="Cuthbert" votes="3" />
+                <Precinct name="Springvale" votes="29" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="1" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="19" text="Nakita Hemingway (Dem)" totalVotes="1255">
+            <VoteType name="Absentee by Mail Votes" votes="187">
+                <Precinct name="Coleman" votes="1" />
+                <Precinct name="Shellman" votes="59" />
+                <Precinct name="Benevolence" votes="3" />
+                <Precinct name="Cuthbert-Courthouse" votes="103" />
+                <Precinct name="Cuthbert" votes="16" />
+                <Precinct name="Springvale" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="631">
+                <Precinct name="Coleman" votes="16" />
+                <Precinct name="Shellman" votes="60" />
+                <Precinct name="Benevolence" votes="17" />
+                <Precinct name="Cuthbert-Courthouse" votes="378" />
+                <Precinct name="Cuthbert" votes="95" />
+                <Precinct name="Springvale" votes="65" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="437">
+                <Precinct name="Coleman" votes="32" />
+                <Precinct name="Shellman" votes="139" />
+                <Precinct name="Benevolence" votes="28" />
+                <Precinct name="Cuthbert-Courthouse" votes="153" />
+                <Precinct name="Cuthbert" votes="53" />
+                <Precinct name="Springvale" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="David Raudabaugh (L)" totalVotes="37">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="2" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="9" />
+                <Precinct name="Cuthbert" votes="2" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="24">
+                <Precinct name="Coleman" votes="6" />
+                <Precinct name="Shellman" votes="5" />
+                <Precinct name="Benevolence" votes="4" />
+                <Precinct name="Cuthbert-Courthouse" votes="6" />
+                <Precinct name="Cuthbert" votes="3" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="Commissioner of Insurance" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="80">
+            <Precinct name="Coleman" votes="2" />
+            <Precinct name="Shellman" votes="18" />
+            <Precinct name="Benevolence" votes="1" />
+            <Precinct name="Cuthbert-Courthouse" votes="52" />
+            <Precinct name="Cuthbert" votes="3" />
+            <Precinct name="Springvale" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="21" text="John King (I) (Rep)" totalVotes="1229">
+            <VoteType name="Absentee by Mail Votes" votes="48">
+                <Precinct name="Coleman" votes="6" />
+                <Precinct name="Shellman" votes="11" />
+                <Precinct name="Benevolence" votes="3" />
+                <Precinct name="Cuthbert-Courthouse" votes="19" />
+                <Precinct name="Cuthbert" votes="2" />
+                <Precinct name="Springvale" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="670">
+                <Precinct name="Coleman" votes="44" />
+                <Precinct name="Shellman" votes="105" />
+                <Precinct name="Benevolence" votes="53" />
+                <Precinct name="Cuthbert-Courthouse" votes="446" />
+                <Precinct name="Cuthbert" votes="5" />
+                <Precinct name="Springvale" votes="17" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="510">
+                <Precinct name="Coleman" votes="52" />
+                <Precinct name="Shellman" votes="177" />
+                <Precinct name="Benevolence" votes="60" />
+                <Precinct name="Cuthbert-Courthouse" votes="189" />
+                <Precinct name="Cuthbert" votes="4" />
+                <Precinct name="Springvale" votes="28" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="1" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Janice Laws Robinson (Dem)" totalVotes="1272">
+            <VoteType name="Absentee by Mail Votes" votes="181">
+                <Precinct name="Coleman" votes="1" />
+                <Precinct name="Shellman" votes="59" />
+                <Precinct name="Benevolence" votes="3" />
+                <Precinct name="Cuthbert-Courthouse" votes="99" />
+                <Precinct name="Cuthbert" votes="14" />
+                <Precinct name="Springvale" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="633">
+                <Precinct name="Coleman" votes="16" />
+                <Precinct name="Shellman" votes="61" />
+                <Precinct name="Benevolence" votes="18" />
+                <Precinct name="Cuthbert-Courthouse" votes="376" />
+                <Precinct name="Cuthbert" votes="96" />
+                <Precinct name="Springvale" votes="66" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="458">
+                <Precinct name="Coleman" votes="35" />
+                <Precinct name="Shellman" votes="143" />
+                <Precinct name="Benevolence" votes="34" />
+                <Precinct name="Cuthbert-Courthouse" votes="157" />
+                <Precinct name="Cuthbert" votes="55" />
+                <Precinct name="Springvale" votes="34" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="73">
+            <Precinct name="Coleman" votes="2" />
+            <Precinct name="Shellman" votes="18" />
+            <Precinct name="Benevolence" votes="2" />
+            <Precinct name="Cuthbert-Courthouse" votes="43" />
+            <Precinct name="Cuthbert" votes="2" />
+            <Precinct name="Springvale" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="23" text="Richard Woods (I) (Rep)" totalVotes="1234">
+            <VoteType name="Absentee by Mail Votes" votes="46">
+                <Precinct name="Coleman" votes="6" />
+                <Precinct name="Shellman" votes="10" />
+                <Precinct name="Benevolence" votes="4" />
+                <Precinct name="Cuthbert-Courthouse" votes="18" />
+                <Precinct name="Cuthbert" votes="1" />
+                <Precinct name="Springvale" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="675">
+                <Precinct name="Coleman" votes="44" />
+                <Precinct name="Shellman" votes="106" />
+                <Precinct name="Benevolence" votes="54" />
+                <Precinct name="Cuthbert-Courthouse" votes="450" />
+                <Precinct name="Cuthbert" votes="4" />
+                <Precinct name="Springvale" votes="17" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="512">
+                <Precinct name="Coleman" votes="54" />
+                <Precinct name="Shellman" votes="177" />
+                <Precinct name="Benevolence" votes="60" />
+                <Precinct name="Cuthbert-Courthouse" votes="190" />
+                <Precinct name="Cuthbert" votes="4" />
+                <Precinct name="Springvale" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="1" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="Alisha Thomas Searcy (Dem)" totalVotes="1274">
+            <VoteType name="Absentee by Mail Votes" votes="185">
+                <Precinct name="Coleman" votes="1" />
+                <Precinct name="Shellman" votes="60" />
+                <Precinct name="Benevolence" votes="2" />
+                <Precinct name="Cuthbert-Courthouse" votes="101" />
+                <Precinct name="Cuthbert" votes="16" />
+                <Precinct name="Springvale" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="634">
+                <Precinct name="Coleman" votes="16" />
+                <Precinct name="Shellman" votes="61" />
+                <Precinct name="Benevolence" votes="17" />
+                <Precinct name="Cuthbert-Courthouse" votes="377" />
+                <Precinct name="Cuthbert" votes="97" />
+                <Precinct name="Springvale" votes="66" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="455">
+                <Precinct name="Coleman" votes="33" />
+                <Precinct name="Shellman" votes="142" />
+                <Precinct name="Benevolence" votes="33" />
+                <Precinct name="Cuthbert-Courthouse" votes="159" />
+                <Precinct name="Cuthbert" votes="55" />
+                <Precinct name="Springvale" votes="33" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Commissioner of Labor" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="77">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="22" />
+            <Precinct name="Benevolence" votes="2" />
+            <Precinct name="Cuthbert-Courthouse" votes="43" />
+            <Precinct name="Cuthbert" votes="4" />
+            <Precinct name="Springvale" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="25" text="Bruce Thompson (Rep)" totalVotes="1204">
+            <VoteType name="Absentee by Mail Votes" votes="43">
+                <Precinct name="Coleman" votes="6" />
+                <Precinct name="Shellman" votes="10" />
+                <Precinct name="Benevolence" votes="3" />
+                <Precinct name="Cuthbert-Courthouse" votes="17" />
+                <Precinct name="Cuthbert" votes="1" />
+                <Precinct name="Springvale" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="657">
+                <Precinct name="Coleman" votes="45" />
+                <Precinct name="Shellman" votes="102" />
+                <Precinct name="Benevolence" votes="53" />
+                <Precinct name="Cuthbert-Courthouse" votes="437" />
+                <Precinct name="Cuthbert" votes="3" />
+                <Precinct name="Springvale" votes="17" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="503">
+                <Precinct name="Coleman" votes="52" />
+                <Precinct name="Shellman" votes="176" />
+                <Precinct name="Benevolence" votes="60" />
+                <Precinct name="Cuthbert-Courthouse" votes="185" />
+                <Precinct name="Cuthbert" votes="3" />
+                <Precinct name="Springvale" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="1" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="26" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="1279">
+            <VoteType name="Absentee by Mail Votes" votes="187">
+                <Precinct name="Coleman" votes="1" />
+                <Precinct name="Shellman" votes="60" />
+                <Precinct name="Benevolence" votes="3" />
+                <Precinct name="Cuthbert-Courthouse" votes="101" />
+                <Precinct name="Cuthbert" votes="16" />
+                <Precinct name="Springvale" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="639">
+                <Precinct name="Coleman" votes="15" />
+                <Precinct name="Shellman" votes="64" />
+                <Precinct name="Benevolence" votes="18" />
+                <Precinct name="Cuthbert-Courthouse" votes="381" />
+                <Precinct name="Cuthbert" votes="96" />
+                <Precinct name="Springvale" votes="65" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="453">
+                <Precinct name="Coleman" votes="35" />
+                <Precinct name="Shellman" votes="135" />
+                <Precinct name="Benevolence" votes="32" />
+                <Precinct name="Cuthbert-Courthouse" votes="163" />
+                <Precinct name="Cuthbert" votes="54" />
+                <Precinct name="Springvale" votes="34" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Emily Anderson (L)" totalVotes="21">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="1" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="7" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="13">
+                <Precinct name="Coleman" votes="2" />
+                <Precinct name="Shellman" votes="5" />
+                <Precinct name="Benevolence" votes="1" />
+                <Precinct name="Cuthbert-Courthouse" votes="3" />
+                <Precinct name="Cuthbert" votes="2" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="US House of Representatives - District 2" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="39">
+            <Precinct name="Coleman" votes="2" />
+            <Precinct name="Shellman" votes="13" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="21" />
+            <Precinct name="Cuthbert" votes="3" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="34" text="Chris West (Rep)" totalVotes="1114">
+            <VoteType name="Absentee by Mail Votes" votes="36">
+                <Precinct name="Coleman" votes="6" />
+                <Precinct name="Shellman" votes="7" />
+                <Precinct name="Benevolence" votes="1" />
+                <Precinct name="Cuthbert-Courthouse" votes="15" />
+                <Precinct name="Cuthbert" votes="1" />
+                <Precinct name="Springvale" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="602">
+                <Precinct name="Coleman" votes="38" />
+                <Precinct name="Shellman" votes="93" />
+                <Precinct name="Benevolence" votes="50" />
+                <Precinct name="Cuthbert-Courthouse" votes="403" />
+                <Precinct name="Cuthbert" votes="3" />
+                <Precinct name="Springvale" votes="15" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="475">
+                <Precinct name="Coleman" votes="52" />
+                <Precinct name="Shellman" votes="166" />
+                <Precinct name="Benevolence" votes="54" />
+                <Precinct name="Cuthbert-Courthouse" votes="173" />
+                <Precinct name="Cuthbert" votes="5" />
+                <Precinct name="Springvale" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="1" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="33" text="Sanford Bishop (I) (Dem)" totalVotes="1428">
+            <VoteType name="Absentee by Mail Votes" votes="195">
+                <Precinct name="Coleman" votes="1" />
+                <Precinct name="Shellman" votes="62" />
+                <Precinct name="Benevolence" votes="5" />
+                <Precinct name="Cuthbert-Courthouse" votes="105" />
+                <Precinct name="Cuthbert" votes="16" />
+                <Precinct name="Springvale" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="727">
+                <Precinct name="Coleman" votes="21" />
+                <Precinct name="Shellman" votes="77" />
+                <Precinct name="Benevolence" votes="21" />
+                <Precinct name="Cuthbert-Courthouse" votes="442" />
+                <Precinct name="Cuthbert" votes="97" />
+                <Precinct name="Springvale" votes="69" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="506">
+                <Precinct name="Coleman" votes="36" />
+                <Precinct name="Shellman" votes="156" />
+                <Precinct name="Benevolence" votes="41" />
+                <Precinct name="Cuthbert-Courthouse" votes="179" />
+                <Precinct name="Cuthbert" votes="54" />
+                <Precinct name="Springvale" votes="40" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="State Senate - District 12" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="566">
+            <Precinct name="Coleman" votes="41" />
+            <Precinct name="Shellman" votes="130" />
+            <Precinct name="Benevolence" votes="57" />
+            <Precinct name="Cuthbert-Courthouse" votes="292" />
+            <Precinct name="Cuthbert" votes="18" />
+            <Precinct name="Springvale" votes="28" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="35" text="Freddie Powell Sims (I) (Dem)" totalVotes="2012">
+            <VoteType name="Absentee by Mail Votes" votes="202">
+                <Precinct name="Coleman" votes="4" />
+                <Precinct name="Shellman" votes="64" />
+                <Precinct name="Benevolence" votes="4" />
+                <Precinct name="Cuthbert-Courthouse" votes="108" />
+                <Precinct name="Cuthbert" votes="12" />
+                <Precinct name="Springvale" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1054">
+                <Precinct name="Coleman" votes="43" />
+                <Precinct name="Shellman" votes="128" />
+                <Precinct name="Benevolence" votes="47" />
+                <Precinct name="Cuthbert-Courthouse" votes="667" />
+                <Precinct name="Cuthbert" votes="95" />
+                <Precinct name="Springvale" votes="74" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="756">
+                <Precinct name="Coleman" votes="67" />
+                <Precinct name="Shellman" votes="252" />
+                <Precinct name="Benevolence" votes="64" />
+                <Precinct name="Cuthbert-Courthouse" votes="270" />
+                <Precinct name="Cuthbert" votes="54" />
+                <Precinct name="Springvale" votes="49" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="State House of Representatives - District 154" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="42">
+            <Precinct name="Coleman" votes="1" />
+            <Precinct name="Shellman" votes="11" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="28" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="36" text="Gerald E. Greene (I) (Rep)" totalVotes="1527">
+            <VoteType name="Absentee by Mail Votes" votes="70">
+                <Precinct name="Coleman" votes="6" />
+                <Precinct name="Shellman" votes="13" />
+                <Precinct name="Benevolence" votes="6" />
+                <Precinct name="Cuthbert-Courthouse" votes="31" />
+                <Precinct name="Cuthbert" votes="4" />
+                <Precinct name="Springvale" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="834">
+                <Precinct name="Coleman" votes="46" />
+                <Precinct name="Shellman" votes="122" />
+                <Precinct name="Benevolence" votes="57" />
+                <Precinct name="Cuthbert-Courthouse" votes="550" />
+                <Precinct name="Cuthbert" votes="24" />
+                <Precinct name="Springvale" votes="35" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="622">
+                <Precinct name="Coleman" votes="63" />
+                <Precinct name="Shellman" votes="212" />
+                <Precinct name="Benevolence" votes="66" />
+                <Precinct name="Cuthbert-Courthouse" votes="229" />
+                <Precinct name="Cuthbert" votes="16" />
+                <Precinct name="Springvale" votes="36" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="1" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="37" text="John Hayes (Dem)" totalVotes="1012">
+            <VoteType name="Absentee by Mail Votes" votes="162">
+                <Precinct name="Coleman" votes="1" />
+                <Precinct name="Shellman" votes="57" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="89" />
+                <Precinct name="Cuthbert" votes="13" />
+                <Precinct name="Springvale" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="488">
+                <Precinct name="Coleman" votes="14" />
+                <Precinct name="Shellman" votes="47" />
+                <Precinct name="Benevolence" votes="14" />
+                <Precinct name="Cuthbert-Courthouse" votes="288" />
+                <Precinct name="Cuthbert" votes="78" />
+                <Precinct name="Springvale" votes="47" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="362">
+                <Precinct name="Coleman" votes="25" />
+                <Precinct name="Shellman" votes="112" />
+                <Precinct name="Benevolence" votes="29" />
+                <Precinct name="Cuthbert-Courthouse" votes="123" />
+                <Precinct name="Cuthbert" votes="44" />
+                <Precinct name="Springvale" votes="29" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="29" text="District Attorney - Pataula Judicial Circuit" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="739">
+            <Precinct name="Coleman" votes="33" />
+            <Precinct name="Shellman" votes="174" />
+            <Precinct name="Benevolence" votes="30" />
+            <Precinct name="Cuthbert-Courthouse" votes="363" />
+            <Precinct name="Cuthbert" votes="80" />
+            <Precinct name="Springvale" votes="59" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="38" text="Vic McNease (I) (Rep)" totalVotes="1840">
+            <VoteType name="Absentee by Mail Votes" votes="109">
+                <Precinct name="Coleman" votes="6" />
+                <Precinct name="Shellman" votes="25" />
+                <Precinct name="Benevolence" votes="5" />
+                <Precinct name="Cuthbert-Courthouse" votes="56" />
+                <Precinct name="Cuthbert" votes="9" />
+                <Precinct name="Springvale" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="983">
+                <Precinct name="Coleman" votes="51" />
+                <Precinct name="Shellman" votes="134" />
+                <Precinct name="Benevolence" votes="63" />
+                <Precinct name="Cuthbert-Courthouse" votes="631" />
+                <Precinct name="Cuthbert" votes="53" />
+                <Precinct name="Springvale" votes="51" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="747">
+                <Precinct name="Coleman" votes="66" />
+                <Precinct name="Shellman" votes="240" />
+                <Precinct name="Benevolence" votes="73" />
+                <Precinct name="Cuthbert-Courthouse" votes="288" />
+                <Precinct name="Cuthbert" votes="37" />
+                <Precinct name="Springvale" votes="43" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="1" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="31" text="County Commission D1" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="90">
+            <Precinct name="Coleman" votes="15" />
+            <Precinct name="Benevolence" votes="5" />
+            <Precinct name="Cuthbert-Courthouse" votes="37" />
+            <Precinct name="Springvale" votes="33" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Henry S. Davenport (I) (Dem)" totalVotes="469">
+            <VoteType name="Absentee by Mail Votes" votes="55">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Benevolence" votes="1" />
+                <Precinct name="Cuthbert-Courthouse" votes="46" />
+                <Precinct name="Springvale" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="275">
+                <Precinct name="Coleman" votes="24" />
+                <Precinct name="Benevolence" votes="7" />
+                <Precinct name="Cuthbert-Courthouse" votes="172" />
+                <Precinct name="Springvale" votes="72" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="139">
+                <Precinct name="Coleman" votes="33" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="58" />
+                <Precinct name="Springvale" votes="48" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="33" text="County Commission D5" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="26">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="12" />
+            <Precinct name="Cuthbert-Courthouse" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+        </VoteType>
+        <Choice key="40" text="Jimmie Allen (I) (Dem)" totalVotes="210">
+            <VoteType name="Absentee by Mail Votes" votes="52">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="28" />
+                <Precinct name="Cuthbert-Courthouse" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="86">
+                <Precinct name="Coleman" votes="1" />
+                <Precinct name="Shellman" votes="26" />
+                <Precinct name="Cuthbert-Courthouse" votes="59" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="72">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="50" />
+                <Precinct name="Cuthbert-Courthouse" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="41" text="Jonathan Smith (Ind)" totalVotes="290">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="19" />
+                <Precinct name="Cuthbert-Courthouse" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="98">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="59" />
+                <Precinct name="Cuthbert-Courthouse" votes="39" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="170">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="159" />
+                <Precinct name="Cuthbert-Courthouse" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="42" text="Lower Chattahoochee River Soil and Water Conservation District Supervisor" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="613">
+            <Precinct name="Coleman" votes="30" />
+            <Precinct name="Shellman" votes="118" />
+            <Precinct name="Benevolence" votes="37" />
+            <Precinct name="Cuthbert-Courthouse" votes="313" />
+            <Precinct name="Cuthbert" votes="61" />
+            <Precinct name="Springvale" votes="54" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="50" text="Frankie Sauls (I)" totalVotes="1968">
+            <VoteType name="Absentee by Mail Votes" votes="149">
+                <Precinct name="Coleman" votes="6" />
+                <Precinct name="Shellman" votes="50" />
+                <Precinct name="Benevolence" votes="3" />
+                <Precinct name="Cuthbert-Courthouse" votes="73" />
+                <Precinct name="Cuthbert" votes="9" />
+                <Precinct name="Springvale" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1043">
+                <Precinct name="Coleman" votes="51" />
+                <Precinct name="Shellman" votes="144" />
+                <Precinct name="Benevolence" votes="59" />
+                <Precinct name="Cuthbert-Courthouse" votes="665" />
+                <Precinct name="Cuthbert" votes="66" />
+                <Precinct name="Springvale" votes="58" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="776">
+                <Precinct name="Coleman" votes="69" />
+                <Precinct name="Shellman" votes="263" />
+                <Precinct name="Benevolence" votes="73" />
+                <Precinct name="Cuthbert-Courthouse" votes="287" />
+                <Precinct name="Cuthbert" votes="43" />
+                <Precinct name="Springvale" votes="41" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="35" text="Constitutional Amendment #1" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="162">
+            <Precinct name="Coleman" votes="10" />
+            <Precinct name="Shellman" votes="40" />
+            <Precinct name="Benevolence" votes="10" />
+            <Precinct name="Cuthbert-Courthouse" votes="75" />
+            <Precinct name="Cuthbert" votes="10" />
+            <Precinct name="Springvale" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Yes" totalVotes="1931">
+            <VoteType name="Absentee by Mail Votes" votes="151">
+                <Precinct name="Coleman" votes="7" />
+                <Precinct name="Shellman" votes="28" />
+                <Precinct name="Benevolence" votes="5" />
+                <Precinct name="Cuthbert-Courthouse" votes="86" />
+                <Precinct name="Cuthbert" votes="14" />
+                <Precinct name="Springvale" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1039">
+                <Precinct name="Coleman" votes="49" />
+                <Precinct name="Shellman" votes="134" />
+                <Precinct name="Benevolence" votes="61" />
+                <Precinct name="Cuthbert-Courthouse" votes="665" />
+                <Precinct name="Cuthbert" votes="69" />
+                <Precinct name="Springvale" votes="61" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="740">
+                <Precinct name="Coleman" votes="71" />
+                <Precinct name="Shellman" votes="252" />
+                <Precinct name="Benevolence" votes="65" />
+                <Precinct name="Cuthbert-Courthouse" votes="278" />
+                <Precinct name="Cuthbert" votes="31" />
+                <Precinct name="Springvale" votes="43" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="1" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="No" totalVotes="488">
+            <VoteType name="Absentee by Mail Votes" votes="72">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="40" />
+                <Precinct name="Benevolence" votes="1" />
+                <Precinct name="Cuthbert-Courthouse" votes="28" />
+                <Precinct name="Cuthbert" votes="3" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="221">
+                <Precinct name="Coleman" votes="4" />
+                <Precinct name="Shellman" votes="27" />
+                <Precinct name="Benevolence" votes="7" />
+                <Precinct name="Cuthbert-Courthouse" votes="140" />
+                <Precinct name="Cuthbert" votes="25" />
+                <Precinct name="Springvale" votes="18" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="195">
+                <Precinct name="Coleman" votes="15" />
+                <Precinct name="Shellman" votes="53" />
+                <Precinct name="Benevolence" votes="23" />
+                <Precinct name="Cuthbert-Courthouse" votes="66" />
+                <Precinct name="Cuthbert" votes="27" />
+                <Precinct name="Springvale" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="Constitutional Amendment #2" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="142">
+            <Precinct name="Coleman" votes="12" />
+            <Precinct name="Shellman" votes="33" />
+            <Precinct name="Benevolence" votes="8" />
+            <Precinct name="Cuthbert-Courthouse" votes="67" />
+            <Precinct name="Cuthbert" votes="9" />
+            <Precinct name="Springvale" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="44" text="Yes" totalVotes="2055">
+            <VoteType name="Absentee by Mail Votes" votes="168">
+                <Precinct name="Coleman" votes="7" />
+                <Precinct name="Shellman" votes="32" />
+                <Precinct name="Benevolence" votes="4" />
+                <Precinct name="Cuthbert-Courthouse" votes="102" />
+                <Precinct name="Cuthbert" votes="14" />
+                <Precinct name="Springvale" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1095">
+                <Precinct name="Coleman" votes="53" />
+                <Precinct name="Shellman" votes="142" />
+                <Precinct name="Benevolence" votes="62" />
+                <Precinct name="Cuthbert-Courthouse" votes="700" />
+                <Precinct name="Cuthbert" votes="78" />
+                <Precinct name="Springvale" votes="60" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="791">
+                <Precinct name="Coleman" votes="65" />
+                <Precinct name="Shellman" votes="275" />
+                <Precinct name="Benevolence" votes="71" />
+                <Precinct name="Cuthbert-Courthouse" votes="291" />
+                <Precinct name="Cuthbert" votes="40" />
+                <Precinct name="Springvale" votes="49" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="1" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="45" text="No" totalVotes="384">
+            <VoteType name="Absentee by Mail Votes" votes="58">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="37" />
+                <Precinct name="Benevolence" votes="2" />
+                <Precinct name="Cuthbert-Courthouse" votes="16" />
+                <Precinct name="Cuthbert" votes="3" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="170">
+                <Precinct name="Coleman" votes="3" />
+                <Precinct name="Shellman" votes="17" />
+                <Precinct name="Benevolence" votes="7" />
+                <Precinct name="Cuthbert-Courthouse" votes="107" />
+                <Precinct name="Cuthbert" votes="18" />
+                <Precinct name="Springvale" votes="18" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="156">
+                <Precinct name="Coleman" votes="16" />
+                <Precinct name="Shellman" votes="38" />
+                <Precinct name="Benevolence" votes="18" />
+                <Precinct name="Cuthbert-Courthouse" votes="55" />
+                <Precinct name="Cuthbert" votes="17" />
+                <Precinct name="Springvale" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="41" text="Statewide Referendum A" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="172">
+            <Precinct name="Coleman" votes="10" />
+            <Precinct name="Shellman" votes="39" />
+            <Precinct name="Benevolence" votes="8" />
+            <Precinct name="Cuthbert-Courthouse" votes="83" />
+            <Precinct name="Cuthbert" votes="14" />
+            <Precinct name="Springvale" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Yes" totalVotes="1460">
+            <VoteType name="Absentee by Mail Votes" votes="79">
+                <Precinct name="Coleman" votes="4" />
+                <Precinct name="Shellman" votes="15" />
+                <Precinct name="Benevolence" votes="4" />
+                <Precinct name="Cuthbert-Courthouse" votes="44" />
+                <Precinct name="Cuthbert" votes="5" />
+                <Precinct name="Springvale" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="771">
+                <Precinct name="Coleman" votes="40" />
+                <Precinct name="Shellman" votes="96" />
+                <Precinct name="Benevolence" votes="38" />
+                <Precinct name="Cuthbert-Courthouse" votes="510" />
+                <Precinct name="Cuthbert" votes="50" />
+                <Precinct name="Springvale" votes="37" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="609">
+                <Precinct name="Coleman" votes="51" />
+                <Precinct name="Shellman" votes="205" />
+                <Precinct name="Benevolence" votes="62" />
+                <Precinct name="Cuthbert-Courthouse" votes="228" />
+                <Precinct name="Cuthbert" votes="29" />
+                <Precinct name="Springvale" votes="34" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="1" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="No" totalVotes="949">
+            <VoteType name="Absentee by Mail Votes" votes="140">
+                <Precinct name="Coleman" votes="3" />
+                <Precinct name="Shellman" votes="53" />
+                <Precinct name="Benevolence" votes="2" />
+                <Precinct name="Cuthbert-Courthouse" votes="68" />
+                <Precinct name="Cuthbert" votes="12" />
+                <Precinct name="Springvale" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="484">
+                <Precinct name="Coleman" votes="16" />
+                <Precinct name="Shellman" votes="63" />
+                <Precinct name="Benevolence" votes="31" />
+                <Precinct name="Cuthbert-Courthouse" votes="291" />
+                <Precinct name="Cuthbert" votes="44" />
+                <Precinct name="Springvale" votes="39" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="325">
+                <Precinct name="Coleman" votes="32" />
+                <Precinct name="Shellman" votes="103" />
+                <Precinct name="Benevolence" votes="27" />
+                <Precinct name="Cuthbert-Courthouse" votes="114" />
+                <Precinct name="Cuthbert" votes="25" />
+                <Precinct name="Springvale" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="39" text="Statewide Referendum B" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="168">
+            <Precinct name="Coleman" votes="9" />
+            <Precinct name="Shellman" votes="33" />
+            <Precinct name="Benevolence" votes="6" />
+            <Precinct name="Cuthbert-Courthouse" votes="88" />
+            <Precinct name="Cuthbert" votes="13" />
+            <Precinct name="Springvale" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Coleman" votes="0" />
+            <Precinct name="Shellman" votes="0" />
+            <Precinct name="Benevolence" votes="0" />
+            <Precinct name="Cuthbert-Courthouse" votes="0" />
+            <Precinct name="Cuthbert" votes="0" />
+            <Precinct name="Springvale" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Yes" totalVotes="1615">
+            <VoteType name="Absentee by Mail Votes" votes="89">
+                <Precinct name="Coleman" votes="4" />
+                <Precinct name="Shellman" votes="19" />
+                <Precinct name="Benevolence" votes="1" />
+                <Precinct name="Cuthbert-Courthouse" votes="51" />
+                <Precinct name="Cuthbert" votes="6" />
+                <Precinct name="Springvale" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="864">
+                <Precinct name="Coleman" votes="44" />
+                <Precinct name="Shellman" votes="116" />
+                <Precinct name="Benevolence" votes="51" />
+                <Precinct name="Cuthbert-Courthouse" votes="559" />
+                <Precinct name="Cuthbert" votes="48" />
+                <Precinct name="Springvale" votes="46" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="661">
+                <Precinct name="Coleman" votes="59" />
+                <Precinct name="Shellman" votes="223" />
+                <Precinct name="Benevolence" votes="68" />
+                <Precinct name="Cuthbert-Courthouse" votes="245" />
+                <Precinct name="Cuthbert" votes="31" />
+                <Precinct name="Springvale" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="1" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="47" text="No" totalVotes="798">
+            <VoteType name="Absentee by Mail Votes" votes="130">
+                <Precinct name="Coleman" votes="3" />
+                <Precinct name="Shellman" votes="49" />
+                <Precinct name="Benevolence" votes="5" />
+                <Precinct name="Cuthbert-Courthouse" votes="61" />
+                <Precinct name="Cuthbert" votes="11" />
+                <Precinct name="Springvale" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="387">
+                <Precinct name="Coleman" votes="12" />
+                <Precinct name="Shellman" votes="43" />
+                <Precinct name="Benevolence" votes="18" />
+                <Precinct name="Cuthbert-Courthouse" votes="237" />
+                <Precinct name="Cuthbert" votes="46" />
+                <Precinct name="Springvale" votes="31" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="281">
+                <Precinct name="Coleman" votes="25" />
+                <Precinct name="Shellman" votes="91" />
+                <Precinct name="Benevolence" votes="23" />
+                <Precinct name="Cuthbert-Courthouse" votes="97" />
+                <Precinct name="Cuthbert" votes="24" />
+                <Precinct name="Springvale" votes="21" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Coleman" votes="0" />
+                <Precinct name="Shellman" votes="0" />
+                <Precinct name="Benevolence" votes="0" />
+                <Precinct name="Cuthbert-Courthouse" votes="0" />
+                <Precinct name="Cuthbert" votes="0" />
+                <Precinct name="Springvale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

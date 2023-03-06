@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/7/2022 12:12:26 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Taylor</Region>
+    <VoterTurnout totalVoters="5257" ballotsCast="3005" voterTurnout="57.16">
+        <Precincts>
+            <Precinct name="Precinct 1" totalVoters="1109" ballotsCast="543" voterTurnout="48.96" percentReporting="4" />
+            <Precinct name="Precinct 5" totalVoters="2167" ballotsCast="1263" voterTurnout="58.28" percentReporting="4" />
+            <Precinct name="Precinct 6" totalVoters="1978" ballotsCast="1199" voterTurnout="60.62" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="3" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Precinct 1" votes="0" />
+            <Precinct name="Precinct 5" votes="1" />
+            <Precinct name="Precinct 6" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Precinct 1" votes="0" />
+            <Precinct name="Precinct 5" votes="0" />
+            <Precinct name="Precinct 6" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Herschel Junior Walker (Rep)" totalVotes="1879">
+            <VoteType name="Absentee by Mail Votes" votes="64">
+                <Precinct name="Precinct 1" votes="3" />
+                <Precinct name="Precinct 5" votes="42" />
+                <Precinct name="Precinct 6" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1083">
+                <Precinct name="Precinct 1" votes="60" />
+                <Precinct name="Precinct 5" votes="652" />
+                <Precinct name="Precinct 6" votes="371" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="726">
+                <Precinct name="Precinct 1" votes="37" />
+                <Precinct name="Precinct 5" votes="339" />
+                <Precinct name="Precinct 6" votes="350" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="Precinct 1" votes="0" />
+                <Precinct name="Precinct 5" votes="6" />
+                <Precinct name="Precinct 6" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Raphael Warnock (I) (Dem)" totalVotes="1125">
+            <VoteType name="Absentee by Mail Votes" votes="140">
+                <Precinct name="Precinct 1" votes="42" />
+                <Precinct name="Precinct 5" votes="17" />
+                <Precinct name="Precinct 6" votes="81" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="541">
+                <Precinct name="Precinct 1" votes="218" />
+                <Precinct name="Precinct 5" votes="145" />
+                <Precinct name="Precinct 6" votes="178" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="438">
+                <Precinct name="Precinct 1" votes="179" />
+                <Precinct name="Precinct 5" votes="60" />
+                <Precinct name="Precinct 6" votes="199" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="Precinct 1" votes="4" />
+                <Precinct name="Precinct 5" votes="1" />
+                <Precinct name="Precinct 6" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

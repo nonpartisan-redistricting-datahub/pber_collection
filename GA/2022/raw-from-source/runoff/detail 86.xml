@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/13/2022 2:59:44 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Clay</Region>
+    <VoterTurnout totalVoters="1987" ballotsCast="1024" voterTurnout="51.53">
+        <Precincts>
+            <Precinct name="Bluffton" totalVoters="392" ballotsCast="193" voterTurnout="49.23" percentReporting="4" />
+            <Precinct name="Zetto " totalVoters="341" ballotsCast="162" voterTurnout="47.51" percentReporting="4" />
+            <Precinct name="Court House" totalVoters="359" ballotsCast="178" voterTurnout="49.58" percentReporting="4" />
+            <Precinct name="Old Head Start" totalVoters="422" ballotsCast="208" voterTurnout="49.29" percentReporting="4" />
+            <Precinct name="Days Cross Road" totalVoters="469" ballotsCast="283" voterTurnout="60.34" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Bluffton" votes="1" />
+            <Precinct name="Zetto " votes="2" />
+            <Precinct name="Court House" votes="0" />
+            <Precinct name="Old Head Start" votes="0" />
+            <Precinct name="Days Cross Road" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bluffton" votes="0" />
+            <Precinct name="Zetto " votes="0" />
+            <Precinct name="Court House" votes="0" />
+            <Precinct name="Old Head Start" votes="0" />
+            <Precinct name="Days Cross Road" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="485">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Bluffton" votes="7" />
+                <Precinct name="Zetto " votes="7" />
+                <Precinct name="Court House" votes="0" />
+                <Precinct name="Old Head Start" votes="5" />
+                <Precinct name="Days Cross Road" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="285">
+                <Precinct name="Bluffton" votes="59" />
+                <Precinct name="Zetto " votes="29" />
+                <Precinct name="Court House" votes="23" />
+                <Precinct name="Old Head Start" votes="58" />
+                <Precinct name="Days Cross Road" votes="116" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="178">
+                <Precinct name="Bluffton" votes="60" />
+                <Precinct name="Zetto " votes="29" />
+                <Precinct name="Court House" votes="17" />
+                <Precinct name="Old Head Start" votes="29" />
+                <Precinct name="Days Cross Road" votes="43" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bluffton" votes="0" />
+                <Precinct name="Zetto " votes="0" />
+                <Precinct name="Court House" votes="0" />
+                <Precinct name="Old Head Start" votes="0" />
+                <Precinct name="Days Cross Road" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="536">
+            <VoteType name="Absentee by Mail Votes" votes="58">
+                <Precinct name="Bluffton" votes="6" />
+                <Precinct name="Zetto " votes="9" />
+                <Precinct name="Court House" votes="15" />
+                <Precinct name="Old Head Start" votes="22" />
+                <Precinct name="Days Cross Road" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="266">
+                <Precinct name="Bluffton" votes="31" />
+                <Precinct name="Zetto " votes="50" />
+                <Precinct name="Court House" votes="59" />
+                <Precinct name="Old Head Start" votes="61" />
+                <Precinct name="Days Cross Road" votes="65" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="211">
+                <Precinct name="Bluffton" votes="29" />
+                <Precinct name="Zetto " votes="36" />
+                <Precinct name="Court House" votes="63" />
+                <Precinct name="Old Head Start" votes="33" />
+                <Precinct name="Days Cross Road" votes="50" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Bluffton" votes="0" />
+                <Precinct name="Zetto " votes="0" />
+                <Precinct name="Court House" votes="1" />
+                <Precinct name="Old Head Start" votes="0" />
+                <Precinct name="Days Cross Road" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

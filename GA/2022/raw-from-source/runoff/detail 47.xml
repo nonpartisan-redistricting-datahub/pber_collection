@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 2:55:01 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Walker</Region>
+    <VoterTurnout totalVoters="42815" ballotsCast="19433" voterTurnout="45.39">
+        <Precincts>
+            <Precinct name="La Fayette" totalVoters="0" ballotsCast="2768" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Walnut Grove" totalVoters="0" ballotsCast="1062" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Rock Spring" totalVoters="0" ballotsCast="3134" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Armuchee Valley" totalVoters="0" ballotsCast="777" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Mountain" totalVoters="0" ballotsCast="650" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Chattanooga Valley" totalVoters="0" ballotsCast="2971" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Kensington" totalVoters="0" ballotsCast="669" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Rossville" totalVoters="0" ballotsCast="2227" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Chickamauga" totalVoters="0" ballotsCast="3388" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Fairyland" totalVoters="0" ballotsCast="673" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Fairview" totalVoters="0" ballotsCast="1114" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="3" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="11">
+            <Precinct name="La Fayette" votes="2" />
+            <Precinct name="Walnut Grove" votes="0" />
+            <Precinct name="Rock Spring" votes="1" />
+            <Precinct name="Armuchee Valley" votes="2" />
+            <Precinct name="Mountain" votes="0" />
+            <Precinct name="Chattanooga Valley" votes="0" />
+            <Precinct name="Kensington" votes="0" />
+            <Precinct name="Rossville" votes="0" />
+            <Precinct name="Chickamauga" votes="4" />
+            <Precinct name="Fairyland" votes="1" />
+            <Precinct name="Fairview" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="La Fayette" votes="0" />
+            <Precinct name="Walnut Grove" votes="0" />
+            <Precinct name="Rock Spring" votes="0" />
+            <Precinct name="Armuchee Valley" votes="0" />
+            <Precinct name="Mountain" votes="0" />
+            <Precinct name="Chattanooga Valley" votes="0" />
+            <Precinct name="Kensington" votes="0" />
+            <Precinct name="Rossville" votes="0" />
+            <Precinct name="Chickamauga" votes="0" />
+            <Precinct name="Fairyland" votes="0" />
+            <Precinct name="Fairview" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Herschel Junior Walker (Rep)" totalVotes="15517">
+            <VoteType name="Absentee by Mail Votes" votes="513">
+                <Precinct name="La Fayette" votes="87" />
+                <Precinct name="Walnut Grove" votes="27" />
+                <Precinct name="Rock Spring" votes="76" />
+                <Precinct name="Armuchee Valley" votes="7" />
+                <Precinct name="Mountain" votes="11" />
+                <Precinct name="Chattanooga Valley" votes="100" />
+                <Precinct name="Kensington" votes="17" />
+                <Precinct name="Rossville" votes="60" />
+                <Precinct name="Chickamauga" votes="77" />
+                <Precinct name="Fairyland" votes="9" />
+                <Precinct name="Fairview" votes="42" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5760">
+                <Precinct name="La Fayette" votes="984" />
+                <Precinct name="Walnut Grove" votes="357" />
+                <Precinct name="Rock Spring" votes="1131" />
+                <Precinct name="Armuchee Valley" votes="92" />
+                <Precinct name="Mountain" votes="64" />
+                <Precinct name="Chattanooga Valley" votes="827" />
+                <Precinct name="Kensington" votes="112" />
+                <Precinct name="Rossville" votes="409" />
+                <Precinct name="Chickamauga" votes="1509" />
+                <Precinct name="Fairyland" votes="21" />
+                <Precinct name="Fairview" votes="254" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9232">
+                <Precinct name="La Fayette" votes="1130" />
+                <Precinct name="Walnut Grove" votes="567" />
+                <Precinct name="Rock Spring" votes="1463" />
+                <Precinct name="Armuchee Valley" votes="563" />
+                <Precinct name="Mountain" votes="428" />
+                <Precinct name="Chattanooga Valley" votes="1348" />
+                <Precinct name="Kensington" votes="398" />
+                <Precinct name="Rossville" votes="1132" />
+                <Precinct name="Chickamauga" votes="1240" />
+                <Precinct name="Fairyland" votes="394" />
+                <Precinct name="Fairview" votes="569" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="12">
+                <Precinct name="La Fayette" votes="3" />
+                <Precinct name="Walnut Grove" votes="0" />
+                <Precinct name="Rock Spring" votes="0" />
+                <Precinct name="Armuchee Valley" votes="0" />
+                <Precinct name="Mountain" votes="1" />
+                <Precinct name="Chattanooga Valley" votes="5" />
+                <Precinct name="Kensington" votes="0" />
+                <Precinct name="Rossville" votes="1" />
+                <Precinct name="Chickamauga" votes="1" />
+                <Precinct name="Fairyland" votes="0" />
+                <Precinct name="Fairview" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Raphael Warnock (I) (Dem)" totalVotes="3905">
+            <VoteType name="Absentee by Mail Votes" votes="429">
+                <Precinct name="La Fayette" votes="60" />
+                <Precinct name="Walnut Grove" votes="7" />
+                <Precinct name="Rock Spring" votes="53" />
+                <Precinct name="Armuchee Valley" votes="10" />
+                <Precinct name="Mountain" votes="11" />
+                <Precinct name="Chattanooga Valley" votes="97" />
+                <Precinct name="Kensington" votes="13" />
+                <Precinct name="Rossville" votes="75" />
+                <Precinct name="Chickamauga" votes="67" />
+                <Precinct name="Fairyland" votes="9" />
+                <Precinct name="Fairview" votes="27" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1489">
+                <Precinct name="La Fayette" votes="274" />
+                <Precinct name="Walnut Grove" votes="55" />
+                <Precinct name="Rock Spring" votes="204" />
+                <Precinct name="Armuchee Valley" votes="31" />
+                <Precinct name="Mountain" votes="39" />
+                <Precinct name="Chattanooga Valley" votes="259" />
+                <Precinct name="Kensington" votes="53" />
+                <Precinct name="Rossville" votes="171" />
+                <Precinct name="Chickamauga" votes="303" />
+                <Precinct name="Fairyland" votes="11" />
+                <Precinct name="Fairview" votes="89" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1986">
+                <Precinct name="La Fayette" votes="228" />
+                <Precinct name="Walnut Grove" votes="49" />
+                <Precinct name="Rock Spring" votes="206" />
+                <Precinct name="Armuchee Valley" votes="72" />
+                <Precinct name="Mountain" votes="96" />
+                <Precinct name="Chattanooga Valley" votes="334" />
+                <Precinct name="Kensington" votes="76" />
+                <Precinct name="Rossville" votes="379" />
+                <Precinct name="Chickamauga" votes="187" />
+                <Precinct name="Fairyland" votes="228" />
+                <Precinct name="Fairview" votes="131" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="La Fayette" votes="0" />
+                <Precinct name="Walnut Grove" votes="0" />
+                <Precinct name="Rock Spring" votes="0" />
+                <Precinct name="Armuchee Valley" votes="0" />
+                <Precinct name="Mountain" votes="0" />
+                <Precinct name="Chattanooga Valley" votes="1" />
+                <Precinct name="Kensington" votes="0" />
+                <Precinct name="Rossville" votes="0" />
+                <Precinct name="Chickamauga" votes="0" />
+                <Precinct name="Fairyland" votes="0" />
+                <Precinct name="Fairview" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

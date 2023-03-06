@@ -1,0 +1,2693 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/15/2022 1:00:31 PM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Barrow</Region>
+    <VoterTurnout totalVoters="55349" ballotsCast="29494" voterTurnout="53.29">
+        <Precincts>
+            <Precinct name="01" totalVoters="3394" ballotsCast="1849" voterTurnout="54.48" percentReporting="4" />
+            <Precinct name="02" totalVoters="6825" ballotsCast="4201" voterTurnout="61.55" percentReporting="4" />
+            <Precinct name="03" totalVoters="6255" ballotsCast="3136" voterTurnout="50.14" percentReporting="4" />
+            <Precinct name="04" totalVoters="3754" ballotsCast="1823" voterTurnout="48.56" percentReporting="4" />
+            <Precinct name="05" totalVoters="8589" ballotsCast="5000" voterTurnout="58.21" percentReporting="4" />
+            <Precinct name="08" totalVoters="7084" ballotsCast="4160" voterTurnout="58.72" percentReporting="4" />
+            <Precinct name="13" totalVoters="10955" ballotsCast="5084" voterTurnout="46.41" percentReporting="4" />
+            <Precinct name="16" totalVoters="8452" ballotsCast="4241" voterTurnout="50.18" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="160">
+            <Precinct name="01" votes="9" />
+            <Precinct name="02" votes="20" />
+            <Precinct name="03" votes="16" />
+            <Precinct name="04" votes="10" />
+            <Precinct name="05" votes="32" />
+            <Precinct name="08" votes="33" />
+            <Precinct name="13" votes="18" />
+            <Precinct name="16" votes="22" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="20136">
+            <VoteType name="Absentee by Mail Votes" votes="668">
+                <Precinct name="01" votes="34" />
+                <Precinct name="02" votes="129" />
+                <Precinct name="03" votes="76" />
+                <Precinct name="04" votes="32" />
+                <Precinct name="05" votes="113" />
+                <Precinct name="08" votes="98" />
+                <Precinct name="13" votes="115" />
+                <Precinct name="16" votes="71" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="10531">
+                <Precinct name="01" votes="591" />
+                <Precinct name="02" votes="1714" />
+                <Precinct name="03" votes="936" />
+                <Precinct name="04" votes="655" />
+                <Precinct name="05" votes="1764" />
+                <Precinct name="08" votes="1880" />
+                <Precinct name="13" votes="1729" />
+                <Precinct name="16" votes="1262" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8934">
+                <Precinct name="01" votes="698" />
+                <Precinct name="02" votes="1404" />
+                <Precinct name="03" votes="1227" />
+                <Precinct name="04" votes="639" />
+                <Precinct name="05" votes="1471" />
+                <Precinct name="08" votes="1075" />
+                <Precinct name="13" votes="1161" />
+                <Precinct name="16" votes="1259" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="8244">
+            <VoteType name="Absentee by Mail Votes" votes="699">
+                <Precinct name="01" votes="37" />
+                <Precinct name="02" votes="82" />
+                <Precinct name="03" votes="58" />
+                <Precinct name="04" votes="36" />
+                <Precinct name="05" votes="134" />
+                <Precinct name="08" votes="81" />
+                <Precinct name="13" votes="161" />
+                <Precinct name="16" votes="110" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4534">
+                <Precinct name="01" votes="219" />
+                <Precinct name="02" votes="450" />
+                <Precinct name="03" votes="355" />
+                <Precinct name="04" votes="230" />
+                <Precinct name="05" votes="794" />
+                <Precinct name="08" votes="575" />
+                <Precinct name="13" votes="1118" />
+                <Precinct name="16" votes="793" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3007">
+                <Precinct name="01" votes="194" />
+                <Precinct name="02" votes="279" />
+                <Precinct name="03" votes="355" />
+                <Precinct name="04" votes="147" />
+                <Precinct name="05" votes="548" />
+                <Precinct name="08" votes="289" />
+                <Precinct name="13" votes="630" />
+                <Precinct name="16" votes="565" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="2" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="1" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Chase Oliver (Lib)" totalVotes="893">
+            <VoteType name="Absentee by Mail Votes" votes="43">
+                <Precinct name="01" votes="2" />
+                <Precinct name="02" votes="5" />
+                <Precinct name="03" votes="5" />
+                <Precinct name="04" votes="2" />
+                <Precinct name="05" votes="9" />
+                <Precinct name="08" votes="7" />
+                <Precinct name="13" votes="7" />
+                <Precinct name="16" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="400">
+                <Precinct name="01" votes="25" />
+                <Precinct name="02" votes="48" />
+                <Precinct name="03" votes="36" />
+                <Precinct name="04" votes="35" />
+                <Precinct name="05" votes="55" />
+                <Precinct name="08" votes="60" />
+                <Precinct name="13" votes="70" />
+                <Precinct name="16" votes="71" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="450">
+                <Precinct name="01" votes="36" />
+                <Precinct name="02" votes="63" />
+                <Precinct name="03" votes="65" />
+                <Precinct name="04" votes="32" />
+                <Precinct name="05" votes="65" />
+                <Precinct name="08" votes="53" />
+                <Precinct name="13" votes="59" />
+                <Precinct name="16" votes="77" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="54">
+            <Precinct name="01" votes="1" />
+            <Precinct name="02" votes="11" />
+            <Precinct name="03" votes="3" />
+            <Precinct name="04" votes="3" />
+            <Precinct name="05" votes="11" />
+            <Precinct name="08" votes="8" />
+            <Precinct name="13" votes="10" />
+            <Precinct name="16" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="4" text="Brian Kemp (I) (Rep)" totalVotes="21833">
+            <VoteType name="Absentee by Mail Votes" votes="788">
+                <Precinct name="01" votes="42" />
+                <Precinct name="02" votes="145" />
+                <Precinct name="03" votes="87" />
+                <Precinct name="04" votes="37" />
+                <Precinct name="05" votes="134" />
+                <Precinct name="08" votes="122" />
+                <Precinct name="13" votes="140" />
+                <Precinct name="16" votes="81" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11369">
+                <Precinct name="01" votes="634" />
+                <Precinct name="02" votes="1825" />
+                <Precinct name="03" votes="996" />
+                <Precinct name="04" votes="704" />
+                <Precinct name="05" votes="1907" />
+                <Precinct name="08" votes="2035" />
+                <Precinct name="13" votes="1877" />
+                <Precinct name="16" votes="1391" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9673">
+                <Precinct name="01" votes="759" />
+                <Precinct name="02" votes="1498" />
+                <Precinct name="03" votes="1317" />
+                <Precinct name="04" votes="689" />
+                <Precinct name="05" votes="1623" />
+                <Precinct name="08" votes="1156" />
+                <Precinct name="13" votes="1267" />
+                <Precinct name="16" votes="1364" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Stacey Abrams (Dem)" totalVotes="7309">
+            <VoteType name="Absentee by Mail Votes" votes="619">
+                <Precinct name="01" votes="30" />
+                <Precinct name="02" votes="69" />
+                <Precinct name="03" votes="55" />
+                <Precinct name="04" votes="34" />
+                <Precinct name="05" votes="125" />
+                <Precinct name="08" votes="64" />
+                <Precinct name="13" votes="143" />
+                <Precinct name="16" votes="99" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4078">
+                <Precinct name="01" votes="205" />
+                <Precinct name="02" votes="380" />
+                <Precinct name="03" votes="326" />
+                <Precinct name="04" votes="212" />
+                <Precinct name="05" votes="711" />
+                <Precinct name="08" votes="485" />
+                <Precinct name="13" votes="1028" />
+                <Precinct name="16" votes="731" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2608">
+                <Precinct name="01" votes="158" />
+                <Precinct name="02" votes="234" />
+                <Precinct name="03" votes="314" />
+                <Precinct name="04" votes="125" />
+                <Precinct name="05" votes="456" />
+                <Precinct name="08" votes="249" />
+                <Precinct name="13" votes="561" />
+                <Precinct name="16" votes="511" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="2" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="1" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Shane Hazel (Lib)" totalVotes="288">
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="01" votes="2" />
+                <Precinct name="02" votes="2" />
+                <Precinct name="03" votes="2" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="1" />
+                <Precinct name="13" votes="2" />
+                <Precinct name="16" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="96">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="10" />
+                <Precinct name="03" votes="11" />
+                <Precinct name="04" votes="9" />
+                <Precinct name="05" votes="12" />
+                <Precinct name="08" votes="16" />
+                <Precinct name="13" votes="22" />
+                <Precinct name="16" votes="16" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="177">
+                <Precinct name="01" votes="16" />
+                <Precinct name="02" votes="26" />
+                <Precinct name="03" votes="22" />
+                <Precinct name="04" votes="8" />
+                <Precinct name="05" votes="19" />
+                <Precinct name="08" votes="23" />
+                <Precinct name="13" votes="31" />
+                <Precinct name="16" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="258">
+            <Precinct name="01" votes="11" />
+            <Precinct name="02" votes="28" />
+            <Precinct name="03" votes="29" />
+            <Precinct name="04" votes="22" />
+            <Precinct name="05" votes="41" />
+            <Precinct name="08" votes="34" />
+            <Precinct name="13" votes="55" />
+            <Precinct name="16" votes="38" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Burt Jones (Rep)" totalVotes="20959">
+            <VoteType name="Absentee by Mail Votes" votes="742">
+                <Precinct name="01" votes="39" />
+                <Precinct name="02" votes="135" />
+                <Precinct name="03" votes="84" />
+                <Precinct name="04" votes="34" />
+                <Precinct name="05" votes="127" />
+                <Precinct name="08" votes="112" />
+                <Precinct name="13" votes="130" />
+                <Precinct name="16" votes="81" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="10936">
+                <Precinct name="01" votes="604" />
+                <Precinct name="02" votes="1773" />
+                <Precinct name="03" votes="960" />
+                <Precinct name="04" votes="678" />
+                <Precinct name="05" votes="1830" />
+                <Precinct name="08" votes="1947" />
+                <Precinct name="13" votes="1806" />
+                <Precinct name="16" votes="1338" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9278">
+                <Precinct name="01" votes="723" />
+                <Precinct name="02" votes="1445" />
+                <Precinct name="03" votes="1255" />
+                <Precinct name="04" votes="673" />
+                <Precinct name="05" votes="1558" />
+                <Precinct name="08" votes="1108" />
+                <Precinct name="13" votes="1205" />
+                <Precinct name="16" votes="1311" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Charlie Bailey (Dem)" totalVotes="7434">
+            <VoteType name="Absentee by Mail Votes" votes="630">
+                <Precinct name="01" votes="35" />
+                <Precinct name="02" votes="73" />
+                <Precinct name="03" votes="54" />
+                <Precinct name="04" votes="35" />
+                <Precinct name="05" votes="124" />
+                <Precinct name="08" votes="66" />
+                <Precinct name="13" votes="145" />
+                <Precinct name="16" votes="98" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4136">
+                <Precinct name="01" votes="209" />
+                <Precinct name="02" votes="412" />
+                <Precinct name="03" votes="324" />
+                <Precinct name="04" votes="212" />
+                <Precinct name="05" votes="725" />
+                <Precinct name="08" votes="516" />
+                <Precinct name="13" votes="1012" />
+                <Precinct name="16" votes="726" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2664">
+                <Precinct name="01" votes="173" />
+                <Precinct name="02" votes="242" />
+                <Precinct name="03" votes="324" />
+                <Precinct name="04" votes="114" />
+                <Precinct name="05" votes="465" />
+                <Precinct name="08" votes="256" />
+                <Precinct name="13" votes="584" />
+                <Precinct name="16" votes="506" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="2" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="1" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="9" text="Ryan Graham (Lib)" totalVotes="828">
+            <VoteType name="Absentee by Mail Votes" votes="31">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="3" />
+                <Precinct name="03" votes="4" />
+                <Precinct name="04" votes="2" />
+                <Precinct name="05" votes="5" />
+                <Precinct name="08" votes="5" />
+                <Precinct name="13" votes="7" />
+                <Precinct name="16" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="356">
+                <Precinct name="01" votes="25" />
+                <Precinct name="02" votes="26" />
+                <Precinct name="03" votes="37" />
+                <Precinct name="04" votes="24" />
+                <Precinct name="05" votes="60" />
+                <Precinct name="08" votes="57" />
+                <Precinct name="13" votes="76" />
+                <Precinct name="16" votes="51" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="441">
+                <Precinct name="01" votes="29" />
+                <Precinct name="02" votes="59" />
+                <Precinct name="03" votes="61" />
+                <Precinct name="04" votes="28" />
+                <Precinct name="05" votes="63" />
+                <Precinct name="08" votes="57" />
+                <Precinct name="13" votes="60" />
+                <Precinct name="16" votes="84" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="272">
+            <Precinct name="01" votes="20" />
+            <Precinct name="02" votes="33" />
+            <Precinct name="03" votes="26" />
+            <Precinct name="04" votes="17" />
+            <Precinct name="05" votes="50" />
+            <Precinct name="08" votes="43" />
+            <Precinct name="13" votes="45" />
+            <Precinct name="16" votes="38" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="10" text="Brad Raffensperger (I) (Rep)" totalVotes="20813">
+            <VoteType name="Absentee by Mail Votes" votes="765">
+                <Precinct name="01" votes="41" />
+                <Precinct name="02" votes="137" />
+                <Precinct name="03" votes="84" />
+                <Precinct name="04" votes="38" />
+                <Precinct name="05" votes="128" />
+                <Precinct name="08" votes="121" />
+                <Precinct name="13" votes="134" />
+                <Precinct name="16" votes="82" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="10938">
+                <Precinct name="01" votes="603" />
+                <Precinct name="02" votes="1757" />
+                <Precinct name="03" votes="959" />
+                <Precinct name="04" votes="680" />
+                <Precinct name="05" votes="1838" />
+                <Precinct name="08" votes="1943" />
+                <Precinct name="13" votes="1827" />
+                <Precinct name="16" votes="1331" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9107">
+                <Precinct name="01" votes="694" />
+                <Precinct name="02" votes="1406" />
+                <Precinct name="03" votes="1233" />
+                <Precinct name="04" votes="653" />
+                <Precinct name="05" votes="1551" />
+                <Precinct name="08" votes="1075" />
+                <Precinct name="13" votes="1189" />
+                <Precinct name="16" votes="1306" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="Bee Nguyen (Dem)" totalVotes="7109">
+            <VoteType name="Absentee by Mail Votes" votes="596">
+                <Precinct name="01" votes="30" />
+                <Precinct name="02" votes="65" />
+                <Precinct name="03" votes="50" />
+                <Precinct name="04" votes="33" />
+                <Precinct name="05" votes="120" />
+                <Precinct name="08" votes="58" />
+                <Precinct name="13" votes="142" />
+                <Precinct name="16" votes="98" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3912">
+                <Precinct name="01" votes="194" />
+                <Precinct name="02" votes="365" />
+                <Precinct name="03" votes="310" />
+                <Precinct name="04" votes="201" />
+                <Precinct name="05" votes="681" />
+                <Precinct name="08" votes="478" />
+                <Precinct name="13" votes="982" />
+                <Precinct name="16" votes="701" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2597">
+                <Precinct name="01" votes="175" />
+                <Precinct name="02" votes="230" />
+                <Precinct name="03" votes="317" />
+                <Precinct name="04" votes="118" />
+                <Precinct name="05" votes="440" />
+                <Precinct name="08" votes="263" />
+                <Precinct name="13" votes="554" />
+                <Precinct name="16" votes="500" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="2" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="1" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Ted Metz (Lib)" totalVotes="1227">
+            <VoteType name="Absentee by Mail Votes" votes="48">
+                <Precinct name="01" votes="3" />
+                <Precinct name="02" votes="10" />
+                <Precinct name="03" votes="8" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="11" />
+                <Precinct name="08" votes="4" />
+                <Precinct name="13" votes="8" />
+                <Precinct name="16" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="545">
+                <Precinct name="01" votes="31" />
+                <Precinct name="02" votes="75" />
+                <Precinct name="03" votes="53" />
+                <Precinct name="04" votes="38" />
+                <Precinct name="05" votes="83" />
+                <Precinct name="08" votes="92" />
+                <Precinct name="13" votes="93" />
+                <Precinct name="16" votes="80" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="634">
+                <Precinct name="01" votes="52" />
+                <Precinct name="02" votes="106" />
+                <Precinct name="03" votes="86" />
+                <Precinct name="04" votes="43" />
+                <Precinct name="05" votes="82" />
+                <Precinct name="08" votes="74" />
+                <Precinct name="13" votes="99" />
+                <Precinct name="16" votes="92" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="204">
+            <Precinct name="01" votes="11" />
+            <Precinct name="02" votes="20" />
+            <Precinct name="03" votes="16" />
+            <Precinct name="04" votes="10" />
+            <Precinct name="05" votes="35" />
+            <Precinct name="08" votes="31" />
+            <Precinct name="13" votes="51" />
+            <Precinct name="16" votes="30" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="13" text="Chris Carr (I) (Rep)" totalVotes="21100">
+            <VoteType name="Absentee by Mail Votes" votes="747">
+                <Precinct name="01" votes="42" />
+                <Precinct name="02" votes="133" />
+                <Precinct name="03" votes="84" />
+                <Precinct name="04" votes="37" />
+                <Precinct name="05" votes="125" />
+                <Precinct name="08" votes="118" />
+                <Precinct name="13" votes="130" />
+                <Precinct name="16" votes="78" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11031">
+                <Precinct name="01" votes="604" />
+                <Precinct name="02" votes="1785" />
+                <Precinct name="03" votes="967" />
+                <Precinct name="04" votes="687" />
+                <Precinct name="05" votes="1852" />
+                <Precinct name="08" votes="1961" />
+                <Precinct name="13" votes="1827" />
+                <Precinct name="16" votes="1348" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9319">
+                <Precinct name="01" votes="724" />
+                <Precinct name="02" votes="1455" />
+                <Precinct name="03" votes="1265" />
+                <Precinct name="04" votes="666" />
+                <Precinct name="05" votes="1566" />
+                <Precinct name="08" votes="1111" />
+                <Precinct name="13" votes="1210" />
+                <Precinct name="16" votes="1322" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="14" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="7585">
+            <VoteType name="Absentee by Mail Votes" votes="643">
+                <Precinct name="01" votes="31" />
+                <Precinct name="02" votes="79" />
+                <Precinct name="03" votes="57" />
+                <Precinct name="04" votes="34" />
+                <Precinct name="05" votes="127" />
+                <Precinct name="08" votes="66" />
+                <Precinct name="13" votes="146" />
+                <Precinct name="16" votes="103" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4196">
+                <Precinct name="01" votes="215" />
+                <Precinct name="02" votes="406" />
+                <Precinct name="03" votes="330" />
+                <Precinct name="04" votes="221" />
+                <Precinct name="05" votes="727" />
+                <Precinct name="08" votes="517" />
+                <Precinct name="13" votes="1038" />
+                <Precinct name="16" votes="742" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2742">
+                <Precinct name="01" votes="177" />
+                <Precinct name="02" votes="249" />
+                <Precinct name="03" votes="334" />
+                <Precinct name="04" votes="130" />
+                <Precinct name="05" votes="474" />
+                <Precinct name="08" votes="271" />
+                <Precinct name="13" votes="584" />
+                <Precinct name="16" votes="523" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="2" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="1" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="15" text="Martin Cowen (Lib)" totalVotes="595">
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="01" votes="1" />
+                <Precinct name="02" votes="2" />
+                <Precinct name="03" votes="1" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="5" />
+                <Precinct name="08" votes="2" />
+                <Precinct name="13" votes="3" />
+                <Precinct name="16" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="243">
+                <Precinct name="01" votes="18" />
+                <Precinct name="02" votes="24" />
+                <Precinct name="03" votes="31" />
+                <Precinct name="04" votes="16" />
+                <Precinct name="05" votes="39" />
+                <Precinct name="08" votes="40" />
+                <Precinct name="13" votes="39" />
+                <Precinct name="16" votes="36" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="337">
+                <Precinct name="01" votes="24" />
+                <Precinct name="02" votes="46" />
+                <Precinct name="03" votes="48" />
+                <Precinct name="04" votes="22" />
+                <Precinct name="05" votes="47" />
+                <Precinct name="08" votes="41" />
+                <Precinct name="13" votes="52" />
+                <Precinct name="16" votes="57" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Commissioner of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="274">
+            <Precinct name="01" votes="16" />
+            <Precinct name="02" votes="32" />
+            <Precinct name="03" votes="26" />
+            <Precinct name="04" votes="12" />
+            <Precinct name="05" votes="45" />
+            <Precinct name="08" votes="47" />
+            <Precinct name="13" votes="54" />
+            <Precinct name="16" votes="42" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="16" text="Tyler Harper (Rep)" totalVotes="21397">
+            <VoteType name="Absentee by Mail Votes" votes="780">
+                <Precinct name="01" votes="41" />
+                <Precinct name="02" votes="143" />
+                <Precinct name="03" votes="88" />
+                <Precinct name="04" votes="37" />
+                <Precinct name="05" votes="132" />
+                <Precinct name="08" votes="123" />
+                <Precinct name="13" votes="134" />
+                <Precinct name="16" votes="82" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11197">
+                <Precinct name="01" votes="628" />
+                <Precinct name="02" votes="1813" />
+                <Precinct name="03" votes="975" />
+                <Precinct name="04" votes="702" />
+                <Precinct name="05" votes="1872" />
+                <Precinct name="08" votes="1983" />
+                <Precinct name="13" votes="1864" />
+                <Precinct name="16" votes="1360" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9417">
+                <Precinct name="01" votes="733" />
+                <Precinct name="02" votes="1457" />
+                <Precinct name="03" votes="1288" />
+                <Precinct name="04" votes="673" />
+                <Precinct name="05" votes="1586" />
+                <Precinct name="08" votes="1120" />
+                <Precinct name="13" votes="1230" />
+                <Precinct name="16" votes="1330" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Nakita Hemingway (Dem)" totalVotes="6986">
+            <VoteType name="Absentee by Mail Votes" votes="590">
+                <Precinct name="01" votes="29" />
+                <Precinct name="02" votes="64" />
+                <Precinct name="03" votes="50" />
+                <Precinct name="04" votes="32" />
+                <Precinct name="05" votes="120" />
+                <Precinct name="08" votes="59" />
+                <Precinct name="13" votes="142" />
+                <Precinct name="16" votes="94" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3899">
+                <Precinct name="01" votes="188" />
+                <Precinct name="02" votes="363" />
+                <Precinct name="03" votes="311" />
+                <Precinct name="04" votes="198" />
+                <Precinct name="05" votes="679" />
+                <Precinct name="08" votes="470" />
+                <Precinct name="13" votes="984" />
+                <Precinct name="16" votes="706" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2493">
+                <Precinct name="01" votes="165" />
+                <Precinct name="02" votes="224" />
+                <Precinct name="03" votes="286" />
+                <Precinct name="04" votes="113" />
+                <Precinct name="05" votes="436" />
+                <Precinct name="08" votes="245" />
+                <Precinct name="13" votes="532" />
+                <Precinct name="16" votes="492" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="2" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="1" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="David Raudabaugh (Lib)" totalVotes="821">
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="01" votes="2" />
+                <Precinct name="02" votes="4" />
+                <Precinct name="03" votes="4" />
+                <Precinct name="04" votes="2" />
+                <Precinct name="05" votes="7" />
+                <Precinct name="08" votes="2" />
+                <Precinct name="13" votes="5" />
+                <Precinct name="16" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="338">
+                <Precinct name="01" votes="20" />
+                <Precinct name="02" votes="36" />
+                <Precinct name="03" votes="38" />
+                <Precinct name="04" votes="20" />
+                <Precinct name="05" votes="58" />
+                <Precinct name="08" votes="57" />
+                <Precinct name="13" votes="54" />
+                <Precinct name="16" votes="55" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="454">
+                <Precinct name="01" votes="25" />
+                <Precinct name="02" votes="62" />
+                <Precinct name="03" votes="64" />
+                <Precinct name="04" votes="33" />
+                <Precinct name="05" votes="63" />
+                <Precinct name="08" votes="51" />
+                <Precinct name="13" votes="81" />
+                <Precinct name="16" votes="75" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Commissioner of Insurance" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="346">
+            <Precinct name="01" votes="14" />
+            <Precinct name="02" votes="45" />
+            <Precinct name="03" votes="43" />
+            <Precinct name="04" votes="17" />
+            <Precinct name="05" votes="53" />
+            <Precinct name="08" votes="56" />
+            <Precinct name="13" votes="72" />
+            <Precinct name="16" votes="46" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="19" text="John King (I) (Rep)" totalVotes="21723">
+            <VoteType name="Absentee by Mail Votes" votes="771">
+                <Precinct name="01" votes="44" />
+                <Precinct name="02" votes="144" />
+                <Precinct name="03" votes="87" />
+                <Precinct name="04" votes="36" />
+                <Precinct name="05" votes="127" />
+                <Precinct name="08" votes="117" />
+                <Precinct name="13" votes="136" />
+                <Precinct name="16" votes="80" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11306">
+                <Precinct name="01" votes="635" />
+                <Precinct name="02" votes="1823" />
+                <Precinct name="03" votes="993" />
+                <Precinct name="04" votes="708" />
+                <Precinct name="05" votes="1885" />
+                <Precinct name="08" votes="2001" />
+                <Precinct name="13" votes="1870" />
+                <Precinct name="16" votes="1391" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9643">
+                <Precinct name="01" votes="761" />
+                <Precinct name="02" votes="1492" />
+                <Precinct name="03" votes="1299" />
+                <Precinct name="04" votes="692" />
+                <Precinct name="05" votes="1619" />
+                <Precinct name="08" votes="1151" />
+                <Precinct name="13" votes="1261" />
+                <Precinct name="16" votes="1368" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Janice Laws Robinson (Dem)" totalVotes="7403">
+            <VoteType name="Absentee by Mail Votes" votes="624">
+                <Precinct name="01" votes="28" />
+                <Precinct name="02" votes="67" />
+                <Precinct name="03" votes="54" />
+                <Precinct name="04" votes="34" />
+                <Precinct name="05" votes="133" />
+                <Precinct name="08" votes="67" />
+                <Precinct name="13" votes="142" />
+                <Precinct name="16" votes="99" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4090">
+                <Precinct name="01" votes="201" />
+                <Precinct name="02" votes="383" />
+                <Precinct name="03" votes="328" />
+                <Precinct name="04" votes="211" />
+                <Precinct name="05" votes="722" />
+                <Precinct name="08" votes="502" />
+                <Precinct name="13" votes="1015" />
+                <Precinct name="16" votes="728" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2685">
+                <Precinct name="01" votes="164" />
+                <Precinct name="02" votes="242" />
+                <Precinct name="03" votes="328" />
+                <Precinct name="04" votes="125" />
+                <Precinct name="05" votes="458" />
+                <Precinct name="08" votes="264" />
+                <Precinct name="13" votes="579" />
+                <Precinct name="16" votes="525" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="2" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="1" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="305">
+            <Precinct name="01" votes="14" />
+            <Precinct name="02" votes="34" />
+            <Precinct name="03" votes="30" />
+            <Precinct name="04" votes="19" />
+            <Precinct name="05" votes="50" />
+            <Precinct name="08" votes="50" />
+            <Precinct name="13" votes="56" />
+            <Precinct name="16" votes="52" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="21" text="Richard Woods (I) (Rep)" totalVotes="21835">
+            <VoteType name="Absentee by Mail Votes" votes="775">
+                <Precinct name="01" votes="43" />
+                <Precinct name="02" votes="143" />
+                <Precinct name="03" votes="84" />
+                <Precinct name="04" votes="38" />
+                <Precinct name="05" votes="126" />
+                <Precinct name="08" votes="124" />
+                <Precinct name="13" votes="131" />
+                <Precinct name="16" votes="86" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11365">
+                <Precinct name="01" votes="636" />
+                <Precinct name="02" votes="1833" />
+                <Precinct name="03" votes="996" />
+                <Precinct name="04" votes="705" />
+                <Precinct name="05" votes="1917" />
+                <Precinct name="08" votes="2017" />
+                <Precinct name="13" votes="1877" />
+                <Precinct name="16" votes="1384" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9692">
+                <Precinct name="01" votes="756" />
+                <Precinct name="02" votes="1505" />
+                <Precinct name="03" votes="1314" />
+                <Precinct name="04" votes="692" />
+                <Precinct name="05" votes="1617" />
+                <Precinct name="08" votes="1151" />
+                <Precinct name="13" votes="1278" />
+                <Precinct name="16" votes="1379" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Alisha Thomas Searcy (Dem)" totalVotes="7329">
+            <VoteType name="Absentee by Mail Votes" votes="625">
+                <Precinct name="01" votes="30" />
+                <Precinct name="02" votes="69" />
+                <Precinct name="03" votes="57" />
+                <Precinct name="04" votes="33" />
+                <Precinct name="05" votes="131" />
+                <Precinct name="08" votes="60" />
+                <Precinct name="13" votes="151" />
+                <Precinct name="16" votes="94" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4043">
+                <Precinct name="01" votes="197" />
+                <Precinct name="02" votes="377" />
+                <Precinct name="03" votes="328" />
+                <Precinct name="04" votes="209" />
+                <Precinct name="05" votes="693" />
+                <Precinct name="08" votes="488" />
+                <Precinct name="13" votes="1020" />
+                <Precinct name="16" votes="731" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2657">
+                <Precinct name="01" votes="171" />
+                <Precinct name="02" votes="234" />
+                <Precinct name="03" votes="322" />
+                <Precinct name="04" votes="126" />
+                <Precinct name="05" votes="463" />
+                <Precinct name="08" votes="267" />
+                <Precinct name="13" votes="564" />
+                <Precinct name="16" votes="510" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="2" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="1" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner of Labor" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="327">
+            <Precinct name="01" votes="15" />
+            <Precinct name="02" votes="42" />
+            <Precinct name="03" votes="28" />
+            <Precinct name="04" votes="15" />
+            <Precinct name="05" votes="58" />
+            <Precinct name="08" votes="51" />
+            <Precinct name="13" votes="67" />
+            <Precinct name="16" votes="51" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="23" text="Bruce Thompson (Rep)" totalVotes="21081">
+            <VoteType name="Absentee by Mail Votes" votes="741">
+                <Precinct name="01" votes="38" />
+                <Precinct name="02" votes="137" />
+                <Precinct name="03" votes="81" />
+                <Precinct name="04" votes="37" />
+                <Precinct name="05" votes="126" />
+                <Precinct name="08" votes="114" />
+                <Precinct name="13" votes="128" />
+                <Precinct name="16" votes="80" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11015">
+                <Precinct name="01" votes="608" />
+                <Precinct name="02" votes="1786" />
+                <Precinct name="03" votes="961" />
+                <Precinct name="04" votes="690" />
+                <Precinct name="05" votes="1856" />
+                <Precinct name="08" votes="1961" />
+                <Precinct name="13" votes="1824" />
+                <Precinct name="16" votes="1329" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9322">
+                <Precinct name="01" votes="739" />
+                <Precinct name="02" votes="1446" />
+                <Precinct name="03" votes="1274" />
+                <Precinct name="04" votes="672" />
+                <Precinct name="05" votes="1551" />
+                <Precinct name="08" votes="1114" />
+                <Precinct name="13" votes="1210" />
+                <Precinct name="16" votes="1316" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="7117">
+            <VoteType name="Absentee by Mail Votes" votes="614">
+                <Precinct name="01" votes="32" />
+                <Precinct name="02" votes="69" />
+                <Precinct name="03" votes="59" />
+                <Precinct name="04" votes="32" />
+                <Precinct name="05" votes="123" />
+                <Precinct name="08" votes="65" />
+                <Precinct name="13" votes="143" />
+                <Precinct name="16" votes="91" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3978">
+                <Precinct name="01" votes="203" />
+                <Precinct name="02" votes="380" />
+                <Precinct name="03" votes="318" />
+                <Precinct name="04" votes="206" />
+                <Precinct name="05" votes="696" />
+                <Precinct name="08" votes="477" />
+                <Precinct name="13" votes="980" />
+                <Precinct name="16" votes="718" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2521">
+                <Precinct name="01" votes="160" />
+                <Precinct name="02" votes="233" />
+                <Precinct name="03" votes="297" />
+                <Precinct name="04" votes="116" />
+                <Precinct name="05" votes="436" />
+                <Precinct name="08" votes="241" />
+                <Precinct name="13" votes="543" />
+                <Precinct name="16" votes="495" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="2" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="1" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Emily Anderson (Lib)" totalVotes="954">
+            <VoteType name="Absentee by Mail Votes" votes="38">
+                <Precinct name="01" votes="1" />
+                <Precinct name="02" votes="5" />
+                <Precinct name="03" votes="1" />
+                <Precinct name="04" votes="1" />
+                <Precinct name="05" votes="8" />
+                <Precinct name="08" votes="5" />
+                <Precinct name="13" votes="10" />
+                <Precinct name="16" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="412">
+                <Precinct name="01" votes="25" />
+                <Precinct name="02" votes="37" />
+                <Precinct name="03" votes="46" />
+                <Precinct name="04" votes="24" />
+                <Precinct name="05" votes="54" />
+                <Precinct name="08" votes="67" />
+                <Precinct name="13" votes="88" />
+                <Precinct name="16" votes="71" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="504">
+                <Precinct name="01" votes="25" />
+                <Precinct name="02" votes="63" />
+                <Precinct name="03" votes="68" />
+                <Precinct name="04" votes="28" />
+                <Precinct name="05" votes="90" />
+                <Precinct name="08" votes="63" />
+                <Precinct name="13" votes="86" />
+                <Precinct name="16" votes="81" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="US House of Representatives - District 10" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="279">
+            <Precinct name="01" votes="10" />
+            <Precinct name="02" votes="32" />
+            <Precinct name="03" votes="30" />
+            <Precinct name="04" votes="11" />
+            <Precinct name="05" votes="54" />
+            <Precinct name="08" votes="45" />
+            <Precinct name="13" votes="55" />
+            <Precinct name="16" votes="42" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="26" text="Mike Collins (Rep)" totalVotes="21621">
+            <VoteType name="Absentee by Mail Votes" votes="754">
+                <Precinct name="01" votes="40" />
+                <Precinct name="02" votes="136" />
+                <Precinct name="03" votes="84" />
+                <Precinct name="04" votes="37" />
+                <Precinct name="05" votes="126" />
+                <Precinct name="08" votes="114" />
+                <Precinct name="13" votes="135" />
+                <Precinct name="16" votes="82" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11257">
+                <Precinct name="01" votes="628" />
+                <Precinct name="02" votes="1804" />
+                <Precinct name="03" votes="992" />
+                <Precinct name="04" votes="710" />
+                <Precinct name="05" votes="1881" />
+                <Precinct name="08" votes="2004" />
+                <Precinct name="13" votes="1863" />
+                <Precinct name="16" votes="1375" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="9607">
+                <Precinct name="01" votes="755" />
+                <Precinct name="02" votes="1487" />
+                <Precinct name="03" votes="1306" />
+                <Precinct name="04" votes="697" />
+                <Precinct name="05" votes="1606" />
+                <Precinct name="08" votes="1142" />
+                <Precinct name="13" votes="1255" />
+                <Precinct name="16" votes="1359" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Tabitha Johnson-Green (Dem)" totalVotes="7571">
+            <VoteType name="Absentee by Mail Votes" votes="645">
+                <Precinct name="01" votes="34" />
+                <Precinct name="02" votes="76" />
+                <Precinct name="03" votes="58" />
+                <Precinct name="04" votes="34" />
+                <Precinct name="05" votes="129" />
+                <Precinct name="08" votes="69" />
+                <Precinct name="13" votes="145" />
+                <Precinct name="16" votes="100" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4181">
+                <Precinct name="01" votes="206" />
+                <Precinct name="02" votes="404" />
+                <Precinct name="03" votes="333" />
+                <Precinct name="04" votes="212" />
+                <Precinct name="05" votes="731" />
+                <Precinct name="08" votes="509" />
+                <Precinct name="13" votes="1040" />
+                <Precinct name="16" votes="746" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2741">
+                <Precinct name="01" votes="174" />
+                <Precinct name="02" votes="257" />
+                <Precinct name="03" votes="330" />
+                <Precinct name="04" votes="122" />
+                <Precinct name="05" votes="469" />
+                <Precinct name="08" votes="273" />
+                <Precinct name="13" votes="587" />
+                <Precinct name="16" votes="529" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="2" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="1" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="State Senate - District 45" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="145">
+            <Precinct name="02" votes="40" />
+            <Precinct name="03" votes="36" />
+            <Precinct name="04" votes="15" />
+            <Precinct name="13" votes="54" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="13" votes="0" />
+        </VoteType>
+        <Choice key="28" text="Clint Dixon (I) (Rep)" totalVotes="9999">
+            <VoteType name="Absentee by Mail Votes" votes="365">
+                <Precinct name="02" votes="140" />
+                <Precinct name="03" votes="86" />
+                <Precinct name="04" votes="38" />
+                <Precinct name="13" votes="101" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5045">
+                <Precinct name="02" votes="1810" />
+                <Precinct name="03" votes="990" />
+                <Precinct name="04" votes="710" />
+                <Precinct name="13" votes="1535" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4587">
+                <Precinct name="02" votes="1492" />
+                <Precinct name="03" votes="1308" />
+                <Precinct name="04" votes="698" />
+                <Precinct name="13" votes="1089" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="13" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="Matielyn Jones (Dem)" totalVotes="3227">
+            <VoteType name="Absentee by Mail Votes" votes="275">
+                <Precinct name="02" votes="71" />
+                <Precinct name="03" votes="56" />
+                <Precinct name="04" votes="33" />
+                <Precinct name="13" votes="115" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1782">
+                <Precinct name="02" votes="394" />
+                <Precinct name="03" votes="333" />
+                <Precinct name="04" votes="208" />
+                <Precinct name="13" votes="847" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1168">
+                <Precinct name="02" votes="252" />
+                <Precinct name="03" votes="324" />
+                <Precinct name="04" votes="121" />
+                <Precinct name="13" votes="471" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="2" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="13" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="State Senate - District 46" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="63">
+            <Precinct name="01" votes="0" />
+            <Precinct name="13" votes="12" />
+            <Precinct name="16" votes="51" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="30" text="Bill Cowsert (I) (Rep)" totalVotes="3360">
+            <VoteType name="Absentee by Mail Votes" votes="114">
+                <Precinct name="01" votes="1" />
+                <Precinct name="13" votes="33" />
+                <Precinct name="16" votes="80" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1712">
+                <Precinct name="01" votes="27" />
+                <Precinct name="13" votes="318" />
+                <Precinct name="16" votes="1367" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1534">
+                <Precinct name="01" votes="6" />
+                <Precinct name="13" votes="173" />
+                <Precinct name="16" votes="1355" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="31" text="Andrew Ferguson (Dem)" totalVotes="1723">
+            <VoteType name="Absentee by Mail Votes" votes="133">
+                <Precinct name="01" votes="0" />
+                <Precinct name="13" votes="32" />
+                <Precinct name="16" votes="101" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="947">
+                <Precinct name="01" votes="5" />
+                <Precinct name="13" votes="194" />
+                <Precinct name="16" votes="748" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="643">
+                <Precinct name="01" votes="5" />
+                <Precinct name="13" votes="105" />
+                <Precinct name="16" votes="533" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="State Senate - District 47" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="137">
+            <Precinct name="01" votes="21" />
+            <Precinct name="05" votes="66" />
+            <Precinct name="08" votes="50" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Frank Ginn (I) (Rep)" totalVotes="8316">
+            <VoteType name="Absentee by Mail Votes" votes="288">
+                <Precinct name="01" votes="42" />
+                <Precinct name="05" votes="127" />
+                <Precinct name="08" votes="119" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4511">
+                <Precinct name="01" votes="602" />
+                <Precinct name="05" votes="1892" />
+                <Precinct name="08" votes="2017" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3517">
+                <Precinct name="01" votes="748" />
+                <Precinct name="05" votes="1622" />
+                <Precinct name="08" votes="1147" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="33" text="Conolus Scott, Jr. (Dem)" totalVotes="2504">
+            <VoteType name="Absentee by Mail Votes" votes="221">
+                <Precinct name="01" votes="30" />
+                <Precinct name="05" votes="126" />
+                <Precinct name="08" votes="65" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1405">
+                <Precinct name="01" votes="196" />
+                <Precinct name="05" votes="717" />
+                <Precinct name="08" votes="492" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="878">
+                <Precinct name="01" votes="164" />
+                <Precinct name="05" votes="449" />
+                <Precinct name="08" votes="265" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="State House of Representatives - District 104" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="93">
+            <Precinct name="01" votes="0" />
+            <Precinct name="03" votes="43" />
+            <Precinct name="04" votes="15" />
+            <Precinct name="16" votes="35" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="34" text="Chuck Efstration (I) (Rep)" totalVotes="5563">
+            <VoteType name="Absentee by Mail Votes" votes="182">
+                <Precinct name="01" votes="0" />
+                <Precinct name="03" votes="86" />
+                <Precinct name="04" votes="37" />
+                <Precinct name="16" votes="59" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2591">
+                <Precinct name="01" votes="3" />
+                <Precinct name="03" votes="988" />
+                <Precinct name="04" votes="710" />
+                <Precinct name="16" votes="890" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2790">
+                <Precinct name="01" votes="0" />
+                <Precinct name="03" votes="1304" />
+                <Precinct name="04" votes="692" />
+                <Precinct name="16" votes="794" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="35" text="Patrick J. Reinert (Dem)" totalVotes="1947">
+            <VoteType name="Absentee by Mail Votes" votes="147">
+                <Precinct name="01" votes="0" />
+                <Precinct name="03" votes="56" />
+                <Precinct name="04" votes="34" />
+                <Precinct name="16" votes="57" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="980">
+                <Precinct name="01" votes="0" />
+                <Precinct name="03" votes="332" />
+                <Precinct name="04" votes="208" />
+                <Precinct name="16" votes="440" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="820">
+                <Precinct name="01" votes="1" />
+                <Precinct name="03" votes="325" />
+                <Precinct name="04" votes="127" />
+                <Precinct name="16" votes="367" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State House of Representatives - District 119" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="2400">
+            <Precinct name="01" votes="184" />
+            <Precinct name="02" votes="378" />
+            <Precinct name="05" votes="354" />
+            <Precinct name="08" votes="413" />
+            <Precinct name="13" votes="843" />
+            <Precinct name="16" votes="228" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="36" text="Danny Rampey (Rep)" totalVotes="17062">
+            <VoteType name="Absentee by Mail Votes" votes="688">
+                <Precinct name="01" votes="60" />
+                <Precinct name="02" votes="158" />
+                <Precinct name="05" votes="107" />
+                <Precinct name="08" votes="138" />
+                <Precinct name="13" votes="187" />
+                <Precinct name="16" votes="38" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="9270">
+                <Precinct name="01" votes="713" />
+                <Precinct name="02" votes="1968" />
+                <Precinct name="05" votes="1464" />
+                <Precinct name="08" votes="2228" />
+                <Precinct name="13" votes="2281" />
+                <Precinct name="16" votes="616" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7101">
+                <Precinct name="01" votes="841" />
+                <Precinct name="02" votes="1606" />
+                <Precinct name="05" votes="1158" />
+                <Precinct name="08" votes="1287" />
+                <Precinct name="13" votes="1560" />
+                <Precinct name="16" votes="649" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="State House of Representatives - District 120" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="05" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="05" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Houston Gaines (I) (Rep)" totalVotes="1274">
+            <VoteType name="Absentee by Mail Votes" votes="36">
+                <Precinct name="05" votes="36" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="630">
+                <Precinct name="05" votes="630" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="608">
+                <Precinct name="05" votes="608" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="05" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="38" text="Mokah Jasmine Johnson (Dem)" totalVotes="551">
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="05" votes="51" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="306">
+                <Precinct name="05" votes="306" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="194">
+                <Precinct name="05" votes="194" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="05" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Solicitor General of the State Court of Barrow County" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="3626">
+            <Precinct name="01" votes="207" />
+            <Precinct name="02" votes="382" />
+            <Precinct name="03" votes="314" />
+            <Precinct name="04" votes="177" />
+            <Precinct name="05" votes="638" />
+            <Precinct name="08" votes="434" />
+            <Precinct name="13" votes="871" />
+            <Precinct name="16" votes="603" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Kyle W. Sharry (I) (Rep)" totalVotes="25258">
+            <VoteType name="Absentee by Mail Votes" votes="969">
+                <Precinct name="01" votes="58" />
+                <Precinct name="02" votes="161" />
+                <Precinct name="03" votes="98" />
+                <Precinct name="04" votes="50" />
+                <Precinct name="05" votes="161" />
+                <Precinct name="08" votes="134" />
+                <Precinct name="13" votes="187" />
+                <Precinct name="16" votes="120" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13130">
+                <Precinct name="01" votes="712" />
+                <Precinct name="02" votes="1989" />
+                <Precinct name="03" votes="1147" />
+                <Precinct name="04" votes="803" />
+                <Precinct name="05" votes="2219" />
+                <Precinct name="08" votes="2232" />
+                <Precinct name="13" votes="2294" />
+                <Precinct name="16" votes="1734" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="11155">
+                <Precinct name="01" votes="840" />
+                <Precinct name="02" votes="1616" />
+                <Precinct name="03" votes="1509" />
+                <Precinct name="04" votes="769" />
+                <Precinct name="05" votes="1884" />
+                <Precinct name="08" votes="1290" />
+                <Precinct name="13" votes="1578" />
+                <Precinct name="16" votes="1669" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="1" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="County Commission - District 4" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="59">
+            <Precinct name="03" votes="3" />
+            <Precinct name="04" votes="17" />
+            <Precinct name="16" votes="39" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="40" text="Alex Ward (I) (Rep)" totalVotes="2851">
+            <VoteType name="Absentee by Mail Votes" votes="100">
+                <Precinct name="03" votes="15" />
+                <Precinct name="04" votes="39" />
+                <Precinct name="16" votes="46" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1370">
+                <Precinct name="03" votes="123" />
+                <Precinct name="04" votes="609" />
+                <Precinct name="16" votes="638" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1381">
+                <Precinct name="03" votes="131" />
+                <Precinct name="04" votes="597" />
+                <Precinct name="16" votes="653" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="41" text="Judy Bevers (Dem)" totalVotes="1057">
+            <VoteType name="Absentee by Mail Votes" votes="79">
+                <Precinct name="03" votes="7" />
+                <Precinct name="04" votes="30" />
+                <Precinct name="16" votes="42" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="550">
+                <Precinct name="03" votes="34" />
+                <Precinct name="04" votes="175" />
+                <Precinct name="16" votes="341" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="428">
+                <Precinct name="03" votes="22" />
+                <Precinct name="04" votes="104" />
+                <Precinct name="16" votes="302" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="County Commission - District 5" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="590">
+            <Precinct name="02" votes="287" />
+            <Precinct name="03" votes="303" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Tim Walker (Rep)" totalVotes="4981">
+            <VoteType name="Absentee by Mail Votes" votes="184">
+                <Precinct name="02" votes="104" />
+                <Precinct name="03" votes="80" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2328">
+                <Precinct name="02" votes="1324" />
+                <Precinct name="03" votes="1004" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2469">
+                <Precinct name="02" votes="1112" />
+                <Precinct name="03" votes="1357" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="County Commission - District 6" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="580">
+            <Precinct name="02" votes="110" />
+            <Precinct name="04" votes="24" />
+            <Precinct name="13" votes="446" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="02" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="13" votes="0" />
+        </VoteType>
+        <Choice key="43" text="Deborah Lynn (Rep)" totalVotes="4062">
+            <VoteType name="Absentee by Mail Votes" votes="163">
+                <Precinct name="02" votes="54" />
+                <Precinct name="04" votes="2" />
+                <Precinct name="13" votes="107" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2220">
+                <Precinct name="02" votes="658" />
+                <Precinct name="04" votes="118" />
+                <Precinct name="13" votes="1444" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1678">
+                <Precinct name="02" votes="501" />
+                <Precinct name="04" votes="106" />
+                <Precinct name="13" votes="1071" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="02" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="13" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="County BOE - District 1" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="318">
+            <Precinct name="01" votes="7" />
+            <Precinct name="05" votes="289" />
+            <Precinct name="08" votes="22" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+        </VoteType>
+        <Choice key="44" text="Kirsten &quot;&quot;Kiki&quot;&quot; Bradford (Rep)" totalVotes="4011">
+            <VoteType name="Absentee by Mail Votes" votes="132">
+                <Precinct name="01" votes="6" />
+                <Precinct name="05" votes="117" />
+                <Precinct name="08" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2096">
+                <Precinct name="01" votes="88" />
+                <Precinct name="05" votes="1773" />
+                <Precinct name="08" votes="235" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1783">
+                <Precinct name="01" votes="61" />
+                <Precinct name="05" votes="1556" />
+                <Precinct name="08" votes="166" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="45" text="Kenny Lumpkin (I) (Ind)" totalVotes="1420">
+            <VoteType name="Absentee by Mail Votes" votes="118">
+                <Precinct name="01" votes="3" />
+                <Precinct name="05" votes="112" />
+                <Precinct name="08" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="797">
+                <Precinct name="01" votes="33" />
+                <Precinct name="05" votes="693" />
+                <Precinct name="08" votes="71" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="505">
+                <Precinct name="01" votes="15" />
+                <Precinct name="05" votes="444" />
+                <Precinct name="08" votes="46" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="County BOE - District 3" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="698">
+            <Precinct name="01" votes="0" />
+            <Precinct name="13" votes="384" />
+            <Precinct name="16" votes="314" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Lisa Maloof (I) (Rep)" totalVotes="3077">
+            <VoteType name="Absentee by Mail Votes" votes="138">
+                <Precinct name="01" votes="0" />
+                <Precinct name="13" votes="77" />
+                <Precinct name="16" votes="61" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1654">
+                <Precinct name="01" votes="0" />
+                <Precinct name="13" votes="730" />
+                <Precinct name="16" votes="924" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1285">
+                <Precinct name="01" votes="0" />
+                <Precinct name="13" votes="464" />
+                <Precinct name="16" votes="821" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="County BOE - District 4" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="506">
+            <Precinct name="03" votes="26" />
+            <Precinct name="04" votes="164" />
+            <Precinct name="16" votes="316" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="47" text="Beverly A. Kelley (I) (Rep)" totalVotes="3377">
+            <VoteType name="Absentee by Mail Votes" votes="116">
+                <Precinct name="03" votes="18" />
+                <Precinct name="04" votes="40" />
+                <Precinct name="16" votes="58" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1620">
+                <Precinct name="03" votes="139" />
+                <Precinct name="04" votes="680" />
+                <Precinct name="16" votes="801" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1641">
+                <Precinct name="03" votes="145" />
+                <Precinct name="04" votes="662" />
+                <Precinct name="16" votes="834" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="County BOE - District 7 - At Large" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="3769">
+            <Precinct name="01" votes="208" />
+            <Precinct name="02" votes="400" />
+            <Precinct name="03" votes="340" />
+            <Precinct name="04" votes="194" />
+            <Precinct name="05" votes="640" />
+            <Precinct name="08" votes="447" />
+            <Precinct name="13" votes="896" />
+            <Precinct name="16" votes="644" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Bill Ritter (I) (Rep)" totalVotes="25156">
+            <VoteType name="Absentee by Mail Votes" votes="959">
+                <Precinct name="01" votes="58" />
+                <Precinct name="02" votes="159" />
+                <Precinct name="03" votes="95" />
+                <Precinct name="04" votes="44" />
+                <Precinct name="05" votes="161" />
+                <Precinct name="08" votes="132" />
+                <Precinct name="13" votes="191" />
+                <Precinct name="16" votes="119" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13075">
+                <Precinct name="01" votes="710" />
+                <Precinct name="02" votes="1982" />
+                <Precinct name="03" votes="1138" />
+                <Precinct name="04" votes="794" />
+                <Precinct name="05" votes="2218" />
+                <Precinct name="08" votes="2222" />
+                <Precinct name="13" votes="2293" />
+                <Precinct name="16" votes="1718" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="11118">
+                <Precinct name="01" votes="840" />
+                <Precinct name="02" votes="1607" />
+                <Precinct name="03" votes="1503" />
+                <Precinct name="04" votes="767" />
+                <Precinct name="05" votes="1886" />
+                <Precinct name="08" votes="1282" />
+                <Precinct name="13" votes="1571" />
+                <Precinct name="16" votes="1662" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="1" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="County BOE - District 9 - At Large" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="3820">
+            <Precinct name="01" votes="211" />
+            <Precinct name="02" votes="394" />
+            <Precinct name="03" votes="335" />
+            <Precinct name="04" votes="201" />
+            <Precinct name="05" votes="668" />
+            <Precinct name="08" votes="468" />
+            <Precinct name="13" votes="905" />
+            <Precinct name="16" votes="638" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="49" text="Stephanie G. Bramlett (I) (Rep)" totalVotes="25067">
+            <VoteType name="Absentee by Mail Votes" votes="963">
+                <Precinct name="01" votes="60" />
+                <Precinct name="02" votes="159" />
+                <Precinct name="03" votes="96" />
+                <Precinct name="04" votes="47" />
+                <Precinct name="05" votes="159" />
+                <Precinct name="08" votes="133" />
+                <Precinct name="13" votes="189" />
+                <Precinct name="16" votes="120" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13051">
+                <Precinct name="01" votes="713" />
+                <Precinct name="02" votes="1983" />
+                <Precinct name="03" votes="1138" />
+                <Precinct name="04" votes="788" />
+                <Precinct name="05" votes="2209" />
+                <Precinct name="08" votes="2204" />
+                <Precinct name="13" votes="2290" />
+                <Precinct name="16" votes="1726" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="11049">
+                <Precinct name="01" votes="829" />
+                <Precinct name="02" votes="1608" />
+                <Precinct name="03" votes="1501" />
+                <Precinct name="04" votes="762" />
+                <Precinct name="05" votes="1874" />
+                <Precinct name="08" votes="1267" />
+                <Precinct name="13" votes="1556" />
+                <Precinct name="16" votes="1652" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="1" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="Soil and Water Conservation District Supervisor - Oconee River" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="4844">
+            <Precinct name="01" votes="255" />
+            <Precinct name="02" votes="632" />
+            <Precinct name="03" votes="479" />
+            <Precinct name="04" votes="306" />
+            <Precinct name="05" votes="809" />
+            <Precinct name="08" votes="606" />
+            <Precinct name="13" votes="1007" />
+            <Precinct name="16" votes="750" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="50" text="John Robert McLocklin" totalVotes="24650">
+            <VoteType name="Absentee by Mail Votes" votes="930">
+                <Precinct name="01" votes="62" />
+                <Precinct name="02" votes="142" />
+                <Precinct name="03" votes="93" />
+                <Precinct name="04" votes="44" />
+                <Precinct name="05" votes="153" />
+                <Precinct name="08" votes="142" />
+                <Precinct name="13" votes="171" />
+                <Precinct name="16" votes="123" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12964">
+                <Precinct name="01" votes="713" />
+                <Precinct name="02" votes="1907" />
+                <Precinct name="03" votes="1132" />
+                <Precinct name="04" votes="748" />
+                <Precinct name="05" votes="2221" />
+                <Precinct name="08" votes="2168" />
+                <Precinct name="13" votes="2347" />
+                <Precinct name="16" votes="1728" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="10754">
+                <Precinct name="01" votes="819" />
+                <Precinct name="02" votes="1519" />
+                <Precinct name="03" votes="1432" />
+                <Precinct name="04" votes="725" />
+                <Precinct name="05" votes="1817" />
+                <Precinct name="08" votes="1244" />
+                <Precinct name="13" votes="1558" />
+                <Precinct name="16" votes="1640" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="Special Town Council Post 3 - Town of Bethlehem" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="01" votes="10" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+        </VoteType>
+        <Choice key="51" text="Eric E. Dailey" totalVotes="85">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="01" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="30">
+                <Precinct name="01" votes="30" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="51">
+                <Precinct name="01" votes="51" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="Sharon L. Johnson" totalVotes="76">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="01" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="32">
+                <Precinct name="01" votes="32" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="38">
+                <Precinct name="01" votes="38" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="53" text="Mary Koestel" totalVotes="11">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="01" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1">
+                <Precinct name="01" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="01" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Susanne Morgan" totalVotes="54">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="01" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="24">
+                <Precinct name="01" votes="24" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="26">
+                <Precinct name="01" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="01" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="28" text="Proposed Constitutional Amendment 1" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="902">
+            <Precinct name="01" votes="61" />
+            <Precinct name="02" votes="129" />
+            <Precinct name="03" votes="80" />
+            <Precinct name="04" votes="63" />
+            <Precinct name="05" votes="146" />
+            <Precinct name="08" votes="162" />
+            <Precinct name="13" votes="134" />
+            <Precinct name="16" votes="127" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="55" text="Yes" totalVotes="25387">
+            <VoteType name="Absentee by Mail Votes" votes="1213">
+                <Precinct name="01" votes="60" />
+                <Precinct name="02" votes="183" />
+                <Precinct name="03" votes="130" />
+                <Precinct name="04" votes="62" />
+                <Precinct name="05" votes="222" />
+                <Precinct name="08" votes="167" />
+                <Precinct name="13" votes="234" />
+                <Precinct name="16" votes="155" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13446">
+                <Precinct name="01" votes="714" />
+                <Precinct name="02" votes="1917" />
+                <Precinct name="03" votes="1178" />
+                <Precinct name="04" votes="793" />
+                <Precinct name="05" votes="2285" />
+                <Precinct name="08" votes="2191" />
+                <Precinct name="13" votes="2518" />
+                <Precinct name="16" votes="1850" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="10725">
+                <Precinct name="01" votes="823" />
+                <Precinct name="02" votes="1511" />
+                <Precinct name="03" votes="1413" />
+                <Precinct name="04" votes="701" />
+                <Precinct name="05" votes="1808" />
+                <Precinct name="08" votes="1233" />
+                <Precinct name="13" votes="1594" />
+                <Precinct name="16" votes="1642" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="2" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="56" text="No" totalVotes="3205">
+            <VoteType name="Absentee by Mail Votes" votes="139">
+                <Precinct name="01" votes="14" />
+                <Precinct name="02" votes="20" />
+                <Precinct name="03" votes="9" />
+                <Precinct name="04" votes="5" />
+                <Precinct name="05" votes="22" />
+                <Precinct name="08" votes="13" />
+                <Precinct name="13" votes="37" />
+                <Precinct name="16" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1670">
+                <Precinct name="01" votes="92" />
+                <Precinct name="02" votes="248" />
+                <Precinct name="03" votes="128" />
+                <Precinct name="04" votes="100" />
+                <Precinct name="05" votes="271" />
+                <Precinct name="08" votes="262" />
+                <Precinct name="13" votes="344" />
+                <Precinct name="16" votes="225" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1393">
+                <Precinct name="01" votes="85" />
+                <Precinct name="02" votes="192" />
+                <Precinct name="03" votes="196" />
+                <Precinct name="04" votes="99" />
+                <Precinct name="05" votes="245" />
+                <Precinct name="08" votes="132" />
+                <Precinct name="13" votes="222" />
+                <Precinct name="16" votes="222" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="29" text="Proposed Constitutional Amendment 2" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="709">
+            <Precinct name="01" votes="35" />
+            <Precinct name="02" votes="111" />
+            <Precinct name="03" votes="59" />
+            <Precinct name="04" votes="55" />
+            <Precinct name="05" votes="130" />
+            <Precinct name="08" votes="103" />
+            <Precinct name="13" votes="116" />
+            <Precinct name="16" votes="100" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="57" text="Yes" totalVotes="26395">
+            <VoteType name="Absentee by Mail Votes" votes="1280">
+                <Precinct name="01" votes="67" />
+                <Precinct name="02" votes="187" />
+                <Precinct name="03" votes="134" />
+                <Precinct name="04" votes="61" />
+                <Precinct name="05" votes="229" />
+                <Precinct name="08" votes="172" />
+                <Precinct name="13" votes="260" />
+                <Precinct name="16" votes="170" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="13949">
+                <Precinct name="01" votes="739" />
+                <Precinct name="02" votes="1990" />
+                <Precinct name="03" votes="1212" />
+                <Precinct name="04" votes="824" />
+                <Precinct name="05" votes="2340" />
+                <Precinct name="08" votes="2277" />
+                <Precinct name="13" votes="2643" />
+                <Precinct name="16" votes="1924" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="11162">
+                <Precinct name="01" votes="845" />
+                <Precinct name="02" votes="1562" />
+                <Precinct name="03" votes="1491" />
+                <Precinct name="04" votes="736" />
+                <Precinct name="05" votes="1873" />
+                <Precinct name="08" votes="1287" />
+                <Precinct name="13" votes="1671" />
+                <Precinct name="16" votes="1697" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="2" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="No" totalVotes="2390">
+            <VoteType name="Absentee by Mail Votes" votes="90">
+                <Precinct name="01" votes="7" />
+                <Precinct name="02" votes="18" />
+                <Precinct name="03" votes="7" />
+                <Precinct name="04" votes="6" />
+                <Precinct name="05" votes="14" />
+                <Precinct name="08" votes="10" />
+                <Precinct name="13" votes="19" />
+                <Precinct name="16" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1271">
+                <Precinct name="01" votes="82" />
+                <Precinct name="02" votes="183" />
+                <Precinct name="03" votes="104" />
+                <Precinct name="04" votes="74" />
+                <Precinct name="05" votes="227" />
+                <Precinct name="08" votes="204" />
+                <Precinct name="13" votes="232" />
+                <Precinct name="16" votes="165" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1027">
+                <Precinct name="01" votes="74" />
+                <Precinct name="02" votes="149" />
+                <Precinct name="03" votes="127" />
+                <Precinct name="04" votes="67" />
+                <Precinct name="05" votes="186" />
+                <Precinct name="08" votes="107" />
+                <Precinct name="13" votes="142" />
+                <Precinct name="16" votes="175" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="30" text="Statewide Referendum Question 1" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="1194">
+            <Precinct name="01" votes="63" />
+            <Precinct name="02" votes="187" />
+            <Precinct name="03" votes="115" />
+            <Precinct name="04" votes="68" />
+            <Precinct name="05" votes="225" />
+            <Precinct name="08" votes="170" />
+            <Precinct name="13" votes="203" />
+            <Precinct name="16" votes="163" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="59" text="Yes" totalVotes="17616">
+            <VoteType name="Absentee by Mail Votes" votes="653">
+                <Precinct name="01" votes="42" />
+                <Precinct name="02" votes="96" />
+                <Precinct name="03" votes="67" />
+                <Precinct name="04" votes="31" />
+                <Precinct name="05" votes="112" />
+                <Precinct name="08" votes="87" />
+                <Precinct name="13" votes="128" />
+                <Precinct name="16" votes="90" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="9092">
+                <Precinct name="01" votes="495" />
+                <Precinct name="02" votes="1249" />
+                <Precinct name="03" votes="798" />
+                <Precinct name="04" votes="563" />
+                <Precinct name="05" votes="1546" />
+                <Precinct name="08" votes="1521" />
+                <Precinct name="13" votes="1678" />
+                <Precinct name="16" votes="1242" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7870">
+                <Precinct name="01" votes="605" />
+                <Precinct name="02" votes="1077" />
+                <Precinct name="03" votes="1039" />
+                <Precinct name="04" votes="545" />
+                <Precinct name="05" votes="1316" />
+                <Precinct name="08" votes="923" />
+                <Precinct name="13" votes="1140" />
+                <Precinct name="16" votes="1225" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="60" text="No" totalVotes="10684">
+            <VoteType name="Absentee by Mail Votes" votes="664">
+                <Precinct name="01" votes="30" />
+                <Precinct name="02" votes="102" />
+                <Precinct name="03" votes="67" />
+                <Precinct name="04" votes="35" />
+                <Precinct name="05" votes="124" />
+                <Precinct name="08" votes="91" />
+                <Precinct name="13" votes="136" />
+                <Precinct name="16" votes="79" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5873">
+                <Precinct name="01" votes="311" />
+                <Precinct name="02" votes="886" />
+                <Precinct name="03" votes="494" />
+                <Precinct name="04" votes="327" />
+                <Precinct name="05" votes="975" />
+                <Precinct name="08" votes="924" />
+                <Precinct name="13" votes="1148" />
+                <Precinct name="16" votes="808" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4142">
+                <Precinct name="01" votes="303" />
+                <Precinct name="02" votes="603" />
+                <Precinct name="03" votes="554" />
+                <Precinct name="04" votes="254" />
+                <Precinct name="05" votes="701" />
+                <Precinct name="08" votes="444" />
+                <Precinct name="13" votes="650" />
+                <Precinct name="16" votes="633" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="2" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="31" text="Statewide Referendum Question 2" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="1086">
+            <Precinct name="01" votes="54" />
+            <Precinct name="02" votes="174" />
+            <Precinct name="03" votes="110" />
+            <Precinct name="04" votes="68" />
+            <Precinct name="05" votes="191" />
+            <Precinct name="08" votes="149" />
+            <Precinct name="13" votes="192" />
+            <Precinct name="16" votes="148" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="01" votes="0" />
+            <Precinct name="02" votes="0" />
+            <Precinct name="03" votes="0" />
+            <Precinct name="04" votes="0" />
+            <Precinct name="05" votes="0" />
+            <Precinct name="08" votes="0" />
+            <Precinct name="13" votes="0" />
+            <Precinct name="16" votes="0" />
+        </VoteType>
+        <Choice key="61" text="Yes" totalVotes="23061">
+            <VoteType name="Absentee by Mail Votes" votes="923">
+                <Precinct name="01" votes="53" />
+                <Precinct name="02" votes="127" />
+                <Precinct name="03" votes="101" />
+                <Precinct name="04" votes="46" />
+                <Precinct name="05" votes="151" />
+                <Precinct name="08" votes="127" />
+                <Precinct name="13" votes="186" />
+                <Precinct name="16" votes="132" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12058">
+                <Precinct name="01" votes="657" />
+                <Precinct name="02" votes="1730" />
+                <Precinct name="03" votes="1059" />
+                <Precinct name="04" votes="742" />
+                <Precinct name="05" votes="2028" />
+                <Precinct name="08" votes="2020" />
+                <Precinct name="13" votes="2198" />
+                <Precinct name="16" votes="1624" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="10077">
+                <Precinct name="01" votes="760" />
+                <Precinct name="02" votes="1403" />
+                <Precinct name="03" votes="1351" />
+                <Precinct name="04" votes="697" />
+                <Precinct name="05" votes="1692" />
+                <Precinct name="08" votes="1188" />
+                <Precinct name="13" votes="1441" />
+                <Precinct name="16" votes="1545" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="0" />
+                <Precinct name="03" votes="2" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="0" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="1" />
+                <Precinct name="16" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="62" text="No" totalVotes="5347">
+            <VoteType name="Absentee by Mail Votes" votes="389">
+                <Precinct name="01" votes="20" />
+                <Precinct name="02" votes="68" />
+                <Precinct name="03" votes="32" />
+                <Precinct name="04" votes="17" />
+                <Precinct name="05" votes="85" />
+                <Precinct name="08" votes="52" />
+                <Precinct name="13" votes="76" />
+                <Precinct name="16" votes="39" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2969">
+                <Precinct name="01" votes="155" />
+                <Precinct name="02" votes="414" />
+                <Precinct name="03" votes="235" />
+                <Precinct name="04" votes="151" />
+                <Precinct name="05" votes="511" />
+                <Precinct name="08" votes="435" />
+                <Precinct name="13" votes="634" />
+                <Precinct name="16" votes="434" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1986">
+                <Precinct name="01" votes="150" />
+                <Precinct name="02" votes="284" />
+                <Precinct name="03" votes="246" />
+                <Precinct name="04" votes="102" />
+                <Precinct name="05" votes="341" />
+                <Precinct name="08" votes="189" />
+                <Precinct name="13" votes="356" />
+                <Precinct name="16" votes="318" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="01" votes="0" />
+                <Precinct name="02" votes="1" />
+                <Precinct name="03" votes="0" />
+                <Precinct name="04" votes="0" />
+                <Precinct name="05" votes="1" />
+                <Precinct name="08" votes="0" />
+                <Precinct name="13" votes="0" />
+                <Precinct name="16" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,1560 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/15/2022 10:30:03 AM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Dooly</Region>
+    <VoterTurnout totalVoters="5814" ballotsCast="3301" voterTurnout="56.78">
+        <Precincts>
+            <Precinct name="Lilly" totalVoters="517" ballotsCast="283" voterTurnout="54.74" percentReporting="4" />
+            <Precinct name="Byromville" totalVoters="596" ballotsCast="374" voterTurnout="62.75" percentReporting="4" />
+            <Precinct name="Unadilla" totalVoters="1591" ballotsCast="881" voterTurnout="55.37" percentReporting="4" />
+            <Precinct name="Vienna" totalVoters="2623" ballotsCast="1443" voterTurnout="55.01" percentReporting="4" />
+            <Precinct name="Pinehurst" totalVoters="458" ballotsCast="320" voterTurnout="69.87" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="24">
+            <Precinct name="Lilly" votes="1" />
+            <Precinct name="Byromville" votes="3" />
+            <Precinct name="Unadilla" votes="10" />
+            <Precinct name="Vienna" votes="8" />
+            <Precinct name="Pinehurst" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+            <Precinct name="Unadilla" votes="0" />
+            <Precinct name="Vienna" votes="0" />
+            <Precinct name="Pinehurst" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="1784">
+            <VoteType name="Absentee by Mail Votes" votes="55">
+                <Precinct name="Lilly" votes="2" />
+                <Precinct name="Byromville" votes="6" />
+                <Precinct name="Unadilla" votes="17" />
+                <Precinct name="Vienna" votes="22" />
+                <Precinct name="Pinehurst" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="947">
+                <Precinct name="Lilly" votes="57" />
+                <Precinct name="Byromville" votes="54" />
+                <Precinct name="Unadilla" votes="210" />
+                <Precinct name="Vienna" votes="525" />
+                <Precinct name="Pinehurst" votes="101" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="782">
+                <Precinct name="Lilly" votes="87" />
+                <Precinct name="Byromville" votes="128" />
+                <Precinct name="Unadilla" votes="233" />
+                <Precinct name="Vienna" votes="203" />
+                <Precinct name="Pinehurst" votes="131" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1461">
+            <VoteType name="Absentee by Mail Votes" votes="151">
+                <Precinct name="Lilly" votes="17" />
+                <Precinct name="Byromville" votes="21" />
+                <Precinct name="Unadilla" votes="35" />
+                <Precinct name="Vienna" votes="73" />
+                <Precinct name="Pinehurst" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="743">
+                <Precinct name="Lilly" votes="61" />
+                <Precinct name="Byromville" votes="68" />
+                <Precinct name="Unadilla" votes="163" />
+                <Precinct name="Vienna" votes="415" />
+                <Precinct name="Pinehurst" votes="36" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="567">
+                <Precinct name="Lilly" votes="56" />
+                <Precinct name="Byromville" votes="89" />
+                <Precinct name="Unadilla" votes="201" />
+                <Precinct name="Vienna" votes="187" />
+                <Precinct name="Pinehurst" votes="34" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Chase Oliver (Lib)" totalVotes="32">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="3" />
+                <Precinct name="Vienna" votes="2" />
+                <Precinct name="Pinehurst" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="1" />
+                <Precinct name="Unadilla" votes="1" />
+                <Precinct name="Vienna" votes="4" />
+                <Precinct name="Pinehurst" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Lilly" votes="2" />
+                <Precinct name="Byromville" votes="4" />
+                <Precinct name="Unadilla" votes="8" />
+                <Precinct name="Vienna" votes="4" />
+                <Precinct name="Pinehurst" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="15">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="3" />
+            <Precinct name="Unadilla" votes="3" />
+            <Precinct name="Vienna" votes="8" />
+            <Precinct name="Pinehurst" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+            <Precinct name="Unadilla" votes="0" />
+            <Precinct name="Vienna" votes="0" />
+            <Precinct name="Pinehurst" votes="0" />
+        </VoteType>
+        <Choice key="4" text="Brian Kemp (I) (Rep)" totalVotes="1860">
+            <VoteType name="Absentee by Mail Votes" votes="65">
+                <Precinct name="Lilly" votes="2" />
+                <Precinct name="Byromville" votes="7" />
+                <Precinct name="Unadilla" votes="19" />
+                <Precinct name="Vienna" votes="27" />
+                <Precinct name="Pinehurst" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="982">
+                <Precinct name="Lilly" votes="60" />
+                <Precinct name="Byromville" votes="58" />
+                <Precinct name="Unadilla" votes="220" />
+                <Precinct name="Vienna" votes="541" />
+                <Precinct name="Pinehurst" votes="103" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="813">
+                <Precinct name="Lilly" votes="92" />
+                <Precinct name="Byromville" votes="136" />
+                <Precinct name="Unadilla" votes="241" />
+                <Precinct name="Vienna" votes="209" />
+                <Precinct name="Pinehurst" votes="135" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Stacey Abrams (Dem)" totalVotes="1416">
+            <VoteType name="Absentee by Mail Votes" votes="145">
+                <Precinct name="Lilly" votes="17" />
+                <Precinct name="Byromville" votes="20" />
+                <Precinct name="Unadilla" votes="36" />
+                <Precinct name="Vienna" votes="69" />
+                <Precinct name="Pinehurst" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="718">
+                <Precinct name="Lilly" votes="58" />
+                <Precinct name="Byromville" votes="65" />
+                <Precinct name="Unadilla" votes="156" />
+                <Precinct name="Vienna" votes="404" />
+                <Precinct name="Pinehurst" votes="35" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="553">
+                <Precinct name="Lilly" votes="53" />
+                <Precinct name="Byromville" votes="85" />
+                <Precinct name="Unadilla" votes="202" />
+                <Precinct name="Vienna" votes="181" />
+                <Precinct name="Pinehurst" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Shane Hazel (Lib)" totalVotes="10">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="1" />
+                <Precinct name="Vienna" votes="2" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7">
+                <Precinct name="Lilly" votes="1" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="3" />
+                <Precinct name="Vienna" votes="2" />
+                <Precinct name="Pinehurst" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="104">
+            <Precinct name="Lilly" votes="11" />
+            <Precinct name="Byromville" votes="11" />
+            <Precinct name="Unadilla" votes="28" />
+            <Precinct name="Vienna" votes="47" />
+            <Precinct name="Pinehurst" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+            <Precinct name="Unadilla" votes="0" />
+            <Precinct name="Vienna" votes="0" />
+            <Precinct name="Pinehurst" votes="0" />
+        </VoteType>
+        <Choice key="8" text="Burt Jones (Rep)" totalVotes="1814">
+            <VoteType name="Absentee by Mail Votes" votes="63">
+                <Precinct name="Lilly" votes="2" />
+                <Precinct name="Byromville" votes="7" />
+                <Precinct name="Unadilla" votes="20" />
+                <Precinct name="Vienna" votes="25" />
+                <Precinct name="Pinehurst" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="963">
+                <Precinct name="Lilly" votes="59" />
+                <Precinct name="Byromville" votes="58" />
+                <Precinct name="Unadilla" votes="217" />
+                <Precinct name="Vienna" votes="527" />
+                <Precinct name="Pinehurst" votes="102" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="788">
+                <Precinct name="Lilly" votes="87" />
+                <Precinct name="Byromville" votes="132" />
+                <Precinct name="Unadilla" votes="233" />
+                <Precinct name="Vienna" votes="201" />
+                <Precinct name="Pinehurst" votes="135" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="9" text="Charlie Bailey (Dem)" totalVotes="1341">
+            <VoteType name="Absentee by Mail Votes" votes="148">
+                <Precinct name="Lilly" votes="17" />
+                <Precinct name="Byromville" votes="20" />
+                <Precinct name="Unadilla" votes="34" />
+                <Precinct name="Vienna" votes="72" />
+                <Precinct name="Pinehurst" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="667">
+                <Precinct name="Lilly" votes="52" />
+                <Precinct name="Byromville" votes="60" />
+                <Precinct name="Unadilla" votes="143" />
+                <Precinct name="Vienna" votes="381" />
+                <Precinct name="Pinehurst" votes="31" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="526">
+                <Precinct name="Lilly" votes="52" />
+                <Precinct name="Byromville" votes="83" />
+                <Precinct name="Unadilla" votes="189" />
+                <Precinct name="Vienna" votes="174" />
+                <Precinct name="Pinehurst" votes="28" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="10" text="Ryan Graham (Lib)" totalVotes="41">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="1" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="21">
+                <Precinct name="Lilly" votes="1" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="5" />
+                <Precinct name="Vienna" votes="12" />
+                <Precinct name="Pinehurst" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="19">
+                <Precinct name="Lilly" votes="2" />
+                <Precinct name="Byromville" votes="2" />
+                <Precinct name="Unadilla" votes="11" />
+                <Precinct name="Vienna" votes="4" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="124">
+            <Precinct name="Lilly" votes="13" />
+            <Precinct name="Byromville" votes="12" />
+            <Precinct name="Unadilla" votes="37" />
+            <Precinct name="Vienna" votes="51" />
+            <Precinct name="Pinehurst" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+            <Precinct name="Unadilla" votes="0" />
+            <Precinct name="Vienna" votes="0" />
+            <Precinct name="Pinehurst" votes="0" />
+        </VoteType>
+        <Choice key="11" text="Brad Raffensperger (I) (Rep)" totalVotes="1820">
+            <VoteType name="Absentee by Mail Votes" votes="71">
+                <Precinct name="Lilly" votes="2" />
+                <Precinct name="Byromville" votes="7" />
+                <Precinct name="Unadilla" votes="24" />
+                <Precinct name="Vienna" votes="29" />
+                <Precinct name="Pinehurst" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="969">
+                <Precinct name="Lilly" votes="60" />
+                <Precinct name="Byromville" votes="56" />
+                <Precinct name="Unadilla" votes="218" />
+                <Precinct name="Vienna" votes="536" />
+                <Precinct name="Pinehurst" votes="99" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="780">
+                <Precinct name="Lilly" votes="88" />
+                <Precinct name="Byromville" votes="133" />
+                <Precinct name="Unadilla" votes="228" />
+                <Precinct name="Vienna" votes="201" />
+                <Precinct name="Pinehurst" votes="130" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Bee Nguyen (Dem)" totalVotes="1296">
+            <VoteType name="Absentee by Mail Votes" votes="137">
+                <Precinct name="Lilly" votes="16" />
+                <Precinct name="Byromville" votes="20" />
+                <Precinct name="Unadilla" votes="31" />
+                <Precinct name="Vienna" votes="66" />
+                <Precinct name="Pinehurst" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="642">
+                <Precinct name="Lilly" votes="53" />
+                <Precinct name="Byromville" votes="58" />
+                <Precinct name="Unadilla" votes="135" />
+                <Precinct name="Vienna" votes="367" />
+                <Precinct name="Pinehurst" votes="29" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="517">
+                <Precinct name="Lilly" votes="48" />
+                <Precinct name="Byromville" votes="82" />
+                <Precinct name="Unadilla" votes="188" />
+                <Precinct name="Vienna" votes="168" />
+                <Precinct name="Pinehurst" votes="31" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="13" text="Ted Metz (Lib)" totalVotes="61">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="1" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="31">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="4" />
+                <Precinct name="Unadilla" votes="7" />
+                <Precinct name="Vienna" votes="15" />
+                <Precinct name="Pinehurst" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Lilly" votes="3" />
+                <Precinct name="Byromville" votes="2" />
+                <Precinct name="Unadilla" votes="13" />
+                <Precinct name="Vienna" votes="9" />
+                <Precinct name="Pinehurst" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="86">
+            <Precinct name="Lilly" votes="7" />
+            <Precinct name="Byromville" votes="9" />
+            <Precinct name="Unadilla" votes="28" />
+            <Precinct name="Vienna" votes="35" />
+            <Precinct name="Pinehurst" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+            <Precinct name="Unadilla" votes="0" />
+            <Precinct name="Vienna" votes="0" />
+            <Precinct name="Pinehurst" votes="0" />
+        </VoteType>
+        <Choice key="14" text="Chris Carr (I) (Rep)" totalVotes="1798">
+            <VoteType name="Absentee by Mail Votes" votes="63">
+                <Precinct name="Lilly" votes="2" />
+                <Precinct name="Byromville" votes="7" />
+                <Precinct name="Unadilla" votes="19" />
+                <Precinct name="Vienna" votes="25" />
+                <Precinct name="Pinehurst" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="953">
+                <Precinct name="Lilly" votes="59" />
+                <Precinct name="Byromville" votes="57" />
+                <Precinct name="Unadilla" votes="210" />
+                <Precinct name="Vienna" votes="524" />
+                <Precinct name="Pinehurst" votes="103" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="782">
+                <Precinct name="Lilly" votes="88" />
+                <Precinct name="Byromville" votes="133" />
+                <Precinct name="Unadilla" votes="229" />
+                <Precinct name="Vienna" votes="204" />
+                <Precinct name="Pinehurst" votes="128" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="15" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="1386">
+            <VoteType name="Absentee by Mail Votes" votes="147">
+                <Precinct name="Lilly" votes="17" />
+                <Precinct name="Byromville" votes="20" />
+                <Precinct name="Unadilla" votes="36" />
+                <Precinct name="Vienna" votes="70" />
+                <Precinct name="Pinehurst" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="690">
+                <Precinct name="Lilly" votes="55" />
+                <Precinct name="Byromville" votes="61" />
+                <Precinct name="Unadilla" votes="148" />
+                <Precinct name="Vienna" votes="395" />
+                <Precinct name="Pinehurst" votes="31" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="549">
+                <Precinct name="Lilly" votes="52" />
+                <Precinct name="Byromville" votes="86" />
+                <Precinct name="Unadilla" votes="202" />
+                <Precinct name="Vienna" votes="176" />
+                <Precinct name="Pinehurst" votes="33" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="16" text="Martin Cowen (Lib)" totalVotes="31">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="1" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="15">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="1" />
+                <Precinct name="Unadilla" votes="3" />
+                <Precinct name="Vienna" votes="10" />
+                <Precinct name="Pinehurst" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Lilly" votes="3" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="6" />
+                <Precinct name="Vienna" votes="3" />
+                <Precinct name="Pinehurst" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Commissioner of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="93">
+            <Precinct name="Lilly" votes="10" />
+            <Precinct name="Byromville" votes="8" />
+            <Precinct name="Unadilla" votes="26" />
+            <Precinct name="Vienna" votes="41" />
+            <Precinct name="Pinehurst" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+            <Precinct name="Unadilla" votes="0" />
+            <Precinct name="Vienna" votes="0" />
+            <Precinct name="Pinehurst" votes="0" />
+        </VoteType>
+        <Choice key="17" text="Tyler Harper (Rep)" totalVotes="1842">
+            <VoteType name="Absentee by Mail Votes" votes="66">
+                <Precinct name="Lilly" votes="2" />
+                <Precinct name="Byromville" votes="7" />
+                <Precinct name="Unadilla" votes="21" />
+                <Precinct name="Vienna" votes="25" />
+                <Precinct name="Pinehurst" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="976">
+                <Precinct name="Lilly" votes="59" />
+                <Precinct name="Byromville" votes="59" />
+                <Precinct name="Unadilla" votes="219" />
+                <Precinct name="Vienna" votes="535" />
+                <Precinct name="Pinehurst" votes="104" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="800">
+                <Precinct name="Lilly" votes="93" />
+                <Precinct name="Byromville" votes="134" />
+                <Precinct name="Unadilla" votes="236" />
+                <Precinct name="Vienna" votes="207" />
+                <Precinct name="Pinehurst" votes="130" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="Nakita Hemingway (Dem)" totalVotes="1325">
+            <VoteType name="Absentee by Mail Votes" votes="138">
+                <Precinct name="Lilly" votes="16" />
+                <Precinct name="Byromville" votes="20" />
+                <Precinct name="Unadilla" votes="32" />
+                <Precinct name="Vienna" votes="67" />
+                <Precinct name="Pinehurst" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="666">
+                <Precinct name="Lilly" votes="54" />
+                <Precinct name="Byromville" votes="59" />
+                <Precinct name="Unadilla" votes="144" />
+                <Precinct name="Vienna" votes="380" />
+                <Precinct name="Pinehurst" votes="29" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="521">
+                <Precinct name="Lilly" votes="46" />
+                <Precinct name="Byromville" votes="84" />
+                <Precinct name="Unadilla" votes="188" />
+                <Precinct name="Vienna" votes="172" />
+                <Precinct name="Pinehurst" votes="31" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="19" text="David Raudabaugh (Lib)" totalVotes="38">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="2" />
+                <Precinct name="Vienna" votes="3" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="16">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="2" />
+                <Precinct name="Unadilla" votes="3" />
+                <Precinct name="Vienna" votes="9" />
+                <Precinct name="Pinehurst" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="17">
+                <Precinct name="Lilly" votes="2" />
+                <Precinct name="Byromville" votes="1" />
+                <Precinct name="Unadilla" votes="10" />
+                <Precinct name="Vienna" votes="3" />
+                <Precinct name="Pinehurst" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Commissioner of Insurance" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="117">
+            <Precinct name="Lilly" votes="10" />
+            <Precinct name="Byromville" votes="12" />
+            <Precinct name="Unadilla" votes="37" />
+            <Precinct name="Vienna" votes="50" />
+            <Precinct name="Pinehurst" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+            <Precinct name="Unadilla" votes="0" />
+            <Precinct name="Vienna" votes="0" />
+            <Precinct name="Pinehurst" votes="0" />
+        </VoteType>
+        <Choice key="21" text="John King (I) (Rep)" totalVotes="1835">
+            <VoteType name="Absentee by Mail Votes" votes="65">
+                <Precinct name="Lilly" votes="2" />
+                <Precinct name="Byromville" votes="7" />
+                <Precinct name="Unadilla" votes="20" />
+                <Precinct name="Vienna" votes="25" />
+                <Precinct name="Pinehurst" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="973">
+                <Precinct name="Lilly" votes="61" />
+                <Precinct name="Byromville" votes="59" />
+                <Precinct name="Unadilla" votes="215" />
+                <Precinct name="Vienna" votes="534" />
+                <Precinct name="Pinehurst" votes="104" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="797">
+                <Precinct name="Lilly" votes="92" />
+                <Precinct name="Byromville" votes="134" />
+                <Precinct name="Unadilla" votes="233" />
+                <Precinct name="Vienna" votes="207" />
+                <Precinct name="Pinehurst" votes="131" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Janice Laws Robinson (Dem)" totalVotes="1347">
+            <VoteType name="Absentee by Mail Votes" votes="141">
+                <Precinct name="Lilly" votes="16" />
+                <Precinct name="Byromville" votes="20" />
+                <Precinct name="Unadilla" votes="35" />
+                <Precinct name="Vienna" votes="67" />
+                <Precinct name="Pinehurst" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="677">
+                <Precinct name="Lilly" votes="54" />
+                <Precinct name="Byromville" votes="61" />
+                <Precinct name="Unadilla" votes="145" />
+                <Precinct name="Vienna" votes="385" />
+                <Precinct name="Pinehurst" votes="32" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="529">
+                <Precinct name="Lilly" votes="48" />
+                <Precinct name="Byromville" votes="81" />
+                <Precinct name="Unadilla" votes="196" />
+                <Precinct name="Vienna" votes="173" />
+                <Precinct name="Pinehurst" votes="31" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="97">
+            <Precinct name="Lilly" votes="10" />
+            <Precinct name="Byromville" votes="11" />
+            <Precinct name="Unadilla" votes="27" />
+            <Precinct name="Vienna" votes="40" />
+            <Precinct name="Pinehurst" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+            <Precinct name="Unadilla" votes="0" />
+            <Precinct name="Vienna" votes="0" />
+            <Precinct name="Pinehurst" votes="0" />
+        </VoteType>
+        <Choice key="23" text="Richard Woods (I) (Rep)" totalVotes="1854">
+            <VoteType name="Absentee by Mail Votes" votes="69">
+                <Precinct name="Lilly" votes="2" />
+                <Precinct name="Byromville" votes="7" />
+                <Precinct name="Unadilla" votes="20" />
+                <Precinct name="Vienna" votes="29" />
+                <Precinct name="Pinehurst" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="982">
+                <Precinct name="Lilly" votes="58" />
+                <Precinct name="Byromville" votes="58" />
+                <Precinct name="Unadilla" votes="217" />
+                <Precinct name="Vienna" votes="547" />
+                <Precinct name="Pinehurst" votes="102" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="803">
+                <Precinct name="Lilly" votes="92" />
+                <Precinct name="Byromville" votes="133" />
+                <Precinct name="Unadilla" votes="237" />
+                <Precinct name="Vienna" votes="208" />
+                <Precinct name="Pinehurst" votes="133" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="Alisha Thomas Searcy (Dem)" totalVotes="1350">
+            <VoteType name="Absentee by Mail Votes" votes="141">
+                <Precinct name="Lilly" votes="17" />
+                <Precinct name="Byromville" votes="20" />
+                <Precinct name="Unadilla" votes="35" />
+                <Precinct name="Vienna" votes="66" />
+                <Precinct name="Pinehurst" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="675">
+                <Precinct name="Lilly" votes="55" />
+                <Precinct name="Byromville" votes="62" />
+                <Precinct name="Unadilla" votes="147" />
+                <Precinct name="Vienna" votes="379" />
+                <Precinct name="Pinehurst" votes="32" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="534">
+                <Precinct name="Lilly" votes="49" />
+                <Precinct name="Byromville" votes="83" />
+                <Precinct name="Unadilla" votes="198" />
+                <Precinct name="Vienna" votes="174" />
+                <Precinct name="Pinehurst" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner of Labor" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="98">
+            <Precinct name="Lilly" votes="12" />
+            <Precinct name="Byromville" votes="9" />
+            <Precinct name="Unadilla" votes="28" />
+            <Precinct name="Vienna" votes="40" />
+            <Precinct name="Pinehurst" votes="9" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+            <Precinct name="Unadilla" votes="0" />
+            <Precinct name="Vienna" votes="0" />
+            <Precinct name="Pinehurst" votes="0" />
+        </VoteType>
+        <Choice key="25" text="Bruce Thompson (Rep)" totalVotes="1814">
+            <VoteType name="Absentee by Mail Votes" votes="63">
+                <Precinct name="Lilly" votes="2" />
+                <Precinct name="Byromville" votes="7" />
+                <Precinct name="Unadilla" votes="19" />
+                <Precinct name="Vienna" votes="24" />
+                <Precinct name="Pinehurst" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="958">
+                <Precinct name="Lilly" votes="59" />
+                <Precinct name="Byromville" votes="58" />
+                <Precinct name="Unadilla" votes="214" />
+                <Precinct name="Vienna" votes="526" />
+                <Precinct name="Pinehurst" votes="101" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="793">
+                <Precinct name="Lilly" votes="88" />
+                <Precinct name="Byromville" votes="132" />
+                <Precinct name="Unadilla" votes="234" />
+                <Precinct name="Vienna" votes="207" />
+                <Precinct name="Pinehurst" votes="132" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="26" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="1348">
+            <VoteType name="Absentee by Mail Votes" votes="146">
+                <Precinct name="Lilly" votes="17" />
+                <Precinct name="Byromville" votes="20" />
+                <Precinct name="Unadilla" votes="35" />
+                <Precinct name="Vienna" votes="71" />
+                <Precinct name="Pinehurst" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="673">
+                <Precinct name="Lilly" votes="52" />
+                <Precinct name="Byromville" votes="61" />
+                <Precinct name="Unadilla" votes="147" />
+                <Precinct name="Vienna" votes="384" />
+                <Precinct name="Pinehurst" votes="29" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="529">
+                <Precinct name="Lilly" votes="48" />
+                <Precinct name="Byromville" votes="87" />
+                <Precinct name="Unadilla" votes="193" />
+                <Precinct name="Vienna" votes="172" />
+                <Precinct name="Pinehurst" votes="29" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="27" text="Emily Anderson (Lib)" totalVotes="40">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="1" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="24">
+                <Precinct name="Lilly" votes="2" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="2" />
+                <Precinct name="Vienna" votes="16" />
+                <Precinct name="Pinehurst" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="15">
+                <Precinct name="Lilly" votes="3" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="7" />
+                <Precinct name="Vienna" votes="3" />
+                <Precinct name="Pinehurst" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="US House of Representatives - District 2" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="52">
+            <Precinct name="Lilly" votes="6" />
+            <Precinct name="Byromville" votes="4" />
+            <Precinct name="Unadilla" votes="18" />
+            <Precinct name="Vienna" votes="21" />
+            <Precinct name="Pinehurst" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+            <Precinct name="Unadilla" votes="0" />
+            <Precinct name="Vienna" votes="0" />
+            <Precinct name="Pinehurst" votes="0" />
+        </VoteType>
+        <Choice key="33" text="Chris West (Rep)" totalVotes="1706">
+            <VoteType name="Absentee by Mail Votes" votes="53">
+                <Precinct name="Lilly" votes="2" />
+                <Precinct name="Byromville" votes="4" />
+                <Precinct name="Unadilla" votes="19" />
+                <Precinct name="Vienna" votes="20" />
+                <Precinct name="Pinehurst" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="907">
+                <Precinct name="Lilly" votes="55" />
+                <Precinct name="Byromville" votes="50" />
+                <Precinct name="Unadilla" votes="209" />
+                <Precinct name="Vienna" votes="493" />
+                <Precinct name="Pinehurst" votes="100" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="746">
+                <Precinct name="Lilly" votes="85" />
+                <Precinct name="Byromville" votes="127" />
+                <Precinct name="Unadilla" votes="217" />
+                <Precinct name="Vienna" votes="191" />
+                <Precinct name="Pinehurst" votes="126" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="34" text="Sanford Bishop (I) (Dem)" totalVotes="1543">
+            <VoteType name="Absentee by Mail Votes" votes="158">
+                <Precinct name="Lilly" votes="17" />
+                <Precinct name="Byromville" votes="22" />
+                <Precinct name="Unadilla" votes="36" />
+                <Precinct name="Vienna" votes="77" />
+                <Precinct name="Pinehurst" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="776">
+                <Precinct name="Lilly" votes="60" />
+                <Precinct name="Byromville" votes="74" />
+                <Precinct name="Unadilla" votes="163" />
+                <Precinct name="Vienna" votes="442" />
+                <Precinct name="Pinehurst" votes="37" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="609">
+                <Precinct name="Lilly" votes="58" />
+                <Precinct name="Byromville" votes="93" />
+                <Precinct name="Unadilla" votes="219" />
+                <Precinct name="Vienna" votes="199" />
+                <Precinct name="Pinehurst" votes="40" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="State Senate - District 20" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="831">
+            <Precinct name="Lilly" votes="82" />
+            <Precinct name="Byromville" votes="109" />
+            <Precinct name="Unadilla" votes="224" />
+            <Precinct name="Vienna" votes="373" />
+            <Precinct name="Pinehurst" votes="43" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+            <Precinct name="Unadilla" votes="0" />
+            <Precinct name="Vienna" votes="0" />
+            <Precinct name="Pinehurst" votes="0" />
+        </VoteType>
+        <Choice key="35" text="Larry Walker (I) (Rep)" totalVotes="2419">
+            <VoteType name="Absentee by Mail Votes" votes="111">
+                <Precinct name="Lilly" votes="4" />
+                <Precinct name="Byromville" votes="10" />
+                <Precinct name="Unadilla" votes="37" />
+                <Precinct name="Vienna" votes="50" />
+                <Precinct name="Pinehurst" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1253">
+                <Precinct name="Lilly" votes="75" />
+                <Precinct name="Byromville" votes="78" />
+                <Precinct name="Unadilla" votes="277" />
+                <Precinct name="Vienna" votes="704" />
+                <Precinct name="Pinehurst" votes="119" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1055">
+                <Precinct name="Lilly" votes="115" />
+                <Precinct name="Byromville" votes="173" />
+                <Precinct name="Unadilla" votes="325" />
+                <Precinct name="Vienna" votes="296" />
+                <Precinct name="Pinehurst" votes="146" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="State House of Representatives - District 150" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="911">
+            <Precinct name="Lilly" votes="74" />
+            <Precinct name="Byromville" votes="88" />
+            <Precinct name="Unadilla" votes="262" />
+            <Precinct name="Vienna" votes="373" />
+            <Precinct name="Pinehurst" votes="114" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+            <Precinct name="Unadilla" votes="0" />
+            <Precinct name="Vienna" votes="0" />
+            <Precinct name="Pinehurst" votes="0" />
+        </VoteType>
+        <Choice key="36" text="Patty Bentley (I) (Dem)" totalVotes="2287">
+            <VoteType name="Absentee by Mail Votes" votes="166">
+                <Precinct name="Lilly" votes="17" />
+                <Precinct name="Byromville" votes="22" />
+                <Precinct name="Unadilla" votes="40" />
+                <Precinct name="Vienna" votes="78" />
+                <Precinct name="Pinehurst" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1155">
+                <Precinct name="Lilly" votes="82" />
+                <Precinct name="Byromville" votes="91" />
+                <Precinct name="Unadilla" votes="248" />
+                <Precinct name="Vienna" votes="657" />
+                <Precinct name="Pinehurst" votes="77" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="966">
+                <Precinct name="Lilly" votes="102" />
+                <Precinct name="Byromville" votes="164" />
+                <Precinct name="Unadilla" votes="300" />
+                <Precinct name="Vienna" votes="288" />
+                <Precinct name="Pinehurst" votes="112" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="District Attorney - Cordele Judicial Circuit" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="857">
+            <Precinct name="Lilly" votes="80" />
+            <Precinct name="Byromville" votes="113" />
+            <Precinct name="Unadilla" votes="238" />
+            <Precinct name="Vienna" votes="378" />
+            <Precinct name="Pinehurst" votes="48" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+            <Precinct name="Unadilla" votes="0" />
+            <Precinct name="Vienna" votes="0" />
+            <Precinct name="Pinehurst" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Bradford L. Rigby (I) (Rep)" totalVotes="2393">
+            <VoteType name="Absentee by Mail Votes" votes="114">
+                <Precinct name="Lilly" votes="4" />
+                <Precinct name="Byromville" votes="11" />
+                <Precinct name="Unadilla" votes="35" />
+                <Precinct name="Vienna" votes="54" />
+                <Precinct name="Pinehurst" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1247">
+                <Precinct name="Lilly" votes="78" />
+                <Precinct name="Byromville" votes="78" />
+                <Precinct name="Unadilla" votes="273" />
+                <Precinct name="Vienna" votes="701" />
+                <Precinct name="Pinehurst" votes="117" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1032">
+                <Precinct name="Lilly" votes="114" />
+                <Precinct name="Byromville" votes="165" />
+                <Precinct name="Unadilla" votes="323" />
+                <Precinct name="Vienna" votes="288" />
+                <Precinct name="Pinehurst" votes="142" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="County Comm Dist 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="104">
+            <Precinct name="Unadilla" votes="104" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Unadilla" votes="0" />
+        </VoteType>
+        <Choice key="38" text="Tony L. Lester (I) (Dem)" totalVotes="460">
+            <VoteType name="Absentee by Mail Votes" votes="27">
+                <Precinct name="Unadilla" votes="27" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="161">
+                <Precinct name="Unadilla" votes="161" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="272">
+                <Precinct name="Unadilla" votes="272" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Unadilla" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="County Comm Dist 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="157">
+            <Precinct name="Vienna" votes="157" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Vienna" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Eugene Cason (I) (Rep)" totalVotes="523">
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Vienna" votes="26" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="359">
+                <Precinct name="Vienna" votes="359" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="138">
+                <Precinct name="Vienna" votes="138" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Vienna" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="County BOE Dist 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="133">
+            <Precinct name="Unadilla" votes="133" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Unadilla" votes="0" />
+        </VoteType>
+        <Choice key="40" text="Sherri Taylor (Dem)" totalVotes="426">
+            <VoteType name="Absentee by Mail Votes" votes="24">
+                <Precinct name="Unadilla" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="152">
+                <Precinct name="Unadilla" votes="152" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="250">
+                <Precinct name="Unadilla" votes="250" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Unadilla" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="Special - County BOE Dist 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="136">
+            <Precinct name="Vienna" votes="136" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Vienna" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Arney &quot;&quot;Duke&quot;&quot; Bryant (Dem)" totalVotes="252">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Vienna" votes="14" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="181">
+                <Precinct name="Vienna" votes="181" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="57">
+                <Precinct name="Vienna" votes="57" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Vienna" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="42" text="Minnie Harper (Dem)" totalVotes="278">
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Vienna" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="178">
+                <Precinct name="Vienna" votes="178" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="85">
+                <Precinct name="Vienna" votes="85" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Vienna" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="County BOE Dist 5" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="189">
+            <Precinct name="Lilly" votes="84" />
+            <Precinct name="Byromville" votes="105" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+        </VoteType>
+        <Choice key="44" text="Miranda Barron (Ind)" totalVotes="456">
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Lilly" votes="11" />
+                <Precinct name="Byromville" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="149">
+                <Precinct name="Lilly" votes="73" />
+                <Precinct name="Byromville" votes="76" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="272">
+                <Precinct name="Lilly" votes="110" />
+                <Precinct name="Byromville" votes="162" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="Proposed Constitutional Amendment 1" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="239">
+            <Precinct name="Lilly" votes="26" />
+            <Precinct name="Byromville" votes="40" />
+            <Precinct name="Unadilla" votes="80" />
+            <Precinct name="Vienna" votes="77" />
+            <Precinct name="Pinehurst" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+            <Precinct name="Unadilla" votes="0" />
+            <Precinct name="Vienna" votes="0" />
+            <Precinct name="Pinehurst" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Yes" totalVotes="2609">
+            <VoteType name="Absentee by Mail Votes" votes="162">
+                <Precinct name="Lilly" votes="16" />
+                <Precinct name="Byromville" votes="20" />
+                <Precinct name="Unadilla" votes="44" />
+                <Precinct name="Vienna" votes="70" />
+                <Precinct name="Pinehurst" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1366">
+                <Precinct name="Lilly" votes="94" />
+                <Precinct name="Byromville" votes="95" />
+                <Precinct name="Unadilla" votes="294" />
+                <Precinct name="Vienna" votes="764" />
+                <Precinct name="Pinehurst" votes="119" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1081">
+                <Precinct name="Lilly" votes="113" />
+                <Precinct name="Byromville" votes="167" />
+                <Precinct name="Unadilla" votes="334" />
+                <Precinct name="Vienna" votes="318" />
+                <Precinct name="Pinehurst" votes="149" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="No" totalVotes="453">
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Lilly" votes="1" />
+                <Precinct name="Byromville" votes="5" />
+                <Precinct name="Unadilla" votes="5" />
+                <Precinct name="Vienna" votes="23" />
+                <Precinct name="Pinehurst" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="229">
+                <Precinct name="Lilly" votes="12" />
+                <Precinct name="Byromville" votes="16" />
+                <Precinct name="Unadilla" votes="53" />
+                <Precinct name="Vienna" votes="136" />
+                <Precinct name="Pinehurst" votes="12" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="189">
+                <Precinct name="Lilly" votes="21" />
+                <Precinct name="Byromville" votes="31" />
+                <Precinct name="Unadilla" votes="71" />
+                <Precinct name="Vienna" votes="55" />
+                <Precinct name="Pinehurst" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="Proposed Constitutional Amendment 2" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="225">
+            <Precinct name="Lilly" votes="27" />
+            <Precinct name="Byromville" votes="31" />
+            <Precinct name="Unadilla" votes="82" />
+            <Precinct name="Vienna" votes="68" />
+            <Precinct name="Pinehurst" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+            <Precinct name="Unadilla" votes="0" />
+            <Precinct name="Vienna" votes="0" />
+            <Precinct name="Pinehurst" votes="0" />
+        </VoteType>
+        <Choice key="47" text="Yes" totalVotes="2717">
+            <VoteType name="Absentee by Mail Votes" votes="178">
+                <Precinct name="Lilly" votes="16" />
+                <Precinct name="Byromville" votes="23" />
+                <Precinct name="Unadilla" votes="45" />
+                <Precinct name="Vienna" votes="83" />
+                <Precinct name="Pinehurst" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1416">
+                <Precinct name="Lilly" votes="97" />
+                <Precinct name="Byromville" votes="96" />
+                <Precinct name="Unadilla" votes="310" />
+                <Precinct name="Vienna" votes="793" />
+                <Precinct name="Pinehurst" votes="120" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1123">
+                <Precinct name="Lilly" votes="113" />
+                <Precinct name="Byromville" votes="176" />
+                <Precinct name="Unadilla" votes="355" />
+                <Precinct name="Vienna" votes="332" />
+                <Precinct name="Pinehurst" votes="147" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="48" text="No" totalVotes="359">
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Lilly" votes="1" />
+                <Precinct name="Byromville" votes="2" />
+                <Precinct name="Unadilla" votes="4" />
+                <Precinct name="Vienna" votes="11" />
+                <Precinct name="Pinehurst" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="181">
+                <Precinct name="Lilly" votes="10" />
+                <Precinct name="Byromville" votes="17" />
+                <Precinct name="Unadilla" votes="35" />
+                <Precinct name="Vienna" votes="108" />
+                <Precinct name="Pinehurst" votes="11" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="159">
+                <Precinct name="Lilly" votes="19" />
+                <Precinct name="Byromville" votes="29" />
+                <Precinct name="Unadilla" votes="50" />
+                <Precinct name="Vienna" votes="48" />
+                <Precinct name="Pinehurst" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="Statewide Referendum Question A" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="270">
+            <Precinct name="Lilly" votes="28" />
+            <Precinct name="Byromville" votes="41" />
+            <Precinct name="Unadilla" votes="94" />
+            <Precinct name="Vienna" votes="88" />
+            <Precinct name="Pinehurst" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+            <Precinct name="Unadilla" votes="0" />
+            <Precinct name="Vienna" votes="0" />
+            <Precinct name="Pinehurst" votes="0" />
+        </VoteType>
+        <Choice key="51" text="Yes" totalVotes="1937">
+            <VoteType name="Absentee by Mail Votes" votes="91">
+                <Precinct name="Lilly" votes="4" />
+                <Precinct name="Byromville" votes="13" />
+                <Precinct name="Unadilla" votes="24" />
+                <Precinct name="Vienna" votes="39" />
+                <Precinct name="Pinehurst" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="993">
+                <Precinct name="Lilly" votes="70" />
+                <Precinct name="Byromville" votes="64" />
+                <Precinct name="Unadilla" votes="212" />
+                <Precinct name="Vienna" votes="561" />
+                <Precinct name="Pinehurst" votes="86" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="853">
+                <Precinct name="Lilly" votes="97" />
+                <Precinct name="Byromville" votes="138" />
+                <Precinct name="Unadilla" votes="240" />
+                <Precinct name="Vienna" votes="251" />
+                <Precinct name="Pinehurst" votes="127" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="52" text="No" totalVotes="1094">
+            <VoteType name="Absentee by Mail Votes" votes="102">
+                <Precinct name="Lilly" votes="13" />
+                <Precinct name="Byromville" votes="11" />
+                <Precinct name="Unadilla" votes="25" />
+                <Precinct name="Vienna" votes="53" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="582">
+                <Precinct name="Lilly" votes="35" />
+                <Precinct name="Byromville" votes="46" />
+                <Precinct name="Unadilla" votes="125" />
+                <Precinct name="Vienna" votes="330" />
+                <Precinct name="Pinehurst" votes="46" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="410">
+                <Precinct name="Lilly" votes="36" />
+                <Precinct name="Byromville" votes="61" />
+                <Precinct name="Unadilla" votes="161" />
+                <Precinct name="Vienna" votes="121" />
+                <Precinct name="Pinehurst" votes="31" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="Statewide Referendum Question B" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="251">
+            <Precinct name="Lilly" votes="27" />
+            <Precinct name="Byromville" votes="43" />
+            <Precinct name="Unadilla" votes="78" />
+            <Precinct name="Vienna" votes="87" />
+            <Precinct name="Pinehurst" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lilly" votes="0" />
+            <Precinct name="Byromville" votes="0" />
+            <Precinct name="Unadilla" votes="0" />
+            <Precinct name="Vienna" votes="0" />
+            <Precinct name="Pinehurst" votes="0" />
+        </VoteType>
+        <Choice key="49" text="Yes" totalVotes="2235">
+            <VoteType name="Absentee by Mail Votes" votes="125">
+                <Precinct name="Lilly" votes="14" />
+                <Precinct name="Byromville" votes="14" />
+                <Precinct name="Unadilla" votes="35" />
+                <Precinct name="Vienna" votes="51" />
+                <Precinct name="Pinehurst" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1133">
+                <Precinct name="Lilly" votes="79" />
+                <Precinct name="Byromville" votes="76" />
+                <Precinct name="Unadilla" votes="246" />
+                <Precinct name="Vienna" votes="628" />
+                <Precinct name="Pinehurst" votes="104" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="977">
+                <Precinct name="Lilly" votes="107" />
+                <Precinct name="Byromville" votes="149" />
+                <Precinct name="Unadilla" votes="294" />
+                <Precinct name="Vienna" votes="292" />
+                <Precinct name="Pinehurst" votes="135" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="No" totalVotes="815">
+            <VoteType name="Absentee by Mail Votes" votes="69">
+                <Precinct name="Lilly" votes="3" />
+                <Precinct name="Byromville" votes="11" />
+                <Precinct name="Unadilla" votes="14" />
+                <Precinct name="Vienna" votes="41" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="451">
+                <Precinct name="Lilly" votes="26" />
+                <Precinct name="Byromville" votes="34" />
+                <Precinct name="Unadilla" votes="97" />
+                <Precinct name="Vienna" votes="264" />
+                <Precinct name="Pinehurst" votes="30" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="295">
+                <Precinct name="Lilly" votes="27" />
+                <Precinct name="Byromville" votes="47" />
+                <Precinct name="Unadilla" votes="117" />
+                <Precinct name="Vienna" votes="80" />
+                <Precinct name="Pinehurst" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lilly" votes="0" />
+                <Precinct name="Byromville" votes="0" />
+                <Precinct name="Unadilla" votes="0" />
+                <Precinct name="Vienna" votes="0" />
+                <Precinct name="Pinehurst" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

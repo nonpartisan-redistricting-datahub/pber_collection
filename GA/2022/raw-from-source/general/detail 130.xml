@@ -1,0 +1,2979 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/16/2022 7:05:13 AM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Harris</Region>
+    <VoterTurnout totalVoters="25919" ballotsCast="17060" voterTurnout="65.82">
+        <Precincts>
+            <Precinct name="Cataula" totalVoters="2891" ballotsCast="1946" voterTurnout="67.31" percentReporting="4" />
+            <Precinct name="Ellerslie" totalVoters="4209" ballotsCast="2850" voterTurnout="67.71" percentReporting="4" />
+            <Precinct name="Goodman" totalVoters="1733" ballotsCast="1093" voterTurnout="63.07" percentReporting="4" />
+            <Precinct name="Hamilton" totalVoters="2826" ballotsCast="1711" voterTurnout="60.54" percentReporting="4" />
+            <Precinct name="Lower 19th" totalVoters="2563" ballotsCast="1707" voterTurnout="66.60" percentReporting="4" />
+            <Precinct name="Mulberry Grove" totalVoters="2956" ballotsCast="1988" voterTurnout="67.25" percentReporting="4" />
+            <Precinct name="Pine Mountain Valley" totalVoters="1116" ballotsCast="764" voterTurnout="68.46" percentReporting="4" />
+            <Precinct name="Skinner" totalVoters="916" ballotsCast="614" voterTurnout="67.03" percentReporting="4" />
+            <Precinct name="Upper 19th" totalVoters="1604" ballotsCast="1172" voterTurnout="73.07" percentReporting="4" />
+            <Precinct name="Valley Plains" totalVoters="821" ballotsCast="454" voterTurnout="55.30" percentReporting="4" />
+            <Precinct name="Waverly Hall" totalVoters="2875" ballotsCast="1801" voterTurnout="62.64" percentReporting="4" />
+            <Precinct name="Whitesville" totalVoters="1401" ballotsCast="960" voterTurnout="68.52" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="3" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="83">
+            <Precinct name="Cataula" votes="11" />
+            <Precinct name="Ellerslie" votes="6" />
+            <Precinct name="Goodman" votes="4" />
+            <Precinct name="Hamilton" votes="13" />
+            <Precinct name="Lower 19th" votes="3" />
+            <Precinct name="Mulberry Grove" votes="17" />
+            <Precinct name="Pine Mountain Valley" votes="5" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="9" />
+            <Precinct name="Valley Plains" votes="3" />
+            <Precinct name="Waverly Hall" votes="10" />
+            <Precinct name="Whitesville" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cataula" votes="0" />
+            <Precinct name="Ellerslie" votes="0" />
+            <Precinct name="Goodman" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Lower 19th" votes="0" />
+            <Precinct name="Mulberry Grove" votes="0" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="0" />
+            <Precinct name="Waverly Hall" votes="0" />
+            <Precinct name="Whitesville" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Herschel Junior Walker (Rep)" totalVotes="12072">
+            <VoteType name="Absentee by Mail Votes" votes="431">
+                <Precinct name="Cataula" votes="38" />
+                <Precinct name="Ellerslie" votes="91" />
+                <Precinct name="Goodman" votes="22" />
+                <Precinct name="Hamilton" votes="37" />
+                <Precinct name="Lower 19th" votes="57" />
+                <Precinct name="Mulberry Grove" votes="46" />
+                <Precinct name="Pine Mountain Valley" votes="19" />
+                <Precinct name="Skinner" votes="11" />
+                <Precinct name="Upper 19th" votes="54" />
+                <Precinct name="Valley Plains" votes="4" />
+                <Precinct name="Waverly Hall" votes="34" />
+                <Precinct name="Whitesville" votes="18" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5245">
+                <Precinct name="Cataula" votes="669" />
+                <Precinct name="Ellerslie" votes="873" />
+                <Precinct name="Goodman" votes="345" />
+                <Precinct name="Hamilton" votes="613" />
+                <Precinct name="Lower 19th" votes="464" />
+                <Precinct name="Mulberry Grove" votes="732" />
+                <Precinct name="Pine Mountain Valley" votes="223" />
+                <Precinct name="Skinner" votes="64" />
+                <Precinct name="Upper 19th" votes="398" />
+                <Precinct name="Valley Plains" votes="90" />
+                <Precinct name="Waverly Hall" votes="492" />
+                <Precinct name="Whitesville" votes="282" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6393">
+                <Precinct name="Cataula" votes="704" />
+                <Precinct name="Ellerslie" votes="993" />
+                <Precinct name="Goodman" votes="325" />
+                <Precinct name="Hamilton" votes="420" />
+                <Precinct name="Lower 19th" votes="764" />
+                <Precinct name="Mulberry Grove" votes="750" />
+                <Precinct name="Pine Mountain Valley" votes="387" />
+                <Precinct name="Skinner" votes="299" />
+                <Precinct name="Upper 19th" votes="507" />
+                <Precinct name="Valley Plains" votes="216" />
+                <Precinct name="Waverly Hall" votes="633" />
+                <Precinct name="Whitesville" votes="395" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Cataula" votes="2" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="1" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Raphael Warnock (I) (Dem)" totalVotes="4546">
+            <VoteType name="Absentee by Mail Votes" votes="480">
+                <Precinct name="Cataula" votes="54" />
+                <Precinct name="Ellerslie" votes="90" />
+                <Precinct name="Goodman" votes="25" />
+                <Precinct name="Hamilton" votes="66" />
+                <Precinct name="Lower 19th" votes="37" />
+                <Precinct name="Mulberry Grove" votes="51" />
+                <Precinct name="Pine Mountain Valley" votes="9" />
+                <Precinct name="Skinner" votes="23" />
+                <Precinct name="Upper 19th" votes="16" />
+                <Precinct name="Valley Plains" votes="12" />
+                <Precinct name="Waverly Hall" votes="72" />
+                <Precinct name="Whitesville" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2383">
+                <Precinct name="Cataula" votes="267" />
+                <Precinct name="Ellerslie" votes="480" />
+                <Precinct name="Goodman" votes="189" />
+                <Precinct name="Hamilton" votes="375" />
+                <Precinct name="Lower 19th" votes="195" />
+                <Precinct name="Mulberry Grove" votes="226" />
+                <Precinct name="Pine Mountain Valley" votes="61" />
+                <Precinct name="Skinner" votes="51" />
+                <Precinct name="Upper 19th" votes="78" />
+                <Precinct name="Valley Plains" votes="37" />
+                <Precinct name="Waverly Hall" votes="308" />
+                <Precinct name="Whitesville" votes="116" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1682">
+                <Precinct name="Cataula" votes="162" />
+                <Precinct name="Ellerslie" votes="264" />
+                <Precinct name="Goodman" votes="164" />
+                <Precinct name="Hamilton" votes="141" />
+                <Precinct name="Lower 19th" votes="133" />
+                <Precinct name="Mulberry Grove" votes="132" />
+                <Precinct name="Pine Mountain Valley" votes="42" />
+                <Precinct name="Skinner" votes="158" />
+                <Precinct name="Upper 19th" votes="83" />
+                <Precinct name="Valley Plains" votes="88" />
+                <Precinct name="Waverly Hall" votes="216" />
+                <Precinct name="Whitesville" votes="99" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cataula" votes="1" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="Chase Oliver (Lib)" totalVotes="338">
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Cataula" votes="2" />
+                <Precinct name="Ellerslie" votes="3" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="3" />
+                <Precinct name="Mulberry Grove" votes="1" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="1" />
+                <Precinct name="Upper 19th" votes="1" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="119">
+                <Precinct name="Cataula" votes="14" />
+                <Precinct name="Ellerslie" votes="17" />
+                <Precinct name="Goodman" votes="6" />
+                <Precinct name="Hamilton" votes="24" />
+                <Precinct name="Lower 19th" votes="15" />
+                <Precinct name="Mulberry Grove" votes="15" />
+                <Precinct name="Pine Mountain Valley" votes="5" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="4" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="11" />
+                <Precinct name="Whitesville" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="206">
+                <Precinct name="Cataula" votes="20" />
+                <Precinct name="Ellerslie" votes="28" />
+                <Precinct name="Goodman" votes="12" />
+                <Precinct name="Hamilton" votes="21" />
+                <Precinct name="Lower 19th" votes="31" />
+                <Precinct name="Mulberry Grove" votes="18" />
+                <Precinct name="Pine Mountain Valley" votes="13" />
+                <Precinct name="Skinner" votes="7" />
+                <Precinct name="Upper 19th" votes="18" />
+                <Precinct name="Valley Plains" votes="4" />
+                <Precinct name="Waverly Hall" votes="22" />
+                <Precinct name="Whitesville" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="20">
+            <Precinct name="Cataula" votes="1" />
+            <Precinct name="Ellerslie" votes="1" />
+            <Precinct name="Goodman" votes="1" />
+            <Precinct name="Hamilton" votes="3" />
+            <Precinct name="Lower 19th" votes="1" />
+            <Precinct name="Mulberry Grove" votes="5" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="1" />
+            <Precinct name="Valley Plains" votes="2" />
+            <Precinct name="Waverly Hall" votes="1" />
+            <Precinct name="Whitesville" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cataula" votes="0" />
+            <Precinct name="Ellerslie" votes="0" />
+            <Precinct name="Goodman" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Lower 19th" votes="0" />
+            <Precinct name="Mulberry Grove" votes="0" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="0" />
+            <Precinct name="Waverly Hall" votes="0" />
+            <Precinct name="Whitesville" votes="0" />
+        </VoteType>
+        <Choice key="56" text="Brian Kemp (I) (Rep)" totalVotes="12924">
+            <VoteType name="Absentee by Mail Votes" votes="486">
+                <Precinct name="Cataula" votes="43" />
+                <Precinct name="Ellerslie" votes="105" />
+                <Precinct name="Goodman" votes="23" />
+                <Precinct name="Hamilton" votes="46" />
+                <Precinct name="Lower 19th" votes="64" />
+                <Precinct name="Mulberry Grove" votes="53" />
+                <Precinct name="Pine Mountain Valley" votes="20" />
+                <Precinct name="Skinner" votes="15" />
+                <Precinct name="Upper 19th" votes="56" />
+                <Precinct name="Valley Plains" votes="6" />
+                <Precinct name="Waverly Hall" votes="35" />
+                <Precinct name="Whitesville" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5602">
+                <Precinct name="Cataula" votes="716" />
+                <Precinct name="Ellerslie" votes="931" />
+                <Precinct name="Goodman" votes="377" />
+                <Precinct name="Hamilton" votes="656" />
+                <Precinct name="Lower 19th" votes="505" />
+                <Precinct name="Mulberry Grove" votes="780" />
+                <Precinct name="Pine Mountain Valley" votes="231" />
+                <Precinct name="Skinner" votes="64" />
+                <Precinct name="Upper 19th" votes="420" />
+                <Precinct name="Valley Plains" votes="91" />
+                <Precinct name="Waverly Hall" votes="528" />
+                <Precinct name="Whitesville" votes="303" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6832">
+                <Precinct name="Cataula" votes="748" />
+                <Precinct name="Ellerslie" votes="1054" />
+                <Precinct name="Goodman" votes="351" />
+                <Precinct name="Hamilton" votes="444" />
+                <Precinct name="Lower 19th" votes="825" />
+                <Precinct name="Mulberry Grove" votes="790" />
+                <Precinct name="Pine Mountain Valley" votes="405" />
+                <Precinct name="Skinner" votes="319" />
+                <Precinct name="Upper 19th" votes="552" />
+                <Precinct name="Valley Plains" votes="235" />
+                <Precinct name="Waverly Hall" votes="688" />
+                <Precinct name="Whitesville" votes="421" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Cataula" votes="3" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="1" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="57" text="Stacey Abrams (Dem)" totalVotes="4008">
+            <VoteType name="Absentee by Mail Votes" votes="437">
+                <Precinct name="Cataula" votes="52" />
+                <Precinct name="Ellerslie" votes="78" />
+                <Precinct name="Goodman" votes="23" />
+                <Precinct name="Hamilton" votes="58" />
+                <Precinct name="Lower 19th" votes="33" />
+                <Precinct name="Mulberry Grove" votes="46" />
+                <Precinct name="Pine Mountain Valley" votes="7" />
+                <Precinct name="Skinner" votes="20" />
+                <Precinct name="Upper 19th" votes="15" />
+                <Precinct name="Valley Plains" votes="10" />
+                <Precinct name="Waverly Hall" votes="70" />
+                <Precinct name="Whitesville" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2137">
+                <Precinct name="Cataula" votes="237" />
+                <Precinct name="Ellerslie" votes="436" />
+                <Precinct name="Goodman" votes="164" />
+                <Precinct name="Hamilton" votes="352" />
+                <Precinct name="Lower 19th" votes="170" />
+                <Precinct name="Mulberry Grove" votes="191" />
+                <Precinct name="Pine Mountain Valley" votes="56" />
+                <Precinct name="Skinner" votes="51" />
+                <Precinct name="Upper 19th" votes="64" />
+                <Precinct name="Valley Plains" votes="34" />
+                <Precinct name="Waverly Hall" votes="282" />
+                <Precinct name="Whitesville" votes="100" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1434">
+                <Precinct name="Cataula" votes="129" />
+                <Precinct name="Ellerslie" votes="231" />
+                <Precinct name="Goodman" votes="150" />
+                <Precinct name="Hamilton" votes="132" />
+                <Precinct name="Lower 19th" votes="100" />
+                <Precinct name="Mulberry Grove" votes="111" />
+                <Precinct name="Pine Mountain Valley" votes="38" />
+                <Precinct name="Skinner" votes="141" />
+                <Precinct name="Upper 19th" votes="60" />
+                <Precinct name="Valley Plains" votes="75" />
+                <Precinct name="Waverly Hall" votes="184" />
+                <Precinct name="Whitesville" votes="83" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="Shane Hazel (Lib)" totalVotes="107">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="1" />
+                <Precinct name="Goodman" votes="1" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="1" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="1" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="41">
+                <Precinct name="Cataula" votes="4" />
+                <Precinct name="Ellerslie" votes="6" />
+                <Precinct name="Goodman" votes="1" />
+                <Precinct name="Hamilton" votes="10" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="5" />
+                <Precinct name="Pine Mountain Valley" votes="4" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="1" />
+                <Precinct name="Valley Plains" votes="1" />
+                <Precinct name="Waverly Hall" votes="6" />
+                <Precinct name="Whitesville" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="62">
+                <Precinct name="Cataula" votes="13" />
+                <Precinct name="Ellerslie" votes="7" />
+                <Precinct name="Goodman" votes="2" />
+                <Precinct name="Hamilton" votes="9" />
+                <Precinct name="Lower 19th" votes="8" />
+                <Precinct name="Mulberry Grove" votes="7" />
+                <Precinct name="Pine Mountain Valley" votes="2" />
+                <Precinct name="Skinner" votes="4" />
+                <Precinct name="Upper 19th" votes="3" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="6" />
+                <Precinct name="Whitesville" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="141">
+            <Precinct name="Cataula" votes="22" />
+            <Precinct name="Ellerslie" votes="10" />
+            <Precinct name="Goodman" votes="12" />
+            <Precinct name="Hamilton" votes="24" />
+            <Precinct name="Lower 19th" votes="14" />
+            <Precinct name="Mulberry Grove" votes="17" />
+            <Precinct name="Pine Mountain Valley" votes="6" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="7" />
+            <Precinct name="Valley Plains" votes="3" />
+            <Precinct name="Waverly Hall" votes="11" />
+            <Precinct name="Whitesville" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cataula" votes="0" />
+            <Precinct name="Ellerslie" votes="0" />
+            <Precinct name="Goodman" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Lower 19th" votes="0" />
+            <Precinct name="Mulberry Grove" votes="0" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="0" />
+            <Precinct name="Waverly Hall" votes="0" />
+            <Precinct name="Whitesville" votes="0" />
+        </VoteType>
+        <Choice key="59" text="Burt Jones (Rep)" totalVotes="12557">
+            <VoteType name="Absentee by Mail Votes" votes="463">
+                <Precinct name="Cataula" votes="41" />
+                <Precinct name="Ellerslie" votes="97" />
+                <Precinct name="Goodman" votes="22" />
+                <Precinct name="Hamilton" votes="44" />
+                <Precinct name="Lower 19th" votes="61" />
+                <Precinct name="Mulberry Grove" votes="50" />
+                <Precinct name="Pine Mountain Valley" votes="20" />
+                <Precinct name="Skinner" votes="15" />
+                <Precinct name="Upper 19th" votes="58" />
+                <Precinct name="Valley Plains" votes="4" />
+                <Precinct name="Waverly Hall" votes="32" />
+                <Precinct name="Whitesville" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5451">
+                <Precinct name="Cataula" votes="692" />
+                <Precinct name="Ellerslie" votes="908" />
+                <Precinct name="Goodman" votes="354" />
+                <Precinct name="Hamilton" votes="632" />
+                <Precinct name="Lower 19th" votes="487" />
+                <Precinct name="Mulberry Grove" votes="769" />
+                <Precinct name="Pine Mountain Valley" votes="228" />
+                <Precinct name="Skinner" votes="65" />
+                <Precinct name="Upper 19th" votes="408" />
+                <Precinct name="Valley Plains" votes="91" />
+                <Precinct name="Waverly Hall" votes="524" />
+                <Precinct name="Whitesville" votes="293" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6639">
+                <Precinct name="Cataula" votes="736" />
+                <Precinct name="Ellerslie" votes="1025" />
+                <Precinct name="Goodman" votes="333" />
+                <Precinct name="Hamilton" votes="436" />
+                <Precinct name="Lower 19th" votes="802" />
+                <Precinct name="Mulberry Grove" votes="774" />
+                <Precinct name="Pine Mountain Valley" votes="396" />
+                <Precinct name="Skinner" votes="316" />
+                <Precinct name="Upper 19th" votes="536" />
+                <Precinct name="Valley Plains" votes="225" />
+                <Precinct name="Waverly Hall" votes="661" />
+                <Precinct name="Whitesville" votes="399" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Cataula" votes="3" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="1" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="60" text="Charlie Bailey (Dem)" totalVotes="4089">
+            <VoteType name="Absentee by Mail Votes" votes="448">
+                <Precinct name="Cataula" votes="53" />
+                <Precinct name="Ellerslie" votes="84" />
+                <Precinct name="Goodman" votes="25" />
+                <Precinct name="Hamilton" votes="57" />
+                <Precinct name="Lower 19th" votes="35" />
+                <Precinct name="Mulberry Grove" votes="46" />
+                <Precinct name="Pine Mountain Valley" votes="7" />
+                <Precinct name="Skinner" votes="20" />
+                <Precinct name="Upper 19th" votes="13" />
+                <Precinct name="Valley Plains" votes="12" />
+                <Precinct name="Waverly Hall" votes="71" />
+                <Precinct name="Whitesville" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2185">
+                <Precinct name="Cataula" votes="243" />
+                <Precinct name="Ellerslie" votes="449" />
+                <Precinct name="Goodman" votes="179" />
+                <Precinct name="Hamilton" votes="351" />
+                <Precinct name="Lower 19th" votes="173" />
+                <Precinct name="Mulberry Grove" votes="192" />
+                <Precinct name="Pine Mountain Valley" votes="57" />
+                <Precinct name="Skinner" votes="50" />
+                <Precinct name="Upper 19th" votes="71" />
+                <Precinct name="Valley Plains" votes="35" />
+                <Precinct name="Waverly Hall" votes="279" />
+                <Precinct name="Whitesville" votes="106" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1456">
+                <Precinct name="Cataula" votes="132" />
+                <Precinct name="Ellerslie" votes="239" />
+                <Precinct name="Goodman" votes="150" />
+                <Precinct name="Hamilton" votes="127" />
+                <Precinct name="Lower 19th" votes="103" />
+                <Precinct name="Mulberry Grove" votes="112" />
+                <Precinct name="Pine Mountain Valley" votes="37" />
+                <Precinct name="Skinner" votes="143" />
+                <Precinct name="Upper 19th" votes="62" />
+                <Precinct name="Valley Plains" votes="76" />
+                <Precinct name="Waverly Hall" votes="187" />
+                <Precinct name="Whitesville" votes="88" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Ryan Graham (Lib)" totalVotes="267">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="2" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="1" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="1" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="2" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="88">
+                <Precinct name="Cataula" votes="10" />
+                <Precinct name="Ellerslie" votes="9" />
+                <Precinct name="Goodman" votes="7" />
+                <Precinct name="Hamilton" votes="23" />
+                <Precinct name="Lower 19th" votes="8" />
+                <Precinct name="Mulberry Grove" votes="7" />
+                <Precinct name="Pine Mountain Valley" votes="6" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="4" />
+                <Precinct name="Valley Plains" votes="1" />
+                <Precinct name="Waverly Hall" votes="8" />
+                <Precinct name="Whitesville" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="173">
+                <Precinct name="Cataula" votes="14" />
+                <Precinct name="Ellerslie" votes="25" />
+                <Precinct name="Goodman" votes="11" />
+                <Precinct name="Hamilton" votes="15" />
+                <Precinct name="Lower 19th" votes="23" />
+                <Precinct name="Mulberry Grove" votes="19" />
+                <Precinct name="Pine Mountain Valley" votes="7" />
+                <Precinct name="Skinner" votes="5" />
+                <Precinct name="Upper 19th" votes="13" />
+                <Precinct name="Valley Plains" votes="6" />
+                <Precinct name="Waverly Hall" votes="25" />
+                <Precinct name="Whitesville" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="227">
+            <Precinct name="Cataula" votes="32" />
+            <Precinct name="Ellerslie" votes="21" />
+            <Precinct name="Goodman" votes="15" />
+            <Precinct name="Hamilton" votes="34" />
+            <Precinct name="Lower 19th" votes="16" />
+            <Precinct name="Mulberry Grove" votes="25" />
+            <Precinct name="Pine Mountain Valley" votes="17" />
+            <Precinct name="Skinner" votes="8" />
+            <Precinct name="Upper 19th" votes="12" />
+            <Precinct name="Valley Plains" votes="7" />
+            <Precinct name="Waverly Hall" votes="23" />
+            <Precinct name="Whitesville" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cataula" votes="0" />
+            <Precinct name="Ellerslie" votes="0" />
+            <Precinct name="Goodman" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Lower 19th" votes="0" />
+            <Precinct name="Mulberry Grove" votes="0" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="0" />
+            <Precinct name="Waverly Hall" votes="0" />
+            <Precinct name="Whitesville" votes="0" />
+        </VoteType>
+        <Choice key="62" text="Brad Raffensperger (I) (Rep)" totalVotes="12629">
+            <VoteType name="Absentee by Mail Votes" votes="483">
+                <Precinct name="Cataula" votes="46" />
+                <Precinct name="Ellerslie" votes="106" />
+                <Precinct name="Goodman" votes="23" />
+                <Precinct name="Hamilton" votes="44" />
+                <Precinct name="Lower 19th" votes="61" />
+                <Precinct name="Mulberry Grove" votes="55" />
+                <Precinct name="Pine Mountain Valley" votes="19" />
+                <Precinct name="Skinner" votes="14" />
+                <Precinct name="Upper 19th" votes="58" />
+                <Precinct name="Valley Plains" votes="4" />
+                <Precinct name="Waverly Hall" votes="34" />
+                <Precinct name="Whitesville" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5527">
+                <Precinct name="Cataula" votes="706" />
+                <Precinct name="Ellerslie" votes="927" />
+                <Precinct name="Goodman" votes="381" />
+                <Precinct name="Hamilton" votes="647" />
+                <Precinct name="Lower 19th" votes="493" />
+                <Precinct name="Mulberry Grove" votes="761" />
+                <Precinct name="Pine Mountain Valley" votes="220" />
+                <Precinct name="Skinner" votes="67" />
+                <Precinct name="Upper 19th" votes="414" />
+                <Precinct name="Valley Plains" votes="91" />
+                <Precinct name="Waverly Hall" votes="517" />
+                <Precinct name="Whitesville" votes="303" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6615">
+                <Precinct name="Cataula" votes="734" />
+                <Precinct name="Ellerslie" votes="1028" />
+                <Precinct name="Goodman" votes="340" />
+                <Precinct name="Hamilton" votes="431" />
+                <Precinct name="Lower 19th" votes="802" />
+                <Precinct name="Mulberry Grove" votes="764" />
+                <Precinct name="Pine Mountain Valley" votes="387" />
+                <Precinct name="Skinner" votes="312" />
+                <Precinct name="Upper 19th" votes="530" />
+                <Precinct name="Valley Plains" votes="221" />
+                <Precinct name="Waverly Hall" votes="654" />
+                <Precinct name="Whitesville" votes="412" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Cataula" votes="3" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="1" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Bee Nguyen (Dem)" totalVotes="3692">
+            <VoteType name="Absentee by Mail Votes" votes="413">
+                <Precinct name="Cataula" votes="45" />
+                <Precinct name="Ellerslie" votes="71" />
+                <Precinct name="Goodman" votes="23" />
+                <Precinct name="Hamilton" votes="57" />
+                <Precinct name="Lower 19th" votes="33" />
+                <Precinct name="Mulberry Grove" votes="42" />
+                <Precinct name="Pine Mountain Valley" votes="6" />
+                <Precinct name="Skinner" votes="20" />
+                <Precinct name="Upper 19th" votes="12" />
+                <Precinct name="Valley Plains" votes="10" />
+                <Precinct name="Waverly Hall" votes="69" />
+                <Precinct name="Whitesville" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1952">
+                <Precinct name="Cataula" votes="213" />
+                <Precinct name="Ellerslie" votes="412" />
+                <Precinct name="Goodman" votes="143" />
+                <Precinct name="Hamilton" votes="326" />
+                <Precinct name="Lower 19th" votes="150" />
+                <Precinct name="Mulberry Grove" votes="178" />
+                <Precinct name="Pine Mountain Valley" votes="50" />
+                <Precinct name="Skinner" votes="46" />
+                <Precinct name="Upper 19th" votes="58" />
+                <Precinct name="Valley Plains" votes="31" />
+                <Precinct name="Waverly Hall" votes="265" />
+                <Precinct name="Whitesville" votes="80" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1327">
+                <Precinct name="Cataula" votes="120" />
+                <Precinct name="Ellerslie" votes="212" />
+                <Precinct name="Goodman" votes="131" />
+                <Precinct name="Hamilton" votes="116" />
+                <Precinct name="Lower 19th" votes="96" />
+                <Precinct name="Mulberry Grove" votes="107" />
+                <Precinct name="Pine Mountain Valley" votes="35" />
+                <Precinct name="Skinner" votes="132" />
+                <Precinct name="Upper 19th" votes="54" />
+                <Precinct name="Valley Plains" votes="76" />
+                <Precinct name="Waverly Hall" votes="178" />
+                <Precinct name="Whitesville" votes="70" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="100" text="Ted Metz (Lib)" totalVotes="510">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="6" />
+                <Precinct name="Goodman" votes="1" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="2" />
+                <Precinct name="Mulberry Grove" votes="1" />
+                <Precinct name="Pine Mountain Valley" votes="2" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="1" />
+                <Precinct name="Valley Plains" votes="2" />
+                <Precinct name="Waverly Hall" votes="2" />
+                <Precinct name="Whitesville" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="207">
+                <Precinct name="Cataula" votes="22" />
+                <Precinct name="Ellerslie" votes="27" />
+                <Precinct name="Goodman" votes="14" />
+                <Precinct name="Hamilton" votes="27" />
+                <Precinct name="Lower 19th" votes="23" />
+                <Precinct name="Mulberry Grove" votes="25" />
+                <Precinct name="Pine Mountain Valley" votes="12" />
+                <Precinct name="Skinner" votes="2" />
+                <Precinct name="Upper 19th" votes="9" />
+                <Precinct name="Valley Plains" votes="2" />
+                <Precinct name="Waverly Hall" votes="25" />
+                <Precinct name="Whitesville" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="285">
+                <Precinct name="Cataula" votes="25" />
+                <Precinct name="Ellerslie" votes="40" />
+                <Precinct name="Goodman" votes="22" />
+                <Precinct name="Hamilton" votes="28" />
+                <Precinct name="Lower 19th" votes="30" />
+                <Precinct name="Mulberry Grove" votes="30" />
+                <Precinct name="Pine Mountain Valley" votes="16" />
+                <Precinct name="Skinner" votes="13" />
+                <Precinct name="Upper 19th" votes="24" />
+                <Precinct name="Valley Plains" votes="9" />
+                <Precinct name="Waverly Hall" votes="34" />
+                <Precinct name="Whitesville" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="133">
+            <Precinct name="Cataula" votes="22" />
+            <Precinct name="Ellerslie" votes="9" />
+            <Precinct name="Goodman" votes="13" />
+            <Precinct name="Hamilton" votes="20" />
+            <Precinct name="Lower 19th" votes="14" />
+            <Precinct name="Mulberry Grove" votes="17" />
+            <Precinct name="Pine Mountain Valley" votes="7" />
+            <Precinct name="Skinner" votes="3" />
+            <Precinct name="Upper 19th" votes="4" />
+            <Precinct name="Valley Plains" votes="5" />
+            <Precinct name="Waverly Hall" votes="6" />
+            <Precinct name="Whitesville" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cataula" votes="0" />
+            <Precinct name="Ellerslie" votes="0" />
+            <Precinct name="Goodman" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Lower 19th" votes="0" />
+            <Precinct name="Mulberry Grove" votes="0" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="0" />
+            <Precinct name="Waverly Hall" votes="0" />
+            <Precinct name="Whitesville" votes="0" />
+        </VoteType>
+        <Choice key="64" text="Chris Carr (I) (Rep)" totalVotes="12609">
+            <VoteType name="Absentee by Mail Votes" votes="464">
+                <Precinct name="Cataula" votes="42" />
+                <Precinct name="Ellerslie" votes="103" />
+                <Precinct name="Goodman" votes="22" />
+                <Precinct name="Hamilton" votes="44" />
+                <Precinct name="Lower 19th" votes="63" />
+                <Precinct name="Mulberry Grove" votes="49" />
+                <Precinct name="Pine Mountain Valley" votes="19" />
+                <Precinct name="Skinner" votes="13" />
+                <Precinct name="Upper 19th" votes="55" />
+                <Precinct name="Valley Plains" votes="4" />
+                <Precinct name="Waverly Hall" votes="30" />
+                <Precinct name="Whitesville" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5475">
+                <Precinct name="Cataula" votes="695" />
+                <Precinct name="Ellerslie" votes="907" />
+                <Precinct name="Goodman" votes="355" />
+                <Precinct name="Hamilton" votes="645" />
+                <Precinct name="Lower 19th" votes="490" />
+                <Precinct name="Mulberry Grove" votes="767" />
+                <Precinct name="Pine Mountain Valley" votes="230" />
+                <Precinct name="Skinner" votes="65" />
+                <Precinct name="Upper 19th" votes="404" />
+                <Precinct name="Valley Plains" votes="90" />
+                <Precinct name="Waverly Hall" votes="530" />
+                <Precinct name="Whitesville" votes="297" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6666">
+                <Precinct name="Cataula" votes="733" />
+                <Precinct name="Ellerslie" votes="1026" />
+                <Precinct name="Goodman" votes="334" />
+                <Precinct name="Hamilton" votes="438" />
+                <Precinct name="Lower 19th" votes="811" />
+                <Precinct name="Mulberry Grove" votes="779" />
+                <Precinct name="Pine Mountain Valley" votes="399" />
+                <Precinct name="Skinner" votes="311" />
+                <Precinct name="Upper 19th" votes="536" />
+                <Precinct name="Valley Plains" votes="223" />
+                <Precinct name="Waverly Hall" votes="666" />
+                <Precinct name="Whitesville" votes="410" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Cataula" votes="3" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="1" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="65" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="4104">
+            <VoteType name="Absentee by Mail Votes" votes="446">
+                <Precinct name="Cataula" votes="51" />
+                <Precinct name="Ellerslie" votes="80" />
+                <Precinct name="Goodman" votes="25" />
+                <Precinct name="Hamilton" votes="57" />
+                <Precinct name="Lower 19th" votes="33" />
+                <Precinct name="Mulberry Grove" votes="46" />
+                <Precinct name="Pine Mountain Valley" votes="7" />
+                <Precinct name="Skinner" votes="22" />
+                <Precinct name="Upper 19th" votes="16" />
+                <Precinct name="Valley Plains" votes="12" />
+                <Precinct name="Waverly Hall" votes="72" />
+                <Precinct name="Whitesville" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2188">
+                <Precinct name="Cataula" votes="240" />
+                <Precinct name="Ellerslie" votes="453" />
+                <Precinct name="Goodman" votes="176" />
+                <Precinct name="Hamilton" votes="351" />
+                <Precinct name="Lower 19th" votes="169" />
+                <Precinct name="Mulberry Grove" votes="196" />
+                <Precinct name="Pine Mountain Valley" votes="57" />
+                <Precinct name="Skinner" votes="50" />
+                <Precinct name="Upper 19th" votes="78" />
+                <Precinct name="Valley Plains" votes="36" />
+                <Precinct name="Waverly Hall" votes="280" />
+                <Precinct name="Whitesville" votes="102" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1470">
+                <Precinct name="Cataula" votes="134" />
+                <Precinct name="Ellerslie" votes="246" />
+                <Precinct name="Goodman" votes="149" />
+                <Precinct name="Hamilton" votes="125" />
+                <Precinct name="Lower 19th" votes="106" />
+                <Precinct name="Mulberry Grove" votes="115" />
+                <Precinct name="Pine Mountain Valley" votes="34" />
+                <Precinct name="Skinner" votes="142" />
+                <Precinct name="Upper 19th" votes="69" />
+                <Precinct name="Valley Plains" votes="78" />
+                <Precinct name="Waverly Hall" votes="191" />
+                <Precinct name="Whitesville" votes="81" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="66" text="Martin Cowen (Lib)" totalVotes="209">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="1" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="1" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="1" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="2" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="64">
+                <Precinct name="Cataula" votes="12" />
+                <Precinct name="Ellerslie" votes="8" />
+                <Precinct name="Goodman" votes="5" />
+                <Precinct name="Hamilton" votes="11" />
+                <Precinct name="Lower 19th" votes="9" />
+                <Precinct name="Mulberry Grove" votes="6" />
+                <Precinct name="Pine Mountain Valley" votes="2" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="1" />
+                <Precinct name="Valley Plains" votes="1" />
+                <Precinct name="Waverly Hall" votes="5" />
+                <Precinct name="Whitesville" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="140">
+                <Precinct name="Cataula" votes="14" />
+                <Precinct name="Ellerslie" votes="16" />
+                <Precinct name="Goodman" votes="13" />
+                <Precinct name="Hamilton" votes="17" />
+                <Precinct name="Lower 19th" votes="10" />
+                <Precinct name="Mulberry Grove" votes="13" />
+                <Precinct name="Pine Mountain Valley" votes="8" />
+                <Precinct name="Skinner" votes="8" />
+                <Precinct name="Upper 19th" votes="9" />
+                <Precinct name="Valley Plains" votes="5" />
+                <Precinct name="Waverly Hall" votes="19" />
+                <Precinct name="Whitesville" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Commissioner Of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="165">
+            <Precinct name="Cataula" votes="26" />
+            <Precinct name="Ellerslie" votes="15" />
+            <Precinct name="Goodman" votes="20" />
+            <Precinct name="Hamilton" votes="19" />
+            <Precinct name="Lower 19th" votes="18" />
+            <Precinct name="Mulberry Grove" votes="17" />
+            <Precinct name="Pine Mountain Valley" votes="10" />
+            <Precinct name="Skinner" votes="4" />
+            <Precinct name="Upper 19th" votes="5" />
+            <Precinct name="Valley Plains" votes="7" />
+            <Precinct name="Waverly Hall" votes="7" />
+            <Precinct name="Whitesville" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cataula" votes="0" />
+            <Precinct name="Ellerslie" votes="0" />
+            <Precinct name="Goodman" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Lower 19th" votes="0" />
+            <Precinct name="Mulberry Grove" votes="0" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="0" />
+            <Precinct name="Waverly Hall" votes="0" />
+            <Precinct name="Whitesville" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Tyler Harper (Rep)" totalVotes="12729">
+            <VoteType name="Absentee by Mail Votes" votes="477">
+                <Precinct name="Cataula" votes="43" />
+                <Precinct name="Ellerslie" votes="105" />
+                <Precinct name="Goodman" votes="22" />
+                <Precinct name="Hamilton" votes="43" />
+                <Precinct name="Lower 19th" votes="64" />
+                <Precinct name="Mulberry Grove" votes="54" />
+                <Precinct name="Pine Mountain Valley" votes="19" />
+                <Precinct name="Skinner" votes="14" />
+                <Precinct name="Upper 19th" votes="55" />
+                <Precinct name="Valley Plains" votes="4" />
+                <Precinct name="Waverly Hall" votes="35" />
+                <Precinct name="Whitesville" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5521">
+                <Precinct name="Cataula" votes="700" />
+                <Precinct name="Ellerslie" votes="908" />
+                <Precinct name="Goodman" votes="365" />
+                <Precinct name="Hamilton" votes="653" />
+                <Precinct name="Lower 19th" votes="497" />
+                <Precinct name="Mulberry Grove" votes="767" />
+                <Precinct name="Pine Mountain Valley" votes="232" />
+                <Precinct name="Skinner" votes="65" />
+                <Precinct name="Upper 19th" votes="412" />
+                <Precinct name="Valley Plains" votes="92" />
+                <Precinct name="Waverly Hall" votes="533" />
+                <Precinct name="Whitesville" votes="297" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6728">
+                <Precinct name="Cataula" votes="746" />
+                <Precinct name="Ellerslie" votes="1037" />
+                <Precinct name="Goodman" votes="337" />
+                <Precinct name="Hamilton" votes="443" />
+                <Precinct name="Lower 19th" votes="803" />
+                <Precinct name="Mulberry Grove" votes="780" />
+                <Precinct name="Pine Mountain Valley" votes="397" />
+                <Precinct name="Skinner" votes="317" />
+                <Precinct name="Upper 19th" votes="545" />
+                <Precinct name="Valley Plains" votes="225" />
+                <Precinct name="Waverly Hall" votes="677" />
+                <Precinct name="Whitesville" votes="421" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Cataula" votes="2" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="1" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="68" text="Nakita Hemingway (Dem)" totalVotes="3890">
+            <VoteType name="Absentee by Mail Votes" votes="427">
+                <Precinct name="Cataula" votes="49" />
+                <Precinct name="Ellerslie" votes="76" />
+                <Precinct name="Goodman" votes="23" />
+                <Precinct name="Hamilton" votes="58" />
+                <Precinct name="Lower 19th" votes="32" />
+                <Precinct name="Mulberry Grove" votes="41" />
+                <Precinct name="Pine Mountain Valley" votes="7" />
+                <Precinct name="Skinner" votes="20" />
+                <Precinct name="Upper 19th" votes="15" />
+                <Precinct name="Valley Plains" votes="12" />
+                <Precinct name="Waverly Hall" votes="69" />
+                <Precinct name="Whitesville" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2097">
+                <Precinct name="Cataula" votes="230" />
+                <Precinct name="Ellerslie" votes="440" />
+                <Precinct name="Goodman" votes="161" />
+                <Precinct name="Hamilton" votes="341" />
+                <Precinct name="Lower 19th" votes="163" />
+                <Precinct name="Mulberry Grove" votes="190" />
+                <Precinct name="Pine Mountain Valley" votes="52" />
+                <Precinct name="Skinner" votes="50" />
+                <Precinct name="Upper 19th" votes="69" />
+                <Precinct name="Valley Plains" votes="31" />
+                <Precinct name="Waverly Hall" votes="275" />
+                <Precinct name="Whitesville" votes="95" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1366">
+                <Precinct name="Cataula" votes="117" />
+                <Precinct name="Ellerslie" votes="229" />
+                <Precinct name="Goodman" votes="142" />
+                <Precinct name="Hamilton" votes="121" />
+                <Precinct name="Lower 19th" votes="100" />
+                <Precinct name="Mulberry Grove" votes="111" />
+                <Precinct name="Pine Mountain Valley" votes="33" />
+                <Precinct name="Skinner" votes="138" />
+                <Precinct name="Upper 19th" votes="60" />
+                <Precinct name="Valley Plains" votes="73" />
+                <Precinct name="Waverly Hall" votes="173" />
+                <Precinct name="Whitesville" votes="69" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="69" text="David Raudabaugh (Lib)" totalVotes="268">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Cataula" votes="1" />
+                <Precinct name="Ellerslie" votes="1" />
+                <Precinct name="Goodman" votes="1" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="1" />
+                <Precinct name="Pine Mountain Valley" votes="1" />
+                <Precinct name="Skinner" votes="1" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="1" />
+                <Precinct name="Whitesville" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="95">
+                <Precinct name="Cataula" votes="12" />
+                <Precinct name="Ellerslie" votes="14" />
+                <Precinct name="Goodman" votes="7" />
+                <Precinct name="Hamilton" votes="16" />
+                <Precinct name="Lower 19th" votes="10" />
+                <Precinct name="Mulberry Grove" votes="12" />
+                <Precinct name="Pine Mountain Valley" votes="5" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="3" />
+                <Precinct name="Valley Plains" votes="3" />
+                <Precinct name="Waverly Hall" votes="6" />
+                <Precinct name="Whitesville" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="164">
+                <Precinct name="Cataula" votes="19" />
+                <Precinct name="Ellerslie" votes="23" />
+                <Precinct name="Goodman" votes="15" />
+                <Precinct name="Hamilton" votes="16" />
+                <Precinct name="Lower 19th" votes="19" />
+                <Precinct name="Mulberry Grove" votes="13" />
+                <Precinct name="Pine Mountain Valley" votes="8" />
+                <Precinct name="Skinner" votes="5" />
+                <Precinct name="Upper 19th" votes="8" />
+                <Precinct name="Valley Plains" votes="6" />
+                <Precinct name="Waverly Hall" votes="25" />
+                <Precinct name="Whitesville" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cataula" votes="1" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="204">
+            <Precinct name="Cataula" votes="29" />
+            <Precinct name="Ellerslie" votes="26" />
+            <Precinct name="Goodman" votes="23" />
+            <Precinct name="Hamilton" votes="25" />
+            <Precinct name="Lower 19th" votes="19" />
+            <Precinct name="Mulberry Grove" votes="24" />
+            <Precinct name="Pine Mountain Valley" votes="10" />
+            <Precinct name="Skinner" votes="5" />
+            <Precinct name="Upper 19th" votes="7" />
+            <Precinct name="Valley Plains" votes="8" />
+            <Precinct name="Waverly Hall" votes="9" />
+            <Precinct name="Whitesville" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cataula" votes="0" />
+            <Precinct name="Ellerslie" votes="0" />
+            <Precinct name="Goodman" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Lower 19th" votes="0" />
+            <Precinct name="Mulberry Grove" votes="0" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="0" />
+            <Precinct name="Waverly Hall" votes="0" />
+            <Precinct name="Whitesville" votes="0" />
+        </VoteType>
+        <Choice key="70" text="John King (I) (Rep)" totalVotes="12879">
+            <VoteType name="Absentee by Mail Votes" votes="477">
+                <Precinct name="Cataula" votes="42" />
+                <Precinct name="Ellerslie" votes="105" />
+                <Precinct name="Goodman" votes="23" />
+                <Precinct name="Hamilton" votes="44" />
+                <Precinct name="Lower 19th" votes="62" />
+                <Precinct name="Mulberry Grove" votes="54" />
+                <Precinct name="Pine Mountain Valley" votes="20" />
+                <Precinct name="Skinner" votes="15" />
+                <Precinct name="Upper 19th" votes="54" />
+                <Precinct name="Valley Plains" votes="4" />
+                <Precinct name="Waverly Hall" votes="35" />
+                <Precinct name="Whitesville" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5595">
+                <Precinct name="Cataula" votes="705" />
+                <Precinct name="Ellerslie" votes="926" />
+                <Precinct name="Goodman" votes="372" />
+                <Precinct name="Hamilton" votes="658" />
+                <Precinct name="Lower 19th" votes="509" />
+                <Precinct name="Mulberry Grove" votes="779" />
+                <Precinct name="Pine Mountain Valley" votes="233" />
+                <Precinct name="Skinner" votes="66" />
+                <Precinct name="Upper 19th" votes="414" />
+                <Precinct name="Valley Plains" votes="92" />
+                <Precinct name="Waverly Hall" votes="535" />
+                <Precinct name="Whitesville" votes="306" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6803">
+                <Precinct name="Cataula" votes="753" />
+                <Precinct name="Ellerslie" votes="1053" />
+                <Precinct name="Goodman" votes="346" />
+                <Precinct name="Hamilton" votes="449" />
+                <Precinct name="Lower 19th" votes="811" />
+                <Precinct name="Mulberry Grove" votes="796" />
+                <Precinct name="Pine Mountain Valley" votes="405" />
+                <Precinct name="Skinner" votes="317" />
+                <Precinct name="Upper 19th" votes="548" />
+                <Precinct name="Valley Plains" votes="227" />
+                <Precinct name="Waverly Hall" votes="680" />
+                <Precinct name="Whitesville" votes="418" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Cataula" votes="3" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="1" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="71" text="Janice Laws Robinson (Dem)" totalVotes="3971">
+            <VoteType name="Absentee by Mail Votes" votes="431">
+                <Precinct name="Cataula" votes="51" />
+                <Precinct name="Ellerslie" votes="75" />
+                <Precinct name="Goodman" votes="22" />
+                <Precinct name="Hamilton" votes="56" />
+                <Precinct name="Lower 19th" votes="34" />
+                <Precinct name="Mulberry Grove" votes="43" />
+                <Precinct name="Pine Mountain Valley" votes="7" />
+                <Precinct name="Skinner" votes="20" />
+                <Precinct name="Upper 19th" votes="16" />
+                <Precinct name="Valley Plains" votes="12" />
+                <Precinct name="Waverly Hall" votes="70" />
+                <Precinct name="Whitesville" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2113">
+                <Precinct name="Cataula" votes="237" />
+                <Precinct name="Ellerslie" votes="434" />
+                <Precinct name="Goodman" votes="163" />
+                <Precinct name="Hamilton" votes="349" />
+                <Precinct name="Lower 19th" votes="159" />
+                <Precinct name="Mulberry Grove" votes="184" />
+                <Precinct name="Pine Mountain Valley" votes="57" />
+                <Precinct name="Skinner" votes="49" />
+                <Precinct name="Upper 19th" votes="69" />
+                <Precinct name="Valley Plains" votes="35" />
+                <Precinct name="Waverly Hall" votes="280" />
+                <Precinct name="Whitesville" votes="97" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1427">
+                <Precinct name="Cataula" votes="126" />
+                <Precinct name="Ellerslie" votes="230" />
+                <Precinct name="Goodman" votes="144" />
+                <Precinct name="Hamilton" votes="129" />
+                <Precinct name="Lower 19th" votes="111" />
+                <Precinct name="Mulberry Grove" votes="108" />
+                <Precinct name="Pine Mountain Valley" votes="32" />
+                <Precinct name="Skinner" votes="142" />
+                <Precinct name="Upper 19th" votes="64" />
+                <Precinct name="Valley Plains" votes="75" />
+                <Precinct name="Waverly Hall" votes="190" />
+                <Precinct name="Whitesville" votes="76" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="175">
+            <Precinct name="Cataula" votes="24" />
+            <Precinct name="Ellerslie" votes="15" />
+            <Precinct name="Goodman" votes="18" />
+            <Precinct name="Hamilton" votes="27" />
+            <Precinct name="Lower 19th" votes="17" />
+            <Precinct name="Mulberry Grove" votes="22" />
+            <Precinct name="Pine Mountain Valley" votes="8" />
+            <Precinct name="Skinner" votes="4" />
+            <Precinct name="Upper 19th" votes="8" />
+            <Precinct name="Valley Plains" votes="6" />
+            <Precinct name="Waverly Hall" votes="9" />
+            <Precinct name="Whitesville" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cataula" votes="0" />
+            <Precinct name="Ellerslie" votes="0" />
+            <Precinct name="Goodman" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Lower 19th" votes="0" />
+            <Precinct name="Mulberry Grove" votes="0" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="0" />
+            <Precinct name="Waverly Hall" votes="0" />
+            <Precinct name="Whitesville" votes="0" />
+        </VoteType>
+        <Choice key="72" text="Richard Woods (I) (Rep)" totalVotes="12951">
+            <VoteType name="Absentee by Mail Votes" votes="486">
+                <Precinct name="Cataula" votes="42" />
+                <Precinct name="Ellerslie" votes="106" />
+                <Precinct name="Goodman" votes="25" />
+                <Precinct name="Hamilton" votes="46" />
+                <Precinct name="Lower 19th" votes="63" />
+                <Precinct name="Mulberry Grove" votes="53" />
+                <Precinct name="Pine Mountain Valley" votes="20" />
+                <Precinct name="Skinner" votes="15" />
+                <Precinct name="Upper 19th" votes="56" />
+                <Precinct name="Valley Plains" votes="4" />
+                <Precinct name="Waverly Hall" votes="35" />
+                <Precinct name="Whitesville" votes="21" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5618">
+                <Precinct name="Cataula" votes="714" />
+                <Precinct name="Ellerslie" votes="935" />
+                <Precinct name="Goodman" votes="373" />
+                <Precinct name="Hamilton" votes="662" />
+                <Precinct name="Lower 19th" votes="508" />
+                <Precinct name="Mulberry Grove" votes="778" />
+                <Precinct name="Pine Mountain Valley" votes="232" />
+                <Precinct name="Skinner" votes="66" />
+                <Precinct name="Upper 19th" votes="418" />
+                <Precinct name="Valley Plains" votes="92" />
+                <Precinct name="Waverly Hall" votes="533" />
+                <Precinct name="Whitesville" votes="307" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6843">
+                <Precinct name="Cataula" votes="750" />
+                <Precinct name="Ellerslie" votes="1055" />
+                <Precinct name="Goodman" votes="351" />
+                <Precinct name="Hamilton" votes="451" />
+                <Precinct name="Lower 19th" votes="821" />
+                <Precinct name="Mulberry Grove" votes="796" />
+                <Precinct name="Pine Mountain Valley" votes="406" />
+                <Precinct name="Skinner" votes="319" />
+                <Precinct name="Upper 19th" votes="550" />
+                <Precinct name="Valley Plains" votes="229" />
+                <Precinct name="Waverly Hall" votes="694" />
+                <Precinct name="Whitesville" votes="421" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Cataula" votes="3" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="1" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="73" text="Alisha Thomas Searcy (Dem)" totalVotes="3926">
+            <VoteType name="Absentee by Mail Votes" votes="427">
+                <Precinct name="Cataula" votes="52" />
+                <Precinct name="Ellerslie" votes="78" />
+                <Precinct name="Goodman" votes="21" />
+                <Precinct name="Hamilton" votes="53" />
+                <Precinct name="Lower 19th" votes="33" />
+                <Precinct name="Mulberry Grove" votes="43" />
+                <Precinct name="Pine Mountain Valley" votes="7" />
+                <Precinct name="Skinner" votes="20" />
+                <Precinct name="Upper 19th" votes="14" />
+                <Precinct name="Valley Plains" votes="12" />
+                <Precinct name="Waverly Hall" votes="70" />
+                <Precinct name="Whitesville" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2094">
+                <Precinct name="Cataula" votes="231" />
+                <Precinct name="Ellerslie" votes="428" />
+                <Precinct name="Goodman" votes="163" />
+                <Precinct name="Hamilton" votes="344" />
+                <Precinct name="Lower 19th" votes="160" />
+                <Precinct name="Mulberry Grove" votes="189" />
+                <Precinct name="Pine Mountain Valley" votes="57" />
+                <Precinct name="Skinner" votes="49" />
+                <Precinct name="Upper 19th" votes="64" />
+                <Precinct name="Valley Plains" votes="34" />
+                <Precinct name="Waverly Hall" votes="281" />
+                <Precinct name="Whitesville" votes="94" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1405">
+                <Precinct name="Cataula" votes="130" />
+                <Precinct name="Ellerslie" votes="231" />
+                <Precinct name="Goodman" votes="142" />
+                <Precinct name="Hamilton" votes="126" />
+                <Precinct name="Lower 19th" votes="104" />
+                <Precinct name="Mulberry Grove" votes="105" />
+                <Precinct name="Pine Mountain Valley" votes="34" />
+                <Precinct name="Skinner" votes="140" />
+                <Precinct name="Upper 19th" votes="62" />
+                <Precinct name="Valley Plains" votes="77" />
+                <Precinct name="Waverly Hall" votes="179" />
+                <Precinct name="Whitesville" votes="75" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="197">
+            <Precinct name="Cataula" votes="33" />
+            <Precinct name="Ellerslie" votes="25" />
+            <Precinct name="Goodman" votes="24" />
+            <Precinct name="Hamilton" votes="21" />
+            <Precinct name="Lower 19th" votes="16" />
+            <Precinct name="Mulberry Grove" votes="22" />
+            <Precinct name="Pine Mountain Valley" votes="8" />
+            <Precinct name="Skinner" votes="5" />
+            <Precinct name="Upper 19th" votes="6" />
+            <Precinct name="Valley Plains" votes="8" />
+            <Precinct name="Waverly Hall" votes="11" />
+            <Precinct name="Whitesville" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cataula" votes="0" />
+            <Precinct name="Ellerslie" votes="0" />
+            <Precinct name="Goodman" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Lower 19th" votes="0" />
+            <Precinct name="Mulberry Grove" votes="0" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="0" />
+            <Precinct name="Waverly Hall" votes="0" />
+            <Precinct name="Whitesville" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Bruce Thompson (Rep)" totalVotes="12587">
+            <VoteType name="Absentee by Mail Votes" votes="461">
+                <Precinct name="Cataula" votes="42" />
+                <Precinct name="Ellerslie" votes="94" />
+                <Precinct name="Goodman" votes="22" />
+                <Precinct name="Hamilton" votes="45" />
+                <Precinct name="Lower 19th" votes="61" />
+                <Precinct name="Mulberry Grove" votes="51" />
+                <Precinct name="Pine Mountain Valley" votes="20" />
+                <Precinct name="Skinner" votes="14" />
+                <Precinct name="Upper 19th" votes="54" />
+                <Precinct name="Valley Plains" votes="4" />
+                <Precinct name="Waverly Hall" votes="35" />
+                <Precinct name="Whitesville" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5481">
+                <Precinct name="Cataula" votes="693" />
+                <Precinct name="Ellerslie" votes="908" />
+                <Precinct name="Goodman" votes="361" />
+                <Precinct name="Hamilton" votes="650" />
+                <Precinct name="Lower 19th" votes="492" />
+                <Precinct name="Mulberry Grove" votes="764" />
+                <Precinct name="Pine Mountain Valley" votes="230" />
+                <Precinct name="Skinner" votes="67" />
+                <Precinct name="Upper 19th" votes="409" />
+                <Precinct name="Valley Plains" votes="89" />
+                <Precinct name="Waverly Hall" votes="520" />
+                <Precinct name="Whitesville" votes="298" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6642">
+                <Precinct name="Cataula" votes="734" />
+                <Precinct name="Ellerslie" votes="1028" />
+                <Precinct name="Goodman" votes="337" />
+                <Precinct name="Hamilton" votes="437" />
+                <Precinct name="Lower 19th" votes="803" />
+                <Precinct name="Mulberry Grove" votes="773" />
+                <Precinct name="Pine Mountain Valley" votes="394" />
+                <Precinct name="Skinner" votes="309" />
+                <Precinct name="Upper 19th" votes="547" />
+                <Precinct name="Valley Plains" votes="222" />
+                <Precinct name="Waverly Hall" votes="656" />
+                <Precinct name="Whitesville" votes="402" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Cataula" votes="2" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="1" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="3948">
+            <VoteType name="Absentee by Mail Votes" votes="430">
+                <Precinct name="Cataula" votes="49" />
+                <Precinct name="Ellerslie" votes="80" />
+                <Precinct name="Goodman" votes="22" />
+                <Precinct name="Hamilton" votes="54" />
+                <Precinct name="Lower 19th" votes="35" />
+                <Precinct name="Mulberry Grove" votes="45" />
+                <Precinct name="Pine Mountain Valley" votes="7" />
+                <Precinct name="Skinner" votes="20" />
+                <Precinct name="Upper 19th" votes="14" />
+                <Precinct name="Valley Plains" votes="10" />
+                <Precinct name="Waverly Hall" votes="69" />
+                <Precinct name="Whitesville" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2116">
+                <Precinct name="Cataula" votes="237" />
+                <Precinct name="Ellerslie" votes="438" />
+                <Precinct name="Goodman" votes="166" />
+                <Precinct name="Hamilton" votes="337" />
+                <Precinct name="Lower 19th" votes="163" />
+                <Precinct name="Mulberry Grove" votes="190" />
+                <Precinct name="Pine Mountain Valley" votes="55" />
+                <Precinct name="Skinner" votes="47" />
+                <Precinct name="Upper 19th" votes="70" />
+                <Precinct name="Valley Plains" votes="35" />
+                <Precinct name="Waverly Hall" votes="280" />
+                <Precinct name="Whitesville" votes="98" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1402">
+                <Precinct name="Cataula" votes="123" />
+                <Precinct name="Ellerslie" votes="225" />
+                <Precinct name="Goodman" votes="141" />
+                <Precinct name="Hamilton" votes="123" />
+                <Precinct name="Lower 19th" votes="103" />
+                <Precinct name="Mulberry Grove" votes="110" />
+                <Precinct name="Pine Mountain Valley" votes="37" />
+                <Precinct name="Skinner" votes="141" />
+                <Precinct name="Upper 19th" votes="59" />
+                <Precinct name="Valley Plains" votes="77" />
+                <Precinct name="Waverly Hall" votes="188" />
+                <Precinct name="Whitesville" votes="75" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Emily Anderson (Lib)" totalVotes="324">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="4" />
+                <Precinct name="Goodman" votes="1" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="1" />
+                <Precinct name="Upper 19th" votes="1" />
+                <Precinct name="Valley Plains" votes="1" />
+                <Precinct name="Waverly Hall" votes="1" />
+                <Precinct name="Whitesville" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="113">
+                <Precinct name="Cataula" votes="10" />
+                <Precinct name="Ellerslie" votes="15" />
+                <Precinct name="Goodman" votes="6" />
+                <Precinct name="Hamilton" votes="22" />
+                <Precinct name="Lower 19th" votes="16" />
+                <Precinct name="Mulberry Grove" votes="13" />
+                <Precinct name="Pine Mountain Valley" votes="6" />
+                <Precinct name="Skinner" votes="1" />
+                <Precinct name="Upper 19th" votes="4" />
+                <Precinct name="Valley Plains" votes="3" />
+                <Precinct name="Waverly Hall" votes="12" />
+                <Precinct name="Whitesville" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="200">
+                <Precinct name="Cataula" votes="22" />
+                <Precinct name="Ellerslie" votes="33" />
+                <Precinct name="Goodman" votes="13" />
+                <Precinct name="Hamilton" votes="21" />
+                <Precinct name="Lower 19th" votes="17" />
+                <Precinct name="Mulberry Grove" votes="20" />
+                <Precinct name="Pine Mountain Valley" votes="7" />
+                <Precinct name="Skinner" votes="9" />
+                <Precinct name="Upper 19th" votes="7" />
+                <Precinct name="Valley Plains" votes="5" />
+                <Precinct name="Waverly Hall" votes="28" />
+                <Precinct name="Whitesville" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cataula" votes="1" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="US House Dist 3" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="149">
+            <Precinct name="Cataula" votes="24" />
+            <Precinct name="Ellerslie" votes="16" />
+            <Precinct name="Goodman" votes="19" />
+            <Precinct name="Hamilton" votes="20" />
+            <Precinct name="Lower 19th" votes="11" />
+            <Precinct name="Mulberry Grove" votes="14" />
+            <Precinct name="Pine Mountain Valley" votes="8" />
+            <Precinct name="Skinner" votes="7" />
+            <Precinct name="Upper 19th" votes="4" />
+            <Precinct name="Valley Plains" votes="6" />
+            <Precinct name="Waverly Hall" votes="7" />
+            <Precinct name="Whitesville" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cataula" votes="0" />
+            <Precinct name="Ellerslie" votes="0" />
+            <Precinct name="Goodman" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Lower 19th" votes="0" />
+            <Precinct name="Mulberry Grove" votes="0" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="0" />
+            <Precinct name="Waverly Hall" votes="0" />
+            <Precinct name="Whitesville" votes="0" />
+        </VoteType>
+        <Choice key="82" text="Drew Ferguson (I) (Rep)" totalVotes="12898">
+            <VoteType name="Absentee by Mail Votes" votes="479">
+                <Precinct name="Cataula" votes="43" />
+                <Precinct name="Ellerslie" votes="106" />
+                <Precinct name="Goodman" votes="23" />
+                <Precinct name="Hamilton" votes="47" />
+                <Precinct name="Lower 19th" votes="63" />
+                <Precinct name="Mulberry Grove" votes="49" />
+                <Precinct name="Pine Mountain Valley" votes="21" />
+                <Precinct name="Skinner" votes="12" />
+                <Precinct name="Upper 19th" votes="54" />
+                <Precinct name="Valley Plains" votes="4" />
+                <Precinct name="Waverly Hall" votes="36" />
+                <Precinct name="Whitesville" votes="21" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5575">
+                <Precinct name="Cataula" votes="700" />
+                <Precinct name="Ellerslie" votes="928" />
+                <Precinct name="Goodman" votes="369" />
+                <Precinct name="Hamilton" votes="669" />
+                <Precinct name="Lower 19th" votes="495" />
+                <Precinct name="Mulberry Grove" votes="779" />
+                <Precinct name="Pine Mountain Valley" votes="232" />
+                <Precinct name="Skinner" votes="66" />
+                <Precinct name="Upper 19th" votes="414" />
+                <Precinct name="Valley Plains" votes="95" />
+                <Precinct name="Waverly Hall" votes="524" />
+                <Precinct name="Whitesville" votes="304" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6840">
+                <Precinct name="Cataula" votes="750" />
+                <Precinct name="Ellerslie" votes="1055" />
+                <Precinct name="Goodman" votes="348" />
+                <Precinct name="Hamilton" votes="456" />
+                <Precinct name="Lower 19th" votes="818" />
+                <Precinct name="Mulberry Grove" votes="794" />
+                <Precinct name="Pine Mountain Valley" votes="406" />
+                <Precinct name="Skinner" votes="326" />
+                <Precinct name="Upper 19th" votes="551" />
+                <Precinct name="Valley Plains" votes="226" />
+                <Precinct name="Waverly Hall" votes="689" />
+                <Precinct name="Whitesville" votes="421" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Cataula" votes="3" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="1" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="83" text="Val Almonord (Dem)" totalVotes="4006">
+            <VoteType name="Absentee by Mail Votes" votes="432">
+                <Precinct name="Cataula" votes="50" />
+                <Precinct name="Ellerslie" votes="76" />
+                <Precinct name="Goodman" votes="24" />
+                <Precinct name="Hamilton" votes="53" />
+                <Precinct name="Lower 19th" votes="34" />
+                <Precinct name="Mulberry Grove" votes="47" />
+                <Precinct name="Pine Mountain Valley" votes="7" />
+                <Precinct name="Skinner" votes="21" />
+                <Precinct name="Upper 19th" votes="15" />
+                <Precinct name="Valley Plains" votes="12" />
+                <Precinct name="Waverly Hall" votes="69" />
+                <Precinct name="Whitesville" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2140">
+                <Precinct name="Cataula" votes="243" />
+                <Precinct name="Ellerslie" votes="436" />
+                <Precinct name="Goodman" votes="165" />
+                <Precinct name="Hamilton" votes="342" />
+                <Precinct name="Lower 19th" votes="173" />
+                <Precinct name="Mulberry Grove" votes="191" />
+                <Precinct name="Pine Mountain Valley" votes="55" />
+                <Precinct name="Skinner" votes="47" />
+                <Precinct name="Upper 19th" votes="70" />
+                <Precinct name="Valley Plains" votes="32" />
+                <Precinct name="Waverly Hall" votes="288" />
+                <Precinct name="Whitesville" votes="98" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1434">
+                <Precinct name="Cataula" votes="133" />
+                <Precinct name="Ellerslie" votes="233" />
+                <Precinct name="Goodman" votes="144" />
+                <Precinct name="Hamilton" votes="124" />
+                <Precinct name="Lower 19th" votes="111" />
+                <Precinct name="Mulberry Grove" votes="113" />
+                <Precinct name="Pine Mountain Valley" votes="35" />
+                <Precinct name="Skinner" votes="135" />
+                <Precinct name="Upper 19th" votes="64" />
+                <Precinct name="Valley Plains" votes="78" />
+                <Precinct name="Waverly Hall" votes="187" />
+                <Precinct name="Whitesville" votes="77" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State Senate Dist 29" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="174">
+            <Precinct name="Cataula" votes="27" />
+            <Precinct name="Ellerslie" votes="16" />
+            <Precinct name="Goodman" votes="23" />
+            <Precinct name="Hamilton" votes="19" />
+            <Precinct name="Lower 19th" votes="14" />
+            <Precinct name="Mulberry Grove" votes="21" />
+            <Precinct name="Pine Mountain Valley" votes="8" />
+            <Precinct name="Skinner" votes="4" />
+            <Precinct name="Upper 19th" votes="6" />
+            <Precinct name="Valley Plains" votes="7" />
+            <Precinct name="Waverly Hall" votes="13" />
+            <Precinct name="Whitesville" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cataula" votes="0" />
+            <Precinct name="Ellerslie" votes="0" />
+            <Precinct name="Goodman" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Lower 19th" votes="0" />
+            <Precinct name="Mulberry Grove" votes="0" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="0" />
+            <Precinct name="Waverly Hall" votes="0" />
+            <Precinct name="Whitesville" votes="0" />
+        </VoteType>
+        <Choice key="84" text="Randy Robertson (I) (Rep)" totalVotes="12838">
+            <VoteType name="Absentee by Mail Votes" votes="487">
+                <Precinct name="Cataula" votes="43" />
+                <Precinct name="Ellerslie" votes="107" />
+                <Precinct name="Goodman" votes="22" />
+                <Precinct name="Hamilton" votes="47" />
+                <Precinct name="Lower 19th" votes="62" />
+                <Precinct name="Mulberry Grove" votes="55" />
+                <Precinct name="Pine Mountain Valley" votes="20" />
+                <Precinct name="Skinner" votes="15" />
+                <Precinct name="Upper 19th" votes="58" />
+                <Precinct name="Valley Plains" votes="4" />
+                <Precinct name="Waverly Hall" votes="34" />
+                <Precinct name="Whitesville" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5561">
+                <Precinct name="Cataula" votes="705" />
+                <Precinct name="Ellerslie" votes="925" />
+                <Precinct name="Goodman" votes="369" />
+                <Precinct name="Hamilton" votes="660" />
+                <Precinct name="Lower 19th" votes="496" />
+                <Precinct name="Mulberry Grove" votes="776" />
+                <Precinct name="Pine Mountain Valley" votes="234" />
+                <Precinct name="Skinner" votes="65" />
+                <Precinct name="Upper 19th" votes="415" />
+                <Precinct name="Valley Plains" votes="92" />
+                <Precinct name="Waverly Hall" votes="522" />
+                <Precinct name="Whitesville" votes="302" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6786">
+                <Precinct name="Cataula" votes="757" />
+                <Precinct name="Ellerslie" votes="1045" />
+                <Precinct name="Goodman" votes="338" />
+                <Precinct name="Hamilton" votes="450" />
+                <Precinct name="Lower 19th" votes="814" />
+                <Precinct name="Mulberry Grove" votes="789" />
+                <Precinct name="Pine Mountain Valley" votes="403" />
+                <Precinct name="Skinner" votes="314" />
+                <Precinct name="Upper 19th" votes="552" />
+                <Precinct name="Valley Plains" votes="227" />
+                <Precinct name="Waverly Hall" votes="679" />
+                <Precinct name="Whitesville" votes="418" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Cataula" votes="3" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="1" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="85" text="Ellen Wright (Dem)" totalVotes="4030">
+            <VoteType name="Absentee by Mail Votes" votes="431">
+                <Precinct name="Cataula" votes="50" />
+                <Precinct name="Ellerslie" votes="76" />
+                <Precinct name="Goodman" votes="24" />
+                <Precinct name="Hamilton" votes="56" />
+                <Precinct name="Lower 19th" votes="35" />
+                <Precinct name="Mulberry Grove" votes="42" />
+                <Precinct name="Pine Mountain Valley" votes="7" />
+                <Precinct name="Skinner" votes="20" />
+                <Precinct name="Upper 19th" votes="12" />
+                <Precinct name="Valley Plains" votes="12" />
+                <Precinct name="Waverly Hall" votes="72" />
+                <Precinct name="Whitesville" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2145">
+                <Precinct name="Cataula" votes="236" />
+                <Precinct name="Ellerslie" votes="439" />
+                <Precinct name="Goodman" votes="166" />
+                <Precinct name="Hamilton" votes="347" />
+                <Precinct name="Lower 19th" votes="174" />
+                <Precinct name="Mulberry Grove" votes="189" />
+                <Precinct name="Pine Mountain Valley" votes="56" />
+                <Precinct name="Skinner" votes="50" />
+                <Precinct name="Upper 19th" votes="68" />
+                <Precinct name="Valley Plains" votes="35" />
+                <Precinct name="Waverly Hall" votes="287" />
+                <Precinct name="Whitesville" votes="98" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1454">
+                <Precinct name="Cataula" votes="121" />
+                <Precinct name="Ellerslie" votes="242" />
+                <Precinct name="Goodman" votes="150" />
+                <Precinct name="Hamilton" votes="131" />
+                <Precinct name="Lower 19th" votes="109" />
+                <Precinct name="Mulberry Grove" votes="115" />
+                <Precinct name="Pine Mountain Valley" votes="36" />
+                <Precinct name="Skinner" votes="143" />
+                <Precinct name="Upper 19th" votes="60" />
+                <Precinct name="Valley Plains" votes="76" />
+                <Precinct name="Waverly Hall" votes="192" />
+                <Precinct name="Whitesville" votes="79" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="State House Dist 138" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="Undervotes" votes="1104">
+            <Precinct name="Goodman" votes="150" />
+            <Precinct name="Hamilton" votes="248" />
+            <Precinct name="Lower 19th" votes="154" />
+            <Precinct name="Mulberry Grove" votes="166" />
+            <Precinct name="Pine Mountain Valley" votes="56" />
+            <Precinct name="Skinner" votes="95" />
+            <Precinct name="Upper 19th" votes="62" />
+            <Precinct name="Valley Plains" votes="58" />
+            <Precinct name="Whitesville" votes="115" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Goodman" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Lower 19th" votes="0" />
+            <Precinct name="Mulberry Grove" votes="0" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="0" />
+            <Precinct name="Whitesville" votes="0" />
+        </VoteType>
+        <Choice key="86" text="Vance Smith, Jr. (I) (Rep)" totalVotes="9112">
+            <VoteType name="Absentee by Mail Votes" votes="375">
+                <Precinct name="Goodman" votes="35" />
+                <Precinct name="Hamilton" votes="62" />
+                <Precinct name="Lower 19th" votes="75" />
+                <Precinct name="Mulberry Grove" votes="66" />
+                <Precinct name="Pine Mountain Valley" votes="23" />
+                <Precinct name="Skinner" votes="17" />
+                <Precinct name="Upper 19th" votes="62" />
+                <Precinct name="Valley Plains" votes="8" />
+                <Precinct name="Whitesville" votes="27" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3955">
+                <Precinct name="Goodman" votes="460" />
+                <Precinct name="Hamilton" votes="828" />
+                <Precinct name="Lower 19th" votes="567" />
+                <Precinct name="Mulberry Grove" votes="852" />
+                <Precinct name="Pine Mountain Valley" votes="259" />
+                <Precinct name="Skinner" votes="89" />
+                <Precinct name="Upper 19th" votes="445" />
+                <Precinct name="Valley Plains" votes="112" />
+                <Precinct name="Whitesville" votes="343" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4781">
+                <Precinct name="Goodman" votes="421" />
+                <Precinct name="Hamilton" votes="517" />
+                <Precinct name="Lower 19th" votes="869" />
+                <Precinct name="Mulberry Grove" votes="852" />
+                <Precinct name="Pine Mountain Valley" votes="416" />
+                <Precinct name="Skinner" votes="394" />
+                <Precinct name="Upper 19th" votes="588" />
+                <Precinct name="Valley Plains" votes="267" />
+                <Precinct name="Whitesville" votes="457" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="1" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="State House Dist 139" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="785">
+            <Precinct name="Cataula" votes="202" />
+            <Precinct name="Ellerslie" votes="304" />
+            <Precinct name="Waverly Hall" votes="279" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cataula" votes="0" />
+            <Precinct name="Ellerslie" votes="0" />
+            <Precinct name="Waverly Hall" votes="0" />
+        </VoteType>
+        <Choice key="87" text="Richard H. Smith (I) (Rep)" totalVotes="5592">
+            <VoteType name="Absentee by Mail Votes" votes="227">
+                <Precinct name="Cataula" votes="57" />
+                <Precinct name="Ellerslie" votes="120" />
+                <Precinct name="Waverly Hall" votes="50" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2582">
+                <Precinct name="Cataula" votes="819" />
+                <Precinct name="Ellerslie" votes="1130" />
+                <Precinct name="Waverly Hall" votes="633" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2781">
+                <Precinct name="Cataula" votes="821" />
+                <Precinct name="Ellerslie" votes="1189" />
+                <Precinct name="Waverly Hall" votes="771" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Cataula" votes="2" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="County Commissioner Dist 1" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="440">
+            <Precinct name="Ellerslie" votes="5" />
+            <Precinct name="Hamilton" votes="162" />
+            <Precinct name="Pine Mountain Valley" votes="69" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="69" />
+            <Precinct name="Waverly Hall" votes="135" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Ellerslie" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="0" />
+            <Precinct name="Waverly Hall" votes="0" />
+        </VoteType>
+        <Choice key="88" text="Scott Lightsey (Rep)" totalVotes="2612">
+            <VoteType name="Absentee by Mail Votes" votes="93">
+                <Precinct name="Ellerslie" votes="3" />
+                <Precinct name="Hamilton" votes="36" />
+                <Precinct name="Pine Mountain Valley" votes="21" />
+                <Precinct name="Upper 19th" votes="2" />
+                <Precinct name="Valley Plains" votes="7" />
+                <Precinct name="Waverly Hall" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1129">
+                <Precinct name="Ellerslie" votes="36" />
+                <Precinct name="Hamilton" votes="435" />
+                <Precinct name="Pine Mountain Valley" votes="249" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="110" />
+                <Precinct name="Waverly Hall" votes="299" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1390">
+                <Precinct name="Ellerslie" votes="29" />
+                <Precinct name="Hamilton" votes="289" />
+                <Precinct name="Pine Mountain Valley" votes="416" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="262" />
+                <Precinct name="Waverly Hall" votes="394" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="County Commissioner Dist 2" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="482">
+            <Precinct name="Goodman" votes="176" />
+            <Precinct name="Hamilton" votes="26" />
+            <Precinct name="Skinner" votes="109" />
+            <Precinct name="Upper 19th" votes="39" />
+            <Precinct name="Whitesville" votes="132" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Goodman" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Whitesville" votes="0" />
+        </VoteType>
+        <Choice key="89" text="Rob &quot;&quot;Coach&quot;&quot; Grant (I) (Rep)" totalVotes="2734">
+            <VoteType name="Absentee by Mail Votes" votes="104">
+                <Precinct name="Goodman" votes="32" />
+                <Precinct name="Hamilton" votes="7" />
+                <Precinct name="Skinner" votes="17" />
+                <Precinct name="Upper 19th" votes="22" />
+                <Precinct name="Whitesville" votes="26" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1101">
+                <Precinct name="Goodman" votes="441" />
+                <Precinct name="Hamilton" votes="91" />
+                <Precinct name="Skinner" votes="89" />
+                <Precinct name="Upper 19th" votes="145" />
+                <Precinct name="Whitesville" votes="335" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1529">
+                <Precinct name="Goodman" votes="414" />
+                <Precinct name="Hamilton" votes="44" />
+                <Precinct name="Skinner" votes="379" />
+                <Precinct name="Upper 19th" votes="247" />
+                <Precinct name="Whitesville" votes="445" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="County Commissioner Dist 3" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="33">
+            <Precinct name="Lower 19th" votes="17" />
+            <Precinct name="Mulberry Grove" votes="12" />
+            <Precinct name="Upper 19th" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Lower 19th" votes="0" />
+            <Precinct name="Mulberry Grove" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+        </VoteType>
+        <Choice key="90" text="Greg Gantt (Rep)" totalVotes="2907">
+            <VoteType name="Absentee by Mail Votes" votes="129">
+                <Precinct name="Lower 19th" votes="65" />
+                <Precinct name="Mulberry Grove" votes="34" />
+                <Precinct name="Upper 19th" votes="30" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1203">
+                <Precinct name="Lower 19th" votes="496" />
+                <Precinct name="Mulberry Grove" votes="426" />
+                <Precinct name="Upper 19th" votes="281" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1574">
+                <Precinct name="Lower 19th" votes="798" />
+                <Precinct name="Mulberry Grove" votes="448" />
+                <Precinct name="Upper 19th" votes="328" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Lower 19th" votes="1" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="91" text="Mark A. Lawrence (Dem)" totalVotes="612">
+            <VoteType name="Absentee by Mail Votes" votes="62">
+                <Precinct name="Lower 19th" votes="31" />
+                <Precinct name="Mulberry Grove" votes="22" />
+                <Precinct name="Upper 19th" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="327">
+                <Precinct name="Lower 19th" votes="170" />
+                <Precinct name="Mulberry Grove" votes="126" />
+                <Precinct name="Upper 19th" votes="31" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="223">
+                <Precinct name="Lower 19th" votes="123" />
+                <Precinct name="Mulberry Grove" votes="81" />
+                <Precinct name="Upper 19th" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="Hamilton - Mayor Special" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="59">
+            <Precinct name="Hamilton" votes="59" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hamilton" votes="0" />
+        </VoteType>
+        <Choice key="101" text="Ransom Farley (I)" totalVotes="420">
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="Hamilton" votes="23" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="238">
+                <Precinct name="Hamilton" votes="238" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="159">
+                <Precinct name="Hamilton" votes="159" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hamilton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="Hamilton - City Council Special" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="52">
+            <Precinct name="Hamilton" votes="52" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Hamilton" votes="0" />
+        </VoteType>
+        <Choice key="102" text="Faith E. Birkhead" totalVotes="91">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Hamilton" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="47">
+                <Precinct name="Hamilton" votes="47" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="40">
+                <Precinct name="Hamilton" votes="40" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hamilton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="103" text="Deborah Farley" totalVotes="126">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Hamilton" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="82">
+                <Precinct name="Hamilton" votes="82" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="36">
+                <Precinct name="Hamilton" votes="36" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hamilton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="104" text="William Patrick Fields" totalVotes="156">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Hamilton" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="76">
+                <Precinct name="Hamilton" votes="76" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="72">
+                <Precinct name="Hamilton" votes="72" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hamilton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="105" text="Steven Haberkorn" totalVotes="19">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Hamilton" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="9">
+                <Precinct name="Hamilton" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8">
+                <Precinct name="Hamilton" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hamilton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="106" text="Nancy Wall" totalVotes="54">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Hamilton" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="33">
+                <Precinct name="Hamilton" votes="33" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="16">
+                <Precinct name="Hamilton" votes="16" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Hamilton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="Constitutional Amendment #1" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="507">
+            <Precinct name="Cataula" votes="63" />
+            <Precinct name="Ellerslie" votes="51" />
+            <Precinct name="Goodman" votes="49" />
+            <Precinct name="Hamilton" votes="70" />
+            <Precinct name="Lower 19th" votes="50" />
+            <Precinct name="Mulberry Grove" votes="55" />
+            <Precinct name="Pine Mountain Valley" votes="15" />
+            <Precinct name="Skinner" votes="22" />
+            <Precinct name="Upper 19th" votes="25" />
+            <Precinct name="Valley Plains" votes="21" />
+            <Precinct name="Waverly Hall" votes="56" />
+            <Precinct name="Whitesville" votes="30" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cataula" votes="0" />
+            <Precinct name="Ellerslie" votes="0" />
+            <Precinct name="Goodman" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Lower 19th" votes="0" />
+            <Precinct name="Mulberry Grove" votes="0" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="0" />
+            <Precinct name="Waverly Hall" votes="0" />
+            <Precinct name="Whitesville" votes="0" />
+        </VoteType>
+        <Choice key="92" text="Yes" totalVotes="14911">
+            <VoteType name="Absentee by Mail Votes" votes="812">
+                <Precinct name="Cataula" votes="80" />
+                <Precinct name="Ellerslie" votes="166" />
+                <Precinct name="Goodman" votes="43" />
+                <Precinct name="Hamilton" votes="87" />
+                <Precinct name="Lower 19th" votes="86" />
+                <Precinct name="Mulberry Grove" votes="92" />
+                <Precinct name="Pine Mountain Valley" votes="26" />
+                <Precinct name="Skinner" votes="32" />
+                <Precinct name="Upper 19th" votes="60" />
+                <Precinct name="Valley Plains" votes="14" />
+                <Precinct name="Waverly Hall" votes="88" />
+                <Precinct name="Whitesville" votes="38" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6859">
+                <Precinct name="Cataula" votes="841" />
+                <Precinct name="Ellerslie" votes="1215" />
+                <Precinct name="Goodman" votes="471" />
+                <Precinct name="Hamilton" votes="883" />
+                <Precinct name="Lower 19th" votes="575" />
+                <Precinct name="Mulberry Grove" votes="861" />
+                <Precinct name="Pine Mountain Valley" votes="251" />
+                <Precinct name="Skinner" votes="100" />
+                <Precinct name="Upper 19th" votes="442" />
+                <Precinct name="Valley Plains" votes="114" />
+                <Precinct name="Waverly Hall" votes="735" />
+                <Precinct name="Whitesville" votes="371" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7236">
+                <Precinct name="Cataula" votes="782" />
+                <Precinct name="Ellerslie" votes="1135" />
+                <Precinct name="Goodman" votes="429" />
+                <Precinct name="Hamilton" votes="511" />
+                <Precinct name="Lower 19th" votes="814" />
+                <Precinct name="Mulberry Grove" votes="808" />
+                <Precinct name="Pine Mountain Valley" votes="397" />
+                <Precinct name="Skinner" votes="391" />
+                <Precinct name="Upper 19th" votes="541" />
+                <Precinct name="Valley Plains" votes="258" />
+                <Precinct name="Waverly Hall" votes="740" />
+                <Precinct name="Whitesville" votes="430" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Cataula" votes="3" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="1" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="93" text="No" totalVotes="1641">
+            <VoteType name="Absentee by Mail Votes" votes="81">
+                <Precinct name="Cataula" votes="8" />
+                <Precinct name="Ellerslie" votes="15" />
+                <Precinct name="Goodman" votes="4" />
+                <Precinct name="Hamilton" votes="9" />
+                <Precinct name="Lower 19th" votes="9" />
+                <Precinct name="Mulberry Grove" votes="2" />
+                <Precinct name="Pine Mountain Valley" votes="1" />
+                <Precinct name="Skinner" votes="1" />
+                <Precinct name="Upper 19th" votes="11" />
+                <Precinct name="Valley Plains" votes="2" />
+                <Precinct name="Waverly Hall" votes="15" />
+                <Precinct name="Whitesville" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="711">
+                <Precinct name="Cataula" votes="81" />
+                <Precinct name="Ellerslie" votes="133" />
+                <Precinct name="Goodman" votes="49" />
+                <Precinct name="Hamilton" votes="96" />
+                <Precinct name="Lower 19th" votes="76" />
+                <Precinct name="Mulberry Grove" votes="93" />
+                <Precinct name="Pine Mountain Valley" votes="37" />
+                <Precinct name="Skinner" votes="13" />
+                <Precinct name="Upper 19th" votes="34" />
+                <Precinct name="Valley Plains" votes="10" />
+                <Precinct name="Waverly Hall" votes="60" />
+                <Precinct name="Whitesville" votes="29" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="849">
+                <Precinct name="Cataula" votes="88" />
+                <Precinct name="Ellerslie" votes="135" />
+                <Precinct name="Goodman" votes="48" />
+                <Precinct name="Hamilton" votes="54" />
+                <Precinct name="Lower 19th" votes="96" />
+                <Precinct name="Mulberry Grove" votes="77" />
+                <Precinct name="Pine Mountain Valley" votes="37" />
+                <Precinct name="Skinner" votes="55" />
+                <Precinct name="Upper 19th" votes="59" />
+                <Precinct name="Valley Plains" votes="35" />
+                <Precinct name="Waverly Hall" votes="107" />
+                <Precinct name="Whitesville" votes="58" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="Constitutional Amendment #2" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="420">
+            <Precinct name="Cataula" votes="60" />
+            <Precinct name="Ellerslie" votes="50" />
+            <Precinct name="Goodman" votes="37" />
+            <Precinct name="Hamilton" votes="57" />
+            <Precinct name="Lower 19th" votes="34" />
+            <Precinct name="Mulberry Grove" votes="43" />
+            <Precinct name="Pine Mountain Valley" votes="17" />
+            <Precinct name="Skinner" votes="19" />
+            <Precinct name="Upper 19th" votes="19" />
+            <Precinct name="Valley Plains" votes="13" />
+            <Precinct name="Waverly Hall" votes="44" />
+            <Precinct name="Whitesville" votes="27" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cataula" votes="0" />
+            <Precinct name="Ellerslie" votes="0" />
+            <Precinct name="Goodman" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Lower 19th" votes="0" />
+            <Precinct name="Mulberry Grove" votes="0" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="0" />
+            <Precinct name="Waverly Hall" votes="0" />
+            <Precinct name="Whitesville" votes="0" />
+        </VoteType>
+        <Choice key="94" text="Yes" totalVotes="15488">
+            <VoteType name="Absentee by Mail Votes" votes="830">
+                <Precinct name="Cataula" votes="80" />
+                <Precinct name="Ellerslie" votes="168" />
+                <Precinct name="Goodman" votes="43" />
+                <Precinct name="Hamilton" votes="89" />
+                <Precinct name="Lower 19th" votes="88" />
+                <Precinct name="Mulberry Grove" votes="91" />
+                <Precinct name="Pine Mountain Valley" votes="26" />
+                <Precinct name="Skinner" votes="31" />
+                <Precinct name="Upper 19th" votes="66" />
+                <Precinct name="Valley Plains" votes="16" />
+                <Precinct name="Waverly Hall" votes="90" />
+                <Precinct name="Whitesville" votes="42" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7096">
+                <Precinct name="Cataula" votes="856" />
+                <Precinct name="Ellerslie" votes="1275" />
+                <Precinct name="Goodman" votes="493" />
+                <Precinct name="Hamilton" votes="913" />
+                <Precinct name="Lower 19th" votes="611" />
+                <Precinct name="Mulberry Grove" votes="915" />
+                <Precinct name="Pine Mountain Valley" votes="260" />
+                <Precinct name="Skinner" votes="106" />
+                <Precinct name="Upper 19th" votes="446" />
+                <Precinct name="Valley Plains" votes="112" />
+                <Precinct name="Waverly Hall" votes="745" />
+                <Precinct name="Whitesville" votes="364" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7560">
+                <Precinct name="Cataula" votes="822" />
+                <Precinct name="Ellerslie" votes="1186" />
+                <Precinct name="Goodman" votes="443" />
+                <Precinct name="Hamilton" votes="523" />
+                <Precinct name="Lower 19th" votes="843" />
+                <Precinct name="Mulberry Grove" votes="835" />
+                <Precinct name="Pine Mountain Valley" votes="414" />
+                <Precinct name="Skinner" votes="418" />
+                <Precinct name="Upper 19th" votes="558" />
+                <Precinct name="Valley Plains" votes="280" />
+                <Precinct name="Waverly Hall" votes="792" />
+                <Precinct name="Whitesville" votes="446" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Cataula" votes="1" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="1" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="95" text="No" totalVotes="1151">
+            <VoteType name="Absentee by Mail Votes" votes="65">
+                <Precinct name="Cataula" votes="11" />
+                <Precinct name="Ellerslie" votes="8" />
+                <Precinct name="Goodman" votes="3" />
+                <Precinct name="Hamilton" votes="10" />
+                <Precinct name="Lower 19th" votes="7" />
+                <Precinct name="Mulberry Grove" votes="5" />
+                <Precinct name="Pine Mountain Valley" votes="1" />
+                <Precinct name="Skinner" votes="3" />
+                <Precinct name="Upper 19th" votes="5" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="11" />
+                <Precinct name="Whitesville" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="521">
+                <Precinct name="Cataula" votes="64" />
+                <Precinct name="Ellerslie" votes="77" />
+                <Precinct name="Goodman" votes="32" />
+                <Precinct name="Hamilton" votes="76" />
+                <Precinct name="Lower 19th" votes="48" />
+                <Precinct name="Mulberry Grove" votes="50" />
+                <Precinct name="Pine Mountain Valley" votes="26" />
+                <Precinct name="Skinner" votes="7" />
+                <Precinct name="Upper 19th" votes="35" />
+                <Precinct name="Valley Plains" votes="13" />
+                <Precinct name="Waverly Hall" votes="55" />
+                <Precinct name="Whitesville" votes="38" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="564">
+                <Precinct name="Cataula" votes="51" />
+                <Precinct name="Ellerslie" votes="86" />
+                <Precinct name="Goodman" votes="42" />
+                <Precinct name="Hamilton" votes="42" />
+                <Precinct name="Lower 19th" votes="75" />
+                <Precinct name="Mulberry Grove" votes="49" />
+                <Precinct name="Pine Mountain Valley" votes="20" />
+                <Precinct name="Skinner" votes="30" />
+                <Precinct name="Upper 19th" votes="43" />
+                <Precinct name="Valley Plains" votes="20" />
+                <Precinct name="Waverly Hall" votes="64" />
+                <Precinct name="Whitesville" votes="42" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Cataula" votes="1" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="Statewide Referendum A" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="679">
+            <Precinct name="Cataula" votes="91" />
+            <Precinct name="Ellerslie" votes="96" />
+            <Precinct name="Goodman" votes="47" />
+            <Precinct name="Hamilton" votes="88" />
+            <Precinct name="Lower 19th" votes="61" />
+            <Precinct name="Mulberry Grove" votes="79" />
+            <Precinct name="Pine Mountain Valley" votes="26" />
+            <Precinct name="Skinner" votes="33" />
+            <Precinct name="Upper 19th" votes="43" />
+            <Precinct name="Valley Plains" votes="16" />
+            <Precinct name="Waverly Hall" votes="64" />
+            <Precinct name="Whitesville" votes="35" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cataula" votes="0" />
+            <Precinct name="Ellerslie" votes="0" />
+            <Precinct name="Goodman" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Lower 19th" votes="0" />
+            <Precinct name="Mulberry Grove" votes="0" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="0" />
+            <Precinct name="Waverly Hall" votes="0" />
+            <Precinct name="Whitesville" votes="0" />
+        </VoteType>
+        <Choice key="98" text="Yes" totalVotes="10106">
+            <VoteType name="Absentee by Mail Votes" votes="432">
+                <Precinct name="Cataula" votes="46" />
+                <Precinct name="Ellerslie" votes="83" />
+                <Precinct name="Goodman" votes="13" />
+                <Precinct name="Hamilton" votes="53" />
+                <Precinct name="Lower 19th" votes="43" />
+                <Precinct name="Mulberry Grove" votes="49" />
+                <Precinct name="Pine Mountain Valley" votes="14" />
+                <Precinct name="Skinner" votes="19" />
+                <Precinct name="Upper 19th" votes="29" />
+                <Precinct name="Valley Plains" votes="5" />
+                <Precinct name="Waverly Hall" votes="49" />
+                <Precinct name="Whitesville" votes="29" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4379">
+                <Precinct name="Cataula" votes="504" />
+                <Precinct name="Ellerslie" votes="788" />
+                <Precinct name="Goodman" votes="298" />
+                <Precinct name="Hamilton" votes="586" />
+                <Precinct name="Lower 19th" votes="349" />
+                <Precinct name="Mulberry Grove" votes="532" />
+                <Precinct name="Pine Mountain Valley" votes="171" />
+                <Precinct name="Skinner" votes="58" />
+                <Precinct name="Upper 19th" votes="288" />
+                <Precinct name="Valley Plains" votes="81" />
+                <Precinct name="Waverly Hall" votes="495" />
+                <Precinct name="Whitesville" votes="229" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5292">
+                <Precinct name="Cataula" votes="589" />
+                <Precinct name="Ellerslie" votes="826" />
+                <Precinct name="Goodman" votes="310" />
+                <Precinct name="Hamilton" votes="398" />
+                <Precinct name="Lower 19th" votes="556" />
+                <Precinct name="Mulberry Grove" votes="550" />
+                <Precinct name="Pine Mountain Valley" votes="302" />
+                <Precinct name="Skinner" votes="294" />
+                <Precinct name="Upper 19th" votes="370" />
+                <Precinct name="Valley Plains" votes="215" />
+                <Precinct name="Waverly Hall" votes="556" />
+                <Precinct name="Whitesville" votes="326" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Cataula" votes="2" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="1" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="99" text="No" totalVotes="6274">
+            <VoteType name="Absentee by Mail Votes" votes="446">
+                <Precinct name="Cataula" votes="43" />
+                <Precinct name="Ellerslie" votes="90" />
+                <Precinct name="Goodman" votes="33" />
+                <Precinct name="Hamilton" votes="44" />
+                <Precinct name="Lower 19th" votes="49" />
+                <Precinct name="Mulberry Grove" votes="44" />
+                <Precinct name="Pine Mountain Valley" votes="12" />
+                <Precinct name="Skinner" votes="13" />
+                <Precinct name="Upper 19th" votes="41" />
+                <Precinct name="Valley Plains" votes="11" />
+                <Precinct name="Waverly Hall" votes="53" />
+                <Precinct name="Whitesville" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3098">
+                <Precinct name="Cataula" votes="400" />
+                <Precinct name="Ellerslie" votes="540" />
+                <Precinct name="Goodman" votes="223" />
+                <Precinct name="Hamilton" votes="377" />
+                <Precinct name="Lower 19th" votes="294" />
+                <Precinct name="Mulberry Grove" votes="408" />
+                <Precinct name="Pine Mountain Valley" votes="113" />
+                <Precinct name="Skinner" votes="55" />
+                <Precinct name="Upper 19th" votes="184" />
+                <Precinct name="Valley Plains" votes="45" />
+                <Precinct name="Waverly Hall" votes="295" />
+                <Precinct name="Whitesville" votes="164" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2730">
+                <Precinct name="Cataula" votes="271" />
+                <Precinct name="Ellerslie" votes="427" />
+                <Precinct name="Goodman" votes="169" />
+                <Precinct name="Hamilton" votes="164" />
+                <Precinct name="Lower 19th" votes="354" />
+                <Precinct name="Mulberry Grove" votes="326" />
+                <Precinct name="Pine Mountain Valley" votes="126" />
+                <Precinct name="Skinner" votes="142" />
+                <Precinct name="Upper 19th" votes="217" />
+                <Precinct name="Valley Plains" votes="81" />
+                <Precinct name="Waverly Hall" votes="289" />
+                <Precinct name="Whitesville" votes="164" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="Statewide Referendum B" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="613">
+            <Precinct name="Cataula" votes="87" />
+            <Precinct name="Ellerslie" votes="82" />
+            <Precinct name="Goodman" votes="46" />
+            <Precinct name="Hamilton" votes="81" />
+            <Precinct name="Lower 19th" votes="57" />
+            <Precinct name="Mulberry Grove" votes="63" />
+            <Precinct name="Pine Mountain Valley" votes="26" />
+            <Precinct name="Skinner" votes="30" />
+            <Precinct name="Upper 19th" votes="32" />
+            <Precinct name="Valley Plains" votes="17" />
+            <Precinct name="Waverly Hall" votes="59" />
+            <Precinct name="Whitesville" votes="33" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cataula" votes="0" />
+            <Precinct name="Ellerslie" votes="0" />
+            <Precinct name="Goodman" votes="0" />
+            <Precinct name="Hamilton" votes="0" />
+            <Precinct name="Lower 19th" votes="0" />
+            <Precinct name="Mulberry Grove" votes="0" />
+            <Precinct name="Pine Mountain Valley" votes="0" />
+            <Precinct name="Skinner" votes="0" />
+            <Precinct name="Upper 19th" votes="0" />
+            <Precinct name="Valley Plains" votes="0" />
+            <Precinct name="Waverly Hall" votes="0" />
+            <Precinct name="Whitesville" votes="0" />
+        </VoteType>
+        <Choice key="96" text="Yes" totalVotes="13186">
+            <VoteType name="Absentee by Mail Votes" votes="592">
+                <Precinct name="Cataula" votes="59" />
+                <Precinct name="Ellerslie" votes="115" />
+                <Precinct name="Goodman" votes="27" />
+                <Precinct name="Hamilton" votes="68" />
+                <Precinct name="Lower 19th" votes="63" />
+                <Precinct name="Mulberry Grove" votes="65" />
+                <Precinct name="Pine Mountain Valley" votes="18" />
+                <Precinct name="Skinner" votes="22" />
+                <Precinct name="Upper 19th" votes="51" />
+                <Precinct name="Valley Plains" votes="11" />
+                <Precinct name="Waverly Hall" votes="63" />
+                <Precinct name="Whitesville" votes="30" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5874">
+                <Precinct name="Cataula" votes="718" />
+                <Precinct name="Ellerslie" votes="1023" />
+                <Precinct name="Goodman" votes="411" />
+                <Precinct name="Hamilton" votes="775" />
+                <Precinct name="Lower 19th" votes="505" />
+                <Precinct name="Mulberry Grove" votes="721" />
+                <Precinct name="Pine Mountain Valley" votes="238" />
+                <Precinct name="Skinner" votes="80" />
+                <Precinct name="Upper 19th" votes="375" />
+                <Precinct name="Valley Plains" votes="97" />
+                <Precinct name="Waverly Hall" votes="634" />
+                <Precinct name="Whitesville" votes="297" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6717">
+                <Precinct name="Cataula" votes="726" />
+                <Precinct name="Ellerslie" votes="1046" />
+                <Precinct name="Goodman" votes="388" />
+                <Precinct name="Hamilton" votes="473" />
+                <Precinct name="Lower 19th" votes="746" />
+                <Precinct name="Mulberry Grove" votes="739" />
+                <Precinct name="Pine Mountain Valley" votes="374" />
+                <Precinct name="Skinner" votes="368" />
+                <Precinct name="Upper 19th" votes="491" />
+                <Precinct name="Valley Plains" votes="255" />
+                <Precinct name="Waverly Hall" votes="698" />
+                <Precinct name="Whitesville" votes="413" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Cataula" votes="2" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="1" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="No" totalVotes="3260">
+            <VoteType name="Absentee by Mail Votes" votes="288">
+                <Precinct name="Cataula" votes="30" />
+                <Precinct name="Ellerslie" votes="61" />
+                <Precinct name="Goodman" votes="19" />
+                <Precinct name="Hamilton" votes="27" />
+                <Precinct name="Lower 19th" votes="28" />
+                <Precinct name="Mulberry Grove" votes="30" />
+                <Precinct name="Pine Mountain Valley" votes="8" />
+                <Precinct name="Skinner" votes="10" />
+                <Precinct name="Upper 19th" votes="19" />
+                <Precinct name="Valley Plains" votes="5" />
+                <Precinct name="Waverly Hall" votes="39" />
+                <Precinct name="Whitesville" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1633">
+                <Precinct name="Cataula" votes="191" />
+                <Precinct name="Ellerslie" votes="310" />
+                <Precinct name="Goodman" votes="109" />
+                <Precinct name="Hamilton" votes="197" />
+                <Precinct name="Lower 19th" votes="140" />
+                <Precinct name="Mulberry Grove" votes="227" />
+                <Precinct name="Pine Mountain Valley" votes="45" />
+                <Precinct name="Skinner" votes="32" />
+                <Precinct name="Upper 19th" votes="99" />
+                <Precinct name="Valley Plains" votes="27" />
+                <Precinct name="Waverly Hall" votes="157" />
+                <Precinct name="Whitesville" votes="99" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1339">
+                <Precinct name="Cataula" votes="133" />
+                <Precinct name="Ellerslie" votes="213" />
+                <Precinct name="Goodman" votes="93" />
+                <Precinct name="Hamilton" votes="89" />
+                <Precinct name="Lower 19th" votes="167" />
+                <Precinct name="Mulberry Grove" votes="143" />
+                <Precinct name="Pine Mountain Valley" votes="55" />
+                <Precinct name="Skinner" votes="72" />
+                <Precinct name="Upper 19th" votes="105" />
+                <Precinct name="Valley Plains" votes="42" />
+                <Precinct name="Waverly Hall" votes="151" />
+                <Precinct name="Whitesville" votes="76" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cataula" votes="0" />
+                <Precinct name="Ellerslie" votes="0" />
+                <Precinct name="Goodman" votes="0" />
+                <Precinct name="Hamilton" votes="0" />
+                <Precinct name="Lower 19th" votes="0" />
+                <Precinct name="Mulberry Grove" votes="0" />
+                <Precinct name="Pine Mountain Valley" votes="0" />
+                <Precinct name="Skinner" votes="0" />
+                <Precinct name="Upper 19th" votes="0" />
+                <Precinct name="Valley Plains" votes="0" />
+                <Precinct name="Waverly Hall" votes="0" />
+                <Precinct name="Whitesville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

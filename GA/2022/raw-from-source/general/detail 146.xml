@@ -1,0 +1,3426 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/15/2022 11:03:11 AM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Laurens</Region>
+    <VoterTurnout totalVoters="31884" ballotsCast="18605" voterTurnout="58.35">
+        <Precincts>
+            <Precinct name="FBC-FLC" totalVoters="4432" ballotsCast="2487" voterTurnout="56.11" percentReporting="4" />
+            <Precinct name="Calhoun Park" totalVoters="6437" ballotsCast="2400" voterTurnout="37.28" percentReporting="4" />
+            <Precinct name="Fire Dept Station 5" totalVoters="3791" ballotsCast="2453" voterTurnout="64.71" percentReporting="4" />
+            <Precinct name="Buckeye" totalVoters="1074" ballotsCast="580" voterTurnout="54.00" percentReporting="4" />
+            <Precinct name="Burch" totalVoters="455" ballotsCast="288" voterTurnout="63.30" percentReporting="4" />
+            <Precinct name="Cadwell" totalVoters="816" ballotsCast="484" voterTurnout="59.31" percentReporting="4" />
+            <Precinct name="Brewton" totalVoters="1823" ballotsCast="985" voterTurnout="54.03" percentReporting="4" />
+            <Precinct name="Dudley" totalVoters="1591" ballotsCast="1058" voterTurnout="66.50" percentReporting="4" />
+            <Precinct name="Hampton Mill" totalVoters="1877" ballotsCast="1152" voterTurnout="61.37" percentReporting="4" />
+            <Precinct name="Minter" totalVoters="1005" ballotsCast="613" voterTurnout="61.00" percentReporting="4" />
+            <Precinct name="Rural Fire Station 7" totalVoters="2486" ballotsCast="1326" voterTurnout="53.34" percentReporting="4" />
+            <Precinct name="WT Adams Fire Station 18" totalVoters="2190" ballotsCast="1475" voterTurnout="67.35" percentReporting="4" />
+            <Precinct name="Reedy Springs" totalVoters="964" ballotsCast="566" voterTurnout="58.71" percentReporting="4" />
+            <Precinct name="Smith" totalVoters="3520" ballotsCast="1564" voterTurnout="44.43" percentReporting="4" />
+            <Precinct name="LCFS #10" totalVoters="2156" ballotsCast="1174" voterTurnout="54.45" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="Undervotes" votes="81">
+            <Precinct name="FBC-FLC" votes="12" />
+            <Precinct name="Calhoun Park" votes="18" />
+            <Precinct name="Fire Dept Station 5" votes="8" />
+            <Precinct name="Buckeye" votes="1" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="1" />
+            <Precinct name="Brewton" votes="1" />
+            <Precinct name="Dudley" votes="2" />
+            <Precinct name="Hampton Mill" votes="2" />
+            <Precinct name="Minter" votes="3" />
+            <Precinct name="Rural Fire Station 7" votes="5" />
+            <Precinct name="WT Adams Fire Station 18" votes="7" />
+            <Precinct name="Reedy Springs" votes="1" />
+            <Precinct name="Smith" votes="12" />
+            <Precinct name="LCFS #10" votes="8" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="12073">
+            <VoteType name="Absentee by Mail Votes" votes="490">
+                <Precinct name="FBC-FLC" votes="106" />
+                <Precinct name="Calhoun Park" votes="40" />
+                <Precinct name="Fire Dept Station 5" votes="79" />
+                <Precinct name="Buckeye" votes="7" />
+                <Precinct name="Burch" votes="5" />
+                <Precinct name="Cadwell" votes="10" />
+                <Precinct name="Brewton" votes="19" />
+                <Precinct name="Dudley" votes="22" />
+                <Precinct name="Hampton Mill" votes="23" />
+                <Precinct name="Minter" votes="20" />
+                <Precinct name="Rural Fire Station 7" votes="32" />
+                <Precinct name="WT Adams Fire Station 18" votes="58" />
+                <Precinct name="Reedy Springs" votes="6" />
+                <Precinct name="Smith" votes="35" />
+                <Precinct name="LCFS #10" votes="28" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4856">
+                <Precinct name="FBC-FLC" votes="956" />
+                <Precinct name="Calhoun Park" votes="320" />
+                <Precinct name="Fire Dept Station 5" votes="940" />
+                <Precinct name="Buckeye" votes="95" />
+                <Precinct name="Burch" votes="32" />
+                <Precinct name="Cadwell" votes="99" />
+                <Precinct name="Brewton" votes="251" />
+                <Precinct name="Dudley" votes="259" />
+                <Precinct name="Hampton Mill" votes="245" />
+                <Precinct name="Minter" votes="142" />
+                <Precinct name="Rural Fire Station 7" votes="369" />
+                <Precinct name="WT Adams Fire Station 18" votes="449" />
+                <Precinct name="Reedy Springs" votes="77" />
+                <Precinct name="Smith" votes="316" />
+                <Precinct name="LCFS #10" votes="306" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6718">
+                <Precinct name="FBC-FLC" votes="468" />
+                <Precinct name="Calhoun Park" votes="234" />
+                <Precinct name="Fire Dept Station 5" votes="737" />
+                <Precinct name="Buckeye" votes="212" />
+                <Precinct name="Burch" votes="191" />
+                <Precinct name="Cadwell" votes="308" />
+                <Precinct name="Brewton" votes="519" />
+                <Precinct name="Dudley" votes="513" />
+                <Precinct name="Hampton Mill" votes="737" />
+                <Precinct name="Minter" votes="392" />
+                <Precinct name="Rural Fire Station 7" votes="608" />
+                <Precinct name="WT Adams Fire Station 18" votes="527" />
+                <Precinct name="Reedy Springs" votes="386" />
+                <Precinct name="Smith" votes="483" />
+                <Precinct name="LCFS #10" votes="403" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="9">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="5" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="6285">
+            <VoteType name="Absentee by Mail Votes" votes="761">
+                <Precinct name="FBC-FLC" votes="104" />
+                <Precinct name="Calhoun Park" votes="241" />
+                <Precinct name="Fire Dept Station 5" votes="78" />
+                <Precinct name="Buckeye" votes="30" />
+                <Precinct name="Burch" votes="11" />
+                <Precinct name="Cadwell" votes="6" />
+                <Precinct name="Brewton" votes="18" />
+                <Precinct name="Dudley" votes="28" />
+                <Precinct name="Hampton Mill" votes="11" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="32" />
+                <Precinct name="WT Adams Fire Station 18" votes="68" />
+                <Precinct name="Reedy Springs" votes="11" />
+                <Precinct name="Smith" votes="70" />
+                <Precinct name="LCFS #10" votes="53" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3158">
+                <Precinct name="FBC-FLC" votes="518" />
+                <Precinct name="Calhoun Park" votes="903" />
+                <Precinct name="Fire Dept Station 5" votes="400" />
+                <Precinct name="Buckeye" votes="123" />
+                <Precinct name="Burch" votes="21" />
+                <Precinct name="Cadwell" votes="23" />
+                <Precinct name="Brewton" votes="80" />
+                <Precinct name="Dudley" votes="109" />
+                <Precinct name="Hampton Mill" votes="45" />
+                <Precinct name="Minter" votes="17" />
+                <Precinct name="Rural Fire Station 7" votes="143" />
+                <Precinct name="WT Adams Fire Station 18" votes="219" />
+                <Precinct name="Reedy Springs" votes="29" />
+                <Precinct name="Smith" votes="326" />
+                <Precinct name="LCFS #10" votes="202" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2364">
+                <Precinct name="FBC-FLC" votes="295" />
+                <Precinct name="Calhoun Park" votes="620" />
+                <Precinct name="Fire Dept Station 5" votes="186" />
+                <Precinct name="Buckeye" votes="110" />
+                <Precinct name="Burch" votes="26" />
+                <Precinct name="Cadwell" votes="35" />
+                <Precinct name="Brewton" votes="91" />
+                <Precinct name="Dudley" votes="112" />
+                <Precinct name="Hampton Mill" votes="80" />
+                <Precinct name="Minter" votes="28" />
+                <Precinct name="Rural Fire Station 7" votes="125" />
+                <Precinct name="WT Adams Fire Station 18" votes="129" />
+                <Precinct name="Reedy Springs" votes="52" />
+                <Precinct name="Smith" votes="309" />
+                <Precinct name="LCFS #10" votes="166" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="1" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Chase Oliver (Lib)" totalVotes="155">
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="2" />
+                <Precinct name="Fire Dept Station 5" votes="3" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="1" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="1" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="2" />
+                <Precinct name="Reedy Springs" votes="2" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="49">
+                <Precinct name="FBC-FLC" votes="9" />
+                <Precinct name="Calhoun Park" votes="9" />
+                <Precinct name="Fire Dept Station 5" votes="11" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="1" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="2" />
+                <Precinct name="Dudley" votes="4" />
+                <Precinct name="Hampton Mill" votes="2" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="5" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="87">
+                <Precinct name="FBC-FLC" votes="13" />
+                <Precinct name="Calhoun Park" votes="13" />
+                <Precinct name="Fire Dept Station 5" votes="8" />
+                <Precinct name="Buckeye" votes="1" />
+                <Precinct name="Burch" votes="1" />
+                <Precinct name="Cadwell" votes="1" />
+                <Precinct name="Brewton" votes="3" />
+                <Precinct name="Dudley" votes="7" />
+                <Precinct name="Hampton Mill" votes="6" />
+                <Precinct name="Minter" votes="4" />
+                <Precinct name="Rural Fire Station 7" votes="10" />
+                <Precinct name="WT Adams Fire Station 18" votes="10" />
+                <Precinct name="Reedy Springs" votes="2" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="LCFS #10" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="Undervotes" votes="48">
+            <Precinct name="FBC-FLC" votes="4" />
+            <Precinct name="Calhoun Park" votes="13" />
+            <Precinct name="Fire Dept Station 5" votes="3" />
+            <Precinct name="Buckeye" votes="1" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="3" />
+            <Precinct name="Brewton" votes="1" />
+            <Precinct name="Dudley" votes="3" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="3" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="3" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="10" />
+            <Precinct name="LCFS #10" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="4" text="Brian Kemp (I) (Rep)" totalVotes="12508">
+            <VoteType name="Absentee by Mail Votes" votes="543">
+                <Precinct name="FBC-FLC" votes="119" />
+                <Precinct name="Calhoun Park" votes="43" />
+                <Precinct name="Fire Dept Station 5" votes="89" />
+                <Precinct name="Buckeye" votes="8" />
+                <Precinct name="Burch" votes="5" />
+                <Precinct name="Cadwell" votes="12" />
+                <Precinct name="Brewton" votes="20" />
+                <Precinct name="Dudley" votes="27" />
+                <Precinct name="Hampton Mill" votes="25" />
+                <Precinct name="Minter" votes="23" />
+                <Precinct name="Rural Fire Station 7" votes="32" />
+                <Precinct name="WT Adams Fire Station 18" votes="64" />
+                <Precinct name="Reedy Springs" votes="8" />
+                <Precinct name="Smith" votes="38" />
+                <Precinct name="LCFS #10" votes="30" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5048">
+                <Precinct name="FBC-FLC" votes="1005" />
+                <Precinct name="Calhoun Park" votes="337" />
+                <Precinct name="Fire Dept Station 5" votes="973" />
+                <Precinct name="Buckeye" votes="98" />
+                <Precinct name="Burch" votes="34" />
+                <Precinct name="Cadwell" votes="102" />
+                <Precinct name="Brewton" votes="260" />
+                <Precinct name="Dudley" votes="266" />
+                <Precinct name="Hampton Mill" votes="249" />
+                <Precinct name="Minter" votes="145" />
+                <Precinct name="Rural Fire Station 7" votes="380" />
+                <Precinct name="WT Adams Fire Station 18" votes="469" />
+                <Precinct name="Reedy Springs" votes="85" />
+                <Precinct name="Smith" votes="330" />
+                <Precinct name="LCFS #10" votes="315" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6908">
+                <Precinct name="FBC-FLC" votes="499" />
+                <Precinct name="Calhoun Park" votes="255" />
+                <Precinct name="Fire Dept Station 5" votes="763" />
+                <Precinct name="Buckeye" votes="216" />
+                <Precinct name="Burch" votes="196" />
+                <Precinct name="Cadwell" votes="308" />
+                <Precinct name="Brewton" votes="522" />
+                <Precinct name="Dudley" votes="528" />
+                <Precinct name="Hampton Mill" votes="752" />
+                <Precinct name="Minter" votes="398" />
+                <Precinct name="Rural Fire Station 7" votes="628" />
+                <Precinct name="WT Adams Fire Station 18" votes="538" />
+                <Precinct name="Reedy Springs" votes="399" />
+                <Precinct name="Smith" votes="492" />
+                <Precinct name="LCFS #10" votes="414" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="9">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="5" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Stacey Abrams (Dem)" totalVotes="5973">
+            <VoteType name="Absentee by Mail Votes" votes="730">
+                <Precinct name="FBC-FLC" votes="94" />
+                <Precinct name="Calhoun Park" votes="240" />
+                <Precinct name="Fire Dept Station 5" votes="70" />
+                <Precinct name="Buckeye" votes="29" />
+                <Precinct name="Burch" votes="11" />
+                <Precinct name="Cadwell" votes="4" />
+                <Precinct name="Brewton" votes="18" />
+                <Precinct name="Dudley" votes="24" />
+                <Precinct name="Hampton Mill" votes="9" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="32" />
+                <Precinct name="WT Adams Fire Station 18" votes="65" />
+                <Precinct name="Reedy Springs" votes="11" />
+                <Precinct name="Smith" votes="71" />
+                <Precinct name="LCFS #10" votes="52" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3006">
+                <Precinct name="FBC-FLC" votes="478" />
+                <Precinct name="Calhoun Park" votes="891" />
+                <Precinct name="Fire Dept Station 5" votes="375" />
+                <Precinct name="Buckeye" votes="119" />
+                <Precinct name="Burch" votes="20" />
+                <Precinct name="Cadwell" votes="21" />
+                <Precinct name="Brewton" votes="73" />
+                <Precinct name="Dudley" votes="106" />
+                <Precinct name="Hampton Mill" votes="42" />
+                <Precinct name="Minter" votes="14" />
+                <Precinct name="Rural Fire Station 7" votes="134" />
+                <Precinct name="WT Adams Fire Station 18" votes="204" />
+                <Precinct name="Reedy Springs" votes="22" />
+                <Precinct name="Smith" votes="314" />
+                <Precinct name="LCFS #10" votes="193" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2235">
+                <Precinct name="FBC-FLC" votes="276" />
+                <Precinct name="Calhoun Park" votes="608" />
+                <Precinct name="Fire Dept Station 5" votes="168" />
+                <Precinct name="Buckeye" votes="107" />
+                <Precinct name="Burch" votes="19" />
+                <Precinct name="Cadwell" votes="33" />
+                <Precinct name="Brewton" votes="89" />
+                <Precinct name="Dudley" votes="99" />
+                <Precinct name="Hampton Mill" votes="70" />
+                <Precinct name="Minter" votes="25" />
+                <Precinct name="Rural Fire Station 7" votes="114" />
+                <Precinct name="WT Adams Fire Station 18" votes="122" />
+                <Precinct name="Reedy Springs" votes="41" />
+                <Precinct name="Smith" votes="303" />
+                <Precinct name="LCFS #10" votes="161" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="1" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Shane Hazel (Lib)" totalVotes="69">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="1" />
+                <Precinct name="Fire Dept Station 5" votes="1" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="29">
+                <Precinct name="FBC-FLC" votes="5" />
+                <Precinct name="Calhoun Park" votes="5" />
+                <Precinct name="Fire Dept Station 5" votes="7" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="1" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="2" />
+                <Precinct name="WT Adams Fire Station 18" votes="3" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="LCFS #10" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="38">
+                <Precinct name="FBC-FLC" votes="4" />
+                <Precinct name="Calhoun Park" votes="5" />
+                <Precinct name="Fire Dept Station 5" votes="3" />
+                <Precinct name="Buckeye" votes="1" />
+                <Precinct name="Burch" votes="3" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="2" />
+                <Precinct name="Dudley" votes="4" />
+                <Precinct name="Hampton Mill" votes="4" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="3" />
+                <Precinct name="WT Adams Fire Station 18" votes="5" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="2" />
+                <Precinct name="LCFS #10" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="Undervotes" votes="318">
+            <Precinct name="FBC-FLC" votes="35" />
+            <Precinct name="Calhoun Park" votes="75" />
+            <Precinct name="Fire Dept Station 5" votes="23" />
+            <Precinct name="Buckeye" votes="17" />
+            <Precinct name="Burch" votes="4" />
+            <Precinct name="Cadwell" votes="6" />
+            <Precinct name="Brewton" votes="19" />
+            <Precinct name="Dudley" votes="15" />
+            <Precinct name="Hampton Mill" votes="8" />
+            <Precinct name="Minter" votes="10" />
+            <Precinct name="Rural Fire Station 7" votes="16" />
+            <Precinct name="WT Adams Fire Station 18" votes="16" />
+            <Precinct name="Reedy Springs" votes="10" />
+            <Precinct name="Smith" votes="41" />
+            <Precinct name="LCFS #10" votes="23" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Burt Jones (Rep)" totalVotes="12210">
+            <VoteType name="Absentee by Mail Votes" votes="525">
+                <Precinct name="FBC-FLC" votes="112" />
+                <Precinct name="Calhoun Park" votes="43" />
+                <Precinct name="Fire Dept Station 5" votes="83" />
+                <Precinct name="Buckeye" votes="8" />
+                <Precinct name="Burch" votes="5" />
+                <Precinct name="Cadwell" votes="10" />
+                <Precinct name="Brewton" votes="20" />
+                <Precinct name="Dudley" votes="25" />
+                <Precinct name="Hampton Mill" votes="24" />
+                <Precinct name="Minter" votes="22" />
+                <Precinct name="Rural Fire Station 7" votes="33" />
+                <Precinct name="WT Adams Fire Station 18" votes="64" />
+                <Precinct name="Reedy Springs" votes="8" />
+                <Precinct name="Smith" votes="38" />
+                <Precinct name="LCFS #10" votes="30" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4940">
+                <Precinct name="FBC-FLC" votes="968" />
+                <Precinct name="Calhoun Park" votes="341" />
+                <Precinct name="Fire Dept Station 5" votes="952" />
+                <Precinct name="Buckeye" votes="96" />
+                <Precinct name="Burch" votes="33" />
+                <Precinct name="Cadwell" votes="97" />
+                <Precinct name="Brewton" votes="259" />
+                <Precinct name="Dudley" votes="264" />
+                <Precinct name="Hampton Mill" votes="244" />
+                <Precinct name="Minter" votes="144" />
+                <Precinct name="Rural Fire Station 7" votes="378" />
+                <Precinct name="WT Adams Fire Station 18" votes="458" />
+                <Precinct name="Reedy Springs" votes="79" />
+                <Precinct name="Smith" votes="313" />
+                <Precinct name="LCFS #10" votes="314" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6736">
+                <Precinct name="FBC-FLC" votes="482" />
+                <Precinct name="Calhoun Park" votes="251" />
+                <Precinct name="Fire Dept Station 5" votes="740" />
+                <Precinct name="Buckeye" votes="214" />
+                <Precinct name="Burch" votes="187" />
+                <Precinct name="Cadwell" votes="305" />
+                <Precinct name="Brewton" votes="506" />
+                <Precinct name="Dudley" votes="521" />
+                <Precinct name="Hampton Mill" votes="735" />
+                <Precinct name="Minter" votes="393" />
+                <Precinct name="Rural Fire Station 7" votes="616" />
+                <Precinct name="WT Adams Fire Station 18" votes="526" />
+                <Precinct name="Reedy Springs" votes="383" />
+                <Precinct name="Smith" votes="476" />
+                <Precinct name="LCFS #10" votes="401" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="9">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="5" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Charlie Bailey (Dem)" totalVotes="5817">
+            <VoteType name="Absentee by Mail Votes" votes="734">
+                <Precinct name="FBC-FLC" votes="96" />
+                <Precinct name="Calhoun Park" votes="235" />
+                <Precinct name="Fire Dept Station 5" votes="75" />
+                <Precinct name="Buckeye" votes="29" />
+                <Precinct name="Burch" votes="11" />
+                <Precinct name="Cadwell" votes="6" />
+                <Precinct name="Brewton" votes="18" />
+                <Precinct name="Dudley" votes="26" />
+                <Precinct name="Hampton Mill" votes="9" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="31" />
+                <Precinct name="WT Adams Fire Station 18" votes="64" />
+                <Precinct name="Reedy Springs" votes="10" />
+                <Precinct name="Smith" votes="72" />
+                <Precinct name="LCFS #10" votes="52" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2900">
+                <Precinct name="FBC-FLC" votes="479" />
+                <Precinct name="Calhoun Park" votes="833" />
+                <Precinct name="Fire Dept Station 5" votes="374" />
+                <Precinct name="Buckeye" votes="114" />
+                <Precinct name="Burch" votes="19" />
+                <Precinct name="Cadwell" votes="20" />
+                <Precinct name="Brewton" votes="70" />
+                <Precinct name="Dudley" votes="100" />
+                <Precinct name="Hampton Mill" votes="42" />
+                <Precinct name="Minter" votes="14" />
+                <Precinct name="Rural Fire Station 7" votes="125" />
+                <Precinct name="WT Adams Fire Station 18" votes="208" />
+                <Precinct name="Reedy Springs" votes="27" />
+                <Precinct name="Smith" votes="297" />
+                <Precinct name="LCFS #10" votes="178" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2181">
+                <Precinct name="FBC-FLC" votes="271" />
+                <Precinct name="Calhoun Park" votes="570" />
+                <Precinct name="Fire Dept Station 5" votes="176" />
+                <Precinct name="Buckeye" votes="99" />
+                <Precinct name="Burch" votes="23" />
+                <Precinct name="Cadwell" votes="35" />
+                <Precinct name="Brewton" votes="85" />
+                <Precinct name="Dudley" votes="96" />
+                <Precinct name="Hampton Mill" votes="74" />
+                <Precinct name="Minter" votes="22" />
+                <Precinct name="Rural Fire Station 7" votes="108" />
+                <Precinct name="WT Adams Fire Station 18" votes="122" />
+                <Precinct name="Reedy Springs" votes="45" />
+                <Precinct name="Smith" votes="297" />
+                <Precinct name="LCFS #10" votes="158" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="1" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="9" text="Ryan Graham (Lib)" totalVotes="247">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="FBC-FLC" votes="3" />
+                <Precinct name="Calhoun Park" votes="2" />
+                <Precinct name="Fire Dept Station 5" votes="2" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="1" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="101">
+                <Precinct name="FBC-FLC" votes="20" />
+                <Precinct name="Calhoun Park" votes="21" />
+                <Precinct name="Fire Dept Station 5" votes="12" />
+                <Precinct name="Buckeye" votes="1" />
+                <Precinct name="Burch" votes="1" />
+                <Precinct name="Cadwell" votes="4" />
+                <Precinct name="Brewton" votes="1" />
+                <Precinct name="Dudley" votes="2" />
+                <Precinct name="Hampton Mill" votes="5" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="5" />
+                <Precinct name="WT Adams Fire Station 18" votes="5" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="16" />
+                <Precinct name="LCFS #10" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="137">
+                <Precinct name="FBC-FLC" votes="18" />
+                <Precinct name="Calhoun Park" votes="26" />
+                <Precinct name="Fire Dept Station 5" votes="14" />
+                <Precinct name="Buckeye" votes="1" />
+                <Precinct name="Burch" votes="5" />
+                <Precinct name="Cadwell" votes="1" />
+                <Precinct name="Brewton" votes="7" />
+                <Precinct name="Dudley" votes="8" />
+                <Precinct name="Hampton Mill" votes="9" />
+                <Precinct name="Minter" votes="3" />
+                <Precinct name="Rural Fire Station 7" votes="13" />
+                <Precinct name="WT Adams Fire Station 18" votes="9" />
+                <Precinct name="Reedy Springs" votes="4" />
+                <Precinct name="Smith" votes="11" />
+                <Precinct name="LCFS #10" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="Undervotes" votes="392">
+            <Precinct name="FBC-FLC" votes="40" />
+            <Precinct name="Calhoun Park" votes="84" />
+            <Precinct name="Fire Dept Station 5" votes="38" />
+            <Precinct name="Buckeye" votes="20" />
+            <Precinct name="Burch" votes="5" />
+            <Precinct name="Cadwell" votes="11" />
+            <Precinct name="Brewton" votes="24" />
+            <Precinct name="Dudley" votes="23" />
+            <Precinct name="Hampton Mill" votes="14" />
+            <Precinct name="Minter" votes="11" />
+            <Precinct name="Rural Fire Station 7" votes="23" />
+            <Precinct name="WT Adams Fire Station 18" votes="20" />
+            <Precinct name="Reedy Springs" votes="10" />
+            <Precinct name="Smith" votes="43" />
+            <Precinct name="LCFS #10" votes="26" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="10" text="Brad Raffensperger (I) (Rep)" totalVotes="12167">
+            <VoteType name="Absentee by Mail Votes" votes="543">
+                <Precinct name="FBC-FLC" votes="114" />
+                <Precinct name="Calhoun Park" votes="42" />
+                <Precinct name="Fire Dept Station 5" votes="98" />
+                <Precinct name="Buckeye" votes="10" />
+                <Precinct name="Burch" votes="4" />
+                <Precinct name="Cadwell" votes="12" />
+                <Precinct name="Brewton" votes="21" />
+                <Precinct name="Dudley" votes="28" />
+                <Precinct name="Hampton Mill" votes="25" />
+                <Precinct name="Minter" votes="23" />
+                <Precinct name="Rural Fire Station 7" votes="31" />
+                <Precinct name="WT Adams Fire Station 18" votes="63" />
+                <Precinct name="Reedy Springs" votes="8" />
+                <Precinct name="Smith" votes="33" />
+                <Precinct name="LCFS #10" votes="31" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4925">
+                <Precinct name="FBC-FLC" votes="993" />
+                <Precinct name="Calhoun Park" votes="358" />
+                <Precinct name="Fire Dept Station 5" votes="928" />
+                <Precinct name="Buckeye" votes="95" />
+                <Precinct name="Burch" votes="31" />
+                <Precinct name="Cadwell" votes="95" />
+                <Precinct name="Brewton" votes="254" />
+                <Precinct name="Dudley" votes="255" />
+                <Precinct name="Hampton Mill" votes="240" />
+                <Precinct name="Minter" votes="139" />
+                <Precinct name="Rural Fire Station 7" votes="373" />
+                <Precinct name="WT Adams Fire Station 18" votes="459" />
+                <Precinct name="Reedy Springs" votes="81" />
+                <Precinct name="Smith" votes="320" />
+                <Precinct name="LCFS #10" votes="304" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6690">
+                <Precinct name="FBC-FLC" votes="479" />
+                <Precinct name="Calhoun Park" votes="256" />
+                <Precinct name="Fire Dept Station 5" votes="734" />
+                <Precinct name="Buckeye" votes="210" />
+                <Precinct name="Burch" votes="187" />
+                <Precinct name="Cadwell" votes="294" />
+                <Precinct name="Brewton" votes="500" />
+                <Precinct name="Dudley" votes="517" />
+                <Precinct name="Hampton Mill" votes="716" />
+                <Precinct name="Minter" votes="391" />
+                <Precinct name="Rural Fire Station 7" votes="612" />
+                <Precinct name="WT Adams Fire Station 18" votes="524" />
+                <Precinct name="Reedy Springs" votes="380" />
+                <Precinct name="Smith" votes="487" />
+                <Precinct name="LCFS #10" votes="403" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="9">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="5" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="Bee Nguyen (Dem)" totalVotes="5558">
+            <VoteType name="Absentee by Mail Votes" votes="699">
+                <Precinct name="FBC-FLC" votes="92" />
+                <Precinct name="Calhoun Park" votes="235" />
+                <Precinct name="Fire Dept Station 5" votes="57" />
+                <Precinct name="Buckeye" votes="25" />
+                <Precinct name="Burch" votes="11" />
+                <Precinct name="Cadwell" votes="4" />
+                <Precinct name="Brewton" votes="16" />
+                <Precinct name="Dudley" votes="21" />
+                <Precinct name="Hampton Mill" votes="9" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="31" />
+                <Precinct name="WT Adams Fire Station 18" votes="64" />
+                <Precinct name="Reedy Springs" votes="10" />
+                <Precinct name="Smith" votes="73" />
+                <Precinct name="LCFS #10" votes="51" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2787">
+                <Precinct name="FBC-FLC" votes="439" />
+                <Precinct name="Calhoun Park" votes="798" />
+                <Precinct name="Fire Dept Station 5" votes="366" />
+                <Precinct name="Buckeye" votes="113" />
+                <Precinct name="Burch" votes="21" />
+                <Precinct name="Cadwell" votes="20" />
+                <Precinct name="Brewton" votes="66" />
+                <Precinct name="Dudley" votes="99" />
+                <Precinct name="Hampton Mill" votes="41" />
+                <Precinct name="Minter" votes="17" />
+                <Precinct name="Rural Fire Station 7" votes="121" />
+                <Precinct name="WT Adams Fire Station 18" votes="193" />
+                <Precinct name="Reedy Springs" votes="22" />
+                <Precinct name="Smith" votes="296" />
+                <Precinct name="LCFS #10" votes="175" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2070">
+                <Precinct name="FBC-FLC" votes="261" />
+                <Precinct name="Calhoun Park" votes="560" />
+                <Precinct name="Fire Dept Station 5" votes="157" />
+                <Precinct name="Buckeye" votes="97" />
+                <Precinct name="Burch" votes="21" />
+                <Precinct name="Cadwell" votes="34" />
+                <Precinct name="Brewton" votes="82" />
+                <Precinct name="Dudley" votes="94" />
+                <Precinct name="Hampton Mill" votes="69" />
+                <Precinct name="Minter" votes="19" />
+                <Precinct name="Rural Fire Station 7" votes="100" />
+                <Precinct name="WT Adams Fire Station 18" votes="108" />
+                <Precinct name="Reedy Springs" votes="41" />
+                <Precinct name="Smith" votes="278" />
+                <Precinct name="LCFS #10" votes="149" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="1" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="Ted Metz (Lib)" totalVotes="462">
+            <VoteType name="Absentee by Mail Votes" votes="23">
+                <Precinct name="FBC-FLC" votes="4" />
+                <Precinct name="Calhoun Park" votes="5" />
+                <Precinct name="Fire Dept Station 5" votes="3" />
+                <Precinct name="Buckeye" votes="2" />
+                <Precinct name="Burch" votes="1" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="2" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="4" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="195">
+                <Precinct name="FBC-FLC" votes="34" />
+                <Precinct name="Calhoun Park" votes="31" />
+                <Precinct name="Fire Dept Station 5" votes="33" />
+                <Precinct name="Buckeye" votes="2" />
+                <Precinct name="Burch" votes="1" />
+                <Precinct name="Cadwell" votes="3" />
+                <Precinct name="Brewton" votes="7" />
+                <Precinct name="Dudley" votes="8" />
+                <Precinct name="Hampton Mill" votes="8" />
+                <Precinct name="Minter" votes="2" />
+                <Precinct name="Rural Fire Station 7" votes="13" />
+                <Precinct name="WT Adams Fire Station 18" votes="18" />
+                <Precinct name="Reedy Springs" votes="4" />
+                <Precinct name="Smith" votes="13" />
+                <Precinct name="LCFS #10" votes="18" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="244">
+                <Precinct name="FBC-FLC" votes="28" />
+                <Precinct name="Calhoun Park" votes="27" />
+                <Precinct name="Fire Dept Station 5" votes="32" />
+                <Precinct name="Buckeye" votes="5" />
+                <Precinct name="Burch" votes="6" />
+                <Precinct name="Cadwell" votes="10" />
+                <Precinct name="Brewton" votes="14" />
+                <Precinct name="Dudley" votes="10" />
+                <Precinct name="Hampton Mill" votes="29" />
+                <Precinct name="Minter" votes="6" />
+                <Precinct name="Rural Fire Station 7" votes="21" />
+                <Precinct name="WT Adams Fire Station 18" votes="22" />
+                <Precinct name="Reedy Springs" votes="8" />
+                <Precinct name="Smith" votes="12" />
+                <Precinct name="LCFS #10" votes="14" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="Undervotes" votes="264">
+            <Precinct name="FBC-FLC" votes="37" />
+            <Precinct name="Calhoun Park" votes="58" />
+            <Precinct name="Fire Dept Station 5" votes="26" />
+            <Precinct name="Buckeye" votes="10" />
+            <Precinct name="Burch" votes="2" />
+            <Precinct name="Cadwell" votes="5" />
+            <Precinct name="Brewton" votes="16" />
+            <Precinct name="Dudley" votes="14" />
+            <Precinct name="Hampton Mill" votes="8" />
+            <Precinct name="Minter" votes="5" />
+            <Precinct name="Rural Fire Station 7" votes="12" />
+            <Precinct name="WT Adams Fire Station 18" votes="18" />
+            <Precinct name="Reedy Springs" votes="9" />
+            <Precinct name="Smith" votes="29" />
+            <Precinct name="LCFS #10" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="12" text="Chris Carr (I) (Rep)" totalVotes="12209">
+            <VoteType name="Absentee by Mail Votes" votes="523">
+                <Precinct name="FBC-FLC" votes="115" />
+                <Precinct name="Calhoun Park" votes="43" />
+                <Precinct name="Fire Dept Station 5" votes="86" />
+                <Precinct name="Buckeye" votes="7" />
+                <Precinct name="Burch" votes="5" />
+                <Precinct name="Cadwell" votes="10" />
+                <Precinct name="Brewton" votes="21" />
+                <Precinct name="Dudley" votes="22" />
+                <Precinct name="Hampton Mill" votes="22" />
+                <Precinct name="Minter" votes="23" />
+                <Precinct name="Rural Fire Station 7" votes="31" />
+                <Precinct name="WT Adams Fire Station 18" votes="63" />
+                <Precinct name="Reedy Springs" votes="8" />
+                <Precinct name="Smith" votes="38" />
+                <Precinct name="LCFS #10" votes="29" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4924">
+                <Precinct name="FBC-FLC" votes="977" />
+                <Precinct name="Calhoun Park" votes="332" />
+                <Precinct name="Fire Dept Station 5" votes="947" />
+                <Precinct name="Buckeye" votes="96" />
+                <Precinct name="Burch" votes="33" />
+                <Precinct name="Cadwell" votes="98" />
+                <Precinct name="Brewton" votes="255" />
+                <Precinct name="Dudley" votes="263" />
+                <Precinct name="Hampton Mill" votes="240" />
+                <Precinct name="Minter" votes="142" />
+                <Precinct name="Rural Fire Station 7" votes="371" />
+                <Precinct name="WT Adams Fire Station 18" votes="458" />
+                <Precinct name="Reedy Springs" votes="79" />
+                <Precinct name="Smith" votes="320" />
+                <Precinct name="LCFS #10" votes="313" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6753">
+                <Precinct name="FBC-FLC" votes="483" />
+                <Precinct name="Calhoun Park" votes="248" />
+                <Precinct name="Fire Dept Station 5" votes="745" />
+                <Precinct name="Buckeye" votes="210" />
+                <Precinct name="Burch" votes="191" />
+                <Precinct name="Cadwell" votes="309" />
+                <Precinct name="Brewton" votes="502" />
+                <Precinct name="Dudley" votes="518" />
+                <Precinct name="Hampton Mill" votes="734" />
+                <Precinct name="Minter" votes="396" />
+                <Precinct name="Rural Fire Station 7" votes="622" />
+                <Precinct name="WT Adams Fire Station 18" votes="521" />
+                <Precinct name="Reedy Springs" votes="385" />
+                <Precinct name="Smith" votes="486" />
+                <Precinct name="LCFS #10" votes="403" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="9">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="5" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="13" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="5956">
+            <VoteType name="Absentee by Mail Votes" votes="737">
+                <Precinct name="FBC-FLC" votes="96" />
+                <Precinct name="Calhoun Park" votes="238" />
+                <Precinct name="Fire Dept Station 5" votes="72" />
+                <Precinct name="Buckeye" votes="29" />
+                <Precinct name="Burch" votes="11" />
+                <Precinct name="Cadwell" votes="6" />
+                <Precinct name="Brewton" votes="17" />
+                <Precinct name="Dudley" votes="25" />
+                <Precinct name="Hampton Mill" votes="11" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="33" />
+                <Precinct name="WT Adams Fire Station 18" votes="64" />
+                <Precinct name="Reedy Springs" votes="10" />
+                <Precinct name="Smith" votes="72" />
+                <Precinct name="LCFS #10" votes="53" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2974">
+                <Precinct name="FBC-FLC" votes="473" />
+                <Precinct name="Calhoun Park" votes="857" />
+                <Precinct name="Fire Dept Station 5" votes="383" />
+                <Precinct name="Buckeye" votes="116" />
+                <Precinct name="Burch" votes="20" />
+                <Precinct name="Cadwell" votes="21" />
+                <Precinct name="Brewton" votes="71" />
+                <Precinct name="Dudley" votes="103" />
+                <Precinct name="Hampton Mill" votes="48" />
+                <Precinct name="Minter" votes="16" />
+                <Precinct name="Rural Fire Station 7" votes="137" />
+                <Precinct name="WT Adams Fire Station 18" votes="204" />
+                <Precinct name="Reedy Springs" votes="26" />
+                <Precinct name="Smith" votes="308" />
+                <Precinct name="LCFS #10" votes="191" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2243">
+                <Precinct name="FBC-FLC" votes="274" />
+                <Precinct name="Calhoun Park" votes="589" />
+                <Precinct name="Fire Dept Station 5" votes="171" />
+                <Precinct name="Buckeye" votes="108" />
+                <Precinct name="Burch" votes="24" />
+                <Precinct name="Cadwell" votes="33" />
+                <Precinct name="Brewton" votes="92" />
+                <Precinct name="Dudley" votes="104" />
+                <Precinct name="Hampton Mill" votes="80" />
+                <Precinct name="Minter" votes="24" />
+                <Precinct name="Rural Fire Station 7" votes="111" />
+                <Precinct name="WT Adams Fire Station 18" votes="129" />
+                <Precinct name="Reedy Springs" votes="46" />
+                <Precinct name="Smith" votes="296" />
+                <Precinct name="LCFS #10" votes="162" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="1" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="14" text="Martin Cowen (Lib)" totalVotes="165">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="FBC-FLC" votes="1" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="2" />
+                <Precinct name="Buckeye" votes="1" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="2" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="68">
+                <Precinct name="FBC-FLC" votes="15" />
+                <Precinct name="Calhoun Park" votes="17" />
+                <Precinct name="Fire Dept Station 5" votes="9" />
+                <Precinct name="Buckeye" votes="1" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="2" />
+                <Precinct name="Brewton" votes="3" />
+                <Precinct name="Dudley" votes="3" />
+                <Precinct name="Hampton Mill" votes="3" />
+                <Precinct name="Minter" votes="1" />
+                <Precinct name="Rural Fire Station 7" votes="2" />
+                <Precinct name="WT Adams Fire Station 18" votes="4" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="8" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="89">
+                <Precinct name="FBC-FLC" votes="12" />
+                <Precinct name="Calhoun Park" votes="15" />
+                <Precinct name="Fire Dept Station 5" votes="11" />
+                <Precinct name="Buckeye" votes="1" />
+                <Precinct name="Burch" votes="2" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="8" />
+                <Precinct name="Dudley" votes="4" />
+                <Precinct name="Hampton Mill" votes="6" />
+                <Precinct name="Minter" votes="1" />
+                <Precinct name="Rural Fire Station 7" votes="5" />
+                <Precinct name="WT Adams Fire Station 18" votes="10" />
+                <Precinct name="Reedy Springs" votes="3" />
+                <Precinct name="Smith" votes="5" />
+                <Precinct name="LCFS #10" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Commissioner of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="Undervotes" votes="289">
+            <Precinct name="FBC-FLC" votes="46" />
+            <Precinct name="Calhoun Park" votes="72" />
+            <Precinct name="Fire Dept Station 5" votes="27" />
+            <Precinct name="Buckeye" votes="10" />
+            <Precinct name="Burch" votes="3" />
+            <Precinct name="Cadwell" votes="7" />
+            <Precinct name="Brewton" votes="14" />
+            <Precinct name="Dudley" votes="13" />
+            <Precinct name="Hampton Mill" votes="8" />
+            <Precinct name="Minter" votes="5" />
+            <Precinct name="Rural Fire Station 7" votes="10" />
+            <Precinct name="WT Adams Fire Station 18" votes="17" />
+            <Precinct name="Reedy Springs" votes="7" />
+            <Precinct name="Smith" votes="37" />
+            <Precinct name="LCFS #10" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="15" text="Tyler Harper (Rep)" totalVotes="12337">
+            <VoteType name="Absentee by Mail Votes" votes="545">
+                <Precinct name="FBC-FLC" votes="115" />
+                <Precinct name="Calhoun Park" votes="42" />
+                <Precinct name="Fire Dept Station 5" votes="94" />
+                <Precinct name="Buckeye" votes="10" />
+                <Precinct name="Burch" votes="5" />
+                <Precinct name="Cadwell" votes="12" />
+                <Precinct name="Brewton" votes="20" />
+                <Precinct name="Dudley" votes="24" />
+                <Precinct name="Hampton Mill" votes="22" />
+                <Precinct name="Minter" votes="23" />
+                <Precinct name="Rural Fire Station 7" votes="33" />
+                <Precinct name="WT Adams Fire Station 18" votes="66" />
+                <Precinct name="Reedy Springs" votes="8" />
+                <Precinct name="Smith" votes="40" />
+                <Precinct name="LCFS #10" votes="31" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4973">
+                <Precinct name="FBC-FLC" votes="984" />
+                <Precinct name="Calhoun Park" votes="339" />
+                <Precinct name="Fire Dept Station 5" votes="957" />
+                <Precinct name="Buckeye" votes="96" />
+                <Precinct name="Burch" votes="34" />
+                <Precinct name="Cadwell" votes="99" />
+                <Precinct name="Brewton" votes="256" />
+                <Precinct name="Dudley" votes="268" />
+                <Precinct name="Hampton Mill" votes="247" />
+                <Precinct name="Minter" votes="144" />
+                <Precinct name="Rural Fire Station 7" votes="380" />
+                <Precinct name="WT Adams Fire Station 18" votes="461" />
+                <Precinct name="Reedy Springs" votes="79" />
+                <Precinct name="Smith" votes="316" />
+                <Precinct name="LCFS #10" votes="313" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6810">
+                <Precinct name="FBC-FLC" votes="489" />
+                <Precinct name="Calhoun Park" votes="249" />
+                <Precinct name="Fire Dept Station 5" votes="753" />
+                <Precinct name="Buckeye" votes="212" />
+                <Precinct name="Burch" votes="190" />
+                <Precinct name="Cadwell" votes="307" />
+                <Precinct name="Brewton" votes="513" />
+                <Precinct name="Dudley" votes="531" />
+                <Precinct name="Hampton Mill" votes="746" />
+                <Precinct name="Minter" votes="394" />
+                <Precinct name="Rural Fire Station 7" votes="623" />
+                <Precinct name="WT Adams Fire Station 18" votes="528" />
+                <Precinct name="Reedy Springs" votes="391" />
+                <Precinct name="Smith" votes="483" />
+                <Precinct name="LCFS #10" votes="401" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="9">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="5" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="16" text="Nakita Hemingway (Dem)" totalVotes="5732">
+            <VoteType name="Absentee by Mail Votes" votes="709">
+                <Precinct name="FBC-FLC" votes="94" />
+                <Precinct name="Calhoun Park" votes="235" />
+                <Precinct name="Fire Dept Station 5" votes="63" />
+                <Precinct name="Buckeye" votes="26" />
+                <Precinct name="Burch" votes="11" />
+                <Precinct name="Cadwell" votes="4" />
+                <Precinct name="Brewton" votes="18" />
+                <Precinct name="Dudley" votes="23" />
+                <Precinct name="Hampton Mill" votes="11" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="30" />
+                <Precinct name="WT Adams Fire Station 18" votes="62" />
+                <Precinct name="Reedy Springs" votes="10" />
+                <Precinct name="Smith" votes="70" />
+                <Precinct name="LCFS #10" votes="52" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2885">
+                <Precinct name="FBC-FLC" votes="456" />
+                <Precinct name="Calhoun Park" votes="836" />
+                <Precinct name="Fire Dept Station 5" votes="368" />
+                <Precinct name="Buckeye" votes="116" />
+                <Precinct name="Burch" votes="20" />
+                <Precinct name="Cadwell" votes="21" />
+                <Precinct name="Brewton" votes="72" />
+                <Precinct name="Dudley" votes="96" />
+                <Precinct name="Hampton Mill" votes="43" />
+                <Precinct name="Minter" votes="13" />
+                <Precinct name="Rural Fire Station 7" votes="133" />
+                <Precinct name="WT Adams Fire Station 18" votes="200" />
+                <Precinct name="Reedy Springs" votes="26" />
+                <Precinct name="Smith" votes="301" />
+                <Precinct name="LCFS #10" votes="184" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2136">
+                <Precinct name="FBC-FLC" votes="257" />
+                <Precinct name="Calhoun Park" votes="574" />
+                <Precinct name="Fire Dept Station 5" votes="162" />
+                <Precinct name="Buckeye" votes="104" />
+                <Precinct name="Burch" votes="21" />
+                <Precinct name="Cadwell" votes="33" />
+                <Precinct name="Brewton" votes="83" />
+                <Precinct name="Dudley" votes="95" />
+                <Precinct name="Hampton Mill" votes="69" />
+                <Precinct name="Minter" votes="22" />
+                <Precinct name="Rural Fire Station 7" votes="107" />
+                <Precinct name="WT Adams Fire Station 18" votes="117" />
+                <Precinct name="Reedy Springs" votes="39" />
+                <Precinct name="Smith" votes="289" />
+                <Precinct name="LCFS #10" votes="164" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="1" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="David Raudabaugh (Lib)" totalVotes="239">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="FBC-FLC" votes="1" />
+                <Precinct name="Calhoun Park" votes="2" />
+                <Precinct name="Fire Dept Station 5" votes="1" />
+                <Precinct name="Buckeye" votes="1" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="1" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="97">
+                <Precinct name="FBC-FLC" votes="23" />
+                <Precinct name="Calhoun Park" votes="21" />
+                <Precinct name="Fire Dept Station 5" votes="13" />
+                <Precinct name="Buckeye" votes="1" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="1" />
+                <Precinct name="Brewton" votes="1" />
+                <Precinct name="Dudley" votes="5" />
+                <Precinct name="Hampton Mill" votes="2" />
+                <Precinct name="Minter" votes="1" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="9" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="13" />
+                <Precinct name="LCFS #10" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="136">
+                <Precinct name="FBC-FLC" votes="19" />
+                <Precinct name="Calhoun Park" votes="29" />
+                <Precinct name="Fire Dept Station 5" votes="14" />
+                <Precinct name="Buckeye" votes="2" />
+                <Precinct name="Burch" votes="4" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="8" />
+                <Precinct name="Dudley" votes="2" />
+                <Precinct name="Hampton Mill" votes="4" />
+                <Precinct name="Minter" votes="6" />
+                <Precinct name="Rural Fire Station 7" votes="8" />
+                <Precinct name="WT Adams Fire Station 18" votes="12" />
+                <Precinct name="Reedy Springs" votes="6" />
+                <Precinct name="Smith" votes="14" />
+                <Precinct name="LCFS #10" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Commissioner of Insurance" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="Undervotes" votes="321">
+            <Precinct name="FBC-FLC" votes="41" />
+            <Precinct name="Calhoun Park" votes="72" />
+            <Precinct name="Fire Dept Station 5" votes="35" />
+            <Precinct name="Buckeye" votes="8" />
+            <Precinct name="Burch" votes="5" />
+            <Precinct name="Cadwell" votes="7" />
+            <Precinct name="Brewton" votes="20" />
+            <Precinct name="Dudley" votes="17" />
+            <Precinct name="Hampton Mill" votes="8" />
+            <Precinct name="Minter" votes="6" />
+            <Precinct name="Rural Fire Station 7" votes="19" />
+            <Precinct name="WT Adams Fire Station 18" votes="20" />
+            <Precinct name="Reedy Springs" votes="10" />
+            <Precinct name="Smith" votes="35" />
+            <Precinct name="LCFS #10" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="18" text="John King (I) (Rep)" totalVotes="12402">
+            <VoteType name="Absentee by Mail Votes" votes="527">
+                <Precinct name="FBC-FLC" votes="114" />
+                <Precinct name="Calhoun Park" votes="42" />
+                <Precinct name="Fire Dept Station 5" votes="91" />
+                <Precinct name="Buckeye" votes="9" />
+                <Precinct name="Burch" votes="5" />
+                <Precinct name="Cadwell" votes="11" />
+                <Precinct name="Brewton" votes="20" />
+                <Precinct name="Dudley" votes="23" />
+                <Precinct name="Hampton Mill" votes="20" />
+                <Precinct name="Minter" votes="23" />
+                <Precinct name="Rural Fire Station 7" votes="33" />
+                <Precinct name="WT Adams Fire Station 18" votes="63" />
+                <Precinct name="Reedy Springs" votes="7" />
+                <Precinct name="Smith" votes="37" />
+                <Precinct name="LCFS #10" votes="29" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5015">
+                <Precinct name="FBC-FLC" votes="1005" />
+                <Precinct name="Calhoun Park" votes="347" />
+                <Precinct name="Fire Dept Station 5" votes="955" />
+                <Precinct name="Buckeye" votes="97" />
+                <Precinct name="Burch" votes="34" />
+                <Precinct name="Cadwell" votes="100" />
+                <Precinct name="Brewton" votes="256" />
+                <Precinct name="Dudley" votes="267" />
+                <Precinct name="Hampton Mill" votes="244" />
+                <Precinct name="Minter" votes="146" />
+                <Precinct name="Rural Fire Station 7" votes="380" />
+                <Precinct name="WT Adams Fire Station 18" votes="468" />
+                <Precinct name="Reedy Springs" votes="83" />
+                <Precinct name="Smith" votes="319" />
+                <Precinct name="LCFS #10" votes="314" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6851">
+                <Precinct name="FBC-FLC" votes="493" />
+                <Precinct name="Calhoun Park" votes="263" />
+                <Precinct name="Fire Dept Station 5" votes="750" />
+                <Precinct name="Buckeye" votes="214" />
+                <Precinct name="Burch" votes="192" />
+                <Precinct name="Cadwell" votes="305" />
+                <Precinct name="Brewton" votes="507" />
+                <Precinct name="Dudley" votes="529" />
+                <Precinct name="Hampton Mill" votes="746" />
+                <Precinct name="Minter" votes="399" />
+                <Precinct name="Rural Fire Station 7" votes="624" />
+                <Precinct name="WT Adams Fire Station 18" votes="534" />
+                <Precinct name="Reedy Springs" votes="390" />
+                <Precinct name="Smith" votes="500" />
+                <Precinct name="LCFS #10" votes="405" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="9">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="5" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="19" text="Janice Laws Robinson (Dem)" totalVotes="5869">
+            <VoteType name="Absentee by Mail Votes" votes="734">
+                <Precinct name="FBC-FLC" votes="96" />
+                <Precinct name="Calhoun Park" votes="240" />
+                <Precinct name="Fire Dept Station 5" votes="67" />
+                <Precinct name="Buckeye" votes="28" />
+                <Precinct name="Burch" votes="11" />
+                <Precinct name="Cadwell" votes="5" />
+                <Precinct name="Brewton" votes="18" />
+                <Precinct name="Dudley" votes="24" />
+                <Precinct name="Hampton Mill" votes="11" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="31" />
+                <Precinct name="WT Adams Fire Station 18" votes="66" />
+                <Precinct name="Reedy Springs" votes="11" />
+                <Precinct name="Smith" votes="73" />
+                <Precinct name="LCFS #10" votes="53" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2924">
+                <Precinct name="FBC-FLC" votes="459" />
+                <Precinct name="Calhoun Park" votes="845" />
+                <Precinct name="Fire Dept Station 5" votes="377" />
+                <Precinct name="Buckeye" votes="117" />
+                <Precinct name="Burch" votes="19" />
+                <Precinct name="Cadwell" votes="21" />
+                <Precinct name="Brewton" votes="71" />
+                <Precinct name="Dudley" votes="99" />
+                <Precinct name="Hampton Mill" votes="47" />
+                <Precinct name="Minter" votes="13" />
+                <Precinct name="Rural Fire Station 7" votes="129" />
+                <Precinct name="WT Adams Fire Station 18" votes="202" />
+                <Precinct name="Reedy Springs" votes="23" />
+                <Precinct name="Smith" votes="312" />
+                <Precinct name="LCFS #10" votes="190" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2209">
+                <Precinct name="FBC-FLC" votes="275" />
+                <Precinct name="Calhoun Park" votes="590" />
+                <Precinct name="Fire Dept Station 5" votes="177" />
+                <Precinct name="Buckeye" votes="106" />
+                <Precinct name="Burch" votes="22" />
+                <Precinct name="Cadwell" votes="34" />
+                <Precinct name="Brewton" votes="91" />
+                <Precinct name="Dudley" votes="97" />
+                <Precinct name="Hampton Mill" votes="75" />
+                <Precinct name="Minter" votes="21" />
+                <Precinct name="Rural Fire Station 7" votes="108" />
+                <Precinct name="WT Adams Fire Station 18" votes="120" />
+                <Precinct name="Reedy Springs" votes="42" />
+                <Precinct name="Smith" votes="287" />
+                <Precinct name="LCFS #10" votes="164" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="1" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="Undervotes" votes="307">
+            <Precinct name="FBC-FLC" votes="41" />
+            <Precinct name="Calhoun Park" votes="71" />
+            <Precinct name="Fire Dept Station 5" votes="25" />
+            <Precinct name="Buckeye" votes="13" />
+            <Precinct name="Burch" votes="6" />
+            <Precinct name="Cadwell" votes="10" />
+            <Precinct name="Brewton" votes="16" />
+            <Precinct name="Dudley" votes="14" />
+            <Precinct name="Hampton Mill" votes="8" />
+            <Precinct name="Minter" votes="6" />
+            <Precinct name="Rural Fire Station 7" votes="18" />
+            <Precinct name="WT Adams Fire Station 18" votes="16" />
+            <Precinct name="Reedy Springs" votes="11" />
+            <Precinct name="Smith" votes="34" />
+            <Precinct name="LCFS #10" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="20" text="Richard Woods (I) (Rep)" totalVotes="12457">
+            <VoteType name="Absentee by Mail Votes" votes="540">
+                <Precinct name="FBC-FLC" votes="116" />
+                <Precinct name="Calhoun Park" votes="46" />
+                <Precinct name="Fire Dept Station 5" votes="95" />
+                <Precinct name="Buckeye" votes="9" />
+                <Precinct name="Burch" votes="5" />
+                <Precinct name="Cadwell" votes="10" />
+                <Precinct name="Brewton" votes="21" />
+                <Precinct name="Dudley" votes="23" />
+                <Precinct name="Hampton Mill" votes="22" />
+                <Precinct name="Minter" votes="23" />
+                <Precinct name="Rural Fire Station 7" votes="31" />
+                <Precinct name="WT Adams Fire Station 18" votes="64" />
+                <Precinct name="Reedy Springs" votes="8" />
+                <Precinct name="Smith" votes="37" />
+                <Precinct name="LCFS #10" votes="30" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5039">
+                <Precinct name="FBC-FLC" votes="1008" />
+                <Precinct name="Calhoun Park" votes="336" />
+                <Precinct name="Fire Dept Station 5" votes="974" />
+                <Precinct name="Buckeye" votes="100" />
+                <Precinct name="Burch" votes="33" />
+                <Precinct name="Cadwell" votes="101" />
+                <Precinct name="Brewton" votes="257" />
+                <Precinct name="Dudley" votes="271" />
+                <Precinct name="Hampton Mill" votes="248" />
+                <Precinct name="Minter" votes="143" />
+                <Precinct name="Rural Fire Station 7" votes="381" />
+                <Precinct name="WT Adams Fire Station 18" votes="466" />
+                <Precinct name="Reedy Springs" votes="79" />
+                <Precinct name="Smith" votes="328" />
+                <Precinct name="LCFS #10" votes="314" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6869">
+                <Precinct name="FBC-FLC" votes="502" />
+                <Precinct name="Calhoun Park" votes="265" />
+                <Precinct name="Fire Dept Station 5" votes="758" />
+                <Precinct name="Buckeye" votes="214" />
+                <Precinct name="Burch" votes="193" />
+                <Precinct name="Cadwell" votes="306" />
+                <Precinct name="Brewton" votes="514" />
+                <Precinct name="Dudley" votes="529" />
+                <Precinct name="Hampton Mill" votes="750" />
+                <Precinct name="Minter" votes="395" />
+                <Precinct name="Rural Fire Station 7" votes="626" />
+                <Precinct name="WT Adams Fire Station 18" votes="537" />
+                <Precinct name="Reedy Springs" votes="385" />
+                <Precinct name="Smith" votes="492" />
+                <Precinct name="LCFS #10" votes="403" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="9">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="5" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="21" text="Alisha Thomas Searcy (Dem)" totalVotes="5827">
+            <VoteType name="Absentee by Mail Votes" votes="720">
+                <Precinct name="FBC-FLC" votes="95" />
+                <Precinct name="Calhoun Park" votes="233" />
+                <Precinct name="Fire Dept Station 5" votes="63" />
+                <Precinct name="Buckeye" votes="28" />
+                <Precinct name="Burch" votes="11" />
+                <Precinct name="Cadwell" votes="5" />
+                <Precinct name="Brewton" votes="17" />
+                <Precinct name="Dudley" votes="25" />
+                <Precinct name="Hampton Mill" votes="10" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="32" />
+                <Precinct name="WT Adams Fire Station 18" votes="65" />
+                <Precinct name="Reedy Springs" votes="11" />
+                <Precinct name="Smith" votes="73" />
+                <Precinct name="LCFS #10" votes="52" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2911">
+                <Precinct name="FBC-FLC" votes="455" />
+                <Precinct name="Calhoun Park" votes="858" />
+                <Precinct name="Fire Dept Station 5" votes="365" />
+                <Precinct name="Buckeye" votes="112" />
+                <Precinct name="Burch" votes="21" />
+                <Precinct name="Cadwell" votes="19" />
+                <Precinct name="Brewton" votes="71" />
+                <Precinct name="Dudley" votes="97" />
+                <Precinct name="Hampton Mill" votes="44" />
+                <Precinct name="Minter" votes="15" />
+                <Precinct name="Rural Fire Station 7" votes="129" />
+                <Precinct name="WT Adams Fire Station 18" votes="205" />
+                <Precinct name="Reedy Springs" votes="26" />
+                <Precinct name="Smith" votes="305" />
+                <Precinct name="LCFS #10" votes="189" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2194">
+                <Precinct name="FBC-FLC" votes="266" />
+                <Precinct name="Calhoun Park" votes="590" />
+                <Precinct name="Fire Dept Station 5" votes="169" />
+                <Precinct name="Buckeye" votes="102" />
+                <Precinct name="Burch" votes="19" />
+                <Precinct name="Cadwell" votes="33" />
+                <Precinct name="Brewton" votes="89" />
+                <Precinct name="Dudley" votes="97" />
+                <Precinct name="Hampton Mill" votes="70" />
+                <Precinct name="Minter" votes="26" />
+                <Precinct name="Rural Fire Station 7" votes="107" />
+                <Precinct name="WT Adams Fire Station 18" votes="120" />
+                <Precinct name="Reedy Springs" votes="46" />
+                <Precinct name="Smith" votes="294" />
+                <Precinct name="LCFS #10" votes="166" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="1" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner of Labor" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="Undervotes" votes="321">
+            <Precinct name="FBC-FLC" votes="48" />
+            <Precinct name="Calhoun Park" votes="69" />
+            <Precinct name="Fire Dept Station 5" votes="35" />
+            <Precinct name="Buckeye" votes="14" />
+            <Precinct name="Burch" votes="2" />
+            <Precinct name="Cadwell" votes="4" />
+            <Precinct name="Brewton" votes="19" />
+            <Precinct name="Dudley" votes="15" />
+            <Precinct name="Hampton Mill" votes="10" />
+            <Precinct name="Minter" votes="5" />
+            <Precinct name="Rural Fire Station 7" votes="13" />
+            <Precinct name="WT Adams Fire Station 18" votes="20" />
+            <Precinct name="Reedy Springs" votes="10" />
+            <Precinct name="Smith" votes="40" />
+            <Precinct name="LCFS #10" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="22" text="Bruce Thompson (Rep)" totalVotes="12233">
+            <VoteType name="Absentee by Mail Votes" votes="523">
+                <Precinct name="FBC-FLC" votes="113" />
+                <Precinct name="Calhoun Park" votes="43" />
+                <Precinct name="Fire Dept Station 5" votes="91" />
+                <Precinct name="Buckeye" votes="7" />
+                <Precinct name="Burch" votes="5" />
+                <Precinct name="Cadwell" votes="10" />
+                <Precinct name="Brewton" votes="19" />
+                <Precinct name="Dudley" votes="22" />
+                <Precinct name="Hampton Mill" votes="20" />
+                <Precinct name="Minter" votes="23" />
+                <Precinct name="Rural Fire Station 7" votes="31" />
+                <Precinct name="WT Adams Fire Station 18" votes="62" />
+                <Precinct name="Reedy Springs" votes="8" />
+                <Precinct name="Smith" votes="39" />
+                <Precinct name="LCFS #10" votes="30" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4934">
+                <Precinct name="FBC-FLC" votes="966" />
+                <Precinct name="Calhoun Park" votes="336" />
+                <Precinct name="Fire Dept Station 5" votes="945" />
+                <Precinct name="Buckeye" votes="98" />
+                <Precinct name="Burch" votes="32" />
+                <Precinct name="Cadwell" votes="98" />
+                <Precinct name="Brewton" votes="256" />
+                <Precinct name="Dudley" votes="266" />
+                <Precinct name="Hampton Mill" votes="244" />
+                <Precinct name="Minter" votes="145" />
+                <Precinct name="Rural Fire Station 7" votes="375" />
+                <Precinct name="WT Adams Fire Station 18" votes="459" />
+                <Precinct name="Reedy Springs" votes="80" />
+                <Precinct name="Smith" votes="322" />
+                <Precinct name="LCFS #10" votes="312" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6767">
+                <Precinct name="FBC-FLC" votes="486" />
+                <Precinct name="Calhoun Park" votes="247" />
+                <Precinct name="Fire Dept Station 5" votes="738" />
+                <Precinct name="Buckeye" votes="210" />
+                <Precinct name="Burch" votes="191" />
+                <Precinct name="Cadwell" votes="308" />
+                <Precinct name="Brewton" votes="507" />
+                <Precinct name="Dudley" votes="525" />
+                <Precinct name="Hampton Mill" votes="742" />
+                <Precinct name="Minter" votes="396" />
+                <Precinct name="Rural Fire Station 7" votes="624" />
+                <Precinct name="WT Adams Fire Station 18" votes="526" />
+                <Precinct name="Reedy Springs" votes="386" />
+                <Precinct name="Smith" votes="480" />
+                <Precinct name="LCFS #10" votes="401" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="9">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="5" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="23" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr. (Dem)" totalVotes="5776">
+            <VoteType name="Absentee by Mail Votes" votes="721">
+                <Precinct name="FBC-FLC" votes="94" />
+                <Precinct name="Calhoun Park" votes="232" />
+                <Precinct name="Fire Dept Station 5" votes="64" />
+                <Precinct name="Buckeye" votes="29" />
+                <Precinct name="Burch" votes="10" />
+                <Precinct name="Cadwell" votes="6" />
+                <Precinct name="Brewton" votes="18" />
+                <Precinct name="Dudley" votes="25" />
+                <Precinct name="Hampton Mill" votes="11" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="32" />
+                <Precinct name="WT Adams Fire Station 18" votes="66" />
+                <Precinct name="Reedy Springs" votes="10" />
+                <Precinct name="Smith" votes="71" />
+                <Precinct name="LCFS #10" votes="53" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2899">
+                <Precinct name="FBC-FLC" votes="470" />
+                <Precinct name="Calhoun Park" votes="844" />
+                <Precinct name="Fire Dept Station 5" votes="372" />
+                <Precinct name="Buckeye" votes="110" />
+                <Precinct name="Burch" votes="20" />
+                <Precinct name="Cadwell" votes="22" />
+                <Precinct name="Brewton" votes="69" />
+                <Precinct name="Dudley" votes="99" />
+                <Precinct name="Hampton Mill" votes="44" />
+                <Precinct name="Minter" votes="14" />
+                <Precinct name="Rural Fire Station 7" votes="132" />
+                <Precinct name="WT Adams Fire Station 18" votes="199" />
+                <Precinct name="Reedy Springs" votes="25" />
+                <Precinct name="Smith" votes="299" />
+                <Precinct name="LCFS #10" votes="180" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2154">
+                <Precinct name="FBC-FLC" votes="256" />
+                <Precinct name="Calhoun Park" votes="578" />
+                <Precinct name="Fire Dept Station 5" votes="169" />
+                <Precinct name="Buckeye" votes="105" />
+                <Precinct name="Burch" votes="21" />
+                <Precinct name="Cadwell" votes="35" />
+                <Precinct name="Brewton" votes="85" />
+                <Precinct name="Dudley" votes="94" />
+                <Precinct name="Hampton Mill" votes="71" />
+                <Precinct name="Minter" votes="22" />
+                <Precinct name="Rural Fire Station 7" votes="107" />
+                <Precinct name="WT Adams Fire Station 18" votes="119" />
+                <Precinct name="Reedy Springs" votes="40" />
+                <Precinct name="Smith" votes="288" />
+                <Precinct name="LCFS #10" votes="164" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="1" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="45" text="Emily Anderson (Lib)" totalVotes="268">
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="FBC-FLC" votes="4" />
+                <Precinct name="Calhoun Park" votes="4" />
+                <Precinct name="Fire Dept Station 5" votes="2" />
+                <Precinct name="Buckeye" votes="1" />
+                <Precinct name="Burch" votes="1" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="1" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="1" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="111">
+                <Precinct name="FBC-FLC" votes="26" />
+                <Precinct name="Calhoun Park" votes="19" />
+                <Precinct name="Fire Dept Station 5" votes="19" />
+                <Precinct name="Buckeye" votes="2" />
+                <Precinct name="Burch" votes="1" />
+                <Precinct name="Cadwell" votes="1" />
+                <Precinct name="Brewton" votes="3" />
+                <Precinct name="Dudley" votes="3" />
+                <Precinct name="Hampton Mill" votes="4" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="4" />
+                <Precinct name="WT Adams Fire Station 18" votes="6" />
+                <Precinct name="Reedy Springs" votes="1" />
+                <Precinct name="Smith" votes="12" />
+                <Precinct name="LCFS #10" votes="10" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="142">
+                <Precinct name="FBC-FLC" votes="21" />
+                <Precinct name="Calhoun Park" votes="27" />
+                <Precinct name="Fire Dept Station 5" votes="16" />
+                <Precinct name="Buckeye" votes="3" />
+                <Precinct name="Burch" votes="5" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="8" />
+                <Precinct name="Dudley" votes="8" />
+                <Precinct name="Hampton Mill" votes="6" />
+                <Precinct name="Minter" votes="3" />
+                <Precinct name="Rural Fire Station 7" votes="5" />
+                <Precinct name="WT Adams Fire Station 18" votes="16" />
+                <Precinct name="Reedy Springs" votes="6" />
+                <Precinct name="Smith" votes="12" />
+                <Precinct name="LCFS #10" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="US House of Representatives - District 12" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="Undervotes" votes="300">
+            <Precinct name="FBC-FLC" votes="38" />
+            <Precinct name="Calhoun Park" votes="71" />
+            <Precinct name="Fire Dept Station 5" votes="23" />
+            <Precinct name="Buckeye" votes="11" />
+            <Precinct name="Burch" votes="5" />
+            <Precinct name="Cadwell" votes="6" />
+            <Precinct name="Brewton" votes="17" />
+            <Precinct name="Dudley" votes="11" />
+            <Precinct name="Hampton Mill" votes="14" />
+            <Precinct name="Minter" votes="5" />
+            <Precinct name="Rural Fire Station 7" votes="12" />
+            <Precinct name="WT Adams Fire Station 18" votes="13" />
+            <Precinct name="Reedy Springs" votes="9" />
+            <Precinct name="Smith" votes="42" />
+            <Precinct name="LCFS #10" votes="23" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="28" text="Rick W. Allen (I) (Rep)" totalVotes="12422">
+            <VoteType name="Absentee by Mail Votes" votes="535">
+                <Precinct name="FBC-FLC" votes="115" />
+                <Precinct name="Calhoun Park" votes="46" />
+                <Precinct name="Fire Dept Station 5" votes="85" />
+                <Precinct name="Buckeye" votes="10" />
+                <Precinct name="Burch" votes="5" />
+                <Precinct name="Cadwell" votes="10" />
+                <Precinct name="Brewton" votes="20" />
+                <Precinct name="Dudley" votes="23" />
+                <Precinct name="Hampton Mill" votes="24" />
+                <Precinct name="Minter" votes="23" />
+                <Precinct name="Rural Fire Station 7" votes="33" />
+                <Precinct name="WT Adams Fire Station 18" votes="66" />
+                <Precinct name="Reedy Springs" votes="7" />
+                <Precinct name="Smith" votes="38" />
+                <Precinct name="LCFS #10" votes="30" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5024">
+                <Precinct name="FBC-FLC" votes="995" />
+                <Precinct name="Calhoun Park" votes="353" />
+                <Precinct name="Fire Dept Station 5" votes="970" />
+                <Precinct name="Buckeye" votes="98" />
+                <Precinct name="Burch" votes="34" />
+                <Precinct name="Cadwell" votes="99" />
+                <Precinct name="Brewton" votes="256" />
+                <Precinct name="Dudley" votes="268" />
+                <Precinct name="Hampton Mill" votes="247" />
+                <Precinct name="Minter" votes="145" />
+                <Precinct name="Rural Fire Station 7" votes="381" />
+                <Precinct name="WT Adams Fire Station 18" votes="464" />
+                <Precinct name="Reedy Springs" votes="81" />
+                <Precinct name="Smith" votes="326" />
+                <Precinct name="LCFS #10" votes="307" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6855">
+                <Precinct name="FBC-FLC" votes="495" />
+                <Precinct name="Calhoun Park" votes="257" />
+                <Precinct name="Fire Dept Station 5" votes="753" />
+                <Precinct name="Buckeye" votes="215" />
+                <Precinct name="Burch" votes="192" />
+                <Precinct name="Cadwell" votes="308" />
+                <Precinct name="Brewton" votes="515" />
+                <Precinct name="Dudley" votes="526" />
+                <Precinct name="Hampton Mill" votes="741" />
+                <Precinct name="Minter" votes="397" />
+                <Precinct name="Rural Fire Station 7" votes="629" />
+                <Precinct name="WT Adams Fire Station 18" votes="537" />
+                <Precinct name="Reedy Springs" votes="390" />
+                <Precinct name="Smith" votes="492" />
+                <Precinct name="LCFS #10" votes="408" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="8">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="4" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="29" text="Elizabeth 'Liz' Johnson (Dem)" totalVotes="5871">
+            <VoteType name="Absentee by Mail Votes" votes="723">
+                <Precinct name="FBC-FLC" votes="95" />
+                <Precinct name="Calhoun Park" votes="237" />
+                <Precinct name="Fire Dept Station 5" votes="73" />
+                <Precinct name="Buckeye" votes="27" />
+                <Precinct name="Burch" votes="11" />
+                <Precinct name="Cadwell" votes="6" />
+                <Precinct name="Brewton" votes="18" />
+                <Precinct name="Dudley" votes="26" />
+                <Precinct name="Hampton Mill" votes="9" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="29" />
+                <Precinct name="WT Adams Fire Station 18" votes="62" />
+                <Precinct name="Reedy Springs" votes="11" />
+                <Precinct name="Smith" votes="69" />
+                <Precinct name="LCFS #10" votes="50" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2940">
+                <Precinct name="FBC-FLC" votes="473" />
+                <Precinct name="Calhoun Park" votes="839" />
+                <Precinct name="Fire Dept Station 5" votes="375" />
+                <Precinct name="Buckeye" votes="115" />
+                <Precinct name="Burch" votes="19" />
+                <Precinct name="Cadwell" votes="22" />
+                <Precinct name="Brewton" votes="72" />
+                <Precinct name="Dudley" votes="103" />
+                <Precinct name="Hampton Mill" votes="43" />
+                <Precinct name="Minter" votes="15" />
+                <Precinct name="Rural Fire Station 7" votes="132" />
+                <Precinct name="WT Adams Fire Station 18" votes="207" />
+                <Precinct name="Reedy Springs" votes="24" />
+                <Precinct name="Smith" votes="307" />
+                <Precinct name="LCFS #10" votes="194" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2206">
+                <Precinct name="FBC-FLC" votes="273" />
+                <Precinct name="Calhoun Park" votes="594" />
+                <Precinct name="Fire Dept Station 5" votes="173" />
+                <Precinct name="Buckeye" votes="103" />
+                <Precinct name="Burch" votes="22" />
+                <Precinct name="Cadwell" votes="33" />
+                <Precinct name="Brewton" votes="87" />
+                <Precinct name="Dudley" votes="100" />
+                <Precinct name="Hampton Mill" votes="74" />
+                <Precinct name="Minter" votes="23" />
+                <Precinct name="Rural Fire Station 7" votes="108" />
+                <Precinct name="WT Adams Fire Station 18" votes="123" />
+                <Precinct name="Reedy Springs" votes="44" />
+                <Precinct name="Smith" votes="288" />
+                <Precinct name="LCFS #10" votes="161" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="1" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="State Senate - District 20" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="Undervotes" votes="3131">
+            <Precinct name="FBC-FLC" votes="386" />
+            <Precinct name="Calhoun Park" votes="883" />
+            <Precinct name="Fire Dept Station 5" votes="308" />
+            <Precinct name="Buckeye" votes="153" />
+            <Precinct name="Burch" votes="36" />
+            <Precinct name="Cadwell" votes="36" />
+            <Precinct name="Brewton" votes="112" />
+            <Precinct name="Dudley" votes="117" />
+            <Precinct name="Hampton Mill" votes="64" />
+            <Precinct name="Minter" votes="21" />
+            <Precinct name="Rural Fire Station 7" votes="146" />
+            <Precinct name="WT Adams Fire Station 18" votes="217" />
+            <Precinct name="Reedy Springs" votes="52" />
+            <Precinct name="Smith" votes="355" />
+            <Precinct name="LCFS #10" votes="245" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="30" text="Larry Walker (I) (Rep)" totalVotes="15185">
+            <VoteType name="Absentee by Mail Votes" votes="775">
+                <Precinct name="FBC-FLC" votes="148" />
+                <Precinct name="Calhoun Park" votes="122" />
+                <Precinct name="Fire Dept Station 5" votes="115" />
+                <Precinct name="Buckeye" votes="16" />
+                <Precinct name="Burch" votes="8" />
+                <Precinct name="Cadwell" votes="12" />
+                <Precinct name="Brewton" votes="25" />
+                <Precinct name="Dudley" votes="35" />
+                <Precinct name="Hampton Mill" votes="28" />
+                <Precinct name="Minter" votes="23" />
+                <Precinct name="Rural Fire Station 7" votes="51" />
+                <Precinct name="WT Adams Fire Station 18" votes="81" />
+                <Precinct name="Reedy Springs" votes="11" />
+                <Precinct name="Smith" votes="60" />
+                <Precinct name="LCFS #10" votes="40" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6386">
+                <Precinct name="FBC-FLC" votes="1243" />
+                <Precinct name="Calhoun Park" votes="751" />
+                <Precinct name="Fire Dept Station 5" votes="1145" />
+                <Precinct name="Buckeye" votes="146" />
+                <Precinct name="Burch" votes="38" />
+                <Precinct name="Cadwell" votes="110" />
+                <Precinct name="Brewton" votes="286" />
+                <Precinct name="Dudley" votes="305" />
+                <Precinct name="Hampton Mill" votes="266" />
+                <Precinct name="Minter" votes="148" />
+                <Precinct name="Rural Fire Station 7" votes="435" />
+                <Precinct name="WT Adams Fire Station 18" votes="568" />
+                <Precinct name="Reedy Springs" votes="93" />
+                <Precinct name="Smith" votes="469" />
+                <Precinct name="LCFS #10" votes="383" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="8016">
+                <Precinct name="FBC-FLC" votes="656" />
+                <Precinct name="Calhoun Park" votes="576" />
+                <Precinct name="Fire Dept Station 5" votes="846" />
+                <Precinct name="Buckeye" votes="254" />
+                <Precinct name="Burch" votes="205" />
+                <Precinct name="Cadwell" votes="322" />
+                <Precinct name="Brewton" votes="553" />
+                <Precinct name="Dudley" votes="583" />
+                <Precinct name="Hampton Mill" votes="788" />
+                <Precinct name="Minter" votes="413" />
+                <Precinct name="Rural Fire Station 7" votes="677" />
+                <Precinct name="WT Adams Fire Station 18" votes="597" />
+                <Precinct name="Reedy Springs" votes="409" />
+                <Precinct name="Smith" votes="649" />
+                <Precinct name="LCFS #10" votes="488" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="8">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="4" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="State House - District 155" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="Undervotes" votes="3191">
+            <Precinct name="FBC-FLC" votes="379" />
+            <Precinct name="Calhoun Park" votes="871" />
+            <Precinct name="Fire Dept Station 5" votes="319" />
+            <Precinct name="Buckeye" votes="159" />
+            <Precinct name="Burch" votes="42" />
+            <Precinct name="Cadwell" votes="41" />
+            <Precinct name="Brewton" votes="121" />
+            <Precinct name="Dudley" votes="129" />
+            <Precinct name="Hampton Mill" votes="76" />
+            <Precinct name="Minter" votes="23" />
+            <Precinct name="Rural Fire Station 7" votes="156" />
+            <Precinct name="WT Adams Fire Station 18" votes="218" />
+            <Precinct name="Reedy Springs" votes="53" />
+            <Precinct name="Smith" votes="361" />
+            <Precinct name="LCFS #10" votes="243" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="31" text="Matt Hatchett (I) (Rep)" totalVotes="15154">
+            <VoteType name="Absentee by Mail Votes" votes="789">
+                <Precinct name="FBC-FLC" votes="152" />
+                <Precinct name="Calhoun Park" votes="126" />
+                <Precinct name="Fire Dept Station 5" votes="120" />
+                <Precinct name="Buckeye" votes="16" />
+                <Precinct name="Burch" votes="8" />
+                <Precinct name="Cadwell" votes="12" />
+                <Precinct name="Brewton" votes="25" />
+                <Precinct name="Dudley" votes="36" />
+                <Precinct name="Hampton Mill" votes="27" />
+                <Precinct name="Minter" votes="23" />
+                <Precinct name="Rural Fire Station 7" votes="49" />
+                <Precinct name="WT Adams Fire Station 18" votes="85" />
+                <Precinct name="Reedy Springs" votes="11" />
+                <Precinct name="Smith" votes="60" />
+                <Precinct name="LCFS #10" votes="39" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6392">
+                <Precinct name="FBC-FLC" votes="1246" />
+                <Precinct name="Calhoun Park" votes="766" />
+                <Precinct name="Fire Dept Station 5" votes="1143" />
+                <Precinct name="Buckeye" votes="143" />
+                <Precinct name="Burch" votes="37" />
+                <Precinct name="Cadwell" votes="110" />
+                <Precinct name="Brewton" votes="284" />
+                <Precinct name="Dudley" votes="305" />
+                <Precinct name="Hampton Mill" votes="264" />
+                <Precinct name="Minter" votes="146" />
+                <Precinct name="Rural Fire Station 7" votes="435" />
+                <Precinct name="WT Adams Fire Station 18" votes="564" />
+                <Precinct name="Reedy Springs" votes="90" />
+                <Precinct name="Smith" votes="467" />
+                <Precinct name="LCFS #10" votes="392" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7964">
+                <Precinct name="FBC-FLC" votes="656" />
+                <Precinct name="Calhoun Park" votes="581" />
+                <Precinct name="Fire Dept Station 5" votes="836" />
+                <Precinct name="Buckeye" votes="252" />
+                <Precinct name="Burch" votes="201" />
+                <Precinct name="Cadwell" votes="317" />
+                <Precinct name="Brewton" votes="549" />
+                <Precinct name="Dudley" votes="570" />
+                <Precinct name="Hampton Mill" votes="778" />
+                <Precinct name="Minter" votes="412" />
+                <Precinct name="Rural Fire Station 7" votes="673" />
+                <Precinct name="WT Adams Fire Station 18" votes="592" />
+                <Precinct name="Reedy Springs" votes="410" />
+                <Precinct name="Smith" votes="651" />
+                <Precinct name="LCFS #10" votes="486" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="9">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="4" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="County Commissioner - Dist 1" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="598">
+            <Precinct name="FBC-FLC" votes="28" />
+            <Precinct name="Calhoun Park" votes="235" />
+            <Precinct name="LCFS #10" votes="335" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="32" text="Brenda Chain (I) (Dem)" totalVotes="2106">
+            <VoteType name="Absentee by Mail Votes" votes="232">
+                <Precinct name="FBC-FLC" votes="13" />
+                <Precinct name="Calhoun Park" votes="161" />
+                <Precinct name="LCFS #10" votes="58" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1029">
+                <Precinct name="FBC-FLC" votes="64" />
+                <Precinct name="Calhoun Park" votes="625" />
+                <Precinct name="LCFS #10" votes="340" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="842">
+                <Precinct name="FBC-FLC" votes="33" />
+                <Precinct name="Calhoun Park" votes="438" />
+                <Precinct name="LCFS #10" votes="371" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="County Commissioner - Dist 4" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="881">
+            <Precinct name="Calhoun Park" votes="327" />
+            <Precinct name="Fire Dept Station 5" votes="124" />
+            <Precinct name="Buckeye" votes="86" />
+            <Precinct name="Dudley" votes="45" />
+            <Precinct name="WT Adams Fire Station 18" votes="198" />
+            <Precinct name="Smith" votes="101" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Smith" votes="0" />
+        </VoteType>
+        <Choice key="33" text="Jimmy R. Rogers (I) (Rep)" totalVotes="3059">
+            <VoteType name="Absentee by Mail Votes" votes="185">
+                <Precinct name="Calhoun Park" votes="40" />
+                <Precinct name="Fire Dept Station 5" votes="31" />
+                <Precinct name="Buckeye" votes="5" />
+                <Precinct name="Dudley" votes="14" />
+                <Precinct name="WT Adams Fire Station 18" votes="82" />
+                <Precinct name="Smith" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1423">
+                <Precinct name="Calhoun Park" votes="295" />
+                <Precinct name="Fire Dept Station 5" votes="362" />
+                <Precinct name="Buckeye" votes="55" />
+                <Precinct name="Dudley" votes="81" />
+                <Precinct name="WT Adams Fire Station 18" votes="577" />
+                <Precinct name="Smith" votes="53" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1451">
+                <Precinct name="Calhoun Park" votes="235" />
+                <Precinct name="Fire Dept Station 5" votes="328" />
+                <Precinct name="Buckeye" votes="56" />
+                <Precinct name="Dudley" votes="150" />
+                <Precinct name="WT Adams Fire Station 18" votes="606" />
+                <Precinct name="Smith" votes="76" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Smith" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="County Commissioner - Dist 5" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="456">
+            <Precinct name="Buckeye" votes="72" />
+            <Precinct name="Brewton" votes="119" />
+            <Precinct name="Minter" votes="26" />
+            <Precinct name="Smith" votes="239" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Smith" votes="0" />
+        </VoteType>
+        <Choice key="34" text="Kevin L. Tanner (I) (Rep)" totalVotes="2790">
+            <VoteType name="Absentee by Mail Votes" votes="108">
+                <Precinct name="Buckeye" votes="12" />
+                <Precinct name="Brewton" votes="25" />
+                <Precinct name="Minter" votes="23" />
+                <Precinct name="Smith" votes="48" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="941">
+                <Precinct name="Buckeye" votes="94" />
+                <Precinct name="Brewton" votes="277" />
+                <Precinct name="Minter" votes="149" />
+                <Precinct name="Smith" votes="421" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1737">
+                <Precinct name="Buckeye" votes="195" />
+                <Precinct name="Brewton" votes="551" />
+                <Precinct name="Minter" votes="406" />
+                <Precinct name="Smith" votes="585" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Minter" votes="4" />
+                <Precinct name="Smith" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Soil and Water" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="Undervotes" votes="4189">
+            <Precinct name="FBC-FLC" votes="449" />
+            <Precinct name="Calhoun Park" votes="942" />
+            <Precinct name="Fire Dept Station 5" votes="429" />
+            <Precinct name="Buckeye" votes="198" />
+            <Precinct name="Burch" votes="46" />
+            <Precinct name="Cadwell" votes="56" />
+            <Precinct name="Brewton" votes="243" />
+            <Precinct name="Dudley" votes="155" />
+            <Precinct name="Hampton Mill" votes="105" />
+            <Precinct name="Minter" votes="109" />
+            <Precinct name="Rural Fire Station 7" votes="217" />
+            <Precinct name="WT Adams Fire Station 18" votes="342" />
+            <Precinct name="Reedy Springs" votes="76" />
+            <Precinct name="Smith" votes="484" />
+            <Precinct name="LCFS #10" votes="338" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="35" text="Danny B. Hogan (I)" totalVotes="14416">
+            <VoteType name="Absentee by Mail Votes" votes="884">
+                <Precinct name="FBC-FLC" votes="153" />
+                <Precinct name="Calhoun Park" votes="173" />
+                <Precinct name="Fire Dept Station 5" votes="129" />
+                <Precinct name="Buckeye" votes="21" />
+                <Precinct name="Burch" votes="10" />
+                <Precinct name="Cadwell" votes="12" />
+                <Precinct name="Brewton" votes="24" />
+                <Precinct name="Dudley" votes="41" />
+                <Precinct name="Hampton Mill" votes="32" />
+                <Precinct name="Minter" votes="22" />
+                <Precinct name="Rural Fire Station 7" votes="53" />
+                <Precinct name="WT Adams Fire Station 18" votes="87" />
+                <Precinct name="Reedy Springs" votes="12" />
+                <Precinct name="Smith" votes="65" />
+                <Precinct name="LCFS #10" votes="50" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6056">
+                <Precinct name="FBC-FLC" votes="1238" />
+                <Precinct name="Calhoun Park" votes="721" />
+                <Precinct name="Fire Dept Station 5" votes="1103" />
+                <Precinct name="Buckeye" votes="141" />
+                <Precinct name="Burch" votes="40" />
+                <Precinct name="Cadwell" votes="111" />
+                <Precinct name="Brewton" votes="236" />
+                <Precinct name="Dudley" votes="302" />
+                <Precinct name="Hampton Mill" votes="260" />
+                <Precinct name="Minter" votes="130" />
+                <Precinct name="Rural Fire Station 7" votes="426" />
+                <Precinct name="WT Adams Fire Station 18" votes="495" />
+                <Precinct name="Reedy Springs" votes="87" />
+                <Precinct name="Smith" votes="422" />
+                <Precinct name="LCFS #10" votes="344" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7467">
+                <Precinct name="FBC-FLC" votes="645" />
+                <Precinct name="Calhoun Park" votes="564" />
+                <Precinct name="Fire Dept Station 5" votes="792" />
+                <Precinct name="Buckeye" votes="220" />
+                <Precinct name="Burch" votes="192" />
+                <Precinct name="Cadwell" votes="305" />
+                <Precinct name="Brewton" votes="482" />
+                <Precinct name="Dudley" votes="559" />
+                <Precinct name="Hampton Mill" votes="755" />
+                <Precinct name="Minter" votes="348" />
+                <Precinct name="Rural Fire Station 7" votes="629" />
+                <Precinct name="WT Adams Fire Station 18" votes="551" />
+                <Precinct name="Reedy Springs" votes="391" />
+                <Precinct name="Smith" votes="593" />
+                <Precinct name="LCFS #10" votes="441" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="9">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="4" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="Proposed Constitutional Amendment 1" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="Undervotes" votes="871">
+            <Precinct name="FBC-FLC" votes="69" />
+            <Precinct name="Calhoun Park" votes="156" />
+            <Precinct name="Fire Dept Station 5" votes="101" />
+            <Precinct name="Buckeye" votes="48" />
+            <Precinct name="Burch" votes="11" />
+            <Precinct name="Cadwell" votes="19" />
+            <Precinct name="Brewton" votes="46" />
+            <Precinct name="Dudley" votes="54" />
+            <Precinct name="Hampton Mill" votes="40" />
+            <Precinct name="Minter" votes="35" />
+            <Precinct name="Rural Fire Station 7" votes="46" />
+            <Precinct name="WT Adams Fire Station 18" votes="66" />
+            <Precinct name="Reedy Springs" votes="18" />
+            <Precinct name="Smith" votes="106" />
+            <Precinct name="LCFS #10" votes="56" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="36" text="Yes" totalVotes="15278">
+            <VoteType name="Absentee by Mail Votes" votes="1064">
+                <Precinct name="FBC-FLC" votes="192" />
+                <Precinct name="Calhoun Park" votes="233" />
+                <Precinct name="Fire Dept Station 5" votes="138" />
+                <Precinct name="Buckeye" votes="25" />
+                <Precinct name="Burch" votes="15" />
+                <Precinct name="Cadwell" votes="15" />
+                <Precinct name="Brewton" votes="30" />
+                <Precinct name="Dudley" votes="44" />
+                <Precinct name="Hampton Mill" votes="25" />
+                <Precinct name="Minter" votes="18" />
+                <Precinct name="Rural Fire Station 7" votes="54" />
+                <Precinct name="WT Adams Fire Station 18" votes="101" />
+                <Precinct name="Reedy Springs" votes="17" />
+                <Precinct name="Smith" votes="92" />
+                <Precinct name="LCFS #10" votes="65" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6677">
+                <Precinct name="FBC-FLC" votes="1286" />
+                <Precinct name="Calhoun Park" votes="984" />
+                <Precinct name="Fire Dept Station 5" votes="1155" />
+                <Precinct name="Buckeye" votes="165" />
+                <Precinct name="Burch" votes="40" />
+                <Precinct name="Cadwell" votes="95" />
+                <Precinct name="Brewton" votes="277" />
+                <Precinct name="Dudley" votes="303" />
+                <Precinct name="Hampton Mill" votes="242" />
+                <Precinct name="Minter" votes="128" />
+                <Precinct name="Rural Fire Station 7" votes="432" />
+                <Precinct name="WT Adams Fire Station 18" votes="552" />
+                <Precinct name="Reedy Springs" votes="90" />
+                <Precinct name="Smith" votes="508" />
+                <Precinct name="LCFS #10" votes="420" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7528">
+                <Precinct name="FBC-FLC" votes="656" />
+                <Precinct name="Calhoun Park" votes="657" />
+                <Precinct name="Fire Dept Station 5" votes="785" />
+                <Precinct name="Buckeye" votes="250" />
+                <Precinct name="Burch" votes="178" />
+                <Precinct name="Cadwell" votes="280" />
+                <Precinct name="Brewton" votes="505" />
+                <Precinct name="Dudley" votes="524" />
+                <Precinct name="Hampton Mill" votes="698" />
+                <Precinct name="Minter" votes="342" />
+                <Precinct name="Rural Fire Station 7" votes="626" />
+                <Precinct name="WT Adams Fire Station 18" votes="539" />
+                <Precinct name="Reedy Springs" votes="369" />
+                <Precinct name="Smith" votes="634" />
+                <Precinct name="LCFS #10" votes="485" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="9">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="4" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="37" text="No" totalVotes="2456">
+            <VoteType name="Absentee by Mail Votes" votes="136">
+                <Precinct name="FBC-FLC" votes="11" />
+                <Precinct name="Calhoun Park" votes="34" />
+                <Precinct name="Fire Dept Station 5" votes="12" />
+                <Precinct name="Buckeye" votes="8" />
+                <Precinct name="Burch" votes="1" />
+                <Precinct name="Cadwell" votes="1" />
+                <Precinct name="Brewton" votes="7" />
+                <Precinct name="Dudley" votes="4" />
+                <Precinct name="Hampton Mill" votes="7" />
+                <Precinct name="Minter" votes="1" />
+                <Precinct name="Rural Fire Station 7" votes="8" />
+                <Precinct name="WT Adams Fire Station 18" votes="17" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="10" />
+                <Precinct name="LCFS #10" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1044">
+                <Precinct name="FBC-FLC" votes="172" />
+                <Precinct name="Calhoun Park" votes="166" />
+                <Precinct name="Fire Dept Station 5" votes="153" />
+                <Precinct name="Buckeye" votes="30" />
+                <Precinct name="Burch" votes="13" />
+                <Precinct name="Cadwell" votes="22" />
+                <Precinct name="Brewton" votes="38" />
+                <Precinct name="Dudley" votes="49" />
+                <Precinct name="Hampton Mill" votes="40" />
+                <Precinct name="Minter" votes="24" />
+                <Precinct name="Rural Fire Station 7" votes="68" />
+                <Precinct name="WT Adams Fire Station 18" votes="99" />
+                <Precinct name="Reedy Springs" votes="16" />
+                <Precinct name="Smith" votes="93" />
+                <Precinct name="LCFS #10" votes="61" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1275">
+                <Precinct name="FBC-FLC" votes="99" />
+                <Precinct name="Calhoun Park" votes="170" />
+                <Precinct name="Fire Dept Station 5" votes="108" />
+                <Precinct name="Buckeye" votes="54" />
+                <Precinct name="Burch" votes="30" />
+                <Precinct name="Cadwell" votes="52" />
+                <Precinct name="Brewton" votes="82" />
+                <Precinct name="Dudley" votes="79" />
+                <Precinct name="Hampton Mill" votes="100" />
+                <Precinct name="Minter" votes="61" />
+                <Precinct name="Rural Fire Station 7" votes="91" />
+                <Precinct name="WT Adams Fire Station 18" votes="101" />
+                <Precinct name="Reedy Springs" votes="56" />
+                <Precinct name="Smith" votes="121" />
+                <Precinct name="LCFS #10" votes="71" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="1" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="0" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="Proposed Constitutional Amendment 2" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="Undervotes" votes="751">
+            <Precinct name="FBC-FLC" votes="60" />
+            <Precinct name="Calhoun Park" votes="138" />
+            <Precinct name="Fire Dept Station 5" votes="87" />
+            <Precinct name="Buckeye" votes="40" />
+            <Precinct name="Burch" votes="9" />
+            <Precinct name="Cadwell" votes="17" />
+            <Precinct name="Brewton" votes="40" />
+            <Precinct name="Dudley" votes="51" />
+            <Precinct name="Hampton Mill" votes="35" />
+            <Precinct name="Minter" votes="30" />
+            <Precinct name="Rural Fire Station 7" votes="43" />
+            <Precinct name="WT Adams Fire Station 18" votes="54" />
+            <Precinct name="Reedy Springs" votes="17" />
+            <Precinct name="Smith" votes="85" />
+            <Precinct name="LCFS #10" votes="45" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="38" text="Yes" totalVotes="15866">
+            <VoteType name="Absentee by Mail Votes" votes="1120">
+                <Precinct name="FBC-FLC" votes="201" />
+                <Precinct name="Calhoun Park" votes="245" />
+                <Precinct name="Fire Dept Station 5" votes="151" />
+                <Precinct name="Buckeye" votes="29" />
+                <Precinct name="Burch" votes="15" />
+                <Precinct name="Cadwell" votes="16" />
+                <Precinct name="Brewton" votes="35" />
+                <Precinct name="Dudley" votes="40" />
+                <Precinct name="Hampton Mill" votes="32" />
+                <Precinct name="Minter" votes="15" />
+                <Precinct name="Rural Fire Station 7" votes="59" />
+                <Precinct name="WT Adams Fire Station 18" votes="109" />
+                <Precinct name="Reedy Springs" votes="16" />
+                <Precinct name="Smith" votes="91" />
+                <Precinct name="LCFS #10" votes="66" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6867">
+                <Precinct name="FBC-FLC" votes="1308" />
+                <Precinct name="Calhoun Park" votes="1007" />
+                <Precinct name="Fire Dept Station 5" votes="1170" />
+                <Precinct name="Buckeye" votes="181" />
+                <Precinct name="Burch" votes="46" />
+                <Precinct name="Cadwell" votes="107" />
+                <Precinct name="Brewton" votes="276" />
+                <Precinct name="Dudley" votes="309" />
+                <Precinct name="Hampton Mill" votes="253" />
+                <Precinct name="Minter" votes="133" />
+                <Precinct name="Rural Fire Station 7" votes="449" />
+                <Precinct name="WT Adams Fire Station 18" votes="560" />
+                <Precinct name="Reedy Springs" votes="88" />
+                <Precinct name="Smith" votes="542" />
+                <Precinct name="LCFS #10" votes="438" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7871">
+                <Precinct name="FBC-FLC" votes="679" />
+                <Precinct name="Calhoun Park" votes="737" />
+                <Precinct name="Fire Dept Station 5" votes="790" />
+                <Precinct name="Buckeye" votes="272" />
+                <Precinct name="Burch" votes="184" />
+                <Precinct name="Cadwell" votes="295" />
+                <Precinct name="Brewton" votes="513" />
+                <Precinct name="Dudley" votes="551" />
+                <Precinct name="Hampton Mill" votes="719" />
+                <Precinct name="Minter" votes="367" />
+                <Precinct name="Rural Fire Station 7" votes="640" />
+                <Precinct name="WT Adams Fire Station 18" votes="566" />
+                <Precinct name="Reedy Springs" votes="374" />
+                <Precinct name="Smith" votes="675" />
+                <Precinct name="LCFS #10" votes="509" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="8">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="1" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="2" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="39" text="No" totalVotes="1988">
+            <VoteType name="Absentee by Mail Votes" votes="84">
+                <Precinct name="FBC-FLC" votes="7" />
+                <Precinct name="Calhoun Park" votes="20" />
+                <Precinct name="Fire Dept Station 5" votes="2" />
+                <Precinct name="Buckeye" votes="4" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="3" />
+                <Precinct name="Dudley" votes="8" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="4" />
+                <Precinct name="Rural Fire Station 7" votes="3" />
+                <Precinct name="WT Adams Fire Station 18" votes="8" />
+                <Precinct name="Reedy Springs" votes="1" />
+                <Precinct name="Smith" votes="11" />
+                <Precinct name="LCFS #10" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="903">
+                <Precinct name="FBC-FLC" votes="151" />
+                <Precinct name="Calhoun Park" votes="152" />
+                <Precinct name="Fire Dept Station 5" votes="145" />
+                <Precinct name="Buckeye" votes="18" />
+                <Precinct name="Burch" votes="7" />
+                <Precinct name="Cadwell" votes="9" />
+                <Precinct name="Brewton" votes="44" />
+                <Precinct name="Dudley" votes="43" />
+                <Precinct name="Hampton Mill" votes="27" />
+                <Precinct name="Minter" votes="19" />
+                <Precinct name="Rural Fire Station 7" votes="54" />
+                <Precinct name="WT Adams Fire Station 18" votes="96" />
+                <Precinct name="Reedy Springs" votes="18" />
+                <Precinct name="Smith" votes="70" />
+                <Precinct name="LCFS #10" votes="50" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="999">
+                <Precinct name="FBC-FLC" votes="79" />
+                <Precinct name="Calhoun Park" votes="101" />
+                <Precinct name="Fire Dept Station 5" votes="107" />
+                <Precinct name="Buckeye" votes="36" />
+                <Precinct name="Burch" votes="27" />
+                <Precinct name="Cadwell" votes="40" />
+                <Precinct name="Brewton" votes="74" />
+                <Precinct name="Dudley" votes="55" />
+                <Precinct name="Hampton Mill" votes="86" />
+                <Precinct name="Minter" votes="41" />
+                <Precinct name="Rural Fire Station 7" votes="77" />
+                <Precinct name="WT Adams Fire Station 18" votes="82" />
+                <Precinct name="Reedy Springs" votes="52" />
+                <Precinct name="Smith" votes="90" />
+                <Precinct name="LCFS #10" votes="52" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="2" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="Statewide Referendum Question A" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="Undervotes" votes="1020">
+            <Precinct name="FBC-FLC" votes="112" />
+            <Precinct name="Calhoun Park" votes="166" />
+            <Precinct name="Fire Dept Station 5" votes="131" />
+            <Precinct name="Buckeye" votes="60" />
+            <Precinct name="Burch" votes="14" />
+            <Precinct name="Cadwell" votes="23" />
+            <Precinct name="Brewton" votes="52" />
+            <Precinct name="Dudley" votes="55" />
+            <Precinct name="Hampton Mill" votes="45" />
+            <Precinct name="Minter" votes="34" />
+            <Precinct name="Rural Fire Station 7" votes="59" />
+            <Precinct name="WT Adams Fire Station 18" votes="77" />
+            <Precinct name="Reedy Springs" votes="27" />
+            <Precinct name="Smith" votes="101" />
+            <Precinct name="LCFS #10" votes="64" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Yes" totalVotes="11519">
+            <VoteType name="Absentee by Mail Votes" votes="619">
+                <Precinct name="FBC-FLC" votes="103" />
+                <Precinct name="Calhoun Park" votes="146" />
+                <Precinct name="Fire Dept Station 5" votes="79" />
+                <Precinct name="Buckeye" votes="20" />
+                <Precinct name="Burch" votes="9" />
+                <Precinct name="Cadwell" votes="9" />
+                <Precinct name="Brewton" votes="23" />
+                <Precinct name="Dudley" votes="23" />
+                <Precinct name="Hampton Mill" votes="21" />
+                <Precinct name="Minter" votes="12" />
+                <Precinct name="Rural Fire Station 7" votes="28" />
+                <Precinct name="WT Adams Fire Station 18" votes="52" />
+                <Precinct name="Reedy Springs" votes="10" />
+                <Precinct name="Smith" votes="59" />
+                <Precinct name="LCFS #10" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4801">
+                <Precinct name="FBC-FLC" votes="865" />
+                <Precinct name="Calhoun Park" votes="727" />
+                <Precinct name="Fire Dept Station 5" votes="819" />
+                <Precinct name="Buckeye" votes="117" />
+                <Precinct name="Burch" votes="33" />
+                <Precinct name="Cadwell" votes="73" />
+                <Precinct name="Brewton" votes="198" />
+                <Precinct name="Dudley" votes="231" />
+                <Precinct name="Hampton Mill" votes="183" />
+                <Precinct name="Minter" votes="86" />
+                <Precinct name="Rural Fire Station 7" votes="310" />
+                <Precinct name="WT Adams Fire Station 18" votes="421" />
+                <Precinct name="Reedy Springs" votes="67" />
+                <Precinct name="Smith" votes="363" />
+                <Precinct name="LCFS #10" votes="308" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="6093">
+                <Precinct name="FBC-FLC" votes="513" />
+                <Precinct name="Calhoun Park" votes="544" />
+                <Precinct name="Fire Dept Station 5" votes="625" />
+                <Precinct name="Buckeye" votes="205" />
+                <Precinct name="Burch" votes="153" />
+                <Precinct name="Cadwell" votes="224" />
+                <Precinct name="Brewton" votes="416" />
+                <Precinct name="Dudley" votes="416" />
+                <Precinct name="Hampton Mill" votes="538" />
+                <Precinct name="Minter" votes="275" />
+                <Precinct name="Rural Fire Station 7" votes="507" />
+                <Precinct name="WT Adams Fire Station 18" votes="471" />
+                <Precinct name="Reedy Springs" votes="297" />
+                <Precinct name="Smith" votes="534" />
+                <Precinct name="LCFS #10" votes="375" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="6">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="3" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="No" totalVotes="6066">
+            <VoteType name="Absentee by Mail Votes" votes="543">
+                <Precinct name="FBC-FLC" votes="95" />
+                <Precinct name="Calhoun Park" votes="115" />
+                <Precinct name="Fire Dept Station 5" votes="61" />
+                <Precinct name="Buckeye" votes="11" />
+                <Precinct name="Burch" votes="5" />
+                <Precinct name="Cadwell" votes="5" />
+                <Precinct name="Brewton" votes="13" />
+                <Precinct name="Dudley" votes="25" />
+                <Precinct name="Hampton Mill" votes="12" />
+                <Precinct name="Minter" votes="7" />
+                <Precinct name="Rural Fire Station 7" votes="32" />
+                <Precinct name="WT Adams Fire Station 18" votes="59" />
+                <Precinct name="Reedy Springs" votes="7" />
+                <Precinct name="Smith" votes="44" />
+                <Precinct name="LCFS #10" votes="52" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2840">
+                <Precinct name="FBC-FLC" votes="569" />
+                <Precinct name="Calhoun Park" votes="422" />
+                <Precinct name="Fire Dept Station 5" votes="472" />
+                <Precinct name="Buckeye" votes="76" />
+                <Precinct name="Burch" votes="20" />
+                <Precinct name="Cadwell" votes="39" />
+                <Precinct name="Brewton" votes="111" />
+                <Precinct name="Dudley" votes="119" />
+                <Precinct name="Hampton Mill" votes="95" />
+                <Precinct name="Minter" votes="64" />
+                <Precinct name="Rural Fire Station 7" votes="186" />
+                <Precinct name="WT Adams Fire Station 18" votes="222" />
+                <Precinct name="Reedy Springs" votes="35" />
+                <Precinct name="Smith" votes="241" />
+                <Precinct name="LCFS #10" votes="169" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2679">
+                <Precinct name="FBC-FLC" votes="228" />
+                <Precinct name="Calhoun Park" votes="280" />
+                <Precinct name="Fire Dept Station 5" votes="265" />
+                <Precinct name="Buckeye" votes="91" />
+                <Precinct name="Burch" votes="54" />
+                <Precinct name="Cadwell" votes="111" />
+                <Precinct name="Brewton" votes="172" />
+                <Precinct name="Dudley" votes="188" />
+                <Precinct name="Hampton Mill" votes="258" />
+                <Precinct name="Minter" votes="131" />
+                <Precinct name="Rural Fire Station 7" votes="203" />
+                <Precinct name="WT Adams Fire Station 18" votes="173" />
+                <Precinct name="Reedy Springs" votes="123" />
+                <Precinct name="Smith" votes="222" />
+                <Precinct name="LCFS #10" votes="180" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="1" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="1" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="Statewide Referendum Question B" voteFor="1" isQuestion="false" precinctsReporting="15" precinctsReported="15">
+        <VoteType name="Undervotes" votes="973">
+            <Precinct name="FBC-FLC" votes="101" />
+            <Precinct name="Calhoun Park" votes="164" />
+            <Precinct name="Fire Dept Station 5" votes="119" />
+            <Precinct name="Buckeye" votes="55" />
+            <Precinct name="Burch" votes="9" />
+            <Precinct name="Cadwell" votes="22" />
+            <Precinct name="Brewton" votes="56" />
+            <Precinct name="Dudley" votes="60" />
+            <Precinct name="Hampton Mill" votes="43" />
+            <Precinct name="Minter" votes="34" />
+            <Precinct name="Rural Fire Station 7" votes="59" />
+            <Precinct name="WT Adams Fire Station 18" votes="71" />
+            <Precinct name="Reedy Springs" votes="26" />
+            <Precinct name="Smith" votes="95" />
+            <Precinct name="LCFS #10" votes="59" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="FBC-FLC" votes="0" />
+            <Precinct name="Calhoun Park" votes="0" />
+            <Precinct name="Fire Dept Station 5" votes="0" />
+            <Precinct name="Buckeye" votes="0" />
+            <Precinct name="Burch" votes="0" />
+            <Precinct name="Cadwell" votes="0" />
+            <Precinct name="Brewton" votes="0" />
+            <Precinct name="Dudley" votes="0" />
+            <Precinct name="Hampton Mill" votes="0" />
+            <Precinct name="Minter" votes="0" />
+            <Precinct name="Rural Fire Station 7" votes="0" />
+            <Precinct name="WT Adams Fire Station 18" votes="0" />
+            <Precinct name="Reedy Springs" votes="0" />
+            <Precinct name="Smith" votes="0" />
+            <Precinct name="LCFS #10" votes="0" />
+        </VoteType>
+        <Choice key="40" text="Yes" totalVotes="13650">
+            <VoteType name="Absentee by Mail Votes" votes="782">
+                <Precinct name="FBC-FLC" votes="142" />
+                <Precinct name="Calhoun Park" votes="175" />
+                <Precinct name="Fire Dept Station 5" votes="98" />
+                <Precinct name="Buckeye" votes="25" />
+                <Precinct name="Burch" votes="9" />
+                <Precinct name="Cadwell" votes="14" />
+                <Precinct name="Brewton" votes="28" />
+                <Precinct name="Dudley" votes="27" />
+                <Precinct name="Hampton Mill" votes="23" />
+                <Precinct name="Minter" votes="11" />
+                <Precinct name="Rural Fire Station 7" votes="43" />
+                <Precinct name="WT Adams Fire Station 18" votes="63" />
+                <Precinct name="Reedy Springs" votes="11" />
+                <Precinct name="Smith" votes="66" />
+                <Precinct name="LCFS #10" votes="47" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5781">
+                <Precinct name="FBC-FLC" votes="1063" />
+                <Precinct name="Calhoun Park" votes="822" />
+                <Precinct name="Fire Dept Station 5" votes="988" />
+                <Precinct name="Buckeye" votes="146" />
+                <Precinct name="Burch" votes="41" />
+                <Precinct name="Cadwell" votes="94" />
+                <Precinct name="Brewton" votes="236" />
+                <Precinct name="Dudley" votes="280" />
+                <Precinct name="Hampton Mill" votes="231" />
+                <Precinct name="Minter" votes="119" />
+                <Precinct name="Rural Fire Station 7" votes="383" />
+                <Precinct name="WT Adams Fire Station 18" votes="496" />
+                <Precinct name="Reedy Springs" votes="76" />
+                <Precinct name="Smith" votes="443" />
+                <Precinct name="LCFS #10" votes="363" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="7078">
+                <Precinct name="FBC-FLC" votes="586" />
+                <Precinct name="Calhoun Park" votes="631" />
+                <Precinct name="Fire Dept Station 5" votes="710" />
+                <Precinct name="Buckeye" votes="231" />
+                <Precinct name="Burch" votes="178" />
+                <Precinct name="Cadwell" votes="290" />
+                <Precinct name="Brewton" votes="481" />
+                <Precinct name="Dudley" votes="473" />
+                <Precinct name="Hampton Mill" votes="646" />
+                <Precinct name="Minter" votes="338" />
+                <Precinct name="Rural Fire Station 7" votes="580" />
+                <Precinct name="WT Adams Fire Station 18" votes="528" />
+                <Precinct name="Reedy Springs" votes="348" />
+                <Precinct name="Smith" votes="609" />
+                <Precinct name="LCFS #10" votes="449" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="9">
+                <Precinct name="FBC-FLC" votes="2" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="1" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="1" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="3" />
+                <Precinct name="Rural Fire Station 7" votes="1" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="41" text="No" totalVotes="3982">
+            <VoteType name="Absentee by Mail Votes" votes="391">
+                <Precinct name="FBC-FLC" votes="59" />
+                <Precinct name="Calhoun Park" votes="87" />
+                <Precinct name="Fire Dept Station 5" votes="47" />
+                <Precinct name="Buckeye" votes="8" />
+                <Precinct name="Burch" votes="6" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="9" />
+                <Precinct name="Dudley" votes="19" />
+                <Precinct name="Hampton Mill" votes="10" />
+                <Precinct name="Minter" votes="8" />
+                <Precinct name="Rural Fire Station 7" votes="16" />
+                <Precinct name="WT Adams Fire Station 18" votes="47" />
+                <Precinct name="Reedy Springs" votes="6" />
+                <Precinct name="Smith" votes="36" />
+                <Precinct name="LCFS #10" votes="33" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1883">
+                <Precinct name="FBC-FLC" votes="374" />
+                <Precinct name="Calhoun Park" votes="326" />
+                <Precinct name="Fire Dept Station 5" votes="313" />
+                <Precinct name="Buckeye" votes="47" />
+                <Precinct name="Burch" votes="12" />
+                <Precinct name="Cadwell" votes="18" />
+                <Precinct name="Brewton" votes="70" />
+                <Precinct name="Dudley" votes="67" />
+                <Precinct name="Hampton Mill" votes="49" />
+                <Precinct name="Minter" votes="31" />
+                <Precinct name="Rural Fire Station 7" votes="118" />
+                <Precinct name="WT Adams Fire Station 18" votes="151" />
+                <Precinct name="Reedy Springs" votes="27" />
+                <Precinct name="Smith" votes="164" />
+                <Precinct name="LCFS #10" votes="116" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1707">
+                <Precinct name="FBC-FLC" votes="160" />
+                <Precinct name="Calhoun Park" votes="195" />
+                <Precinct name="Fire Dept Station 5" votes="177" />
+                <Precinct name="Buckeye" votes="68" />
+                <Precinct name="Burch" votes="33" />
+                <Precinct name="Cadwell" votes="46" />
+                <Precinct name="Brewton" votes="105" />
+                <Precinct name="Dudley" votes="131" />
+                <Precinct name="Hampton Mill" votes="150" />
+                <Precinct name="Minter" votes="68" />
+                <Precinct name="Rural Fire Station 7" votes="126" />
+                <Precinct name="WT Adams Fire Station 18" votes="119" />
+                <Precinct name="Reedy Springs" votes="72" />
+                <Precinct name="Smith" votes="151" />
+                <Precinct name="LCFS #10" votes="106" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="FBC-FLC" votes="0" />
+                <Precinct name="Calhoun Park" votes="0" />
+                <Precinct name="Fire Dept Station 5" votes="0" />
+                <Precinct name="Buckeye" votes="0" />
+                <Precinct name="Burch" votes="0" />
+                <Precinct name="Cadwell" votes="0" />
+                <Precinct name="Brewton" votes="0" />
+                <Precinct name="Dudley" votes="0" />
+                <Precinct name="Hampton Mill" votes="0" />
+                <Precinct name="Minter" votes="1" />
+                <Precinct name="Rural Fire Station 7" votes="0" />
+                <Precinct name="WT Adams Fire Station 18" votes="0" />
+                <Precinct name="Reedy Springs" votes="0" />
+                <Precinct name="Smith" votes="0" />
+                <Precinct name="LCFS #10" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 10:08:04 AM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Bacon</Region>
+    <VoterTurnout totalVoters="6382" ballotsCast="3493" voterTurnout="54.73">
+        <Precincts>
+            <Precinct name="Douglas" totalVoters="6375" ballotsCast="3493" voterTurnout="54.79" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Douglas" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Douglas" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="3047">
+            <VoteType name="Absentee by Mail Votes" votes="82">
+                <Precinct name="Douglas" votes="82" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2028">
+                <Precinct name="Douglas" votes="2028" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="937">
+                <Precinct name="Douglas" votes="937" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Douglas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="441">
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Douglas" votes="35" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="277">
+                <Precinct name="Douglas" votes="277" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="128">
+                <Precinct name="Douglas" votes="128" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Douglas" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

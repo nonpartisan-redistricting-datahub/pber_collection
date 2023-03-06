@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/14/2022 2:49:53 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Worth</Region>
+    <VoterTurnout totalVoters="13103" ballotsCast="6862" voterTurnout="52.37">
+        <Precincts>
+            <Precinct name="Sylvester " totalVoters="3187" ballotsCast="1381" voterTurnout="43.33" percentReporting="4" />
+            <Precinct name="Scooterville " totalVoters="621" ballotsCast="359" voterTurnout="57.81" percentReporting="4" />
+            <Precinct name="Minton" totalVoters="1011" ballotsCast="618" voterTurnout="61.13" percentReporting="4" />
+            <Precinct name="Bridgeboro" totalVoters="909" ballotsCast="448" voterTurnout="49.28" percentReporting="4" />
+            <Precinct name="County Line" totalVoters="796" ballotsCast="359" voterTurnout="45.10" percentReporting="4" />
+            <Precinct name="Isabella " totalVoters="896" ballotsCast="546" voterTurnout="60.94" percentReporting="4" />
+            <Precinct name="Sylvester East" totalVoters="1550" ballotsCast="922" voterTurnout="59.48" percentReporting="4" />
+            <Precinct name="Poulan " totalVoters="871" ballotsCast="493" voterTurnout="56.60" percentReporting="4" />
+            <Precinct name="Sumner" totalVoters="907" ballotsCast="490" voterTurnout="54.02" percentReporting="4" />
+            <Precinct name="Red Rock" totalVoters="1197" ballotsCast="566" voterTurnout="47.28" percentReporting="4" />
+            <Precinct name="Doles" totalVoters="382" ballotsCast="225" voterTurnout="58.90" percentReporting="4" />
+            <Precinct name="Warwick" totalVoters="774" ballotsCast="455" voterTurnout="58.79" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Sylvester " votes="2" />
+            <Precinct name="Scooterville " votes="0" />
+            <Precinct name="Minton" votes="1" />
+            <Precinct name="Bridgeboro" votes="0" />
+            <Precinct name="County Line" votes="0" />
+            <Precinct name="Isabella " votes="1" />
+            <Precinct name="Sylvester East" votes="0" />
+            <Precinct name="Poulan " votes="1" />
+            <Precinct name="Sumner" votes="0" />
+            <Precinct name="Red Rock" votes="0" />
+            <Precinct name="Doles" votes="0" />
+            <Precinct name="Warwick" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvester " votes="0" />
+            <Precinct name="Scooterville " votes="0" />
+            <Precinct name="Minton" votes="0" />
+            <Precinct name="Bridgeboro" votes="0" />
+            <Precinct name="County Line" votes="0" />
+            <Precinct name="Isabella " votes="0" />
+            <Precinct name="Sylvester East" votes="0" />
+            <Precinct name="Poulan " votes="0" />
+            <Precinct name="Sumner" votes="0" />
+            <Precinct name="Red Rock" votes="0" />
+            <Precinct name="Doles" votes="0" />
+            <Precinct name="Warwick" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="5097">
+            <VoteType name="Absentee by Mail Votes" votes="105">
+                <Precinct name="Sylvester " votes="18" />
+                <Precinct name="Scooterville " votes="3" />
+                <Precinct name="Minton" votes="15" />
+                <Precinct name="Bridgeboro" votes="8" />
+                <Precinct name="County Line" votes="5" />
+                <Precinct name="Isabella " votes="15" />
+                <Precinct name="Sylvester East" votes="15" />
+                <Precinct name="Poulan " votes="5" />
+                <Precinct name="Sumner" votes="4" />
+                <Precinct name="Red Rock" votes="10" />
+                <Precinct name="Doles" votes="3" />
+                <Precinct name="Warwick" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1633">
+                <Precinct name="Sylvester " votes="235" />
+                <Precinct name="Scooterville " votes="61" />
+                <Precinct name="Minton" votes="188" />
+                <Precinct name="Bridgeboro" votes="101" />
+                <Precinct name="County Line" votes="87" />
+                <Precinct name="Isabella " votes="181" />
+                <Precinct name="Sylvester East" votes="349" />
+                <Precinct name="Poulan " votes="116" />
+                <Precinct name="Sumner" votes="109" />
+                <Precinct name="Red Rock" votes="100" />
+                <Precinct name="Doles" votes="61" />
+                <Precinct name="Warwick" votes="45" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3358">
+                <Precinct name="Sylvester " votes="244" />
+                <Precinct name="Scooterville " votes="268" />
+                <Precinct name="Minton" votes="359" />
+                <Precinct name="Bridgeboro" votes="250" />
+                <Precinct name="County Line" votes="204" />
+                <Precinct name="Isabella " votes="287" />
+                <Precinct name="Sylvester East" votes="404" />
+                <Precinct name="Poulan " votes="290" />
+                <Precinct name="Sumner" votes="295" />
+                <Precinct name="Red Rock" votes="331" />
+                <Precinct name="Doles" votes="141" />
+                <Precinct name="Warwick" votes="285" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Sylvester " votes="0" />
+                <Precinct name="Scooterville " votes="0" />
+                <Precinct name="Minton" votes="0" />
+                <Precinct name="Bridgeboro" votes="1" />
+                <Precinct name="County Line" votes="0" />
+                <Precinct name="Isabella " votes="0" />
+                <Precinct name="Sylvester East" votes="0" />
+                <Precinct name="Poulan " votes="0" />
+                <Precinct name="Sumner" votes="0" />
+                <Precinct name="Red Rock" votes="0" />
+                <Precinct name="Doles" votes="0" />
+                <Precinct name="Warwick" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1759">
+            <VoteType name="Absentee by Mail Votes" votes="143">
+                <Precinct name="Sylvester " votes="67" />
+                <Precinct name="Scooterville " votes="4" />
+                <Precinct name="Minton" votes="7" />
+                <Precinct name="Bridgeboro" votes="3" />
+                <Precinct name="County Line" votes="4" />
+                <Precinct name="Isabella " votes="3" />
+                <Precinct name="Sylvester East" votes="11" />
+                <Precinct name="Poulan " votes="4" />
+                <Precinct name="Sumner" votes="7" />
+                <Precinct name="Red Rock" votes="7" />
+                <Precinct name="Doles" votes="2" />
+                <Precinct name="Warwick" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="851">
+                <Precinct name="Sylvester " votes="467" />
+                <Precinct name="Scooterville " votes="14" />
+                <Precinct name="Minton" votes="26" />
+                <Precinct name="Bridgeboro" votes="44" />
+                <Precinct name="County Line" votes="29" />
+                <Precinct name="Isabella " votes="37" />
+                <Precinct name="Sylvester East" votes="86" />
+                <Precinct name="Poulan " votes="39" />
+                <Precinct name="Sumner" votes="29" />
+                <Precinct name="Red Rock" votes="54" />
+                <Precinct name="Doles" votes="9" />
+                <Precinct name="Warwick" votes="17" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="765">
+                <Precinct name="Sylvester " votes="348" />
+                <Precinct name="Scooterville " votes="9" />
+                <Precinct name="Minton" votes="22" />
+                <Precinct name="Bridgeboro" votes="41" />
+                <Precinct name="County Line" votes="30" />
+                <Precinct name="Isabella " votes="22" />
+                <Precinct name="Sylvester East" votes="57" />
+                <Precinct name="Poulan " votes="38" />
+                <Precinct name="Sumner" votes="46" />
+                <Precinct name="Red Rock" votes="64" />
+                <Precinct name="Doles" votes="9" />
+                <Precinct name="Warwick" votes="79" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvester " votes="0" />
+                <Precinct name="Scooterville " votes="0" />
+                <Precinct name="Minton" votes="0" />
+                <Precinct name="Bridgeboro" votes="0" />
+                <Precinct name="County Line" votes="0" />
+                <Precinct name="Isabella " votes="0" />
+                <Precinct name="Sylvester East" votes="0" />
+                <Precinct name="Poulan " votes="0" />
+                <Precinct name="Sumner" votes="0" />
+                <Precinct name="Red Rock" votes="0" />
+                <Precinct name="Doles" votes="0" />
+                <Precinct name="Warwick" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

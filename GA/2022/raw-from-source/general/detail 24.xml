@@ -1,0 +1,2867 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/15/2022 7:51:47 PM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Screven</Region>
+    <VoterTurnout totalVoters="9590" ballotsCast="5322" voterTurnout="55.50">
+        <Precincts>
+            <Precinct name="Sylvania" totalVoters="1263" ballotsCast="657" voterTurnout="52.02" percentReporting="4" />
+            <Precinct name="Hunters" totalVoters="485" ballotsCast="267" voterTurnout="55.05" percentReporting="4" />
+            <Precinct name="Newington" totalVoters="1147" ballotsCast="620" voterTurnout="54.05" percentReporting="4" />
+            <Precinct name="Jenk Hill Fire Sta" totalVoters="1187" ballotsCast="646" voterTurnout="54.42" percentReporting="4" />
+            <Precinct name="Rocky Ford" totalVoters="530" ballotsCast="343" voterTurnout="64.72" percentReporting="4" />
+            <Precinct name="Bay Branch" totalVoters="960" ballotsCast="589" voterTurnout="61.35" percentReporting="4" />
+            <Precinct name="Hiltonia" totalVoters="907" ballotsCast="487" voterTurnout="53.69" percentReporting="4" />
+            <Precinct name="Screven Rec Dept" totalVoters="410" ballotsCast="222" voterTurnout="54.15" percentReporting="4" />
+            <Precinct name="Greenhill Church" totalVoters="861" ballotsCast="515" voterTurnout="59.81" percentReporting="4" />
+            <Precinct name="Sr Citizens Center" totalVoters="1235" ballotsCast="626" voterTurnout="50.69" percentReporting="4" />
+            <Precinct name="Jackson Fire Station" totalVoters="357" ballotsCast="217" voterTurnout="60.78" percentReporting="4" />
+            <Precinct name="Cooperville Fire Station" totalVoters="248" ballotsCast="133" voterTurnout="53.63" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="34">
+            <Precinct name="Sylvania" votes="5" />
+            <Precinct name="Hunters" votes="2" />
+            <Precinct name="Newington" votes="2" />
+            <Precinct name="Jenk Hill Fire Sta" votes="3" />
+            <Precinct name="Rocky Ford" votes="4" />
+            <Precinct name="Bay Branch" votes="3" />
+            <Precinct name="Hiltonia" votes="4" />
+            <Precinct name="Screven Rec Dept" votes="1" />
+            <Precinct name="Greenhill Church" votes="3" />
+            <Precinct name="Sr Citizens Center" votes="4" />
+            <Precinct name="Jackson Fire Station" votes="3" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Hunters" votes="0" />
+            <Precinct name="Newington" votes="0" />
+            <Precinct name="Jenk Hill Fire Sta" votes="0" />
+            <Precinct name="Rocky Ford" votes="0" />
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="3203">
+            <VoteType name="Absentee by Mail Votes" votes="73">
+                <Precinct name="Sylvania" votes="25" />
+                <Precinct name="Hunters" votes="3" />
+                <Precinct name="Newington" votes="2" />
+                <Precinct name="Jenk Hill Fire Sta" votes="7" />
+                <Precinct name="Rocky Ford" votes="2" />
+                <Precinct name="Bay Branch" votes="10" />
+                <Precinct name="Hiltonia" votes="2" />
+                <Precinct name="Screven Rec Dept" votes="6" />
+                <Precinct name="Greenhill Church" votes="8" />
+                <Precinct name="Sr Citizens Center" votes="5" />
+                <Precinct name="Jackson Fire Station" votes="3" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1599">
+                <Precinct name="Sylvania" votes="202" />
+                <Precinct name="Hunters" votes="67" />
+                <Precinct name="Newington" votes="135" />
+                <Precinct name="Jenk Hill Fire Sta" votes="183" />
+                <Precinct name="Rocky Ford" votes="101" />
+                <Precinct name="Bay Branch" votes="253" />
+                <Precinct name="Hiltonia" votes="144" />
+                <Precinct name="Screven Rec Dept" votes="55" />
+                <Precinct name="Greenhill Church" votes="215" />
+                <Precinct name="Sr Citizens Center" votes="170" />
+                <Precinct name="Jackson Fire Station" votes="62" />
+                <Precinct name="Cooperville Fire Station" votes="12" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1531">
+                <Precinct name="Sylvania" votes="112" />
+                <Precinct name="Hunters" votes="106" />
+                <Precinct name="Newington" votes="273" />
+                <Precinct name="Jenk Hill Fire Sta" votes="137" />
+                <Precinct name="Rocky Ford" votes="140" />
+                <Precinct name="Bay Branch" votes="232" />
+                <Precinct name="Hiltonia" votes="124" />
+                <Precinct name="Screven Rec Dept" votes="47" />
+                <Precinct name="Greenhill Church" votes="190" />
+                <Precinct name="Sr Citizens Center" votes="56" />
+                <Precinct name="Jackson Fire Station" votes="89" />
+                <Precinct name="Cooperville Fire Station" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="2009">
+            <VoteType name="Absentee by Mail Votes" votes="159">
+                <Precinct name="Sylvania" votes="37" />
+                <Precinct name="Hunters" votes="8" />
+                <Precinct name="Newington" votes="12" />
+                <Precinct name="Jenk Hill Fire Sta" votes="27" />
+                <Precinct name="Rocky Ford" votes="6" />
+                <Precinct name="Bay Branch" votes="1" />
+                <Precinct name="Hiltonia" votes="14" />
+                <Precinct name="Screven Rec Dept" votes="5" />
+                <Precinct name="Greenhill Church" votes="7" />
+                <Precinct name="Sr Citizens Center" votes="28" />
+                <Precinct name="Jackson Fire Station" votes="7" />
+                <Precinct name="Cooperville Fire Station" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1156">
+                <Precinct name="Sylvania" votes="191" />
+                <Precinct name="Hunters" votes="47" />
+                <Precinct name="Newington" votes="94" />
+                <Precinct name="Jenk Hill Fire Sta" votes="190" />
+                <Precinct name="Rocky Ford" votes="50" />
+                <Precinct name="Bay Branch" votes="55" />
+                <Precinct name="Hiltonia" votes="112" />
+                <Precinct name="Screven Rec Dept" votes="67" />
+                <Precinct name="Greenhill Church" votes="55" />
+                <Precinct name="Sr Citizens Center" votes="210" />
+                <Precinct name="Jackson Fire Station" votes="35" />
+                <Precinct name="Cooperville Fire Station" votes="50" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="694">
+                <Precinct name="Sylvania" votes="72" />
+                <Precinct name="Hunters" votes="31" />
+                <Precinct name="Newington" votes="91" />
+                <Precinct name="Jenk Hill Fire Sta" votes="93" />
+                <Precinct name="Rocky Ford" votes="30" />
+                <Precinct name="Bay Branch" votes="26" />
+                <Precinct name="Hiltonia" votes="80" />
+                <Precinct name="Screven Rec Dept" votes="39" />
+                <Precinct name="Greenhill Church" votes="33" />
+                <Precinct name="Sr Citizens Center" votes="147" />
+                <Precinct name="Jackson Fire Station" votes="15" />
+                <Precinct name="Cooperville Fire Station" votes="37" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Chase Oliver (Lib)" totalVotes="73">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Sylvania" votes="2" />
+                <Precinct name="Hunters" votes="1" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="1" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="33">
+                <Precinct name="Sylvania" votes="8" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="1" />
+                <Precinct name="Jenk Hill Fire Sta" votes="3" />
+                <Precinct name="Rocky Ford" votes="5" />
+                <Precinct name="Bay Branch" votes="4" />
+                <Precinct name="Hiltonia" votes="3" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="3" />
+                <Precinct name="Sr Citizens Center" votes="4" />
+                <Precinct name="Jackson Fire Station" votes="1" />
+                <Precinct name="Cooperville Fire Station" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="36">
+                <Precinct name="Sylvania" votes="3" />
+                <Precinct name="Hunters" votes="2" />
+                <Precinct name="Newington" votes="9" />
+                <Precinct name="Jenk Hill Fire Sta" votes="1" />
+                <Precinct name="Rocky Ford" votes="4" />
+                <Precinct name="Bay Branch" votes="5" />
+                <Precinct name="Hiltonia" votes="4" />
+                <Precinct name="Screven Rec Dept" votes="2" />
+                <Precinct name="Greenhill Church" votes="1" />
+                <Precinct name="Sr Citizens Center" votes="2" />
+                <Precinct name="Jackson Fire Station" votes="2" />
+                <Precinct name="Cooperville Fire Station" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Sylvania" votes="1" />
+            <Precinct name="Hunters" votes="1" />
+            <Precinct name="Newington" votes="2" />
+            <Precinct name="Jenk Hill Fire Sta" votes="1" />
+            <Precinct name="Rocky Ford" votes="0" />
+            <Precinct name="Bay Branch" votes="3" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Greenhill Church" votes="1" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Hunters" votes="0" />
+            <Precinct name="Newington" votes="0" />
+            <Precinct name="Jenk Hill Fire Sta" votes="0" />
+            <Precinct name="Rocky Ford" votes="0" />
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="4" text="Brian Kemp (I) (Rep)" totalVotes="3422">
+            <VoteType name="Absentee by Mail Votes" votes="86">
+                <Precinct name="Sylvania" votes="31" />
+                <Precinct name="Hunters" votes="5" />
+                <Precinct name="Newington" votes="2" />
+                <Precinct name="Jenk Hill Fire Sta" votes="8" />
+                <Precinct name="Rocky Ford" votes="3" />
+                <Precinct name="Bay Branch" votes="10" />
+                <Precinct name="Hiltonia" votes="3" />
+                <Precinct name="Screven Rec Dept" votes="6" />
+                <Precinct name="Greenhill Church" votes="8" />
+                <Precinct name="Sr Citizens Center" votes="7" />
+                <Precinct name="Jackson Fire Station" votes="3" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1709">
+                <Precinct name="Sylvania" votes="227" />
+                <Precinct name="Hunters" votes="73" />
+                <Precinct name="Newington" votes="137" />
+                <Precinct name="Jenk Hill Fire Sta" votes="188" />
+                <Precinct name="Rocky Ford" votes="116" />
+                <Precinct name="Bay Branch" votes="266" />
+                <Precinct name="Hiltonia" votes="150" />
+                <Precinct name="Screven Rec Dept" votes="57" />
+                <Precinct name="Greenhill Church" votes="226" />
+                <Precinct name="Sr Citizens Center" votes="185" />
+                <Precinct name="Jackson Fire Station" votes="71" />
+                <Precinct name="Cooperville Fire Station" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1627">
+                <Precinct name="Sylvania" votes="118" />
+                <Precinct name="Hunters" votes="112" />
+                <Precinct name="Newington" votes="286" />
+                <Precinct name="Jenk Hill Fire Sta" votes="147" />
+                <Precinct name="Rocky Ford" votes="151" />
+                <Precinct name="Bay Branch" votes="246" />
+                <Precinct name="Hiltonia" votes="128" />
+                <Precinct name="Screven Rec Dept" votes="51" />
+                <Precinct name="Greenhill Church" votes="202" />
+                <Precinct name="Sr Citizens Center" votes="64" />
+                <Precinct name="Jackson Fire Station" votes="94" />
+                <Precinct name="Cooperville Fire Station" votes="28" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Stacey Abrams (Dem)" totalVotes="1872">
+            <VoteType name="Absentee by Mail Votes" votes="149">
+                <Precinct name="Sylvania" votes="32" />
+                <Precinct name="Hunters" votes="7" />
+                <Precinct name="Newington" votes="12" />
+                <Precinct name="Jenk Hill Fire Sta" votes="26" />
+                <Precinct name="Rocky Ford" votes="6" />
+                <Precinct name="Bay Branch" votes="1" />
+                <Precinct name="Hiltonia" votes="13" />
+                <Precinct name="Screven Rec Dept" votes="5" />
+                <Precinct name="Greenhill Church" votes="7" />
+                <Precinct name="Sr Citizens Center" votes="26" />
+                <Precinct name="Jackson Fire Station" votes="7" />
+                <Precinct name="Cooperville Fire Station" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1085">
+                <Precinct name="Sylvania" votes="173" />
+                <Precinct name="Hunters" votes="42" />
+                <Precinct name="Newington" votes="92" />
+                <Precinct name="Jenk Hill Fire Sta" votes="190" />
+                <Precinct name="Rocky Ford" votes="42" />
+                <Precinct name="Bay Branch" votes="44" />
+                <Precinct name="Hiltonia" votes="112" />
+                <Precinct name="Screven Rec Dept" votes="65" />
+                <Precinct name="Greenhill Church" votes="47" />
+                <Precinct name="Sr Citizens Center" votes="200" />
+                <Precinct name="Jackson Fire Station" votes="29" />
+                <Precinct name="Cooperville Fire Station" votes="49" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="638">
+                <Precinct name="Sylvania" votes="70" />
+                <Precinct name="Hunters" votes="27" />
+                <Precinct name="Newington" votes="86" />
+                <Precinct name="Jenk Hill Fire Sta" votes="86" />
+                <Precinct name="Rocky Ford" votes="24" />
+                <Precinct name="Bay Branch" votes="17" />
+                <Precinct name="Hiltonia" votes="78" />
+                <Precinct name="Screven Rec Dept" votes="36" />
+                <Precinct name="Greenhill Church" votes="24" />
+                <Precinct name="Sr Citizens Center" votes="142" />
+                <Precinct name="Jackson Fire Station" votes="13" />
+                <Precinct name="Cooperville Fire Station" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Shane Hazel (Lib)" totalVotes="19">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Sylvania" votes="1" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6">
+                <Precinct name="Sylvania" votes="3" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="1" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="1" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="12">
+                <Precinct name="Sylvania" votes="1" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="3" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="1" />
+                <Precinct name="Bay Branch" votes="1" />
+                <Precinct name="Hiltonia" votes="3" />
+                <Precinct name="Screven Rec Dept" votes="2" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="1" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="126">
+            <Precinct name="Sylvania" votes="19" />
+            <Precinct name="Hunters" votes="6" />
+            <Precinct name="Newington" votes="16" />
+            <Precinct name="Jenk Hill Fire Sta" votes="22" />
+            <Precinct name="Rocky Ford" votes="3" />
+            <Precinct name="Bay Branch" votes="11" />
+            <Precinct name="Hiltonia" votes="11" />
+            <Precinct name="Screven Rec Dept" votes="6" />
+            <Precinct name="Greenhill Church" votes="6" />
+            <Precinct name="Sr Citizens Center" votes="16" />
+            <Precinct name="Jackson Fire Station" votes="8" />
+            <Precinct name="Cooperville Fire Station" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Hunters" votes="0" />
+            <Precinct name="Newington" votes="0" />
+            <Precinct name="Jenk Hill Fire Sta" votes="0" />
+            <Precinct name="Rocky Ford" votes="0" />
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Burt Jones (Rep)" totalVotes="3294">
+            <VoteType name="Absentee by Mail Votes" votes="83">
+                <Precinct name="Sylvania" votes="30" />
+                <Precinct name="Hunters" votes="5" />
+                <Precinct name="Newington" votes="2" />
+                <Precinct name="Jenk Hill Fire Sta" votes="7" />
+                <Precinct name="Rocky Ford" votes="3" />
+                <Precinct name="Bay Branch" votes="10" />
+                <Precinct name="Hiltonia" votes="3" />
+                <Precinct name="Screven Rec Dept" votes="6" />
+                <Precinct name="Greenhill Church" votes="8" />
+                <Precinct name="Sr Citizens Center" votes="6" />
+                <Precinct name="Jackson Fire Station" votes="3" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1640">
+                <Precinct name="Sylvania" votes="212" />
+                <Precinct name="Hunters" votes="71" />
+                <Precinct name="Newington" votes="136" />
+                <Precinct name="Jenk Hill Fire Sta" votes="186" />
+                <Precinct name="Rocky Ford" votes="109" />
+                <Precinct name="Bay Branch" votes="253" />
+                <Precinct name="Hiltonia" votes="148" />
+                <Precinct name="Screven Rec Dept" votes="52" />
+                <Precinct name="Greenhill Church" votes="219" />
+                <Precinct name="Sr Citizens Center" votes="175" />
+                <Precinct name="Jackson Fire Station" votes="66" />
+                <Precinct name="Cooperville Fire Station" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1571">
+                <Precinct name="Sylvania" votes="115" />
+                <Precinct name="Hunters" votes="106" />
+                <Precinct name="Newington" votes="279" />
+                <Precinct name="Jenk Hill Fire Sta" votes="143" />
+                <Precinct name="Rocky Ford" votes="148" />
+                <Precinct name="Bay Branch" votes="237" />
+                <Precinct name="Hiltonia" votes="128" />
+                <Precinct name="Screven Rec Dept" votes="46" />
+                <Precinct name="Greenhill Church" votes="193" />
+                <Precinct name="Sr Citizens Center" votes="59" />
+                <Precinct name="Jackson Fire Station" votes="91" />
+                <Precinct name="Cooperville Fire Station" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Charlie Bailey (Dem)" totalVotes="1829">
+            <VoteType name="Absentee by Mail Votes" votes="147">
+                <Precinct name="Sylvania" votes="30" />
+                <Precinct name="Hunters" votes="7" />
+                <Precinct name="Newington" votes="12" />
+                <Precinct name="Jenk Hill Fire Sta" votes="25" />
+                <Precinct name="Rocky Ford" votes="6" />
+                <Precinct name="Bay Branch" votes="1" />
+                <Precinct name="Hiltonia" votes="13" />
+                <Precinct name="Screven Rec Dept" votes="5" />
+                <Precinct name="Greenhill Church" votes="7" />
+                <Precinct name="Sr Citizens Center" votes="27" />
+                <Precinct name="Jackson Fire Station" votes="7" />
+                <Precinct name="Cooperville Fire Station" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1058">
+                <Precinct name="Sylvania" votes="173" />
+                <Precinct name="Hunters" votes="40" />
+                <Precinct name="Newington" votes="83" />
+                <Precinct name="Jenk Hill Fire Sta" votes="177" />
+                <Precinct name="Rocky Ford" votes="43" />
+                <Precinct name="Bay Branch" votes="49" />
+                <Precinct name="Hiltonia" votes="105" />
+                <Precinct name="Screven Rec Dept" votes="64" />
+                <Precinct name="Greenhill Church" votes="53" />
+                <Precinct name="Sr Citizens Center" votes="195" />
+                <Precinct name="Jackson Fire Station" votes="28" />
+                <Precinct name="Cooperville Fire Station" votes="48" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="624">
+                <Precinct name="Sylvania" votes="65" />
+                <Precinct name="Hunters" votes="28" />
+                <Precinct name="Newington" votes="86" />
+                <Precinct name="Jenk Hill Fire Sta" votes="79" />
+                <Precinct name="Rocky Ford" votes="25" />
+                <Precinct name="Bay Branch" votes="21" />
+                <Precinct name="Hiltonia" votes="74" />
+                <Precinct name="Screven Rec Dept" votes="38" />
+                <Precinct name="Greenhill Church" votes="27" />
+                <Precinct name="Sr Citizens Center" votes="135" />
+                <Precinct name="Jackson Fire Station" votes="14" />
+                <Precinct name="Cooperville Fire Station" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="9" text="Ryan Graham (Lib)" totalVotes="73">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="33">
+                <Precinct name="Sylvania" votes="8" />
+                <Precinct name="Hunters" votes="1" />
+                <Precinct name="Newington" votes="2" />
+                <Precinct name="Jenk Hill Fire Sta" votes="2" />
+                <Precinct name="Rocky Ford" votes="3" />
+                <Precinct name="Bay Branch" votes="3" />
+                <Precinct name="Hiltonia" votes="1" />
+                <Precinct name="Screven Rec Dept" votes="3" />
+                <Precinct name="Greenhill Church" votes="2" />
+                <Precinct name="Sr Citizens Center" votes="7" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="40">
+                <Precinct name="Sylvania" votes="5" />
+                <Precinct name="Hunters" votes="3" />
+                <Precinct name="Newington" votes="4" />
+                <Precinct name="Jenk Hill Fire Sta" votes="5" />
+                <Precinct name="Rocky Ford" votes="3" />
+                <Precinct name="Bay Branch" votes="4" />
+                <Precinct name="Hiltonia" votes="4" />
+                <Precinct name="Screven Rec Dept" votes="2" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="6" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="134">
+            <Precinct name="Sylvania" votes="19" />
+            <Precinct name="Hunters" votes="4" />
+            <Precinct name="Newington" votes="19" />
+            <Precinct name="Jenk Hill Fire Sta" votes="19" />
+            <Precinct name="Rocky Ford" votes="1" />
+            <Precinct name="Bay Branch" votes="14" />
+            <Precinct name="Hiltonia" votes="11" />
+            <Precinct name="Screven Rec Dept" votes="8" />
+            <Precinct name="Greenhill Church" votes="11" />
+            <Precinct name="Sr Citizens Center" votes="19" />
+            <Precinct name="Jackson Fire Station" votes="6" />
+            <Precinct name="Cooperville Fire Station" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="2">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Hunters" votes="0" />
+            <Precinct name="Newington" votes="0" />
+            <Precinct name="Jenk Hill Fire Sta" votes="0" />
+            <Precinct name="Rocky Ford" votes="2" />
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="10" text="Brad Raffensperger (I) (Rep)" totalVotes="3337">
+            <VoteType name="Absentee by Mail Votes" votes="92">
+                <Precinct name="Sylvania" votes="31" />
+                <Precinct name="Hunters" votes="4" />
+                <Precinct name="Newington" votes="2" />
+                <Precinct name="Jenk Hill Fire Sta" votes="11" />
+                <Precinct name="Rocky Ford" votes="4" />
+                <Precinct name="Bay Branch" votes="8" />
+                <Precinct name="Hiltonia" votes="5" />
+                <Precinct name="Screven Rec Dept" votes="6" />
+                <Precinct name="Greenhill Church" votes="8" />
+                <Precinct name="Sr Citizens Center" votes="7" />
+                <Precinct name="Jackson Fire Station" votes="3" />
+                <Precinct name="Cooperville Fire Station" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1674">
+                <Precinct name="Sylvania" votes="224" />
+                <Precinct name="Hunters" votes="70" />
+                <Precinct name="Newington" votes="135" />
+                <Precinct name="Jenk Hill Fire Sta" votes="193" />
+                <Precinct name="Rocky Ford" votes="113" />
+                <Precinct name="Bay Branch" votes="256" />
+                <Precinct name="Hiltonia" votes="143" />
+                <Precinct name="Screven Rec Dept" votes="55" />
+                <Precinct name="Greenhill Church" votes="218" />
+                <Precinct name="Sr Citizens Center" votes="180" />
+                <Precinct name="Jackson Fire Station" votes="73" />
+                <Precinct name="Cooperville Fire Station" votes="14" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1571">
+                <Precinct name="Sylvania" votes="115" />
+                <Precinct name="Hunters" votes="105" />
+                <Precinct name="Newington" votes="272" />
+                <Precinct name="Jenk Hill Fire Sta" votes="147" />
+                <Precinct name="Rocky Ford" votes="145" />
+                <Precinct name="Bay Branch" votes="236" />
+                <Precinct name="Hiltonia" votes="126" />
+                <Precinct name="Screven Rec Dept" votes="43" />
+                <Precinct name="Greenhill Church" votes="197" />
+                <Precinct name="Sr Citizens Center" votes="70" />
+                <Precinct name="Jackson Fire Station" votes="87" />
+                <Precinct name="Cooperville Fire Station" votes="28" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="Bee Nguyen (Dem)" totalVotes="1722">
+            <VoteType name="Absentee by Mail Votes" votes="138">
+                <Precinct name="Sylvania" votes="33" />
+                <Precinct name="Hunters" votes="8" />
+                <Precinct name="Newington" votes="12" />
+                <Precinct name="Jenk Hill Fire Sta" votes="22" />
+                <Precinct name="Rocky Ford" votes="3" />
+                <Precinct name="Bay Branch" votes="2" />
+                <Precinct name="Hiltonia" votes="10" />
+                <Precinct name="Screven Rec Dept" votes="5" />
+                <Precinct name="Greenhill Church" votes="6" />
+                <Precinct name="Sr Citizens Center" votes="26" />
+                <Precinct name="Jackson Fire Station" votes="7" />
+                <Precinct name="Cooperville Fire Station" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="987">
+                <Precinct name="Sylvania" votes="156" />
+                <Precinct name="Hunters" votes="41" />
+                <Precinct name="Newington" votes="81" />
+                <Precinct name="Jenk Hill Fire Sta" votes="163" />
+                <Precinct name="Rocky Ford" votes="38" />
+                <Precinct name="Bay Branch" votes="44" />
+                <Precinct name="Hiltonia" votes="102" />
+                <Precinct name="Screven Rec Dept" votes="62" />
+                <Precinct name="Greenhill Church" votes="46" />
+                <Precinct name="Sr Citizens Center" votes="185" />
+                <Precinct name="Jackson Fire Station" votes="23" />
+                <Precinct name="Cooperville Fire Station" votes="46" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="597">
+                <Precinct name="Sylvania" votes="66" />
+                <Precinct name="Hunters" votes="30" />
+                <Precinct name="Newington" votes="80" />
+                <Precinct name="Jenk Hill Fire Sta" votes="77" />
+                <Precinct name="Rocky Ford" votes="25" />
+                <Precinct name="Bay Branch" votes="17" />
+                <Precinct name="Hiltonia" votes="75" />
+                <Precinct name="Screven Rec Dept" votes="39" />
+                <Precinct name="Greenhill Church" votes="19" />
+                <Precinct name="Sr Citizens Center" votes="127" />
+                <Precinct name="Jackson Fire Station" votes="13" />
+                <Precinct name="Cooperville Fire Station" votes="29" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Ted Metz (Lib)" totalVotes="123">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="64">
+                <Precinct name="Sylvania" votes="9" />
+                <Precinct name="Hunters" votes="3" />
+                <Precinct name="Newington" votes="4" />
+                <Precinct name="Jenk Hill Fire Sta" votes="9" />
+                <Precinct name="Rocky Ford" votes="7" />
+                <Precinct name="Bay Branch" votes="6" />
+                <Precinct name="Hiltonia" votes="10" />
+                <Precinct name="Screven Rec Dept" votes="1" />
+                <Precinct name="Greenhill Church" votes="4" />
+                <Precinct name="Sr Citizens Center" votes="8" />
+                <Precinct name="Jackson Fire Station" votes="1" />
+                <Precinct name="Cooperville Fire Station" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="59">
+                <Precinct name="Sylvania" votes="3" />
+                <Precinct name="Hunters" votes="2" />
+                <Precinct name="Newington" votes="15" />
+                <Precinct name="Jenk Hill Fire Sta" votes="4" />
+                <Precinct name="Rocky Ford" votes="5" />
+                <Precinct name="Bay Branch" votes="6" />
+                <Precinct name="Hiltonia" votes="5" />
+                <Precinct name="Screven Rec Dept" votes="3" />
+                <Precinct name="Greenhill Church" votes="6" />
+                <Precinct name="Sr Citizens Center" votes="3" />
+                <Precinct name="Jackson Fire Station" votes="3" />
+                <Precinct name="Cooperville Fire Station" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="90">
+            <Precinct name="Sylvania" votes="18" />
+            <Precinct name="Hunters" votes="8" />
+            <Precinct name="Newington" votes="15" />
+            <Precinct name="Jenk Hill Fire Sta" votes="12" />
+            <Precinct name="Rocky Ford" votes="3" />
+            <Precinct name="Bay Branch" votes="6" />
+            <Precinct name="Hiltonia" votes="10" />
+            <Precinct name="Screven Rec Dept" votes="3" />
+            <Precinct name="Greenhill Church" votes="3" />
+            <Precinct name="Sr Citizens Center" votes="10" />
+            <Precinct name="Jackson Fire Station" votes="1" />
+            <Precinct name="Cooperville Fire Station" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Hunters" votes="0" />
+            <Precinct name="Newington" votes="0" />
+            <Precinct name="Jenk Hill Fire Sta" votes="0" />
+            <Precinct name="Rocky Ford" votes="0" />
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="13" text="Chris Carr (I) (Rep)" totalVotes="3312">
+            <VoteType name="Absentee by Mail Votes" votes="81">
+                <Precinct name="Sylvania" votes="30" />
+                <Precinct name="Hunters" votes="3" />
+                <Precinct name="Newington" votes="2" />
+                <Precinct name="Jenk Hill Fire Sta" votes="7" />
+                <Precinct name="Rocky Ford" votes="3" />
+                <Precinct name="Bay Branch" votes="10" />
+                <Precinct name="Hiltonia" votes="3" />
+                <Precinct name="Screven Rec Dept" votes="6" />
+                <Precinct name="Greenhill Church" votes="8" />
+                <Precinct name="Sr Citizens Center" votes="6" />
+                <Precinct name="Jackson Fire Station" votes="3" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1656">
+                <Precinct name="Sylvania" votes="218" />
+                <Precinct name="Hunters" votes="69" />
+                <Precinct name="Newington" votes="134" />
+                <Precinct name="Jenk Hill Fire Sta" votes="191" />
+                <Precinct name="Rocky Ford" votes="111" />
+                <Precinct name="Bay Branch" votes="263" />
+                <Precinct name="Hiltonia" votes="146" />
+                <Precinct name="Screven Rec Dept" votes="54" />
+                <Precinct name="Greenhill Church" votes="217" />
+                <Precinct name="Sr Citizens Center" votes="175" />
+                <Precinct name="Jackson Fire Station" votes="66" />
+                <Precinct name="Cooperville Fire Station" votes="12" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1575">
+                <Precinct name="Sylvania" votes="115" />
+                <Precinct name="Hunters" votes="106" />
+                <Precinct name="Newington" votes="277" />
+                <Precinct name="Jenk Hill Fire Sta" votes="146" />
+                <Precinct name="Rocky Ford" votes="146" />
+                <Precinct name="Bay Branch" votes="230" />
+                <Precinct name="Hiltonia" votes="128" />
+                <Precinct name="Screven Rec Dept" votes="46" />
+                <Precinct name="Greenhill Church" votes="195" />
+                <Precinct name="Sr Citizens Center" votes="65" />
+                <Precinct name="Jackson Fire Station" votes="94" />
+                <Precinct name="Cooperville Fire Station" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="14" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="1871">
+            <VoteType name="Absentee by Mail Votes" votes="149">
+                <Precinct name="Sylvania" votes="32" />
+                <Precinct name="Hunters" votes="9" />
+                <Precinct name="Newington" votes="12" />
+                <Precinct name="Jenk Hill Fire Sta" votes="23" />
+                <Precinct name="Rocky Ford" votes="6" />
+                <Precinct name="Bay Branch" votes="1" />
+                <Precinct name="Hiltonia" votes="13" />
+                <Precinct name="Screven Rec Dept" votes="5" />
+                <Precinct name="Greenhill Church" votes="7" />
+                <Precinct name="Sr Citizens Center" votes="27" />
+                <Precinct name="Jackson Fire Station" votes="7" />
+                <Precinct name="Cooperville Fire Station" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1077">
+                <Precinct name="Sylvania" votes="168" />
+                <Precinct name="Hunters" votes="42" />
+                <Precinct name="Newington" votes="87" />
+                <Precinct name="Jenk Hill Fire Sta" votes="177" />
+                <Precinct name="Rocky Ford" votes="44" />
+                <Precinct name="Bay Branch" votes="49" />
+                <Precinct name="Hiltonia" votes="108" />
+                <Precinct name="Screven Rec Dept" votes="67" />
+                <Precinct name="Greenhill Church" votes="53" />
+                <Precinct name="Sr Citizens Center" votes="200" />
+                <Precinct name="Jackson Fire Station" votes="33" />
+                <Precinct name="Cooperville Fire Station" votes="49" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="645">
+                <Precinct name="Sylvania" votes="68" />
+                <Precinct name="Hunters" votes="28" />
+                <Precinct name="Newington" votes="89" />
+                <Precinct name="Jenk Hill Fire Sta" votes="84" />
+                <Precinct name="Rocky Ford" votes="28" />
+                <Precinct name="Bay Branch" votes="23" />
+                <Precinct name="Hiltonia" votes="77" />
+                <Precinct name="Screven Rec Dept" votes="39" />
+                <Precinct name="Greenhill Church" votes="25" />
+                <Precinct name="Sr Citizens Center" votes="136" />
+                <Precinct name="Jackson Fire Station" votes="12" />
+                <Precinct name="Cooperville Fire Station" votes="36" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="15" text="Martin Cowen (Lib)" totalVotes="41">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="19">
+                <Precinct name="Sylvania" votes="6" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="1" />
+                <Precinct name="Rocky Ford" votes="1" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="1" />
+                <Precinct name="Screven Rec Dept" votes="1" />
+                <Precinct name="Greenhill Church" votes="4" />
+                <Precinct name="Sr Citizens Center" votes="4" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="22">
+                <Precinct name="Sylvania" votes="1" />
+                <Precinct name="Hunters" votes="1" />
+                <Precinct name="Newington" votes="3" />
+                <Precinct name="Jenk Hill Fire Sta" votes="1" />
+                <Precinct name="Rocky Ford" votes="1" />
+                <Precinct name="Bay Branch" votes="7" />
+                <Precinct name="Hiltonia" votes="1" />
+                <Precinct name="Screven Rec Dept" votes="1" />
+                <Precinct name="Greenhill Church" votes="3" />
+                <Precinct name="Sr Citizens Center" votes="2" />
+                <Precinct name="Jackson Fire Station" votes="1" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Commissioner of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="100">
+            <Precinct name="Sylvania" votes="17" />
+            <Precinct name="Hunters" votes="7" />
+            <Precinct name="Newington" votes="15" />
+            <Precinct name="Jenk Hill Fire Sta" votes="11" />
+            <Precinct name="Rocky Ford" votes="2" />
+            <Precinct name="Bay Branch" votes="8" />
+            <Precinct name="Hiltonia" votes="11" />
+            <Precinct name="Screven Rec Dept" votes="4" />
+            <Precinct name="Greenhill Church" votes="7" />
+            <Precinct name="Sr Citizens Center" votes="14" />
+            <Precinct name="Jackson Fire Station" votes="2" />
+            <Precinct name="Cooperville Fire Station" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Hunters" votes="0" />
+            <Precinct name="Newington" votes="0" />
+            <Precinct name="Jenk Hill Fire Sta" votes="0" />
+            <Precinct name="Rocky Ford" votes="0" />
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="16" text="Tyler Harper (Rep)" totalVotes="3361">
+            <VoteType name="Absentee by Mail Votes" votes="82">
+                <Precinct name="Sylvania" votes="29" />
+                <Precinct name="Hunters" votes="5" />
+                <Precinct name="Newington" votes="2" />
+                <Precinct name="Jenk Hill Fire Sta" votes="7" />
+                <Precinct name="Rocky Ford" votes="3" />
+                <Precinct name="Bay Branch" votes="10" />
+                <Precinct name="Hiltonia" votes="3" />
+                <Precinct name="Screven Rec Dept" votes="6" />
+                <Precinct name="Greenhill Church" votes="8" />
+                <Precinct name="Sr Citizens Center" votes="6" />
+                <Precinct name="Jackson Fire Station" votes="3" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1682">
+                <Precinct name="Sylvania" votes="226" />
+                <Precinct name="Hunters" votes="70" />
+                <Precinct name="Newington" votes="134" />
+                <Precinct name="Jenk Hill Fire Sta" votes="190" />
+                <Precinct name="Rocky Ford" votes="112" />
+                <Precinct name="Bay Branch" votes="262" />
+                <Precinct name="Hiltonia" votes="146" />
+                <Precinct name="Screven Rec Dept" votes="56" />
+                <Precinct name="Greenhill Church" votes="221" />
+                <Precinct name="Sr Citizens Center" votes="182" />
+                <Precinct name="Jackson Fire Station" votes="70" />
+                <Precinct name="Cooperville Fire Station" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1597">
+                <Precinct name="Sylvania" votes="117" />
+                <Precinct name="Hunters" votes="107" />
+                <Precinct name="Newington" votes="280" />
+                <Precinct name="Jenk Hill Fire Sta" votes="145" />
+                <Precinct name="Rocky Ford" votes="150" />
+                <Precinct name="Bay Branch" votes="241" />
+                <Precinct name="Hiltonia" votes="129" />
+                <Precinct name="Screven Rec Dept" votes="46" />
+                <Precinct name="Greenhill Church" votes="198" />
+                <Precinct name="Sr Citizens Center" votes="63" />
+                <Precinct name="Jackson Fire Station" votes="94" />
+                <Precinct name="Cooperville Fire Station" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Nakita Hemingway (Dem)" totalVotes="1802">
+            <VoteType name="Absentee by Mail Votes" votes="150">
+                <Precinct name="Sylvania" votes="33" />
+                <Precinct name="Hunters" votes="7" />
+                <Precinct name="Newington" votes="12" />
+                <Precinct name="Jenk Hill Fire Sta" votes="27" />
+                <Precinct name="Rocky Ford" votes="5" />
+                <Precinct name="Bay Branch" votes="1" />
+                <Precinct name="Hiltonia" votes="12" />
+                <Precinct name="Screven Rec Dept" votes="5" />
+                <Precinct name="Greenhill Church" votes="7" />
+                <Precinct name="Sr Citizens Center" votes="27" />
+                <Precinct name="Jackson Fire Station" votes="7" />
+                <Precinct name="Cooperville Fire Station" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1034">
+                <Precinct name="Sylvania" votes="162" />
+                <Precinct name="Hunters" votes="39" />
+                <Precinct name="Newington" votes="85" />
+                <Precinct name="Jenk Hill Fire Sta" votes="175" />
+                <Precinct name="Rocky Ford" votes="43" />
+                <Precinct name="Bay Branch" votes="47" />
+                <Precinct name="Hiltonia" votes="106" />
+                <Precinct name="Screven Rec Dept" votes="61" />
+                <Precinct name="Greenhill Church" votes="48" />
+                <Precinct name="Sr Citizens Center" votes="192" />
+                <Precinct name="Jackson Fire Station" votes="29" />
+                <Precinct name="Cooperville Fire Station" votes="47" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="618">
+                <Precinct name="Sylvania" votes="66" />
+                <Precinct name="Hunters" votes="29" />
+                <Precinct name="Newington" votes="82" />
+                <Precinct name="Jenk Hill Fire Sta" votes="84" />
+                <Precinct name="Rocky Ford" votes="24" />
+                <Precinct name="Bay Branch" votes="16" />
+                <Precinct name="Hiltonia" votes="76" />
+                <Precinct name="Screven Rec Dept" votes="39" />
+                <Precinct name="Greenhill Church" votes="22" />
+                <Precinct name="Sr Citizens Center" votes="135" />
+                <Precinct name="Jackson Fire Station" votes="11" />
+                <Precinct name="Cooperville Fire Station" votes="34" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="David Raudabaugh (Lib)" totalVotes="58">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="1" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="29">
+                <Precinct name="Sylvania" votes="5" />
+                <Precinct name="Hunters" votes="2" />
+                <Precinct name="Newington" votes="5" />
+                <Precinct name="Jenk Hill Fire Sta" votes="3" />
+                <Precinct name="Rocky Ford" votes="1" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="2" />
+                <Precinct name="Screven Rec Dept" votes="4" />
+                <Precinct name="Greenhill Church" votes="3" />
+                <Precinct name="Sr Citizens Center" votes="3" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Sylvania" votes="2" />
+                <Precinct name="Hunters" votes="1" />
+                <Precinct name="Newington" votes="5" />
+                <Precinct name="Jenk Hill Fire Sta" votes="3" />
+                <Precinct name="Rocky Ford" votes="2" />
+                <Precinct name="Bay Branch" votes="4" />
+                <Precinct name="Hiltonia" votes="2" />
+                <Precinct name="Screven Rec Dept" votes="1" />
+                <Precinct name="Greenhill Church" votes="1" />
+                <Precinct name="Sr Citizens Center" votes="4" />
+                <Precinct name="Jackson Fire Station" votes="1" />
+                <Precinct name="Cooperville Fire Station" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Commissioner of Insurance" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="115">
+            <Precinct name="Sylvania" votes="18" />
+            <Precinct name="Hunters" votes="8" />
+            <Precinct name="Newington" votes="17" />
+            <Precinct name="Jenk Hill Fire Sta" votes="17" />
+            <Precinct name="Rocky Ford" votes="2" />
+            <Precinct name="Bay Branch" votes="10" />
+            <Precinct name="Hiltonia" votes="10" />
+            <Precinct name="Screven Rec Dept" votes="7" />
+            <Precinct name="Greenhill Church" votes="6" />
+            <Precinct name="Sr Citizens Center" votes="15" />
+            <Precinct name="Jackson Fire Station" votes="3" />
+            <Precinct name="Cooperville Fire Station" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Hunters" votes="0" />
+            <Precinct name="Newington" votes="0" />
+            <Precinct name="Jenk Hill Fire Sta" votes="0" />
+            <Precinct name="Rocky Ford" votes="0" />
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="19" text="John King (I) (Rep)" totalVotes="3366">
+            <VoteType name="Absentee by Mail Votes" votes="85">
+                <Precinct name="Sylvania" votes="28" />
+                <Precinct name="Hunters" votes="5" />
+                <Precinct name="Newington" votes="2" />
+                <Precinct name="Jenk Hill Fire Sta" votes="9" />
+                <Precinct name="Rocky Ford" votes="5" />
+                <Precinct name="Bay Branch" votes="10" />
+                <Precinct name="Hiltonia" votes="3" />
+                <Precinct name="Screven Rec Dept" votes="6" />
+                <Precinct name="Greenhill Church" votes="8" />
+                <Precinct name="Sr Citizens Center" votes="6" />
+                <Precinct name="Jackson Fire Station" votes="3" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1685">
+                <Precinct name="Sylvania" votes="222" />
+                <Precinct name="Hunters" votes="70" />
+                <Precinct name="Newington" votes="135" />
+                <Precinct name="Jenk Hill Fire Sta" votes="191" />
+                <Precinct name="Rocky Ford" votes="113" />
+                <Precinct name="Bay Branch" votes="262" />
+                <Precinct name="Hiltonia" votes="149" />
+                <Precinct name="Screven Rec Dept" votes="55" />
+                <Precinct name="Greenhill Church" votes="223" />
+                <Precinct name="Sr Citizens Center" votes="181" />
+                <Precinct name="Jackson Fire Station" votes="71" />
+                <Precinct name="Cooperville Fire Station" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1596">
+                <Precinct name="Sylvania" votes="117" />
+                <Precinct name="Hunters" votes="109" />
+                <Precinct name="Newington" votes="281" />
+                <Precinct name="Jenk Hill Fire Sta" votes="145" />
+                <Precinct name="Rocky Ford" votes="150" />
+                <Precinct name="Bay Branch" votes="239" />
+                <Precinct name="Hiltonia" votes="126" />
+                <Precinct name="Screven Rec Dept" votes="46" />
+                <Precinct name="Greenhill Church" votes="198" />
+                <Precinct name="Sr Citizens Center" votes="64" />
+                <Precinct name="Jackson Fire Station" votes="93" />
+                <Precinct name="Cooperville Fire Station" votes="28" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Janice Laws Robinson (Dem)" totalVotes="1840">
+            <VoteType name="Absentee by Mail Votes" votes="146">
+                <Precinct name="Sylvania" votes="34" />
+                <Precinct name="Hunters" votes="7" />
+                <Precinct name="Newington" votes="12" />
+                <Precinct name="Jenk Hill Fire Sta" votes="23" />
+                <Precinct name="Rocky Ford" votes="4" />
+                <Precinct name="Bay Branch" votes="1" />
+                <Precinct name="Hiltonia" votes="12" />
+                <Precinct name="Screven Rec Dept" votes="5" />
+                <Precinct name="Greenhill Church" votes="7" />
+                <Precinct name="Sr Citizens Center" votes="27" />
+                <Precinct name="Jackson Fire Station" votes="7" />
+                <Precinct name="Cooperville Fire Station" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1054">
+                <Precinct name="Sylvania" votes="169" />
+                <Precinct name="Hunters" votes="40" />
+                <Precinct name="Newington" votes="86" />
+                <Precinct name="Jenk Hill Fire Sta" votes="177" />
+                <Precinct name="Rocky Ford" votes="44" />
+                <Precinct name="Bay Branch" votes="48" />
+                <Precinct name="Hiltonia" votes="107" />
+                <Precinct name="Screven Rec Dept" votes="64" />
+                <Precinct name="Greenhill Church" votes="49" />
+                <Precinct name="Sr Citizens Center" votes="194" />
+                <Precinct name="Jackson Fire Station" votes="27" />
+                <Precinct name="Cooperville Fire Station" votes="49" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="640">
+                <Precinct name="Sylvania" votes="69" />
+                <Precinct name="Hunters" votes="28" />
+                <Precinct name="Newington" votes="87" />
+                <Precinct name="Jenk Hill Fire Sta" votes="84" />
+                <Precinct name="Rocky Ford" votes="25" />
+                <Precinct name="Bay Branch" votes="19" />
+                <Precinct name="Hiltonia" votes="80" />
+                <Precinct name="Screven Rec Dept" votes="39" />
+                <Precinct name="Greenhill Church" votes="24" />
+                <Precinct name="Sr Citizens Center" votes="138" />
+                <Precinct name="Jackson Fire Station" votes="13" />
+                <Precinct name="Cooperville Fire Station" votes="34" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="100">
+            <Precinct name="Sylvania" votes="16" />
+            <Precinct name="Hunters" votes="8" />
+            <Precinct name="Newington" votes="18" />
+            <Precinct name="Jenk Hill Fire Sta" votes="14" />
+            <Precinct name="Rocky Ford" votes="1" />
+            <Precinct name="Bay Branch" votes="5" />
+            <Precinct name="Hiltonia" votes="11" />
+            <Precinct name="Screven Rec Dept" votes="6" />
+            <Precinct name="Greenhill Church" votes="5" />
+            <Precinct name="Sr Citizens Center" votes="11" />
+            <Precinct name="Jackson Fire Station" votes="3" />
+            <Precinct name="Cooperville Fire Station" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Hunters" votes="0" />
+            <Precinct name="Newington" votes="0" />
+            <Precinct name="Jenk Hill Fire Sta" votes="0" />
+            <Precinct name="Rocky Ford" votes="0" />
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="21" text="Richard Woods (I) (Rep)" totalVotes="3368">
+            <VoteType name="Absentee by Mail Votes" votes="87">
+                <Precinct name="Sylvania" votes="30" />
+                <Precinct name="Hunters" votes="5" />
+                <Precinct name="Newington" votes="2" />
+                <Precinct name="Jenk Hill Fire Sta" votes="9" />
+                <Precinct name="Rocky Ford" votes="5" />
+                <Precinct name="Bay Branch" votes="10" />
+                <Precinct name="Hiltonia" votes="3" />
+                <Precinct name="Screven Rec Dept" votes="6" />
+                <Precinct name="Greenhill Church" votes="8" />
+                <Precinct name="Sr Citizens Center" votes="6" />
+                <Precinct name="Jackson Fire Station" votes="3" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1687">
+                <Precinct name="Sylvania" votes="221" />
+                <Precinct name="Hunters" votes="68" />
+                <Precinct name="Newington" votes="135" />
+                <Precinct name="Jenk Hill Fire Sta" votes="190" />
+                <Precinct name="Rocky Ford" votes="113" />
+                <Precinct name="Bay Branch" votes="260" />
+                <Precinct name="Hiltonia" votes="147" />
+                <Precinct name="Screven Rec Dept" votes="55" />
+                <Precinct name="Greenhill Church" votes="228" />
+                <Precinct name="Sr Citizens Center" votes="183" />
+                <Precinct name="Jackson Fire Station" votes="73" />
+                <Precinct name="Cooperville Fire Station" votes="14" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1594">
+                <Precinct name="Sylvania" votes="117" />
+                <Precinct name="Hunters" votes="107" />
+                <Precinct name="Newington" votes="278" />
+                <Precinct name="Jenk Hill Fire Sta" votes="144" />
+                <Precinct name="Rocky Ford" votes="151" />
+                <Precinct name="Bay Branch" votes="243" />
+                <Precinct name="Hiltonia" votes="125" />
+                <Precinct name="Screven Rec Dept" votes="47" />
+                <Precinct name="Greenhill Church" votes="199" />
+                <Precinct name="Sr Citizens Center" votes="62" />
+                <Precinct name="Jackson Fire Station" votes="94" />
+                <Precinct name="Cooperville Fire Station" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Alisha Thomas Searcy (Dem)" totalVotes="1851">
+            <VoteType name="Absentee by Mail Votes" votes="145">
+                <Precinct name="Sylvania" votes="33" />
+                <Precinct name="Hunters" votes="7" />
+                <Precinct name="Newington" votes="12" />
+                <Precinct name="Jenk Hill Fire Sta" votes="23" />
+                <Precinct name="Rocky Ford" votes="4" />
+                <Precinct name="Bay Branch" votes="1" />
+                <Precinct name="Hiltonia" votes="12" />
+                <Precinct name="Screven Rec Dept" votes="5" />
+                <Precinct name="Greenhill Church" votes="7" />
+                <Precinct name="Sr Citizens Center" votes="27" />
+                <Precinct name="Jackson Fire Station" votes="7" />
+                <Precinct name="Cooperville Fire Station" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1057">
+                <Precinct name="Sylvania" votes="171" />
+                <Precinct name="Hunters" votes="42" />
+                <Precinct name="Newington" votes="85" />
+                <Precinct name="Jenk Hill Fire Sta" votes="180" />
+                <Precinct name="Rocky Ford" votes="44" />
+                <Precinct name="Bay Branch" votes="51" />
+                <Precinct name="Hiltonia" votes="107" />
+                <Precinct name="Screven Rec Dept" votes="64" />
+                <Precinct name="Greenhill Church" votes="44" />
+                <Precinct name="Sr Citizens Center" votes="196" />
+                <Precinct name="Jackson Fire Station" votes="25" />
+                <Precinct name="Cooperville Fire Station" votes="48" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="649">
+                <Precinct name="Sylvania" votes="69" />
+                <Precinct name="Hunters" votes="30" />
+                <Precinct name="Newington" votes="88" />
+                <Precinct name="Jenk Hill Fire Sta" votes="86" />
+                <Precinct name="Rocky Ford" votes="25" />
+                <Precinct name="Bay Branch" votes="18" />
+                <Precinct name="Hiltonia" votes="82" />
+                <Precinct name="Screven Rec Dept" votes="39" />
+                <Precinct name="Greenhill Church" votes="24" />
+                <Precinct name="Sr Citizens Center" votes="141" />
+                <Precinct name="Jackson Fire Station" votes="12" />
+                <Precinct name="Cooperville Fire Station" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner of Labor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="113">
+            <Precinct name="Sylvania" votes="19" />
+            <Precinct name="Hunters" votes="10" />
+            <Precinct name="Newington" votes="15" />
+            <Precinct name="Jenk Hill Fire Sta" votes="17" />
+            <Precinct name="Rocky Ford" votes="5" />
+            <Precinct name="Bay Branch" votes="7" />
+            <Precinct name="Hiltonia" votes="11" />
+            <Precinct name="Screven Rec Dept" votes="2" />
+            <Precinct name="Greenhill Church" votes="9" />
+            <Precinct name="Sr Citizens Center" votes="13" />
+            <Precinct name="Jackson Fire Station" votes="2" />
+            <Precinct name="Cooperville Fire Station" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Hunters" votes="0" />
+            <Precinct name="Newington" votes="0" />
+            <Precinct name="Jenk Hill Fire Sta" votes="0" />
+            <Precinct name="Rocky Ford" votes="0" />
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="23" text="Bruce Thompson (Rep)" totalVotes="3315">
+            <VoteType name="Absentee by Mail Votes" votes="82">
+                <Precinct name="Sylvania" votes="28" />
+                <Precinct name="Hunters" votes="5" />
+                <Precinct name="Newington" votes="2" />
+                <Precinct name="Jenk Hill Fire Sta" votes="7" />
+                <Precinct name="Rocky Ford" votes="4" />
+                <Precinct name="Bay Branch" votes="10" />
+                <Precinct name="Hiltonia" votes="2" />
+                <Precinct name="Screven Rec Dept" votes="6" />
+                <Precinct name="Greenhill Church" votes="8" />
+                <Precinct name="Sr Citizens Center" votes="7" />
+                <Precinct name="Jackson Fire Station" votes="3" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1653">
+                <Precinct name="Sylvania" votes="213" />
+                <Precinct name="Hunters" votes="67" />
+                <Precinct name="Newington" votes="137" />
+                <Precinct name="Jenk Hill Fire Sta" votes="187" />
+                <Precinct name="Rocky Ford" votes="111" />
+                <Precinct name="Bay Branch" votes="258" />
+                <Precinct name="Hiltonia" votes="148" />
+                <Precinct name="Screven Rec Dept" votes="57" />
+                <Precinct name="Greenhill Church" votes="216" />
+                <Precinct name="Sr Citizens Center" votes="177" />
+                <Precinct name="Jackson Fire Station" votes="70" />
+                <Precinct name="Cooperville Fire Station" votes="12" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1580">
+                <Precinct name="Sylvania" votes="115" />
+                <Precinct name="Hunters" votes="107" />
+                <Precinct name="Newington" votes="276" />
+                <Precinct name="Jenk Hill Fire Sta" votes="145" />
+                <Precinct name="Rocky Ford" votes="147" />
+                <Precinct name="Bay Branch" votes="238" />
+                <Precinct name="Hiltonia" votes="128" />
+                <Precinct name="Screven Rec Dept" votes="48" />
+                <Precinct name="Greenhill Church" votes="195" />
+                <Precinct name="Sr Citizens Center" votes="62" />
+                <Precinct name="Jackson Fire Station" votes="93" />
+                <Precinct name="Cooperville Fire Station" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="1816">
+            <VoteType name="Absentee by Mail Votes" votes="147">
+                <Precinct name="Sylvania" votes="33" />
+                <Precinct name="Hunters" votes="7" />
+                <Precinct name="Newington" votes="12" />
+                <Precinct name="Jenk Hill Fire Sta" votes="24" />
+                <Precinct name="Rocky Ford" votes="5" />
+                <Precinct name="Bay Branch" votes="1" />
+                <Precinct name="Hiltonia" votes="14" />
+                <Precinct name="Screven Rec Dept" votes="4" />
+                <Precinct name="Greenhill Church" votes="7" />
+                <Precinct name="Sr Citizens Center" votes="26" />
+                <Precinct name="Jackson Fire Station" votes="7" />
+                <Precinct name="Cooperville Fire Station" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1042">
+                <Precinct name="Sylvania" votes="169" />
+                <Precinct name="Hunters" votes="41" />
+                <Precinct name="Newington" votes="85" />
+                <Precinct name="Jenk Hill Fire Sta" votes="174" />
+                <Precinct name="Rocky Ford" votes="41" />
+                <Precinct name="Bay Branch" votes="48" />
+                <Precinct name="Hiltonia" votes="101" />
+                <Precinct name="Screven Rec Dept" votes="63" />
+                <Precinct name="Greenhill Church" votes="50" />
+                <Precinct name="Sr Citizens Center" votes="193" />
+                <Precinct name="Jackson Fire Station" votes="28" />
+                <Precinct name="Cooperville Fire Station" votes="49" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="627">
+                <Precinct name="Sylvania" votes="67" />
+                <Precinct name="Hunters" votes="28" />
+                <Precinct name="Newington" votes="84" />
+                <Precinct name="Jenk Hill Fire Sta" votes="85" />
+                <Precinct name="Rocky Ford" votes="27" />
+                <Precinct name="Bay Branch" votes="20" />
+                <Precinct name="Hiltonia" votes="74" />
+                <Precinct name="Screven Rec Dept" votes="36" />
+                <Precinct name="Greenhill Church" votes="24" />
+                <Precinct name="Sr Citizens Center" votes="135" />
+                <Precinct name="Jackson Fire Station" votes="14" />
+                <Precinct name="Cooperville Fire Station" votes="33" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Emily Anderson (Lib)" totalVotes="72">
+            <VoteType name="Absentee by Mail Votes" votes="3">
+                <Precinct name="Sylvania" votes="1" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="1" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="1" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="35">
+                <Precinct name="Sylvania" votes="9" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="2" />
+                <Precinct name="Jenk Hill Fire Sta" votes="4" />
+                <Precinct name="Rocky Ford" votes="1" />
+                <Precinct name="Bay Branch" votes="3" />
+                <Precinct name="Hiltonia" votes="5" />
+                <Precinct name="Screven Rec Dept" votes="2" />
+                <Precinct name="Greenhill Church" votes="4" />
+                <Precinct name="Sr Citizens Center" votes="4" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Sylvania" votes="2" />
+                <Precinct name="Hunters" votes="2" />
+                <Precinct name="Newington" votes="7" />
+                <Precinct name="Jenk Hill Fire Sta" votes="1" />
+                <Precinct name="Rocky Ford" votes="2" />
+                <Precinct name="Bay Branch" votes="4" />
+                <Precinct name="Hiltonia" votes="3" />
+                <Precinct name="Screven Rec Dept" votes="3" />
+                <Precinct name="Greenhill Church" votes="2" />
+                <Precinct name="Sr Citizens Center" votes="6" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="US House of Representatives - District 12" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="85">
+            <Precinct name="Sylvania" votes="14" />
+            <Precinct name="Hunters" votes="5" />
+            <Precinct name="Newington" votes="10" />
+            <Precinct name="Jenk Hill Fire Sta" votes="14" />
+            <Precinct name="Rocky Ford" votes="3" />
+            <Precinct name="Bay Branch" votes="6" />
+            <Precinct name="Hiltonia" votes="9" />
+            <Precinct name="Screven Rec Dept" votes="3" />
+            <Precinct name="Greenhill Church" votes="2" />
+            <Precinct name="Sr Citizens Center" votes="12" />
+            <Precinct name="Jackson Fire Station" votes="2" />
+            <Precinct name="Cooperville Fire Station" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Hunters" votes="0" />
+            <Precinct name="Newington" votes="0" />
+            <Precinct name="Jenk Hill Fire Sta" votes="0" />
+            <Precinct name="Rocky Ford" votes="0" />
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="31" text="Rick W. Allen (I) (Rep)" totalVotes="3384">
+            <VoteType name="Absentee by Mail Votes" votes="84">
+                <Precinct name="Sylvania" votes="31" />
+                <Precinct name="Hunters" votes="5" />
+                <Precinct name="Newington" votes="2" />
+                <Precinct name="Jenk Hill Fire Sta" votes="8" />
+                <Precinct name="Rocky Ford" votes="3" />
+                <Precinct name="Bay Branch" votes="10" />
+                <Precinct name="Hiltonia" votes="3" />
+                <Precinct name="Screven Rec Dept" votes="6" />
+                <Precinct name="Greenhill Church" votes="8" />
+                <Precinct name="Sr Citizens Center" votes="5" />
+                <Precinct name="Jackson Fire Station" votes="3" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1692">
+                <Precinct name="Sylvania" votes="224" />
+                <Precinct name="Hunters" votes="72" />
+                <Precinct name="Newington" votes="136" />
+                <Precinct name="Jenk Hill Fire Sta" votes="191" />
+                <Precinct name="Rocky Ford" votes="112" />
+                <Precinct name="Bay Branch" votes="262" />
+                <Precinct name="Hiltonia" votes="151" />
+                <Precinct name="Screven Rec Dept" votes="57" />
+                <Precinct name="Greenhill Church" votes="225" />
+                <Precinct name="Sr Citizens Center" votes="180" />
+                <Precinct name="Jackson Fire Station" votes="69" />
+                <Precinct name="Cooperville Fire Station" votes="13" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1608">
+                <Precinct name="Sylvania" votes="119" />
+                <Precinct name="Hunters" votes="109" />
+                <Precinct name="Newington" votes="284" />
+                <Precinct name="Jenk Hill Fire Sta" votes="146" />
+                <Precinct name="Rocky Ford" votes="150" />
+                <Precinct name="Bay Branch" votes="245" />
+                <Precinct name="Hiltonia" votes="126" />
+                <Precinct name="Screven Rec Dept" votes="47" />
+                <Precinct name="Greenhill Church" votes="199" />
+                <Precinct name="Sr Citizens Center" votes="63" />
+                <Precinct name="Jackson Fire Station" votes="94" />
+                <Precinct name="Cooperville Fire Station" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="32" text="Elizabeth 'Liz' Johnson (Dem)" totalVotes="1851">
+            <VoteType name="Absentee by Mail Votes" votes="147">
+                <Precinct name="Sylvania" votes="33" />
+                <Precinct name="Hunters" votes="7" />
+                <Precinct name="Newington" votes="12" />
+                <Precinct name="Jenk Hill Fire Sta" votes="23" />
+                <Precinct name="Rocky Ford" votes="5" />
+                <Precinct name="Bay Branch" votes="1" />
+                <Precinct name="Hiltonia" votes="13" />
+                <Precinct name="Screven Rec Dept" votes="5" />
+                <Precinct name="Greenhill Church" votes="7" />
+                <Precinct name="Sr Citizens Center" votes="27" />
+                <Precinct name="Jackson Fire Station" votes="7" />
+                <Precinct name="Cooperville Fire Station" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1060">
+                <Precinct name="Sylvania" votes="169" />
+                <Precinct name="Hunters" votes="40" />
+                <Precinct name="Newington" votes="87" />
+                <Precinct name="Jenk Hill Fire Sta" votes="178" />
+                <Precinct name="Rocky Ford" votes="44" />
+                <Precinct name="Bay Branch" votes="49" />
+                <Precinct name="Hiltonia" votes="105" />
+                <Precinct name="Screven Rec Dept" votes="65" />
+                <Precinct name="Greenhill Church" votes="49" />
+                <Precinct name="Sr Citizens Center" votes="198" />
+                <Precinct name="Jackson Fire Station" votes="29" />
+                <Precinct name="Cooperville Fire Station" votes="47" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="644">
+                <Precinct name="Sylvania" votes="67" />
+                <Precinct name="Hunters" votes="29" />
+                <Precinct name="Newington" votes="88" />
+                <Precinct name="Jenk Hill Fire Sta" votes="86" />
+                <Precinct name="Rocky Ford" votes="25" />
+                <Precinct name="Bay Branch" votes="16" />
+                <Precinct name="Hiltonia" votes="80" />
+                <Precinct name="Screven Rec Dept" votes="39" />
+                <Precinct name="Greenhill Church" votes="25" />
+                <Precinct name="Sr Citizens Center" votes="141" />
+                <Precinct name="Jackson Fire Station" votes="13" />
+                <Precinct name="Cooperville Fire Station" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="State Senate - District 23" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="1032">
+            <Precinct name="Sylvania" votes="158" />
+            <Precinct name="Hunters" votes="37" />
+            <Precinct name="Newington" votes="103" />
+            <Precinct name="Jenk Hill Fire Sta" votes="161" />
+            <Precinct name="Rocky Ford" votes="50" />
+            <Precinct name="Bay Branch" votes="38" />
+            <Precinct name="Hiltonia" votes="113" />
+            <Precinct name="Screven Rec Dept" votes="55" />
+            <Precinct name="Greenhill Church" votes="49" />
+            <Precinct name="Sr Citizens Center" votes="187" />
+            <Precinct name="Jackson Fire Station" votes="39" />
+            <Precinct name="Cooperville Fire Station" votes="42" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Hunters" votes="0" />
+            <Precinct name="Newington" votes="0" />
+            <Precinct name="Jenk Hill Fire Sta" votes="0" />
+            <Precinct name="Rocky Ford" votes="0" />
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="33" text="Max Burns(I) (Rep)" totalVotes="4185">
+            <VoteType name="Absentee by Mail Votes" votes="130">
+                <Precinct name="Sylvania" votes="37" />
+                <Precinct name="Hunters" votes="8" />
+                <Precinct name="Newington" votes="9" />
+                <Precinct name="Jenk Hill Fire Sta" votes="15" />
+                <Precinct name="Rocky Ford" votes="4" />
+                <Precinct name="Bay Branch" votes="11" />
+                <Precinct name="Hiltonia" votes="11" />
+                <Precinct name="Screven Rec Dept" votes="9" />
+                <Precinct name="Greenhill Church" votes="8" />
+                <Precinct name="Sr Citizens Center" votes="13" />
+                <Precinct name="Jackson Fire Station" votes="3" />
+                <Precinct name="Cooperville Fire Station" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2138">
+                <Precinct name="Sylvania" votes="302" />
+                <Precinct name="Hunters" votes="83" />
+                <Precinct name="Newington" votes="173" />
+                <Precinct name="Jenk Hill Fire Sta" votes="262" />
+                <Precinct name="Rocky Ford" votes="130" />
+                <Precinct name="Bay Branch" votes="286" />
+                <Precinct name="Hiltonia" votes="189" />
+                <Precinct name="Screven Rec Dept" votes="84" />
+                <Precinct name="Greenhill Church" votes="245" />
+                <Precinct name="Sr Citizens Center" votes="278" />
+                <Precinct name="Jackson Fire Station" votes="75" />
+                <Precinct name="Cooperville Fire Station" votes="31" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1917">
+                <Precinct name="Sylvania" votes="148" />
+                <Precinct name="Hunters" votes="129" />
+                <Precinct name="Newington" votes="321" />
+                <Precinct name="Jenk Hill Fire Sta" votes="198" />
+                <Precinct name="Rocky Ford" votes="157" />
+                <Precinct name="Bay Branch" votes="251" />
+                <Precinct name="Hiltonia" votes="160" />
+                <Precinct name="Screven Rec Dept" votes="66" />
+                <Precinct name="Greenhill Church" votes="211" />
+                <Precinct name="Sr Citizens Center" votes="131" />
+                <Precinct name="Jackson Fire Station" votes="96" />
+                <Precinct name="Cooperville Fire Station" votes="49" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="State House of Representatives - District 159" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="1045">
+            <Precinct name="Sylvania" votes="159" />
+            <Precinct name="Hunters" votes="43" />
+            <Precinct name="Newington" votes="110" />
+            <Precinct name="Jenk Hill Fire Sta" votes="161" />
+            <Precinct name="Rocky Ford" votes="50" />
+            <Precinct name="Bay Branch" votes="37" />
+            <Precinct name="Hiltonia" votes="116" />
+            <Precinct name="Screven Rec Dept" votes="56" />
+            <Precinct name="Greenhill Church" votes="46" />
+            <Precinct name="Sr Citizens Center" votes="185" />
+            <Precinct name="Jackson Fire Station" votes="36" />
+            <Precinct name="Cooperville Fire Station" votes="46" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Hunters" votes="0" />
+            <Precinct name="Newington" votes="0" />
+            <Precinct name="Jenk Hill Fire Sta" votes="0" />
+            <Precinct name="Rocky Ford" votes="0" />
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="34" text="Jon G. Burns (I) (Rep)" totalVotes="4188">
+            <VoteType name="Absentee by Mail Votes" votes="125">
+                <Precinct name="Sylvania" votes="34" />
+                <Precinct name="Hunters" votes="8" />
+                <Precinct name="Newington" votes="9" />
+                <Precinct name="Jenk Hill Fire Sta" votes="14" />
+                <Precinct name="Rocky Ford" votes="6" />
+                <Precinct name="Bay Branch" votes="10" />
+                <Precinct name="Hiltonia" votes="10" />
+                <Precinct name="Screven Rec Dept" votes="9" />
+                <Precinct name="Greenhill Church" votes="8" />
+                <Precinct name="Sr Citizens Center" votes="12" />
+                <Precinct name="Jackson Fire Station" votes="3" />
+                <Precinct name="Cooperville Fire Station" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2153">
+                <Precinct name="Sylvania" votes="303" />
+                <Precinct name="Hunters" votes="83" />
+                <Precinct name="Newington" votes="175" />
+                <Precinct name="Jenk Hill Fire Sta" votes="264" />
+                <Precinct name="Rocky Ford" votes="128" />
+                <Precinct name="Bay Branch" votes="288" />
+                <Precinct name="Hiltonia" votes="190" />
+                <Precinct name="Screven Rec Dept" votes="85" />
+                <Precinct name="Greenhill Church" votes="247" />
+                <Precinct name="Sr Citizens Center" votes="281" />
+                <Precinct name="Jackson Fire Station" votes="80" />
+                <Precinct name="Cooperville Fire Station" votes="29" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1910">
+                <Precinct name="Sylvania" votes="150" />
+                <Precinct name="Hunters" votes="128" />
+                <Precinct name="Newington" votes="316" />
+                <Precinct name="Jenk Hill Fire Sta" votes="198" />
+                <Precinct name="Rocky Ford" votes="158" />
+                <Precinct name="Bay Branch" votes="251" />
+                <Precinct name="Hiltonia" votes="157" />
+                <Precinct name="Screven Rec Dept" votes="66" />
+                <Precinct name="Greenhill Church" votes="211" />
+                <Precinct name="Sr Citizens Center" votes="133" />
+                <Precinct name="Jackson Fire Station" votes="95" />
+                <Precinct name="Cooperville Fire Station" votes="47" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="County Comm Dist 1" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="22">
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="18" />
+            <Precinct name="Screven Rec Dept" votes="4" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+        </VoteType>
+        <Choice key="35" text="Tyler A. Thompson (Rep)" totalVotes="354">
+            <VoteType name="Absentee by Mail Votes" votes="8">
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="3" />
+                <Precinct name="Screven Rec Dept" votes="5" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="190">
+                <Precinct name="Bay Branch" votes="9" />
+                <Precinct name="Hiltonia" votes="127" />
+                <Precinct name="Screven Rec Dept" votes="54" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="156">
+                <Precinct name="Bay Branch" votes="10" />
+                <Precinct name="Hiltonia" votes="110" />
+                <Precinct name="Screven Rec Dept" votes="36" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="36" text="Edwin Lovett (I) (Dem)" totalVotes="361">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="13" />
+                <Precinct name="Screven Rec Dept" votes="5" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="196">
+                <Precinct name="Bay Branch" votes="3" />
+                <Precinct name="Hiltonia" votes="124" />
+                <Precinct name="Screven Rec Dept" votes="66" />
+                <Precinct name="Sr Citizens Center" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="147">
+                <Precinct name="Bay Branch" votes="1" />
+                <Precinct name="Hiltonia" votes="92" />
+                <Precinct name="Screven Rec Dept" votes="51" />
+                <Precinct name="Sr Citizens Center" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="County Comm Dist 4" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="148">
+            <Precinct name="Newington" votes="116" />
+            <Precinct name="Jackson Fire Station" votes="32" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Newington" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Will Boyd (I) (Rep)" totalVotes="621">
+            <VoteType name="Absentee by Mail Votes" votes="12">
+                <Precinct name="Newington" votes="8" />
+                <Precinct name="Jackson Fire Station" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="223">
+                <Precinct name="Newington" votes="142" />
+                <Precinct name="Jackson Fire Station" votes="81" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="386">
+                <Precinct name="Newington" votes="291" />
+                <Precinct name="Jackson Fire Station" votes="95" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="County Comm Dist 7" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="20">
+            <Precinct name="Sylvania" votes="19" />
+            <Precinct name="Bay Branch" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Bay Branch" votes="0" />
+        </VoteType>
+        <Choice key="38" text="Benjamin James Thompson (Rep)" totalVotes="403">
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Sylvania" votes="30" />
+                <Precinct name="Bay Branch" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="242">
+                <Precinct name="Sylvania" votes="233" />
+                <Precinct name="Bay Branch" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="129">
+                <Precinct name="Sylvania" votes="117" />
+                <Precinct name="Bay Branch" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="39" text="Chris Nasworthy (Dem)" totalVotes="252">
+            <VoteType name="Absentee by Mail Votes" votes="34">
+                <Precinct name="Sylvania" votes="34" />
+                <Precinct name="Bay Branch" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="152">
+                <Precinct name="Sylvania" votes="152" />
+                <Precinct name="Bay Branch" votes="0" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="66">
+                <Precinct name="Sylvania" votes="66" />
+                <Precinct name="Bay Branch" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Proposed Constitutional Amendment 1" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="233">
+            <Precinct name="Sylvania" votes="33" />
+            <Precinct name="Hunters" votes="14" />
+            <Precinct name="Newington" votes="24" />
+            <Precinct name="Jenk Hill Fire Sta" votes="38" />
+            <Precinct name="Rocky Ford" votes="12" />
+            <Precinct name="Bay Branch" votes="22" />
+            <Precinct name="Hiltonia" votes="22" />
+            <Precinct name="Screven Rec Dept" votes="11" />
+            <Precinct name="Greenhill Church" votes="17" />
+            <Precinct name="Sr Citizens Center" votes="29" />
+            <Precinct name="Jackson Fire Station" votes="6" />
+            <Precinct name="Cooperville Fire Station" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Hunters" votes="0" />
+            <Precinct name="Newington" votes="0" />
+            <Precinct name="Jenk Hill Fire Sta" votes="0" />
+            <Precinct name="Rocky Ford" votes="0" />
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="40" text="Yes" totalVotes="4374">
+            <VoteType name="Absentee by Mail Votes" votes="189">
+                <Precinct name="Sylvania" votes="51" />
+                <Precinct name="Hunters" votes="11" />
+                <Precinct name="Newington" votes="14" />
+                <Precinct name="Jenk Hill Fire Sta" votes="26" />
+                <Precinct name="Rocky Ford" votes="7" />
+                <Precinct name="Bay Branch" votes="11" />
+                <Precinct name="Hiltonia" votes="10" />
+                <Precinct name="Screven Rec Dept" votes="10" />
+                <Precinct name="Greenhill Church" votes="12" />
+                <Precinct name="Sr Citizens Center" votes="20" />
+                <Precinct name="Jackson Fire Station" votes="10" />
+                <Precinct name="Cooperville Fire Station" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2278">
+                <Precinct name="Sylvania" votes="332" />
+                <Precinct name="Hunters" votes="97" />
+                <Precinct name="Newington" votes="171" />
+                <Precinct name="Jenk Hill Fire Sta" votes="287" />
+                <Precinct name="Rocky Ford" votes="134" />
+                <Precinct name="Bay Branch" votes="263" />
+                <Precinct name="Hiltonia" votes="206" />
+                <Precinct name="Screven Rec Dept" votes="99" />
+                <Precinct name="Greenhill Church" votes="232" />
+                <Precinct name="Sr Citizens Center" votes="311" />
+                <Precinct name="Jackson Fire Station" votes="91" />
+                <Precinct name="Cooperville Fire Station" votes="55" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1907">
+                <Precinct name="Sylvania" votes="151" />
+                <Precinct name="Hunters" votes="118" />
+                <Precinct name="Newington" votes="325" />
+                <Precinct name="Jenk Hill Fire Sta" votes="192" />
+                <Precinct name="Rocky Ford" votes="148" />
+                <Precinct name="Bay Branch" votes="232" />
+                <Precinct name="Hiltonia" votes="180" />
+                <Precinct name="Screven Rec Dept" votes="65" />
+                <Precinct name="Greenhill Church" votes="189" />
+                <Precinct name="Sr Citizens Center" votes="167" />
+                <Precinct name="Jackson Fire Station" votes="93" />
+                <Precinct name="Cooperville Fire Station" votes="47" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="41" text="No" totalVotes="715">
+            <VoteType name="Absentee by Mail Votes" votes="34">
+                <Precinct name="Sylvania" votes="9" />
+                <Precinct name="Hunters" votes="1" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="3" />
+                <Precinct name="Rocky Ford" votes="1" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="6" />
+                <Precinct name="Screven Rec Dept" votes="1" />
+                <Precinct name="Greenhill Church" votes="2" />
+                <Precinct name="Sr Citizens Center" votes="11" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="393">
+                <Precinct name="Sylvania" votes="56" />
+                <Precinct name="Hunters" votes="9" />
+                <Precinct name="Newington" votes="48" />
+                <Precinct name="Jenk Hill Fire Sta" votes="63" />
+                <Precinct name="Rocky Ford" votes="18" />
+                <Precinct name="Bay Branch" votes="39" />
+                <Precinct name="Hiltonia" votes="40" />
+                <Precinct name="Screven Rec Dept" votes="19" />
+                <Precinct name="Greenhill Church" votes="34" />
+                <Precinct name="Sr Citizens Center" votes="56" />
+                <Precinct name="Jackson Fire Station" votes="5" />
+                <Precinct name="Cooperville Fire Station" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="288">
+                <Precinct name="Sylvania" votes="25" />
+                <Precinct name="Hunters" votes="17" />
+                <Precinct name="Newington" votes="38" />
+                <Precinct name="Jenk Hill Fire Sta" votes="37" />
+                <Precinct name="Rocky Ford" votes="23" />
+                <Precinct name="Bay Branch" votes="22" />
+                <Precinct name="Hiltonia" votes="23" />
+                <Precinct name="Screven Rec Dept" votes="17" />
+                <Precinct name="Greenhill Church" votes="29" />
+                <Precinct name="Sr Citizens Center" votes="32" />
+                <Precinct name="Jackson Fire Station" votes="12" />
+                <Precinct name="Cooperville Fire Station" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="Proposed Constitutional Amendment 2" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="208">
+            <Precinct name="Sylvania" votes="32" />
+            <Precinct name="Hunters" votes="12" />
+            <Precinct name="Newington" votes="23" />
+            <Precinct name="Jenk Hill Fire Sta" votes="29" />
+            <Precinct name="Rocky Ford" votes="8" />
+            <Precinct name="Bay Branch" votes="22" />
+            <Precinct name="Hiltonia" votes="23" />
+            <Precinct name="Screven Rec Dept" votes="9" />
+            <Precinct name="Greenhill Church" votes="14" />
+            <Precinct name="Sr Citizens Center" votes="30" />
+            <Precinct name="Jackson Fire Station" votes="3" />
+            <Precinct name="Cooperville Fire Station" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Hunters" votes="0" />
+            <Precinct name="Newington" votes="0" />
+            <Precinct name="Jenk Hill Fire Sta" votes="0" />
+            <Precinct name="Rocky Ford" votes="0" />
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Yes" totalVotes="4602">
+            <VoteType name="Absentee by Mail Votes" votes="208">
+                <Precinct name="Sylvania" votes="54" />
+                <Precinct name="Hunters" votes="12" />
+                <Precinct name="Newington" votes="13" />
+                <Precinct name="Jenk Hill Fire Sta" votes="28" />
+                <Precinct name="Rocky Ford" votes="9" />
+                <Precinct name="Bay Branch" votes="9" />
+                <Precinct name="Hiltonia" votes="15" />
+                <Precinct name="Screven Rec Dept" votes="10" />
+                <Precinct name="Greenhill Church" votes="13" />
+                <Precinct name="Sr Citizens Center" votes="28" />
+                <Precinct name="Jackson Fire Station" votes="10" />
+                <Precinct name="Cooperville Fire Station" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2406">
+                <Precinct name="Sylvania" votes="355" />
+                <Precinct name="Hunters" votes="100" />
+                <Precinct name="Newington" votes="198" />
+                <Precinct name="Jenk Hill Fire Sta" votes="316" />
+                <Precinct name="Rocky Ford" votes="137" />
+                <Precinct name="Bay Branch" votes="269" />
+                <Precinct name="Hiltonia" votes="217" />
+                <Precinct name="Screven Rec Dept" votes="109" />
+                <Precinct name="Greenhill Church" votes="238" />
+                <Precinct name="Sr Citizens Center" votes="324" />
+                <Precinct name="Jackson Fire Station" votes="89" />
+                <Precinct name="Cooperville Fire Station" votes="54" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1988">
+                <Precinct name="Sylvania" votes="158" />
+                <Precinct name="Hunters" votes="124" />
+                <Precinct name="Newington" votes="340" />
+                <Precinct name="Jenk Hill Fire Sta" votes="205" />
+                <Precinct name="Rocky Ford" votes="160" />
+                <Precinct name="Bay Branch" votes="235" />
+                <Precinct name="Hiltonia" votes="179" />
+                <Precinct name="Screven Rec Dept" votes="77" />
+                <Precinct name="Greenhill Church" votes="190" />
+                <Precinct name="Sr Citizens Center" votes="171" />
+                <Precinct name="Jackson Fire Station" votes="99" />
+                <Precinct name="Cooperville Fire Station" votes="50" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="No" totalVotes="512">
+            <VoteType name="Absentee by Mail Votes" votes="14">
+                <Precinct name="Sylvania" votes="5" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="1" />
+                <Precinct name="Jenk Hill Fire Sta" votes="2" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="1" />
+                <Precinct name="Hiltonia" votes="1" />
+                <Precinct name="Screven Rec Dept" votes="1" />
+                <Precinct name="Greenhill Church" votes="1" />
+                <Precinct name="Sr Citizens Center" votes="2" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="278">
+                <Precinct name="Sylvania" votes="30" />
+                <Precinct name="Hunters" votes="7" />
+                <Precinct name="Newington" votes="23" />
+                <Precinct name="Jenk Hill Fire Sta" votes="40" />
+                <Precinct name="Rocky Ford" votes="17" />
+                <Precinct name="Bay Branch" votes="33" />
+                <Precinct name="Hiltonia" votes="30" />
+                <Precinct name="Screven Rec Dept" votes="9" />
+                <Precinct name="Greenhill Church" votes="29" />
+                <Precinct name="Sr Citizens Center" votes="44" />
+                <Precinct name="Jackson Fire Station" votes="8" />
+                <Precinct name="Cooperville Fire Station" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="220">
+                <Precinct name="Sylvania" votes="23" />
+                <Precinct name="Hunters" votes="12" />
+                <Precinct name="Newington" votes="22" />
+                <Precinct name="Jenk Hill Fire Sta" votes="26" />
+                <Precinct name="Rocky Ford" votes="12" />
+                <Precinct name="Bay Branch" votes="20" />
+                <Precinct name="Hiltonia" votes="22" />
+                <Precinct name="Screven Rec Dept" votes="7" />
+                <Precinct name="Greenhill Church" votes="30" />
+                <Precinct name="Sr Citizens Center" votes="27" />
+                <Precinct name="Jackson Fire Station" votes="8" />
+                <Precinct name="Cooperville Fire Station" votes="11" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="Statewide Referendum Question A" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="288">
+            <Precinct name="Sylvania" votes="42" />
+            <Precinct name="Hunters" votes="14" />
+            <Precinct name="Newington" votes="31" />
+            <Precinct name="Jenk Hill Fire Sta" votes="49" />
+            <Precinct name="Rocky Ford" votes="14" />
+            <Precinct name="Bay Branch" votes="25" />
+            <Precinct name="Hiltonia" votes="34" />
+            <Precinct name="Screven Rec Dept" votes="17" />
+            <Precinct name="Greenhill Church" votes="20" />
+            <Precinct name="Sr Citizens Center" votes="31" />
+            <Precinct name="Jackson Fire Station" votes="7" />
+            <Precinct name="Cooperville Fire Station" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Hunters" votes="0" />
+            <Precinct name="Newington" votes="0" />
+            <Precinct name="Jenk Hill Fire Sta" votes="0" />
+            <Precinct name="Rocky Ford" votes="0" />
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Yes" totalVotes="3190">
+            <VoteType name="Absentee by Mail Votes" votes="118">
+                <Precinct name="Sylvania" votes="34" />
+                <Precinct name="Hunters" votes="6" />
+                <Precinct name="Newington" votes="10" />
+                <Precinct name="Jenk Hill Fire Sta" votes="14" />
+                <Precinct name="Rocky Ford" votes="1" />
+                <Precinct name="Bay Branch" votes="6" />
+                <Precinct name="Hiltonia" votes="8" />
+                <Precinct name="Screven Rec Dept" votes="2" />
+                <Precinct name="Greenhill Church" votes="8" />
+                <Precinct name="Sr Citizens Center" votes="20" />
+                <Precinct name="Jackson Fire Station" votes="7" />
+                <Precinct name="Cooperville Fire Station" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1606">
+                <Precinct name="Sylvania" votes="233" />
+                <Precinct name="Hunters" votes="71" />
+                <Precinct name="Newington" votes="129" />
+                <Precinct name="Jenk Hill Fire Sta" votes="194" />
+                <Precinct name="Rocky Ford" votes="98" />
+                <Precinct name="Bay Branch" votes="191" />
+                <Precinct name="Hiltonia" votes="137" />
+                <Precinct name="Screven Rec Dept" votes="62" />
+                <Precinct name="Greenhill Church" votes="168" />
+                <Precinct name="Sr Citizens Center" votes="222" />
+                <Precinct name="Jackson Fire Station" votes="64" />
+                <Precinct name="Cooperville Fire Station" votes="37" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1466">
+                <Precinct name="Sylvania" votes="124" />
+                <Precinct name="Hunters" votes="85" />
+                <Precinct name="Newington" votes="249" />
+                <Precinct name="Jenk Hill Fire Sta" votes="157" />
+                <Precinct name="Rocky Ford" votes="121" />
+                <Precinct name="Bay Branch" votes="172" />
+                <Precinct name="Hiltonia" votes="141" />
+                <Precinct name="Screven Rec Dept" votes="52" />
+                <Precinct name="Greenhill Church" votes="131" />
+                <Precinct name="Sr Citizens Center" votes="122" />
+                <Precinct name="Jackson Fire Station" votes="73" />
+                <Precinct name="Cooperville Fire Station" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="47" text="No" totalVotes="1844">
+            <VoteType name="Absentee by Mail Votes" votes="100">
+                <Precinct name="Sylvania" votes="25" />
+                <Precinct name="Hunters" votes="6" />
+                <Precinct name="Newington" votes="3" />
+                <Precinct name="Jenk Hill Fire Sta" votes="16" />
+                <Precinct name="Rocky Ford" votes="5" />
+                <Precinct name="Bay Branch" votes="5" />
+                <Precinct name="Hiltonia" votes="7" />
+                <Precinct name="Screven Rec Dept" votes="8" />
+                <Precinct name="Greenhill Church" votes="6" />
+                <Precinct name="Sr Citizens Center" votes="11" />
+                <Precinct name="Jackson Fire Station" votes="3" />
+                <Precinct name="Cooperville Fire Station" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1026">
+                <Precinct name="Sylvania" votes="146" />
+                <Precinct name="Hunters" votes="35" />
+                <Precinct name="Newington" votes="87" />
+                <Precinct name="Jenk Hill Fire Sta" votes="144" />
+                <Precinct name="Rocky Ford" votes="54" />
+                <Precinct name="Bay Branch" votes="107" />
+                <Precinct name="Hiltonia" votes="104" />
+                <Precinct name="Screven Rec Dept" votes="52" />
+                <Precinct name="Greenhill Church" votes="95" />
+                <Precinct name="Sr Citizens Center" votes="147" />
+                <Precinct name="Jackson Fire Station" votes="31" />
+                <Precinct name="Cooperville Fire Station" votes="24" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="718">
+                <Precinct name="Sylvania" votes="53" />
+                <Precinct name="Hunters" votes="50" />
+                <Precinct name="Newington" votes="111" />
+                <Precinct name="Jenk Hill Fire Sta" votes="72" />
+                <Precinct name="Rocky Ford" votes="50" />
+                <Precinct name="Bay Branch" votes="83" />
+                <Precinct name="Hiltonia" votes="56" />
+                <Precinct name="Screven Rec Dept" votes="29" />
+                <Precinct name="Greenhill Church" votes="87" />
+                <Precinct name="Sr Citizens Center" votes="73" />
+                <Precinct name="Jackson Fire Station" votes="32" />
+                <Precinct name="Cooperville Fire Station" votes="22" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="Statewide Referendum Question B" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="262">
+            <Precinct name="Sylvania" votes="38" />
+            <Precinct name="Hunters" votes="14" />
+            <Precinct name="Newington" votes="27" />
+            <Precinct name="Jenk Hill Fire Sta" votes="46" />
+            <Precinct name="Rocky Ford" votes="16" />
+            <Precinct name="Bay Branch" votes="21" />
+            <Precinct name="Hiltonia" votes="27" />
+            <Precinct name="Screven Rec Dept" votes="12" />
+            <Precinct name="Greenhill Church" votes="18" />
+            <Precinct name="Sr Citizens Center" votes="33" />
+            <Precinct name="Jackson Fire Station" votes="6" />
+            <Precinct name="Cooperville Fire Station" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Hunters" votes="0" />
+            <Precinct name="Newington" votes="0" />
+            <Precinct name="Jenk Hill Fire Sta" votes="0" />
+            <Precinct name="Rocky Ford" votes="0" />
+            <Precinct name="Bay Branch" votes="0" />
+            <Precinct name="Hiltonia" votes="0" />
+            <Precinct name="Screven Rec Dept" votes="0" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+            <Precinct name="Jackson Fire Station" votes="0" />
+            <Precinct name="Cooperville Fire Station" votes="0" />
+        </VoteType>
+        <Choice key="44" text="Yes" totalVotes="3684">
+            <VoteType name="Absentee by Mail Votes" votes="130">
+                <Precinct name="Sylvania" votes="34" />
+                <Precinct name="Hunters" votes="4" />
+                <Precinct name="Newington" votes="11" />
+                <Precinct name="Jenk Hill Fire Sta" votes="17" />
+                <Precinct name="Rocky Ford" votes="4" />
+                <Precinct name="Bay Branch" votes="7" />
+                <Precinct name="Hiltonia" votes="9" />
+                <Precinct name="Screven Rec Dept" votes="5" />
+                <Precinct name="Greenhill Church" votes="9" />
+                <Precinct name="Sr Citizens Center" votes="18" />
+                <Precinct name="Jackson Fire Station" votes="9" />
+                <Precinct name="Cooperville Fire Station" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1879">
+                <Precinct name="Sylvania" votes="273" />
+                <Precinct name="Hunters" votes="79" />
+                <Precinct name="Newington" votes="156" />
+                <Precinct name="Jenk Hill Fire Sta" votes="230" />
+                <Precinct name="Rocky Ford" votes="116" />
+                <Precinct name="Bay Branch" votes="226" />
+                <Precinct name="Hiltonia" votes="160" />
+                <Precinct name="Screven Rec Dept" votes="72" />
+                <Precinct name="Greenhill Church" votes="198" />
+                <Precinct name="Sr Citizens Center" votes="249" />
+                <Precinct name="Jackson Fire Station" votes="74" />
+                <Precinct name="Cooperville Fire Station" votes="46" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1675">
+                <Precinct name="Sylvania" votes="140" />
+                <Precinct name="Hunters" votes="104" />
+                <Precinct name="Newington" votes="284" />
+                <Precinct name="Jenk Hill Fire Sta" votes="174" />
+                <Precinct name="Rocky Ford" votes="134" />
+                <Precinct name="Bay Branch" votes="209" />
+                <Precinct name="Hiltonia" votes="165" />
+                <Precinct name="Screven Rec Dept" votes="58" />
+                <Precinct name="Greenhill Church" votes="152" />
+                <Precinct name="Sr Citizens Center" votes="133" />
+                <Precinct name="Jackson Fire Station" votes="79" />
+                <Precinct name="Cooperville Fire Station" votes="43" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="45" text="No" totalVotes="1376">
+            <VoteType name="Absentee by Mail Votes" votes="85">
+                <Precinct name="Sylvania" votes="23" />
+                <Precinct name="Hunters" votes="8" />
+                <Precinct name="Newington" votes="2" />
+                <Precinct name="Jenk Hill Fire Sta" votes="12" />
+                <Precinct name="Rocky Ford" votes="2" />
+                <Precinct name="Bay Branch" votes="4" />
+                <Precinct name="Hiltonia" votes="6" />
+                <Precinct name="Screven Rec Dept" votes="6" />
+                <Precinct name="Greenhill Church" votes="5" />
+                <Precinct name="Sr Citizens Center" votes="12" />
+                <Precinct name="Jackson Fire Station" votes="1" />
+                <Precinct name="Cooperville Fire Station" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="767">
+                <Precinct name="Sylvania" votes="110" />
+                <Precinct name="Hunters" votes="27" />
+                <Precinct name="Newington" votes="61" />
+                <Precinct name="Jenk Hill Fire Sta" votes="112" />
+                <Precinct name="Rocky Ford" votes="34" />
+                <Precinct name="Bay Branch" votes="75" />
+                <Precinct name="Hiltonia" votes="84" />
+                <Precinct name="Screven Rec Dept" votes="44" />
+                <Precinct name="Greenhill Church" votes="67" />
+                <Precinct name="Sr Citizens Center" votes="118" />
+                <Precinct name="Jackson Fire Station" votes="20" />
+                <Precinct name="Cooperville Fire Station" votes="15" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="524">
+                <Precinct name="Sylvania" votes="39" />
+                <Precinct name="Hunters" votes="31" />
+                <Precinct name="Newington" votes="79" />
+                <Precinct name="Jenk Hill Fire Sta" votes="55" />
+                <Precinct name="Rocky Ford" votes="37" />
+                <Precinct name="Bay Branch" votes="47" />
+                <Precinct name="Hiltonia" votes="36" />
+                <Precinct name="Screven Rec Dept" votes="25" />
+                <Precinct name="Greenhill Church" votes="66" />
+                <Precinct name="Sr Citizens Center" votes="63" />
+                <Precinct name="Jackson Fire Station" votes="28" />
+                <Precinct name="Cooperville Fire Station" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Newington" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Rocky Ford" votes="0" />
+                <Precinct name="Bay Branch" votes="0" />
+                <Precinct name="Hiltonia" votes="0" />
+                <Precinct name="Screven Rec Dept" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+                <Precinct name="Jackson Fire Station" votes="0" />
+                <Precinct name="Cooperville Fire Station" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="Sylvania Alcohol Question" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="45">
+            <Precinct name="Sylvania" votes="20" />
+            <Precinct name="Hunters" votes="1" />
+            <Precinct name="Jenk Hill Fire Sta" votes="9" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Sylvania" votes="0" />
+            <Precinct name="Hunters" votes="0" />
+            <Precinct name="Jenk Hill Fire Sta" votes="0" />
+            <Precinct name="Greenhill Church" votes="0" />
+            <Precinct name="Sr Citizens Center" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Yes" totalVotes="699">
+            <VoteType name="Absentee by Mail Votes" votes="47">
+                <Precinct name="Sylvania" votes="35" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="2" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="431">
+                <Precinct name="Sylvania" votes="245" />
+                <Precinct name="Hunters" votes="13" />
+                <Precinct name="Jenk Hill Fire Sta" votes="34" />
+                <Precinct name="Greenhill Church" votes="13" />
+                <Precinct name="Sr Citizens Center" votes="126" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="221">
+                <Precinct name="Sylvania" votes="128" />
+                <Precinct name="Hunters" votes="7" />
+                <Precinct name="Jenk Hill Fire Sta" votes="18" />
+                <Precinct name="Greenhill Church" votes="2" />
+                <Precinct name="Sr Citizens Center" votes="66" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="No" totalVotes="271">
+            <VoteType name="Absentee by Mail Votes" votes="36">
+                <Precinct name="Sylvania" votes="24" />
+                <Precinct name="Hunters" votes="2" />
+                <Precinct name="Jenk Hill Fire Sta" votes="3" />
+                <Precinct name="Greenhill Church" votes="1" />
+                <Precinct name="Sr Citizens Center" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="175">
+                <Precinct name="Sylvania" votes="122" />
+                <Precinct name="Hunters" votes="5" />
+                <Precinct name="Jenk Hill Fire Sta" votes="9" />
+                <Precinct name="Greenhill Church" votes="2" />
+                <Precinct name="Sr Citizens Center" votes="37" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="60">
+                <Precinct name="Sylvania" votes="42" />
+                <Precinct name="Hunters" votes="1" />
+                <Precinct name="Jenk Hill Fire Sta" votes="2" />
+                <Precinct name="Greenhill Church" votes="2" />
+                <Precinct name="Sr Citizens Center" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Sylvania" votes="0" />
+                <Precinct name="Hunters" votes="0" />
+                <Precinct name="Jenk Hill Fire Sta" votes="0" />
+                <Precinct name="Greenhill Church" votes="0" />
+                <Precinct name="Sr Citizens Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

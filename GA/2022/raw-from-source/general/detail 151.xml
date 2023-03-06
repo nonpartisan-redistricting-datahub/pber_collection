@@ -1,0 +1,1476 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/15/2022 6:38:23 PM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Marion</Region>
+    <VoterTurnout totalVoters="4751" ballotsCast="2854" voterTurnout="60.07">
+        <Precincts>
+            <Precinct name="Pineknot" totalVoters="910" ballotsCast="524" voterTurnout="57.58" percentReporting="4" />
+            <Precinct name="Buena Vista" totalVoters="2250" ballotsCast="1393" voterTurnout="61.91" percentReporting="4" />
+            <Precinct name="Tazewell" totalVoters="322" ballotsCast="235" voterTurnout="72.98" percentReporting="4" />
+            <Precinct name="Brantley" totalVoters="392" ballotsCast="270" voterTurnout="68.88" percentReporting="4" />
+            <Precinct name="Fort Perry" totalVoters="861" ballotsCast="432" voterTurnout="50.17" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="3" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="19">
+            <Precinct name="Pineknot" votes="5" />
+            <Precinct name="Buena Vista" votes="10" />
+            <Precinct name="Tazewell" votes="1" />
+            <Precinct name="Brantley" votes="1" />
+            <Precinct name="Fort Perry" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Buena Vista" votes="0" />
+            <Precinct name="Tazewell" votes="0" />
+            <Precinct name="Brantley" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Herschel Junior Walker (Rep)" totalVotes="1750">
+            <VoteType name="Absentee by Mail Votes" votes="54">
+                <Precinct name="Pineknot" votes="7" />
+                <Precinct name="Buena Vista" votes="25" />
+                <Precinct name="Tazewell" votes="4" />
+                <Precinct name="Brantley" votes="5" />
+                <Precinct name="Fort Perry" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="746">
+                <Precinct name="Pineknot" votes="136" />
+                <Precinct name="Buena Vista" votes="356" />
+                <Precinct name="Tazewell" votes="52" />
+                <Precinct name="Brantley" votes="105" />
+                <Precinct name="Fort Perry" votes="97" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="950">
+                <Precinct name="Pineknot" votes="314" />
+                <Precinct name="Buena Vista" votes="161" />
+                <Precinct name="Tazewell" votes="132" />
+                <Precinct name="Brantley" votes="121" />
+                <Precinct name="Fort Perry" votes="222" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Raphael Warnock (I) (Dem)" totalVotes="1018">
+            <VoteType name="Absentee by Mail Votes" votes="159">
+                <Precinct name="Pineknot" votes="6" />
+                <Precinct name="Buena Vista" votes="137" />
+                <Precinct name="Tazewell" votes="6" />
+                <Precinct name="Brantley" votes="7" />
+                <Precinct name="Fort Perry" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="572">
+                <Precinct name="Pineknot" votes="21" />
+                <Precinct name="Buena Vista" votes="481" />
+                <Precinct name="Tazewell" votes="16" />
+                <Precinct name="Brantley" votes="13" />
+                <Precinct name="Fort Perry" votes="41" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="287">
+                <Precinct name="Pineknot" votes="18" />
+                <Precinct name="Buena Vista" votes="203" />
+                <Precinct name="Tazewell" votes="21" />
+                <Precinct name="Brantley" votes="10" />
+                <Precinct name="Fort Perry" votes="35" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="Chase Oliver (Lib)" totalVotes="66">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Pineknot" votes="3" />
+                <Precinct name="Buena Vista" votes="3" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="29">
+                <Precinct name="Pineknot" votes="5" />
+                <Precinct name="Buena Vista" votes="9" />
+                <Precinct name="Tazewell" votes="2" />
+                <Precinct name="Brantley" votes="3" />
+                <Precinct name="Fort Perry" votes="10" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Pineknot" votes="9" />
+                <Precinct name="Buena Vista" votes="7" />
+                <Precinct name="Tazewell" votes="1" />
+                <Precinct name="Brantley" votes="5" />
+                <Precinct name="Fort Perry" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="7">
+            <Precinct name="Pineknot" votes="1" />
+            <Precinct name="Buena Vista" votes="5" />
+            <Precinct name="Tazewell" votes="1" />
+            <Precinct name="Brantley" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Buena Vista" votes="0" />
+            <Precinct name="Tazewell" votes="0" />
+            <Precinct name="Brantley" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <Choice key="56" text="Brian Kemp (I) (Rep)" totalVotes="1868">
+            <VoteType name="Absentee by Mail Votes" votes="66">
+                <Precinct name="Pineknot" votes="10" />
+                <Precinct name="Buena Vista" votes="30" />
+                <Precinct name="Tazewell" votes="7" />
+                <Precinct name="Brantley" votes="5" />
+                <Precinct name="Fort Perry" votes="14" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="802">
+                <Precinct name="Pineknot" votes="144" />
+                <Precinct name="Buena Vista" votes="384" />
+                <Precinct name="Tazewell" votes="53" />
+                <Precinct name="Brantley" votes="114" />
+                <Precinct name="Fort Perry" votes="107" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1000">
+                <Precinct name="Pineknot" votes="326" />
+                <Precinct name="Buena Vista" votes="170" />
+                <Precinct name="Tazewell" votes="139" />
+                <Precinct name="Brantley" votes="124" />
+                <Precinct name="Fort Perry" votes="241" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="57" text="Stacey Abrams (Dem)" totalVotes="954">
+            <VoteType name="Absentee by Mail Votes" votes="150">
+                <Precinct name="Pineknot" votes="4" />
+                <Precinct name="Buena Vista" votes="135" />
+                <Precinct name="Tazewell" votes="3" />
+                <Precinct name="Brantley" votes="7" />
+                <Precinct name="Fort Perry" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="542">
+                <Precinct name="Pineknot" votes="19" />
+                <Precinct name="Buena Vista" votes="463" />
+                <Precinct name="Tazewell" votes="15" />
+                <Precinct name="Brantley" votes="8" />
+                <Precinct name="Fort Perry" votes="37" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="262">
+                <Precinct name="Pineknot" votes="13" />
+                <Precinct name="Buena Vista" votes="198" />
+                <Precinct name="Tazewell" votes="15" />
+                <Precinct name="Brantley" votes="10" />
+                <Precinct name="Fort Perry" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="Shane Hazel (Lib)" totalVotes="24">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Pineknot" votes="1" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="12">
+                <Precinct name="Pineknot" votes="1" />
+                <Precinct name="Buena Vista" votes="4" />
+                <Precinct name="Tazewell" votes="2" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="10">
+                <Precinct name="Pineknot" votes="5" />
+                <Precinct name="Buena Vista" votes="3" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="2" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="59">
+            <Precinct name="Pineknot" votes="6" />
+            <Precinct name="Buena Vista" votes="40" />
+            <Precinct name="Tazewell" votes="5" />
+            <Precinct name="Brantley" votes="5" />
+            <Precinct name="Fort Perry" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Buena Vista" votes="0" />
+            <Precinct name="Tazewell" votes="0" />
+            <Precinct name="Brantley" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <Choice key="59" text="Burt Jones (Rep)" totalVotes="1816">
+            <VoteType name="Absentee by Mail Votes" votes="59">
+                <Precinct name="Pineknot" votes="8" />
+                <Precinct name="Buena Vista" votes="27" />
+                <Precinct name="Tazewell" votes="6" />
+                <Precinct name="Brantley" votes="5" />
+                <Precinct name="Fort Perry" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="786">
+                <Precinct name="Pineknot" votes="142" />
+                <Precinct name="Buena Vista" votes="375" />
+                <Precinct name="Tazewell" votes="54" />
+                <Precinct name="Brantley" votes="111" />
+                <Precinct name="Fort Perry" votes="104" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="971">
+                <Precinct name="Pineknot" votes="318" />
+                <Precinct name="Buena Vista" votes="166" />
+                <Precinct name="Tazewell" votes="134" />
+                <Precinct name="Brantley" votes="123" />
+                <Precinct name="Fort Perry" votes="230" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="60" text="Charlie Bailey (Dem)" totalVotes="925">
+            <VoteType name="Absentee by Mail Votes" votes="154">
+                <Precinct name="Pineknot" votes="7" />
+                <Precinct name="Buena Vista" votes="135" />
+                <Precinct name="Tazewell" votes="4" />
+                <Precinct name="Brantley" votes="6" />
+                <Precinct name="Fort Perry" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="510">
+                <Precinct name="Pineknot" votes="19" />
+                <Precinct name="Buena Vista" votes="434" />
+                <Precinct name="Tazewell" votes="12" />
+                <Precinct name="Brantley" votes="7" />
+                <Precinct name="Fort Perry" votes="38" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="261">
+                <Precinct name="Pineknot" votes="13" />
+                <Precinct name="Buena Vista" votes="193" />
+                <Precinct name="Tazewell" votes="16" />
+                <Precinct name="Brantley" votes="9" />
+                <Precinct name="Fort Perry" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Ryan Graham (Lib)" totalVotes="54">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="1" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="24">
+                <Precinct name="Pineknot" votes="1" />
+                <Precinct name="Buena Vista" votes="15" />
+                <Precinct name="Tazewell" votes="2" />
+                <Precinct name="Brantley" votes="1" />
+                <Precinct name="Fort Perry" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="29">
+                <Precinct name="Pineknot" votes="10" />
+                <Precinct name="Buena Vista" votes="7" />
+                <Precinct name="Tazewell" votes="2" />
+                <Precinct name="Brantley" votes="3" />
+                <Precinct name="Fort Perry" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="61">
+            <Precinct name="Pineknot" votes="6" />
+            <Precinct name="Buena Vista" votes="41" />
+            <Precinct name="Tazewell" votes="3" />
+            <Precinct name="Brantley" votes="6" />
+            <Precinct name="Fort Perry" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Buena Vista" votes="0" />
+            <Precinct name="Tazewell" votes="0" />
+            <Precinct name="Brantley" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <Choice key="62" text="Brad Raffensperger (I) (Rep)" totalVotes="1818">
+            <VoteType name="Absentee by Mail Votes" votes="71">
+                <Precinct name="Pineknot" votes="9" />
+                <Precinct name="Buena Vista" votes="37" />
+                <Precinct name="Tazewell" votes="7" />
+                <Precinct name="Brantley" votes="5" />
+                <Precinct name="Fort Perry" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="783">
+                <Precinct name="Pineknot" votes="134" />
+                <Precinct name="Buena Vista" votes="387" />
+                <Precinct name="Tazewell" votes="54" />
+                <Precinct name="Brantley" votes="108" />
+                <Precinct name="Fort Perry" votes="100" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="964">
+                <Precinct name="Pineknot" votes="314" />
+                <Precinct name="Buena Vista" votes="166" />
+                <Precinct name="Tazewell" votes="136" />
+                <Precinct name="Brantley" votes="120" />
+                <Precinct name="Fort Perry" votes="228" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Bee Nguyen (Dem)" totalVotes="890">
+            <VoteType name="Absentee by Mail Votes" votes="142">
+                <Precinct name="Pineknot" votes="5" />
+                <Precinct name="Buena Vista" votes="126" />
+                <Precinct name="Tazewell" votes="3" />
+                <Precinct name="Brantley" votes="6" />
+                <Precinct name="Fort Perry" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="499">
+                <Precinct name="Pineknot" votes="19" />
+                <Precinct name="Buena Vista" votes="425" />
+                <Precinct name="Tazewell" votes="11" />
+                <Precinct name="Brantley" votes="7" />
+                <Precinct name="Fort Perry" votes="37" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="249">
+                <Precinct name="Pineknot" votes="14" />
+                <Precinct name="Buena Vista" votes="189" />
+                <Precinct name="Tazewell" votes="14" />
+                <Precinct name="Brantley" votes="8" />
+                <Precinct name="Fort Perry" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="Ted Metz (Lib)" totalVotes="82">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Pineknot" votes="1" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="38">
+                <Precinct name="Pineknot" votes="8" />
+                <Precinct name="Buena Vista" votes="13" />
+                <Precinct name="Tazewell" votes="3" />
+                <Precinct name="Brantley" votes="3" />
+                <Precinct name="Fort Perry" votes="11" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="43">
+                <Precinct name="Pineknot" votes="14" />
+                <Precinct name="Buena Vista" votes="8" />
+                <Precinct name="Tazewell" votes="3" />
+                <Precinct name="Brantley" votes="6" />
+                <Precinct name="Fort Perry" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="43">
+            <Precinct name="Pineknot" votes="4" />
+            <Precinct name="Buena Vista" votes="30" />
+            <Precinct name="Tazewell" votes="3" />
+            <Precinct name="Brantley" votes="2" />
+            <Precinct name="Fort Perry" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Buena Vista" votes="0" />
+            <Precinct name="Tazewell" votes="0" />
+            <Precinct name="Brantley" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <Choice key="64" text="Chris Carr (I) (Rep)" totalVotes="1804">
+            <VoteType name="Absentee by Mail Votes" votes="63">
+                <Precinct name="Pineknot" votes="10" />
+                <Precinct name="Buena Vista" votes="29" />
+                <Precinct name="Tazewell" votes="6" />
+                <Precinct name="Brantley" votes="5" />
+                <Precinct name="Fort Perry" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="779">
+                <Precinct name="Pineknot" votes="140" />
+                <Precinct name="Buena Vista" votes="369" />
+                <Precinct name="Tazewell" votes="54" />
+                <Precinct name="Brantley" votes="113" />
+                <Precinct name="Fort Perry" votes="103" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="962">
+                <Precinct name="Pineknot" votes="315" />
+                <Precinct name="Buena Vista" votes="162" />
+                <Precinct name="Tazewell" votes="135" />
+                <Precinct name="Brantley" votes="122" />
+                <Precinct name="Fort Perry" votes="228" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="65" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="957">
+            <VoteType name="Absentee by Mail Votes" votes="152">
+                <Precinct name="Pineknot" votes="6" />
+                <Precinct name="Buena Vista" votes="134" />
+                <Precinct name="Tazewell" votes="4" />
+                <Precinct name="Brantley" votes="6" />
+                <Precinct name="Fort Perry" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="533">
+                <Precinct name="Pineknot" votes="20" />
+                <Precinct name="Buena Vista" votes="453" />
+                <Precinct name="Tazewell" votes="12" />
+                <Precinct name="Brantley" votes="8" />
+                <Precinct name="Fort Perry" votes="40" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="272">
+                <Precinct name="Pineknot" votes="16" />
+                <Precinct name="Buena Vista" votes="199" />
+                <Precinct name="Tazewell" votes="17" />
+                <Precinct name="Brantley" votes="10" />
+                <Precinct name="Fort Perry" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="66" text="Martin Cowen (Lib)" totalVotes="50">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="1" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="21">
+                <Precinct name="Pineknot" votes="2" />
+                <Precinct name="Buena Vista" votes="12" />
+                <Precinct name="Tazewell" votes="3" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Pineknot" votes="11" />
+                <Precinct name="Buena Vista" votes="4" />
+                <Precinct name="Tazewell" votes="1" />
+                <Precinct name="Brantley" votes="4" />
+                <Precinct name="Fort Perry" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Commissioner Of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="52">
+            <Precinct name="Pineknot" votes="2" />
+            <Precinct name="Buena Vista" votes="36" />
+            <Precinct name="Tazewell" votes="3" />
+            <Precinct name="Brantley" votes="4" />
+            <Precinct name="Fort Perry" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Buena Vista" votes="0" />
+            <Precinct name="Tazewell" votes="0" />
+            <Precinct name="Brantley" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Tyler Harper (Rep)" totalVotes="1823">
+            <VoteType name="Absentee by Mail Votes" votes="64">
+                <Precinct name="Pineknot" votes="10" />
+                <Precinct name="Buena Vista" votes="30" />
+                <Precinct name="Tazewell" votes="6" />
+                <Precinct name="Brantley" votes="5" />
+                <Precinct name="Fort Perry" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="786">
+                <Precinct name="Pineknot" votes="141" />
+                <Precinct name="Buena Vista" votes="377" />
+                <Precinct name="Tazewell" votes="53" />
+                <Precinct name="Brantley" votes="110" />
+                <Precinct name="Fort Perry" votes="105" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="973">
+                <Precinct name="Pineknot" votes="316" />
+                <Precinct name="Buena Vista" votes="167" />
+                <Precinct name="Tazewell" votes="135" />
+                <Precinct name="Brantley" votes="126" />
+                <Precinct name="Fort Perry" votes="229" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="68" text="Nakita Hemingway (Dem)" totalVotes="918">
+            <VoteType name="Absentee by Mail Votes" votes="151">
+                <Precinct name="Pineknot" votes="6" />
+                <Precinct name="Buena Vista" votes="133" />
+                <Precinct name="Tazewell" votes="4" />
+                <Precinct name="Brantley" votes="6" />
+                <Precinct name="Fort Perry" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="513">
+                <Precinct name="Pineknot" votes="18" />
+                <Precinct name="Buena Vista" votes="437" />
+                <Precinct name="Tazewell" votes="12" />
+                <Precinct name="Brantley" votes="7" />
+                <Precinct name="Fort Perry" votes="39" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="254">
+                <Precinct name="Pineknot" votes="14" />
+                <Precinct name="Buena Vista" votes="193" />
+                <Precinct name="Tazewell" votes="14" />
+                <Precinct name="Brantley" votes="8" />
+                <Precinct name="Fort Perry" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="69" text="David Raudabaugh (Lib)" totalVotes="61">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="1" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="25">
+                <Precinct name="Pineknot" votes="4" />
+                <Precinct name="Buena Vista" votes="12" />
+                <Precinct name="Tazewell" votes="4" />
+                <Precinct name="Brantley" votes="3" />
+                <Precinct name="Fort Perry" votes="2" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Pineknot" votes="13" />
+                <Precinct name="Buena Vista" votes="7" />
+                <Precinct name="Tazewell" votes="4" />
+                <Precinct name="Brantley" votes="1" />
+                <Precinct name="Fort Perry" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="60">
+            <Precinct name="Pineknot" votes="5" />
+            <Precinct name="Buena Vista" votes="44" />
+            <Precinct name="Tazewell" votes="3" />
+            <Precinct name="Brantley" votes="2" />
+            <Precinct name="Fort Perry" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Buena Vista" votes="0" />
+            <Precinct name="Tazewell" votes="0" />
+            <Precinct name="Brantley" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <Choice key="70" text="John King (I) (Rep)" totalVotes="1851">
+            <VoteType name="Absentee by Mail Votes" votes="64">
+                <Precinct name="Pineknot" votes="10" />
+                <Precinct name="Buena Vista" votes="30" />
+                <Precinct name="Tazewell" votes="6" />
+                <Precinct name="Brantley" votes="5" />
+                <Precinct name="Fort Perry" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="802">
+                <Precinct name="Pineknot" votes="141" />
+                <Precinct name="Buena Vista" votes="383" />
+                <Precinct name="Tazewell" votes="57" />
+                <Precinct name="Brantley" votes="114" />
+                <Precinct name="Fort Perry" votes="107" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="985">
+                <Precinct name="Pineknot" votes="322" />
+                <Precinct name="Buena Vista" votes="166" />
+                <Precinct name="Tazewell" votes="136" />
+                <Precinct name="Brantley" votes="127" />
+                <Precinct name="Fort Perry" votes="234" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="71" text="Janice Laws Robinson (Dem)" totalVotes="942">
+            <VoteType name="Absentee by Mail Votes" votes="152">
+                <Precinct name="Pineknot" votes="6" />
+                <Precinct name="Buena Vista" votes="134" />
+                <Precinct name="Tazewell" votes="4" />
+                <Precinct name="Brantley" votes="6" />
+                <Precinct name="Fort Perry" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="517">
+                <Precinct name="Pineknot" votes="21" />
+                <Precinct name="Buena Vista" votes="437" />
+                <Precinct name="Tazewell" votes="12" />
+                <Precinct name="Brantley" votes="7" />
+                <Precinct name="Fort Perry" votes="40" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="273">
+                <Precinct name="Pineknot" votes="19" />
+                <Precinct name="Buena Vista" votes="198" />
+                <Precinct name="Tazewell" votes="17" />
+                <Precinct name="Brantley" votes="9" />
+                <Precinct name="Fort Perry" votes="30" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="45">
+            <Precinct name="Pineknot" votes="4" />
+            <Precinct name="Buena Vista" votes="31" />
+            <Precinct name="Tazewell" votes="2" />
+            <Precinct name="Brantley" votes="3" />
+            <Precinct name="Fort Perry" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Buena Vista" votes="0" />
+            <Precinct name="Tazewell" votes="0" />
+            <Precinct name="Brantley" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <Choice key="72" text="Richard Woods (I) (Rep)" totalVotes="1869">
+            <VoteType name="Absentee by Mail Votes" votes="67">
+                <Precinct name="Pineknot" votes="10" />
+                <Precinct name="Buena Vista" votes="32" />
+                <Precinct name="Tazewell" votes="6" />
+                <Precinct name="Brantley" votes="5" />
+                <Precinct name="Fort Perry" votes="14" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="804">
+                <Precinct name="Pineknot" votes="140" />
+                <Precinct name="Buena Vista" votes="385" />
+                <Precinct name="Tazewell" votes="57" />
+                <Precinct name="Brantley" votes="113" />
+                <Precinct name="Fort Perry" votes="109" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="998">
+                <Precinct name="Pineknot" votes="326" />
+                <Precinct name="Buena Vista" votes="170" />
+                <Precinct name="Tazewell" votes="138" />
+                <Precinct name="Brantley" votes="126" />
+                <Precinct name="Fort Perry" votes="238" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="73" text="Alisha Thomas Searcy (Dem)" totalVotes="937">
+            <VoteType name="Absentee by Mail Votes" votes="150">
+                <Precinct name="Pineknot" votes="6" />
+                <Precinct name="Buena Vista" votes="132" />
+                <Precinct name="Tazewell" votes="4" />
+                <Precinct name="Brantley" votes="6" />
+                <Precinct name="Fort Perry" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="522">
+                <Precinct name="Pineknot" votes="20" />
+                <Precinct name="Buena Vista" votes="446" />
+                <Precinct name="Tazewell" votes="12" />
+                <Precinct name="Brantley" votes="7" />
+                <Precinct name="Fort Perry" votes="37" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="265">
+                <Precinct name="Pineknot" votes="16" />
+                <Precinct name="Buena Vista" votes="196" />
+                <Precinct name="Tazewell" votes="16" />
+                <Precinct name="Brantley" votes="10" />
+                <Precinct name="Fort Perry" votes="27" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="55">
+            <Precinct name="Pineknot" votes="4" />
+            <Precinct name="Buena Vista" votes="38" />
+            <Precinct name="Tazewell" votes="4" />
+            <Precinct name="Brantley" votes="2" />
+            <Precinct name="Fort Perry" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Buena Vista" votes="0" />
+            <Precinct name="Tazewell" votes="0" />
+            <Precinct name="Brantley" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Bruce Thompson (Rep)" totalVotes="1800">
+            <VoteType name="Absentee by Mail Votes" votes="61">
+                <Precinct name="Pineknot" votes="10" />
+                <Precinct name="Buena Vista" votes="29" />
+                <Precinct name="Tazewell" votes="4" />
+                <Precinct name="Brantley" votes="5" />
+                <Precinct name="Fort Perry" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="775">
+                <Precinct name="Pineknot" votes="140" />
+                <Precinct name="Buena Vista" votes="370" />
+                <Precinct name="Tazewell" votes="52" />
+                <Precinct name="Brantley" votes="110" />
+                <Precinct name="Fort Perry" votes="103" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="964">
+                <Precinct name="Pineknot" votes="318" />
+                <Precinct name="Buena Vista" votes="161" />
+                <Precinct name="Tazewell" votes="132" />
+                <Precinct name="Brantley" votes="124" />
+                <Precinct name="Fort Perry" votes="229" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="928">
+            <VoteType name="Absentee by Mail Votes" votes="154">
+                <Precinct name="Pineknot" votes="5" />
+                <Precinct name="Buena Vista" votes="135" />
+                <Precinct name="Tazewell" votes="6" />
+                <Precinct name="Brantley" votes="6" />
+                <Precinct name="Fort Perry" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="518">
+                <Precinct name="Pineknot" votes="19" />
+                <Precinct name="Buena Vista" votes="439" />
+                <Precinct name="Tazewell" votes="12" />
+                <Precinct name="Brantley" votes="7" />
+                <Precinct name="Fort Perry" votes="41" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="256">
+                <Precinct name="Pineknot" votes="13" />
+                <Precinct name="Buena Vista" votes="192" />
+                <Precinct name="Tazewell" votes="17" />
+                <Precinct name="Brantley" votes="8" />
+                <Precinct name="Fort Perry" votes="26" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="Emily Anderson (Lib)" totalVotes="71">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Pineknot" votes="1" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="31">
+                <Precinct name="Pineknot" votes="4" />
+                <Precinct name="Buena Vista" votes="16" />
+                <Precinct name="Tazewell" votes="4" />
+                <Precinct name="Brantley" votes="4" />
+                <Precinct name="Fort Perry" votes="3" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="39">
+                <Precinct name="Pineknot" votes="10" />
+                <Precinct name="Buena Vista" votes="13" />
+                <Precinct name="Tazewell" votes="4" />
+                <Precinct name="Brantley" votes="4" />
+                <Precinct name="Fort Perry" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="US House Dist 2" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="21">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Buena Vista" votes="16" />
+            <Precinct name="Tazewell" votes="2" />
+            <Precinct name="Brantley" votes="2" />
+            <Precinct name="Fort Perry" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Buena Vista" votes="0" />
+            <Precinct name="Tazewell" votes="0" />
+            <Precinct name="Brantley" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <Choice key="82" text="Chris West (Rep)" totalVotes="1765">
+            <VoteType name="Absentee by Mail Votes" votes="53">
+                <Precinct name="Pineknot" votes="8" />
+                <Precinct name="Buena Vista" votes="24" />
+                <Precinct name="Tazewell" votes="4" />
+                <Precinct name="Brantley" votes="5" />
+                <Precinct name="Fort Perry" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="759">
+                <Precinct name="Pineknot" votes="137" />
+                <Precinct name="Buena Vista" votes="360" />
+                <Precinct name="Tazewell" votes="53" />
+                <Precinct name="Brantley" votes="111" />
+                <Precinct name="Fort Perry" votes="98" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="953">
+                <Precinct name="Pineknot" votes="318" />
+                <Precinct name="Buena Vista" votes="161" />
+                <Precinct name="Tazewell" votes="132" />
+                <Precinct name="Brantley" votes="123" />
+                <Precinct name="Fort Perry" votes="219" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="83" text="Sanford Bishop (I) (Dem)" totalVotes="1068">
+            <VoteType name="Absentee by Mail Votes" votes="163">
+                <Precinct name="Pineknot" votes="8" />
+                <Precinct name="Buena Vista" votes="139" />
+                <Precinct name="Tazewell" votes="6" />
+                <Precinct name="Brantley" votes="6" />
+                <Precinct name="Fort Perry" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="594">
+                <Precinct name="Pineknot" votes="27" />
+                <Precinct name="Buena Vista" votes="488" />
+                <Precinct name="Tazewell" votes="17" />
+                <Precinct name="Brantley" votes="11" />
+                <Precinct name="Fort Perry" votes="51" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="311">
+                <Precinct name="Pineknot" votes="26" />
+                <Precinct name="Buena Vista" votes="205" />
+                <Precinct name="Tazewell" votes="21" />
+                <Precinct name="Brantley" votes="12" />
+                <Precinct name="Fort Perry" votes="47" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State Senate Dist 15" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="987">
+            <Precinct name="Pineknot" votes="245" />
+            <Precinct name="Buena Vista" votes="335" />
+            <Precinct name="Tazewell" votes="100" />
+            <Precinct name="Brantley" votes="129" />
+            <Precinct name="Fort Perry" votes="178" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Buena Vista" votes="0" />
+            <Precinct name="Tazewell" votes="0" />
+            <Precinct name="Brantley" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <Choice key="84" text="Ed Harbison (I) (Dem)" totalVotes="1821">
+            <VoteType name="Absentee by Mail Votes" votes="157">
+                <Precinct name="Pineknot" votes="8" />
+                <Precinct name="Buena Vista" votes="132" />
+                <Precinct name="Tazewell" votes="5" />
+                <Precinct name="Brantley" votes="7" />
+                <Precinct name="Fort Perry" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="919">
+                <Precinct name="Pineknot" votes="90" />
+                <Precinct name="Buena Vista" votes="641" />
+                <Precinct name="Tazewell" votes="39" />
+                <Precinct name="Brantley" votes="57" />
+                <Precinct name="Fort Perry" votes="92" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="745">
+                <Precinct name="Pineknot" votes="168" />
+                <Precinct name="Buena Vista" votes="276" />
+                <Precinct name="Tazewell" votes="88" />
+                <Precinct name="Brantley" votes="68" />
+                <Precinct name="Fort Perry" votes="145" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="State House Dist 151" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="24">
+            <Precinct name="Pineknot" votes="4" />
+            <Precinct name="Buena Vista" votes="14" />
+            <Precinct name="Tazewell" votes="1" />
+            <Precinct name="Brantley" votes="2" />
+            <Precinct name="Fort Perry" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Buena Vista" votes="0" />
+            <Precinct name="Tazewell" votes="0" />
+            <Precinct name="Brantley" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <Choice key="85" text="Mike Cheokas (I) (Rep)" totalVotes="1889">
+            <VoteType name="Absentee by Mail Votes" votes="71">
+                <Precinct name="Pineknot" votes="9" />
+                <Precinct name="Buena Vista" votes="35" />
+                <Precinct name="Tazewell" votes="8" />
+                <Precinct name="Brantley" votes="5" />
+                <Precinct name="Fort Perry" votes="14" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="817">
+                <Precinct name="Pineknot" votes="144" />
+                <Precinct name="Buena Vista" votes="397" />
+                <Precinct name="Tazewell" votes="59" />
+                <Precinct name="Brantley" votes="112" />
+                <Precinct name="Fort Perry" votes="105" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1001">
+                <Precinct name="Pineknot" votes="323" />
+                <Precinct name="Buena Vista" votes="173" />
+                <Precinct name="Tazewell" votes="142" />
+                <Precinct name="Brantley" votes="126" />
+                <Precinct name="Fort Perry" votes="237" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="86" text="Joyce Barlow (Dem)" totalVotes="941">
+            <VoteType name="Absentee by Mail Votes" votes="145">
+                <Precinct name="Pineknot" votes="7" />
+                <Precinct name="Buena Vista" votes="128" />
+                <Precinct name="Tazewell" votes="2" />
+                <Precinct name="Brantley" votes="6" />
+                <Precinct name="Fort Perry" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="529">
+                <Precinct name="Pineknot" votes="19" />
+                <Precinct name="Buena Vista" votes="449" />
+                <Precinct name="Tazewell" votes="10" />
+                <Precinct name="Brantley" votes="9" />
+                <Precinct name="Fort Perry" votes="42" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="267">
+                <Precinct name="Pineknot" votes="18" />
+                <Precinct name="Buena Vista" votes="197" />
+                <Precinct name="Tazewell" votes="13" />
+                <Precinct name="Brantley" votes="10" />
+                <Precinct name="Fort Perry" votes="29" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="County Commissioner Dist 2" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="66">
+            <Precinct name="Buena Vista" votes="2" />
+            <Precinct name="Tazewell" votes="16" />
+            <Precinct name="Fort Perry" votes="48" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Buena Vista" votes="0" />
+            <Precinct name="Tazewell" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <Choice key="87" text="Shane Grier (Rep)" totalVotes="618">
+            <VoteType name="Absentee by Mail Votes" votes="21">
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="8" />
+                <Precinct name="Fort Perry" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="205">
+                <Precinct name="Buena Vista" votes="15" />
+                <Precinct name="Tazewell" votes="65" />
+                <Precinct name="Fort Perry" votes="125" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="392">
+                <Precinct name="Buena Vista" votes="5" />
+                <Precinct name="Tazewell" votes="144" />
+                <Precinct name="Fort Perry" votes="243" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="County Commissioner Dist 3" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="64">
+            <Precinct name="Pineknot" votes="41" />
+            <Precinct name="Brantley" votes="23" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Brantley" votes="0" />
+        </VoteType>
+        <Choice key="88" text="Matt Gunnels (I) (Rep)" totalVotes="660">
+            <VoteType name="Absentee by Mail Votes" votes="13">
+                <Precinct name="Pineknot" votes="9" />
+                <Precinct name="Brantley" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="224">
+                <Precinct name="Pineknot" votes="144" />
+                <Precinct name="Brantley" votes="80" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="423">
+                <Precinct name="Pineknot" votes="326" />
+                <Precinct name="Brantley" votes="97" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="Constitutional Amendment #1" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="152">
+            <Precinct name="Pineknot" votes="23" />
+            <Precinct name="Buena Vista" votes="86" />
+            <Precinct name="Tazewell" votes="12" />
+            <Precinct name="Brantley" votes="12" />
+            <Precinct name="Fort Perry" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Buena Vista" votes="0" />
+            <Precinct name="Tazewell" votes="0" />
+            <Precinct name="Brantley" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <Choice key="89" text="Yes" totalVotes="2290">
+            <VoteType name="Absentee by Mail Votes" votes="167">
+                <Precinct name="Pineknot" votes="13" />
+                <Precinct name="Buena Vista" votes="122" />
+                <Precinct name="Tazewell" votes="9" />
+                <Precinct name="Brantley" votes="10" />
+                <Precinct name="Fort Perry" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1098">
+                <Precinct name="Pineknot" votes="141" />
+                <Precinct name="Buena Vista" votes="671" />
+                <Precinct name="Tazewell" votes="61" />
+                <Precinct name="Brantley" votes="100" />
+                <Precinct name="Fort Perry" votes="125" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1025">
+                <Precinct name="Pineknot" votes="286" />
+                <Precinct name="Buena Vista" votes="293" />
+                <Precinct name="Tazewell" votes="123" />
+                <Precinct name="Brantley" votes="112" />
+                <Precinct name="Fort Perry" votes="211" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="90" text="No" totalVotes="412">
+            <VoteType name="Absentee by Mail Votes" votes="35">
+                <Precinct name="Pineknot" votes="1" />
+                <Precinct name="Buena Vista" votes="29" />
+                <Precinct name="Tazewell" votes="1" />
+                <Precinct name="Brantley" votes="1" />
+                <Precinct name="Fort Perry" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="187">
+                <Precinct name="Pineknot" votes="19" />
+                <Precinct name="Buena Vista" votes="130" />
+                <Precinct name="Tazewell" votes="6" />
+                <Precinct name="Brantley" votes="13" />
+                <Precinct name="Fort Perry" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="190">
+                <Precinct name="Pineknot" votes="41" />
+                <Precinct name="Buena Vista" votes="62" />
+                <Precinct name="Tazewell" votes="23" />
+                <Precinct name="Brantley" votes="22" />
+                <Precinct name="Fort Perry" votes="42" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="Constitutional Amendment #2" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="123">
+            <Precinct name="Pineknot" votes="14" />
+            <Precinct name="Buena Vista" votes="77" />
+            <Precinct name="Tazewell" votes="8" />
+            <Precinct name="Brantley" votes="10" />
+            <Precinct name="Fort Perry" votes="14" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Buena Vista" votes="0" />
+            <Precinct name="Tazewell" votes="0" />
+            <Precinct name="Brantley" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <Choice key="91" text="Yes" totalVotes="2422">
+            <VoteType name="Absentee by Mail Votes" votes="180">
+                <Precinct name="Pineknot" votes="14" />
+                <Precinct name="Buena Vista" votes="138" />
+                <Precinct name="Tazewell" votes="9" />
+                <Precinct name="Brantley" votes="11" />
+                <Precinct name="Fort Perry" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1158">
+                <Precinct name="Pineknot" votes="146" />
+                <Precinct name="Buena Vista" votes="715" />
+                <Precinct name="Tazewell" votes="60" />
+                <Precinct name="Brantley" votes="105" />
+                <Precinct name="Fort Perry" votes="132" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1084">
+                <Precinct name="Pineknot" votes="295" />
+                <Precinct name="Buena Vista" votes="311" />
+                <Precinct name="Tazewell" votes="133" />
+                <Precinct name="Brantley" votes="115" />
+                <Precinct name="Fort Perry" votes="230" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="92" text="No" totalVotes="309">
+            <VoteType name="Absentee by Mail Votes" votes="26">
+                <Precinct name="Pineknot" votes="2" />
+                <Precinct name="Buena Vista" votes="15" />
+                <Precinct name="Tazewell" votes="1" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="136">
+                <Precinct name="Pineknot" votes="15" />
+                <Precinct name="Buena Vista" votes="92" />
+                <Precinct name="Tazewell" votes="7" />
+                <Precinct name="Brantley" votes="10" />
+                <Precinct name="Fort Perry" votes="12" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="147">
+                <Precinct name="Pineknot" votes="38" />
+                <Precinct name="Buena Vista" votes="45" />
+                <Precinct name="Tazewell" votes="17" />
+                <Precinct name="Brantley" votes="19" />
+                <Precinct name="Fort Perry" votes="28" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="Statewide Referendum A" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="154">
+            <Precinct name="Pineknot" votes="23" />
+            <Precinct name="Buena Vista" votes="87" />
+            <Precinct name="Tazewell" votes="12" />
+            <Precinct name="Brantley" votes="10" />
+            <Precinct name="Fort Perry" votes="22" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Buena Vista" votes="0" />
+            <Precinct name="Tazewell" votes="0" />
+            <Precinct name="Brantley" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Yes" totalVotes="1718">
+            <VoteType name="Absentee by Mail Votes" votes="110">
+                <Precinct name="Pineknot" votes="10" />
+                <Precinct name="Buena Vista" votes="87" />
+                <Precinct name="Tazewell" votes="4" />
+                <Precinct name="Brantley" votes="4" />
+                <Precinct name="Fort Perry" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="782">
+                <Precinct name="Pineknot" votes="87" />
+                <Precinct name="Buena Vista" votes="489" />
+                <Precinct name="Tazewell" votes="39" />
+                <Precinct name="Brantley" votes="77" />
+                <Precinct name="Fort Perry" votes="90" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="826">
+                <Precinct name="Pineknot" votes="216" />
+                <Precinct name="Buena Vista" votes="232" />
+                <Precinct name="Tazewell" votes="116" />
+                <Precinct name="Brantley" votes="88" />
+                <Precinct name="Fort Perry" votes="174" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="No" totalVotes="982">
+            <VoteType name="Absentee by Mail Votes" votes="91">
+                <Precinct name="Pineknot" votes="3" />
+                <Precinct name="Buena Vista" votes="66" />
+                <Precinct name="Tazewell" votes="4" />
+                <Precinct name="Brantley" votes="7" />
+                <Precinct name="Fort Perry" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="500">
+                <Precinct name="Pineknot" votes="72" />
+                <Precinct name="Buena Vista" votes="312" />
+                <Precinct name="Tazewell" votes="27" />
+                <Precinct name="Brantley" votes="37" />
+                <Precinct name="Fort Perry" votes="52" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="391">
+                <Precinct name="Pineknot" votes="113" />
+                <Precinct name="Buena Vista" votes="120" />
+                <Precinct name="Tazewell" votes="33" />
+                <Precinct name="Brantley" votes="47" />
+                <Precinct name="Fort Perry" votes="78" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="Statewide Referendum B" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="149">
+            <Precinct name="Pineknot" votes="21" />
+            <Precinct name="Buena Vista" votes="86" />
+            <Precinct name="Tazewell" votes="12" />
+            <Precinct name="Brantley" votes="10" />
+            <Precinct name="Fort Perry" votes="20" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Pineknot" votes="0" />
+            <Precinct name="Buena Vista" votes="0" />
+            <Precinct name="Tazewell" votes="0" />
+            <Precinct name="Brantley" votes="0" />
+            <Precinct name="Fort Perry" votes="0" />
+        </VoteType>
+        <Choice key="93" text="Yes" totalVotes="2048">
+            <VoteType name="Absentee by Mail Votes" votes="133">
+                <Precinct name="Pineknot" votes="11" />
+                <Precinct name="Buena Vista" votes="100" />
+                <Precinct name="Tazewell" votes="5" />
+                <Precinct name="Brantley" votes="10" />
+                <Precinct name="Fort Perry" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="951">
+                <Precinct name="Pineknot" votes="121" />
+                <Precinct name="Buena Vista" votes="569" />
+                <Precinct name="Tazewell" votes="59" />
+                <Precinct name="Brantley" votes="92" />
+                <Precinct name="Fort Perry" votes="110" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="964">
+                <Precinct name="Pineknot" votes="274" />
+                <Precinct name="Buena Vista" votes="266" />
+                <Precinct name="Tazewell" votes="120" />
+                <Precinct name="Brantley" votes="106" />
+                <Precinct name="Fort Perry" votes="198" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="94" text="No" totalVotes="657">
+            <VoteType name="Absentee by Mail Votes" votes="67">
+                <Precinct name="Pineknot" votes="2" />
+                <Precinct name="Buena Vista" votes="52" />
+                <Precinct name="Tazewell" votes="3" />
+                <Precinct name="Brantley" votes="1" />
+                <Precinct name="Fort Perry" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="330">
+                <Precinct name="Pineknot" votes="38" />
+                <Precinct name="Buena Vista" votes="230" />
+                <Precinct name="Tazewell" votes="8" />
+                <Precinct name="Brantley" votes="22" />
+                <Precinct name="Fort Perry" votes="32" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="260">
+                <Precinct name="Pineknot" votes="57" />
+                <Precinct name="Buena Vista" votes="90" />
+                <Precinct name="Tazewell" votes="28" />
+                <Precinct name="Brantley" votes="29" />
+                <Precinct name="Fort Perry" votes="56" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Pineknot" votes="0" />
+                <Precinct name="Buena Vista" votes="0" />
+                <Precinct name="Tazewell" votes="0" />
+                <Precinct name="Brantley" votes="0" />
+                <Precinct name="Fort Perry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

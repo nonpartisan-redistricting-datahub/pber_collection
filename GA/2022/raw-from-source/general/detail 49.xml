@@ -1,0 +1,2951 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/15/2022 8:56:30 AM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Wayne</Region>
+    <VoterTurnout totalVoters="17371" ballotsCast="10051" voterTurnout="57.86">
+        <Precincts>
+            <Precinct name="Odum" totalVoters="1239" ballotsCast="868" voterTurnout="70.06" percentReporting="4" />
+            <Precinct name="Madray Springs" totalVoters="1125" ballotsCast="758" voterTurnout="67.38" percentReporting="4" />
+            <Precinct name="Oglethorpe" totalVoters="1651" ballotsCast="1024" voterTurnout="62.02" percentReporting="4" />
+            <Precinct name="Screven" totalVoters="1777" ballotsCast="1133" voterTurnout="63.76" percentReporting="4" />
+            <Precinct name="Empire" totalVoters="1068" ballotsCast="665" voterTurnout="62.27" percentReporting="4" />
+            <Precinct name="Red Hill" totalVoters="1009" ballotsCast="516" voterTurnout="51.14" percentReporting="4" />
+            <Precinct name="Altamaha" totalVoters="2661" ballotsCast="1319" voterTurnout="49.57" percentReporting="4" />
+            <Precinct name="Gardi" totalVoters="1157" ballotsCast="679" voterTurnout="58.69" percentReporting="4" />
+            <Precinct name="VFW" totalVoters="1030" ballotsCast="492" voterTurnout="47.77" percentReporting="4" />
+            <Precinct name="Pine Street" totalVoters="1038" ballotsCast="572" voterTurnout="55.11" percentReporting="4" />
+            <Precinct name="Unity" totalVoters="1833" ballotsCast="1019" voterTurnout="55.59" percentReporting="4" />
+            <Precinct name="Rec Center" totalVoters="1747" ballotsCast="1006" voterTurnout="57.58" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="57">
+            <Precinct name="Odum" votes="3" />
+            <Precinct name="Madray Springs" votes="7" />
+            <Precinct name="Oglethorpe" votes="3" />
+            <Precinct name="Screven" votes="12" />
+            <Precinct name="Empire" votes="1" />
+            <Precinct name="Red Hill" votes="3" />
+            <Precinct name="Altamaha" votes="4" />
+            <Precinct name="Gardi" votes="4" />
+            <Precinct name="VFW" votes="5" />
+            <Precinct name="Pine Street" votes="4" />
+            <Precinct name="Unity" votes="4" />
+            <Precinct name="Rec Center" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Madray Springs" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Screven" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+            <Precinct name="Altamaha" votes="0" />
+            <Precinct name="Gardi" votes="0" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Unity" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="7838">
+            <VoteType name="Absentee by Mail Votes" votes="276">
+                <Precinct name="Odum" votes="15" />
+                <Precinct name="Madray Springs" votes="22" />
+                <Precinct name="Oglethorpe" votes="28" />
+                <Precinct name="Screven" votes="21" />
+                <Precinct name="Empire" votes="21" />
+                <Precinct name="Red Hill" votes="12" />
+                <Precinct name="Altamaha" votes="41" />
+                <Precinct name="Gardi" votes="24" />
+                <Precinct name="VFW" votes="6" />
+                <Precinct name="Pine Street" votes="14" />
+                <Precinct name="Unity" votes="44" />
+                <Precinct name="Rec Center" votes="28" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3872">
+                <Precinct name="Odum" votes="295" />
+                <Precinct name="Madray Springs" votes="348" />
+                <Precinct name="Oglethorpe" votes="484" />
+                <Precinct name="Screven" votes="378" />
+                <Precinct name="Empire" votes="280" />
+                <Precinct name="Red Hill" votes="212" />
+                <Precinct name="Altamaha" votes="669" />
+                <Precinct name="Gardi" votes="222" />
+                <Precinct name="VFW" votes="54" />
+                <Precinct name="Pine Street" votes="217" />
+                <Precinct name="Unity" votes="389" />
+                <Precinct name="Rec Center" votes="324" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3689">
+                <Precinct name="Odum" votes="468" />
+                <Precinct name="Madray Springs" votes="325" />
+                <Precinct name="Oglethorpe" votes="379" />
+                <Precinct name="Screven" votes="571" />
+                <Precinct name="Empire" votes="298" />
+                <Precinct name="Red Hill" votes="183" />
+                <Precinct name="Altamaha" votes="316" />
+                <Precinct name="Gardi" votes="352" />
+                <Precinct name="VFW" votes="43" />
+                <Precinct name="Pine Street" votes="113" />
+                <Precinct name="Unity" votes="276" />
+                <Precinct name="Rec Center" votes="365" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="2014">
+            <VoteType name="Absentee by Mail Votes" votes="142">
+                <Precinct name="Odum" votes="11" />
+                <Precinct name="Madray Springs" votes="5" />
+                <Precinct name="Oglethorpe" votes="4" />
+                <Precinct name="Screven" votes="10" />
+                <Precinct name="Empire" votes="8" />
+                <Precinct name="Red Hill" votes="4" />
+                <Precinct name="Altamaha" votes="21" />
+                <Precinct name="Gardi" votes="9" />
+                <Precinct name="VFW" votes="30" />
+                <Precinct name="Pine Street" votes="12" />
+                <Precinct name="Unity" votes="15" />
+                <Precinct name="Rec Center" votes="13" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1253">
+                <Precinct name="Odum" votes="26" />
+                <Precinct name="Madray Springs" votes="35" />
+                <Precinct name="Oglethorpe" votes="84" />
+                <Precinct name="Screven" votes="63" />
+                <Precinct name="Empire" votes="31" />
+                <Precinct name="Red Hill" votes="67" />
+                <Precinct name="Altamaha" votes="181" />
+                <Precinct name="Gardi" votes="29" />
+                <Precinct name="VFW" votes="263" />
+                <Precinct name="Pine Street" votes="138" />
+                <Precinct name="Unity" votes="194" />
+                <Precinct name="Rec Center" votes="142" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="618">
+                <Precinct name="Odum" votes="41" />
+                <Precinct name="Madray Springs" votes="9" />
+                <Precinct name="Oglethorpe" votes="29" />
+                <Precinct name="Screven" votes="61" />
+                <Precinct name="Empire" votes="18" />
+                <Precinct name="Red Hill" votes="25" />
+                <Precinct name="Altamaha" votes="69" />
+                <Precinct name="Gardi" votes="30" />
+                <Precinct name="VFW" votes="81" />
+                <Precinct name="Pine Street" votes="71" />
+                <Precinct name="Unity" votes="85" />
+                <Precinct name="Rec Center" votes="99" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Chase Oliver (Lib)" totalVotes="136">
+            <VoteType name="Absentee by Mail Votes" votes="11">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="1" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="1" />
+                <Precinct name="Red Hill" votes="3" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="1" />
+                <Precinct name="VFW" votes="2" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="1" />
+                <Precinct name="Rec Center" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="54">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="4" />
+                <Precinct name="Oglethorpe" votes="4" />
+                <Precinct name="Screven" votes="8" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="5" />
+                <Precinct name="Altamaha" votes="8" />
+                <Precinct name="Gardi" votes="4" />
+                <Precinct name="VFW" votes="2" />
+                <Precinct name="Pine Street" votes="2" />
+                <Precinct name="Unity" votes="5" />
+                <Precinct name="Rec Center" votes="11" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="71">
+                <Precinct name="Odum" votes="7" />
+                <Precinct name="Madray Springs" votes="3" />
+                <Precinct name="Oglethorpe" votes="8" />
+                <Precinct name="Screven" votes="8" />
+                <Precinct name="Empire" votes="7" />
+                <Precinct name="Red Hill" votes="2" />
+                <Precinct name="Altamaha" votes="8" />
+                <Precinct name="Gardi" votes="3" />
+                <Precinct name="VFW" votes="5" />
+                <Precinct name="Pine Street" votes="1" />
+                <Precinct name="Unity" votes="4" />
+                <Precinct name="Rec Center" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="26">
+            <Precinct name="Odum" votes="3" />
+            <Precinct name="Madray Springs" votes="3" />
+            <Precinct name="Oglethorpe" votes="2" />
+            <Precinct name="Screven" votes="4" />
+            <Precinct name="Empire" votes="1" />
+            <Precinct name="Red Hill" votes="1" />
+            <Precinct name="Altamaha" votes="2" />
+            <Precinct name="Gardi" votes="2" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="2" />
+            <Precinct name="Unity" votes="2" />
+            <Precinct name="Rec Center" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Madray Springs" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Screven" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+            <Precinct name="Altamaha" votes="0" />
+            <Precinct name="Gardi" votes="0" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Unity" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="4" text="Brian Kemp (I) (Rep)" totalVotes="8170">
+            <VoteType name="Absentee by Mail Votes" votes="302">
+                <Precinct name="Odum" votes="17" />
+                <Precinct name="Madray Springs" votes="23" />
+                <Precinct name="Oglethorpe" votes="29" />
+                <Precinct name="Screven" votes="23" />
+                <Precinct name="Empire" votes="22" />
+                <Precinct name="Red Hill" votes="12" />
+                <Precinct name="Altamaha" votes="39" />
+                <Precinct name="Gardi" votes="28" />
+                <Precinct name="VFW" votes="11" />
+                <Precinct name="Pine Street" votes="19" />
+                <Precinct name="Unity" votes="48" />
+                <Precinct name="Rec Center" votes="31" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4025">
+                <Precinct name="Odum" votes="305" />
+                <Precinct name="Madray Springs" votes="364" />
+                <Precinct name="Oglethorpe" votes="498" />
+                <Precinct name="Screven" votes="391" />
+                <Precinct name="Empire" votes="286" />
+                <Precinct name="Red Hill" votes="219" />
+                <Precinct name="Altamaha" votes="686" />
+                <Precinct name="Gardi" votes="229" />
+                <Precinct name="VFW" votes="64" />
+                <Precinct name="Pine Street" votes="226" />
+                <Precinct name="Unity" votes="409" />
+                <Precinct name="Rec Center" votes="348" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3842">
+                <Precinct name="Odum" votes="486" />
+                <Precinct name="Madray Springs" votes="335" />
+                <Precinct name="Oglethorpe" votes="388" />
+                <Precinct name="Screven" votes="585" />
+                <Precinct name="Empire" votes="308" />
+                <Precinct name="Red Hill" votes="190" />
+                <Precinct name="Altamaha" votes="327" />
+                <Precinct name="Gardi" votes="368" />
+                <Precinct name="VFW" votes="49" />
+                <Precinct name="Pine Street" votes="123" />
+                <Precinct name="Unity" votes="297" />
+                <Precinct name="Rec Center" votes="386" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Stacey Abrams (Dem)" totalVotes="1796">
+            <VoteType name="Absentee by Mail Votes" votes="130">
+                <Precinct name="Odum" votes="8" />
+                <Precinct name="Madray Springs" votes="4" />
+                <Precinct name="Oglethorpe" votes="4" />
+                <Precinct name="Screven" votes="10" />
+                <Precinct name="Empire" votes="8" />
+                <Precinct name="Red Hill" votes="7" />
+                <Precinct name="Altamaha" votes="22" />
+                <Precinct name="Gardi" votes="7" />
+                <Precinct name="VFW" votes="26" />
+                <Precinct name="Pine Street" votes="10" />
+                <Precinct name="Unity" votes="12" />
+                <Precinct name="Rec Center" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1147">
+                <Precinct name="Odum" votes="17" />
+                <Precinct name="Madray Springs" votes="22" />
+                <Precinct name="Oglethorpe" votes="72" />
+                <Precinct name="Screven" votes="59" />
+                <Precinct name="Empire" votes="25" />
+                <Precinct name="Red Hill" votes="64" />
+                <Precinct name="Altamaha" votes="168" />
+                <Precinct name="Gardi" votes="25" />
+                <Precinct name="VFW" votes="258" />
+                <Precinct name="Pine Street" votes="130" />
+                <Precinct name="Unity" votes="175" />
+                <Precinct name="Rec Center" votes="132" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="518">
+                <Precinct name="Odum" votes="30" />
+                <Precinct name="Madray Springs" votes="6" />
+                <Precinct name="Oglethorpe" votes="27" />
+                <Precinct name="Screven" votes="56" />
+                <Precinct name="Empire" votes="12" />
+                <Precinct name="Red Hill" votes="20" />
+                <Precinct name="Altamaha" votes="59" />
+                <Precinct name="Gardi" votes="17" />
+                <Precinct name="VFW" votes="80" />
+                <Precinct name="Pine Street" votes="60" />
+                <Precinct name="Unity" votes="67" />
+                <Precinct name="Rec Center" votes="84" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Shane Hazel (Lib)" totalVotes="59">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="1" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="2" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="24">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="1" />
+                <Precinct name="Oglethorpe" votes="2" />
+                <Precinct name="Screven" votes="3" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="1" />
+                <Precinct name="Altamaha" votes="7" />
+                <Precinct name="Gardi" votes="2" />
+                <Precinct name="VFW" votes="2" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="5" />
+                <Precinct name="Rec Center" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="30">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="2" />
+                <Precinct name="Screven" votes="2" />
+                <Precinct name="Empire" votes="3" />
+                <Precinct name="Red Hill" votes="2" />
+                <Precinct name="Altamaha" votes="8" />
+                <Precinct name="Gardi" votes="1" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="2" />
+                <Precinct name="Unity" votes="2" />
+                <Precinct name="Rec Center" votes="8" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="120">
+            <Precinct name="Odum" votes="12" />
+            <Precinct name="Madray Springs" votes="4" />
+            <Precinct name="Oglethorpe" votes="6" />
+            <Precinct name="Screven" votes="19" />
+            <Precinct name="Empire" votes="6" />
+            <Precinct name="Red Hill" votes="6" />
+            <Precinct name="Altamaha" votes="11" />
+            <Precinct name="Gardi" votes="4" />
+            <Precinct name="VFW" votes="13" />
+            <Precinct name="Pine Street" votes="10" />
+            <Precinct name="Unity" votes="13" />
+            <Precinct name="Rec Center" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Madray Springs" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Screven" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+            <Precinct name="Altamaha" votes="0" />
+            <Precinct name="Gardi" votes="0" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Unity" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Burt Jones (Rep)" totalVotes="7973">
+            <VoteType name="Absentee by Mail Votes" votes="295">
+                <Precinct name="Odum" votes="16" />
+                <Precinct name="Madray Springs" votes="23" />
+                <Precinct name="Oglethorpe" votes="29" />
+                <Precinct name="Screven" votes="23" />
+                <Precinct name="Empire" votes="22" />
+                <Precinct name="Red Hill" votes="12" />
+                <Precinct name="Altamaha" votes="39" />
+                <Precinct name="Gardi" votes="28" />
+                <Precinct name="VFW" votes="9" />
+                <Precinct name="Pine Street" votes="19" />
+                <Precinct name="Unity" votes="46" />
+                <Precinct name="Rec Center" votes="29" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3939">
+                <Precinct name="Odum" votes="297" />
+                <Precinct name="Madray Springs" votes="358" />
+                <Precinct name="Oglethorpe" votes="485" />
+                <Precinct name="Screven" votes="386" />
+                <Precinct name="Empire" votes="279" />
+                <Precinct name="Red Hill" votes="215" />
+                <Precinct name="Altamaha" votes="677" />
+                <Precinct name="Gardi" votes="228" />
+                <Precinct name="VFW" votes="66" />
+                <Precinct name="Pine Street" votes="220" />
+                <Precinct name="Unity" votes="395" />
+                <Precinct name="Rec Center" votes="333" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3738">
+                <Precinct name="Odum" votes="472" />
+                <Precinct name="Madray Springs" votes="331" />
+                <Precinct name="Oglethorpe" votes="380" />
+                <Precinct name="Screven" votes="572" />
+                <Precinct name="Empire" votes="300" />
+                <Precinct name="Red Hill" votes="185" />
+                <Precinct name="Altamaha" votes="320" />
+                <Precinct name="Gardi" votes="359" />
+                <Precinct name="VFW" votes="49" />
+                <Precinct name="Pine Street" votes="115" />
+                <Precinct name="Unity" votes="281" />
+                <Precinct name="Rec Center" votes="374" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Charlie Bailey (Dem)" totalVotes="1810">
+            <VoteType name="Absentee by Mail Votes" votes="127">
+                <Precinct name="Odum" votes="8" />
+                <Precinct name="Madray Springs" votes="4" />
+                <Precinct name="Oglethorpe" votes="4" />
+                <Precinct name="Screven" votes="10" />
+                <Precinct name="Empire" votes="6" />
+                <Precinct name="Red Hill" votes="5" />
+                <Precinct name="Altamaha" votes="19" />
+                <Precinct name="Gardi" votes="7" />
+                <Precinct name="VFW" votes="27" />
+                <Precinct name="Pine Street" votes="9" />
+                <Precinct name="Unity" votes="14" />
+                <Precinct name="Rec Center" votes="14" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1150">
+                <Precinct name="Odum" votes="18" />
+                <Precinct name="Madray Springs" votes="26" />
+                <Precinct name="Oglethorpe" votes="82" />
+                <Precinct name="Screven" votes="57" />
+                <Precinct name="Empire" votes="27" />
+                <Precinct name="Red Hill" votes="64" />
+                <Precinct name="Altamaha" votes="164" />
+                <Precinct name="Gardi" votes="26" />
+                <Precinct name="VFW" votes="245" />
+                <Precinct name="Pine Street" votes="129" />
+                <Precinct name="Unity" votes="180" />
+                <Precinct name="Rec Center" votes="132" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="532">
+                <Precinct name="Odum" votes="32" />
+                <Precinct name="Madray Springs" votes="7" />
+                <Precinct name="Oglethorpe" votes="29" />
+                <Precinct name="Screven" votes="51" />
+                <Precinct name="Empire" votes="13" />
+                <Precinct name="Red Hill" votes="23" />
+                <Precinct name="Altamaha" votes="62" />
+                <Precinct name="Gardi" votes="21" />
+                <Precinct name="VFW" votes="73" />
+                <Precinct name="Pine Street" votes="64" />
+                <Precinct name="Unity" votes="71" />
+                <Precinct name="Rec Center" votes="86" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="9" text="Ryan Graham (Lib)" totalVotes="146">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="2" />
+                <Precinct name="Altamaha" votes="2" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="1" />
+                <Precinct name="Unity" votes="1" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="51">
+                <Precinct name="Odum" votes="3" />
+                <Precinct name="Madray Springs" votes="3" />
+                <Precinct name="Oglethorpe" votes="3" />
+                <Precinct name="Screven" votes="4" />
+                <Precinct name="Empire" votes="2" />
+                <Precinct name="Red Hill" votes="2" />
+                <Precinct name="Altamaha" votes="15" />
+                <Precinct name="Gardi" votes="2" />
+                <Precinct name="VFW" votes="2" />
+                <Precinct name="Pine Street" votes="2" />
+                <Precinct name="Unity" votes="6" />
+                <Precinct name="Rec Center" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="88">
+                <Precinct name="Odum" votes="8" />
+                <Precinct name="Madray Springs" votes="2" />
+                <Precinct name="Oglethorpe" votes="6" />
+                <Precinct name="Screven" votes="11" />
+                <Precinct name="Empire" votes="10" />
+                <Precinct name="Red Hill" votes="2" />
+                <Precinct name="Altamaha" votes="10" />
+                <Precinct name="Gardi" votes="4" />
+                <Precinct name="VFW" votes="6" />
+                <Precinct name="Pine Street" votes="3" />
+                <Precinct name="Unity" votes="11" />
+                <Precinct name="Rec Center" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="172">
+            <Precinct name="Odum" votes="20" />
+            <Precinct name="Madray Springs" votes="4" />
+            <Precinct name="Oglethorpe" votes="13" />
+            <Precinct name="Screven" votes="22" />
+            <Precinct name="Empire" votes="7" />
+            <Precinct name="Red Hill" votes="10" />
+            <Precinct name="Altamaha" votes="18" />
+            <Precinct name="Gardi" votes="14" />
+            <Precinct name="VFW" votes="15" />
+            <Precinct name="Pine Street" votes="21" />
+            <Precinct name="Unity" votes="15" />
+            <Precinct name="Rec Center" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Madray Springs" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Screven" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+            <Precinct name="Altamaha" votes="0" />
+            <Precinct name="Gardi" votes="0" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Unity" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="10" text="Brad Raffensperger (I) (Rep)" totalVotes="7890">
+            <VoteType name="Absentee by Mail Votes" votes="305">
+                <Precinct name="Odum" votes="19" />
+                <Precinct name="Madray Springs" votes="19" />
+                <Precinct name="Oglethorpe" votes="30" />
+                <Precinct name="Screven" votes="26" />
+                <Precinct name="Empire" votes="22" />
+                <Precinct name="Red Hill" votes="12" />
+                <Precinct name="Altamaha" votes="44" />
+                <Precinct name="Gardi" votes="27" />
+                <Precinct name="VFW" votes="11" />
+                <Precinct name="Pine Street" votes="16" />
+                <Precinct name="Unity" votes="46" />
+                <Precinct name="Rec Center" votes="33" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3901">
+                <Precinct name="Odum" votes="289" />
+                <Precinct name="Madray Springs" votes="353" />
+                <Precinct name="Oglethorpe" votes="477" />
+                <Precinct name="Screven" votes="374" />
+                <Precinct name="Empire" votes="280" />
+                <Precinct name="Red Hill" votes="207" />
+                <Precinct name="Altamaha" votes="663" />
+                <Precinct name="Gardi" votes="223" />
+                <Precinct name="VFW" votes="68" />
+                <Precinct name="Pine Street" votes="215" />
+                <Precinct name="Unity" votes="414" />
+                <Precinct name="Rec Center" votes="338" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3683">
+                <Precinct name="Odum" votes="465" />
+                <Precinct name="Madray Springs" votes="328" />
+                <Precinct name="Oglethorpe" votes="371" />
+                <Precinct name="Screven" votes="566" />
+                <Precinct name="Empire" votes="296" />
+                <Precinct name="Red Hill" votes="180" />
+                <Precinct name="Altamaha" votes="310" />
+                <Precinct name="Gardi" votes="344" />
+                <Precinct name="VFW" votes="52" />
+                <Precinct name="Pine Street" votes="115" />
+                <Precinct name="Unity" votes="278" />
+                <Precinct name="Rec Center" votes="378" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="Bee Nguyen (Dem)" totalVotes="1707">
+            <VoteType name="Absentee by Mail Votes" votes="114">
+                <Precinct name="Odum" votes="6" />
+                <Precinct name="Madray Springs" votes="7" />
+                <Precinct name="Oglethorpe" votes="3" />
+                <Precinct name="Screven" votes="7" />
+                <Precinct name="Empire" votes="6" />
+                <Precinct name="Red Hill" votes="7" />
+                <Precinct name="Altamaha" votes="16" />
+                <Precinct name="Gardi" votes="7" />
+                <Precinct name="VFW" votes="25" />
+                <Precinct name="Pine Street" votes="10" />
+                <Precinct name="Unity" votes="10" />
+                <Precinct name="Rec Center" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1091">
+                <Precinct name="Odum" votes="19" />
+                <Precinct name="Madray Springs" votes="26" />
+                <Precinct name="Oglethorpe" votes="68" />
+                <Precinct name="Screven" votes="60" />
+                <Precinct name="Empire" votes="23" />
+                <Precinct name="Red Hill" votes="63" />
+                <Precinct name="Altamaha" votes="164" />
+                <Precinct name="Gardi" votes="25" />
+                <Precinct name="VFW" votes="238" />
+                <Precinct name="Pine Street" votes="122" />
+                <Precinct name="Unity" votes="161" />
+                <Precinct name="Rec Center" votes="122" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="501">
+                <Precinct name="Odum" votes="28" />
+                <Precinct name="Madray Springs" votes="3" />
+                <Precinct name="Oglethorpe" votes="28" />
+                <Precinct name="Screven" votes="47" />
+                <Precinct name="Empire" votes="14" />
+                <Precinct name="Red Hill" votes="23" />
+                <Precinct name="Altamaha" votes="58" />
+                <Precinct name="Gardi" votes="20" />
+                <Precinct name="VFW" votes="72" />
+                <Precinct name="Pine Street" votes="56" />
+                <Precinct name="Unity" votes="73" />
+                <Precinct name="Rec Center" votes="79" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Ted Metz (Lib)" totalVotes="282">
+            <VoteType name="Absentee by Mail Votes" votes="10">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="1" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="1" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="2" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="5" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="124">
+                <Precinct name="Odum" votes="7" />
+                <Precinct name="Madray Springs" votes="8" />
+                <Precinct name="Oglethorpe" votes="20" />
+                <Precinct name="Screven" votes="13" />
+                <Precinct name="Empire" votes="5" />
+                <Precinct name="Red Hill" votes="8" />
+                <Precinct name="Altamaha" votes="23" />
+                <Precinct name="Gardi" votes="4" />
+                <Precinct name="VFW" votes="5" />
+                <Precinct name="Pine Street" votes="11" />
+                <Precinct name="Unity" votes="6" />
+                <Precinct name="Rec Center" votes="14" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="148">
+                <Precinct name="Odum" votes="14" />
+                <Precinct name="Madray Springs" votes="9" />
+                <Precinct name="Oglethorpe" votes="14" />
+                <Precinct name="Screven" votes="18" />
+                <Precinct name="Empire" votes="11" />
+                <Precinct name="Red Hill" votes="6" />
+                <Precinct name="Altamaha" votes="21" />
+                <Precinct name="Gardi" votes="15" />
+                <Precinct name="VFW" votes="4" />
+                <Precinct name="Pine Street" votes="6" />
+                <Precinct name="Unity" votes="11" />
+                <Precinct name="Rec Center" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="98">
+            <Precinct name="Odum" votes="17" />
+            <Precinct name="Madray Springs" votes="4" />
+            <Precinct name="Oglethorpe" votes="4" />
+            <Precinct name="Screven" votes="12" />
+            <Precinct name="Empire" votes="4" />
+            <Precinct name="Red Hill" votes="7" />
+            <Precinct name="Altamaha" votes="8" />
+            <Precinct name="Gardi" votes="3" />
+            <Precinct name="VFW" votes="8" />
+            <Precinct name="Pine Street" votes="12" />
+            <Precinct name="Unity" votes="8" />
+            <Precinct name="Rec Center" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Madray Springs" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Screven" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+            <Precinct name="Altamaha" votes="0" />
+            <Precinct name="Gardi" votes="0" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Unity" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="13" text="Chris Carr (I) (Rep)" totalVotes="7983">
+            <VoteType name="Absentee by Mail Votes" votes="294">
+                <Precinct name="Odum" votes="16" />
+                <Precinct name="Madray Springs" votes="21" />
+                <Precinct name="Oglethorpe" votes="28" />
+                <Precinct name="Screven" votes="26" />
+                <Precinct name="Empire" votes="22" />
+                <Precinct name="Red Hill" votes="12" />
+                <Precinct name="Altamaha" votes="39" />
+                <Precinct name="Gardi" votes="27" />
+                <Precinct name="VFW" votes="8" />
+                <Precinct name="Pine Street" votes="19" />
+                <Precinct name="Unity" votes="47" />
+                <Precinct name="Rec Center" votes="29" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3939">
+                <Precinct name="Odum" votes="292" />
+                <Precinct name="Madray Springs" votes="356" />
+                <Precinct name="Oglethorpe" votes="490" />
+                <Precinct name="Screven" votes="384" />
+                <Precinct name="Empire" votes="280" />
+                <Precinct name="Red Hill" votes="213" />
+                <Precinct name="Altamaha" votes="675" />
+                <Precinct name="Gardi" votes="231" />
+                <Precinct name="VFW" votes="68" />
+                <Precinct name="Pine Street" votes="217" />
+                <Precinct name="Unity" votes="397" />
+                <Precinct name="Rec Center" votes="336" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3749">
+                <Precinct name="Odum" votes="469" />
+                <Precinct name="Madray Springs" votes="326" />
+                <Precinct name="Oglethorpe" votes="383" />
+                <Precinct name="Screven" votes="572" />
+                <Precinct name="Empire" votes="303" />
+                <Precinct name="Red Hill" votes="185" />
+                <Precinct name="Altamaha" votes="318" />
+                <Precinct name="Gardi" votes="364" />
+                <Precinct name="VFW" votes="48" />
+                <Precinct name="Pine Street" votes="118" />
+                <Precinct name="Unity" votes="287" />
+                <Precinct name="Rec Center" votes="376" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="14" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="1870">
+            <VoteType name="Absentee by Mail Votes" votes="135">
+                <Precinct name="Odum" votes="9" />
+                <Precinct name="Madray Springs" votes="6" />
+                <Precinct name="Oglethorpe" votes="5" />
+                <Precinct name="Screven" votes="7" />
+                <Precinct name="Empire" votes="6" />
+                <Precinct name="Red Hill" votes="7" />
+                <Precinct name="Altamaha" votes="22" />
+                <Precinct name="Gardi" votes="8" />
+                <Precinct name="VFW" votes="28" />
+                <Precinct name="Pine Street" votes="10" />
+                <Precinct name="Unity" votes="13" />
+                <Precinct name="Rec Center" votes="14" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1182">
+                <Precinct name="Odum" votes="23" />
+                <Precinct name="Madray Springs" votes="31" />
+                <Precinct name="Oglethorpe" votes="77" />
+                <Precinct name="Screven" votes="60" />
+                <Precinct name="Empire" votes="30" />
+                <Precinct name="Red Hill" votes="66" />
+                <Precinct name="Altamaha" votes="173" />
+                <Precinct name="Gardi" votes="25" />
+                <Precinct name="VFW" votes="250" />
+                <Precinct name="Pine Street" votes="129" />
+                <Precinct name="Unity" votes="182" />
+                <Precinct name="Rec Center" votes="136" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="552">
+                <Precinct name="Odum" votes="34" />
+                <Precinct name="Madray Springs" votes="11" />
+                <Precinct name="Oglethorpe" votes="27" />
+                <Precinct name="Screven" votes="61" />
+                <Precinct name="Empire" votes="15" />
+                <Precinct name="Red Hill" votes="24" />
+                <Precinct name="Altamaha" votes="61" />
+                <Precinct name="Gardi" votes="16" />
+                <Precinct name="VFW" votes="78" />
+                <Precinct name="Pine Street" votes="64" />
+                <Precinct name="Unity" votes="71" />
+                <Precinct name="Rec Center" votes="90" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="15" text="Martin Cowen (Lib)" totalVotes="98">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="1" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="33">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="1" />
+                <Precinct name="Oglethorpe" votes="3" />
+                <Precinct name="Screven" votes="3" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="1" />
+                <Precinct name="Altamaha" votes="11" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="2" />
+                <Precinct name="Unity" votes="6" />
+                <Precinct name="Rec Center" votes="4" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="63">
+                <Precinct name="Odum" votes="6" />
+                <Precinct name="Madray Springs" votes="2" />
+                <Precinct name="Oglethorpe" votes="7" />
+                <Precinct name="Screven" votes="8" />
+                <Precinct name="Empire" votes="5" />
+                <Precinct name="Red Hill" votes="1" />
+                <Precinct name="Altamaha" votes="12" />
+                <Precinct name="Gardi" votes="4" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="1" />
+                <Precinct name="Unity" votes="7" />
+                <Precinct name="Rec Center" votes="9" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Commissioner of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="105">
+            <Precinct name="Odum" votes="18" />
+            <Precinct name="Madray Springs" votes="3" />
+            <Precinct name="Oglethorpe" votes="7" />
+            <Precinct name="Screven" votes="11" />
+            <Precinct name="Empire" votes="6" />
+            <Precinct name="Red Hill" votes="7" />
+            <Precinct name="Altamaha" votes="10" />
+            <Precinct name="Gardi" votes="2" />
+            <Precinct name="VFW" votes="6" />
+            <Precinct name="Pine Street" votes="11" />
+            <Precinct name="Unity" votes="12" />
+            <Precinct name="Rec Center" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Madray Springs" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Screven" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+            <Precinct name="Altamaha" votes="0" />
+            <Precinct name="Gardi" votes="0" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Unity" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="16" text="Tyler Harper (Rep)" totalVotes="8042">
+            <VoteType name="Absentee by Mail Votes" votes="307">
+                <Precinct name="Odum" votes="16" />
+                <Precinct name="Madray Springs" votes="22" />
+                <Precinct name="Oglethorpe" votes="29" />
+                <Precinct name="Screven" votes="26" />
+                <Precinct name="Empire" votes="22" />
+                <Precinct name="Red Hill" votes="12" />
+                <Precinct name="Altamaha" votes="45" />
+                <Precinct name="Gardi" votes="28" />
+                <Precinct name="VFW" votes="10" />
+                <Precinct name="Pine Street" votes="19" />
+                <Precinct name="Unity" votes="46" />
+                <Precinct name="Rec Center" votes="32" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3942">
+                <Precinct name="Odum" votes="297" />
+                <Precinct name="Madray Springs" votes="355" />
+                <Precinct name="Oglethorpe" votes="488" />
+                <Precinct name="Screven" votes="386" />
+                <Precinct name="Empire" votes="280" />
+                <Precinct name="Red Hill" votes="211" />
+                <Precinct name="Altamaha" votes="676" />
+                <Precinct name="Gardi" votes="230" />
+                <Precinct name="VFW" votes="65" />
+                <Precinct name="Pine Street" votes="218" />
+                <Precinct name="Unity" votes="398" />
+                <Precinct name="Rec Center" votes="338" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3792">
+                <Precinct name="Odum" votes="474" />
+                <Precinct name="Madray Springs" votes="337" />
+                <Precinct name="Oglethorpe" votes="383" />
+                <Precinct name="Screven" votes="577" />
+                <Precinct name="Empire" votes="307" />
+                <Precinct name="Red Hill" votes="184" />
+                <Precinct name="Altamaha" votes="322" />
+                <Precinct name="Gardi" votes="363" />
+                <Precinct name="VFW" votes="50" />
+                <Precinct name="Pine Street" votes="122" />
+                <Precinct name="Unity" votes="289" />
+                <Precinct name="Rec Center" votes="384" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Nakita Hemingway (Dem)" totalVotes="1769">
+            <VoteType name="Absentee by Mail Votes" votes="120">
+                <Precinct name="Odum" votes="7" />
+                <Precinct name="Madray Springs" votes="5" />
+                <Precinct name="Oglethorpe" votes="4" />
+                <Precinct name="Screven" votes="7" />
+                <Precinct name="Empire" votes="6" />
+                <Precinct name="Red Hill" votes="7" />
+                <Precinct name="Altamaha" votes="15" />
+                <Precinct name="Gardi" votes="7" />
+                <Precinct name="VFW" votes="27" />
+                <Precinct name="Pine Street" votes="10" />
+                <Precinct name="Unity" votes="14" />
+                <Precinct name="Rec Center" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1139">
+                <Precinct name="Odum" votes="19" />
+                <Precinct name="Madray Springs" votes="28" />
+                <Precinct name="Oglethorpe" votes="75" />
+                <Precinct name="Screven" votes="57" />
+                <Precinct name="Empire" votes="25" />
+                <Precinct name="Red Hill" votes="65" />
+                <Precinct name="Altamaha" votes="166" />
+                <Precinct name="Gardi" votes="25" />
+                <Precinct name="VFW" votes="251" />
+                <Precinct name="Pine Street" votes="125" />
+                <Precinct name="Unity" votes="173" />
+                <Precinct name="Rec Center" votes="130" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="509">
+                <Precinct name="Odum" votes="29" />
+                <Precinct name="Madray Springs" votes="4" />
+                <Precinct name="Oglethorpe" votes="26" />
+                <Precinct name="Screven" votes="55" />
+                <Precinct name="Empire" votes="10" />
+                <Precinct name="Red Hill" votes="23" />
+                <Precinct name="Altamaha" votes="57" />
+                <Precinct name="Gardi" votes="17" />
+                <Precinct name="VFW" votes="75" />
+                <Precinct name="Pine Street" votes="59" />
+                <Precinct name="Unity" votes="73" />
+                <Precinct name="Rec Center" votes="81" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="David Raudabaugh (Lib)" totalVotes="133">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="1" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="68">
+                <Precinct name="Odum" votes="2" />
+                <Precinct name="Madray Springs" votes="4" />
+                <Precinct name="Oglethorpe" votes="5" />
+                <Precinct name="Screven" votes="6" />
+                <Precinct name="Empire" votes="3" />
+                <Precinct name="Red Hill" votes="5" />
+                <Precinct name="Altamaha" votes="16" />
+                <Precinct name="Gardi" votes="2" />
+                <Precinct name="VFW" votes="4" />
+                <Precinct name="Pine Street" votes="6" />
+                <Precinct name="Unity" votes="10" />
+                <Precinct name="Rec Center" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="64">
+                <Precinct name="Odum" votes="4" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="7" />
+                <Precinct name="Screven" votes="8" />
+                <Precinct name="Empire" votes="6" />
+                <Precinct name="Red Hill" votes="2" />
+                <Precinct name="Altamaha" votes="12" />
+                <Precinct name="Gardi" votes="5" />
+                <Precinct name="VFW" votes="3" />
+                <Precinct name="Pine Street" votes="2" />
+                <Precinct name="Unity" votes="3" />
+                <Precinct name="Rec Center" votes="12" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Commissioner of Insurance" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="121">
+            <Precinct name="Odum" votes="19" />
+            <Precinct name="Madray Springs" votes="2" />
+            <Precinct name="Oglethorpe" votes="7" />
+            <Precinct name="Screven" votes="15" />
+            <Precinct name="Empire" votes="6" />
+            <Precinct name="Red Hill" votes="7" />
+            <Precinct name="Altamaha" votes="11" />
+            <Precinct name="Gardi" votes="4" />
+            <Precinct name="VFW" votes="13" />
+            <Precinct name="Pine Street" votes="11" />
+            <Precinct name="Unity" votes="15" />
+            <Precinct name="Rec Center" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Madray Springs" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Screven" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+            <Precinct name="Altamaha" votes="0" />
+            <Precinct name="Gardi" votes="0" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Unity" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="19" text="John King (I) (Rep)" totalVotes="8102">
+            <VoteType name="Absentee by Mail Votes" votes="300">
+                <Precinct name="Odum" votes="16" />
+                <Precinct name="Madray Springs" votes="20" />
+                <Precinct name="Oglethorpe" votes="29" />
+                <Precinct name="Screven" votes="23" />
+                <Precinct name="Empire" votes="22" />
+                <Precinct name="Red Hill" votes="12" />
+                <Precinct name="Altamaha" votes="41" />
+                <Precinct name="Gardi" votes="28" />
+                <Precinct name="VFW" votes="11" />
+                <Precinct name="Pine Street" votes="19" />
+                <Precinct name="Unity" votes="47" />
+                <Precinct name="Rec Center" votes="32" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3970">
+                <Precinct name="Odum" votes="296" />
+                <Precinct name="Madray Springs" votes="356" />
+                <Precinct name="Oglethorpe" votes="496" />
+                <Precinct name="Screven" votes="386" />
+                <Precinct name="Empire" votes="282" />
+                <Precinct name="Red Hill" votes="216" />
+                <Precinct name="Altamaha" votes="683" />
+                <Precinct name="Gardi" votes="230" />
+                <Precinct name="VFW" votes="62" />
+                <Precinct name="Pine Street" votes="221" />
+                <Precinct name="Unity" votes="397" />
+                <Precinct name="Rec Center" votes="345" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3831">
+                <Precinct name="Odum" votes="479" />
+                <Precinct name="Madray Springs" votes="334" />
+                <Precinct name="Oglethorpe" votes="390" />
+                <Precinct name="Screven" votes="579" />
+                <Precinct name="Empire" votes="308" />
+                <Precinct name="Red Hill" votes="184" />
+                <Precinct name="Altamaha" votes="325" />
+                <Precinct name="Gardi" votes="365" />
+                <Precinct name="VFW" votes="51" />
+                <Precinct name="Pine Street" votes="125" />
+                <Precinct name="Unity" votes="299" />
+                <Precinct name="Rec Center" votes="392" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Janice Laws Robinson (Dem)" totalVotes="1828">
+            <VoteType name="Absentee by Mail Votes" votes="128">
+                <Precinct name="Odum" votes="7" />
+                <Precinct name="Madray Springs" votes="7" />
+                <Precinct name="Oglethorpe" votes="4" />
+                <Precinct name="Screven" votes="10" />
+                <Precinct name="Empire" votes="6" />
+                <Precinct name="Red Hill" votes="7" />
+                <Precinct name="Altamaha" votes="19" />
+                <Precinct name="Gardi" votes="7" />
+                <Precinct name="VFW" votes="26" />
+                <Precinct name="Pine Street" votes="10" />
+                <Precinct name="Unity" votes="14" />
+                <Precinct name="Rec Center" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1171">
+                <Precinct name="Odum" votes="20" />
+                <Precinct name="Madray Springs" votes="33" />
+                <Precinct name="Oglethorpe" votes="73" />
+                <Precinct name="Screven" votes="61" />
+                <Precinct name="Empire" votes="26" />
+                <Precinct name="Red Hill" votes="65" />
+                <Precinct name="Altamaha" votes="174" />
+                <Precinct name="Gardi" votes="27" />
+                <Precinct name="VFW" votes="252" />
+                <Precinct name="Pine Street" votes="128" />
+                <Precinct name="Unity" votes="182" />
+                <Precinct name="Rec Center" votes="130" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="528">
+                <Precinct name="Odum" votes="30" />
+                <Precinct name="Madray Springs" votes="6" />
+                <Precinct name="Oglethorpe" votes="25" />
+                <Precinct name="Screven" votes="59" />
+                <Precinct name="Empire" votes="15" />
+                <Precinct name="Red Hill" votes="25" />
+                <Precinct name="Altamaha" votes="66" />
+                <Precinct name="Gardi" votes="18" />
+                <Precinct name="VFW" votes="76" />
+                <Precinct name="Pine Street" votes="58" />
+                <Precinct name="Unity" votes="65" />
+                <Precinct name="Rec Center" votes="85" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="106">
+            <Precinct name="Odum" votes="16" />
+            <Precinct name="Madray Springs" votes="2" />
+            <Precinct name="Oglethorpe" votes="6" />
+            <Precinct name="Screven" votes="11" />
+            <Precinct name="Empire" votes="6" />
+            <Precinct name="Red Hill" votes="8" />
+            <Precinct name="Altamaha" votes="6" />
+            <Precinct name="Gardi" votes="4" />
+            <Precinct name="VFW" votes="12" />
+            <Precinct name="Pine Street" votes="12" />
+            <Precinct name="Unity" votes="10" />
+            <Precinct name="Rec Center" votes="13" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Madray Springs" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Screven" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+            <Precinct name="Altamaha" votes="0" />
+            <Precinct name="Gardi" votes="0" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Unity" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="21" text="Richard Woods (I) (Rep)" totalVotes="8128">
+            <VoteType name="Absentee by Mail Votes" votes="302">
+                <Precinct name="Odum" votes="16" />
+                <Precinct name="Madray Springs" votes="21" />
+                <Precinct name="Oglethorpe" votes="29" />
+                <Precinct name="Screven" votes="23" />
+                <Precinct name="Empire" votes="23" />
+                <Precinct name="Red Hill" votes="12" />
+                <Precinct name="Altamaha" votes="44" />
+                <Precinct name="Gardi" votes="27" />
+                <Precinct name="VFW" votes="9" />
+                <Precinct name="Pine Street" votes="19" />
+                <Precinct name="Unity" votes="47" />
+                <Precinct name="Rec Center" votes="32" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3997">
+                <Precinct name="Odum" votes="298" />
+                <Precinct name="Madray Springs" votes="360" />
+                <Precinct name="Oglethorpe" votes="503" />
+                <Precinct name="Screven" votes="386" />
+                <Precinct name="Empire" votes="282" />
+                <Precinct name="Red Hill" votes="216" />
+                <Precinct name="Altamaha" votes="684" />
+                <Precinct name="Gardi" votes="229" />
+                <Precinct name="VFW" votes="66" />
+                <Precinct name="Pine Street" votes="220" />
+                <Precinct name="Unity" votes="407" />
+                <Precinct name="Rec Center" votes="346" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3828">
+                <Precinct name="Odum" votes="480" />
+                <Precinct name="Madray Springs" votes="334" />
+                <Precinct name="Oglethorpe" votes="389" />
+                <Precinct name="Screven" votes="582" />
+                <Precinct name="Empire" votes="310" />
+                <Precinct name="Red Hill" votes="187" />
+                <Precinct name="Altamaha" votes="325" />
+                <Precinct name="Gardi" votes="366" />
+                <Precinct name="VFW" votes="51" />
+                <Precinct name="Pine Street" votes="122" />
+                <Precinct name="Unity" votes="293" />
+                <Precinct name="Rec Center" votes="389" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Alisha Thomas Searcy (Dem)" totalVotes="1815">
+            <VoteType name="Absentee by Mail Votes" votes="127">
+                <Precinct name="Odum" votes="8" />
+                <Precinct name="Madray Springs" votes="6" />
+                <Precinct name="Oglethorpe" votes="4" />
+                <Precinct name="Screven" votes="10" />
+                <Precinct name="Empire" votes="5" />
+                <Precinct name="Red Hill" votes="7" />
+                <Precinct name="Altamaha" votes="18" />
+                <Precinct name="Gardi" votes="7" />
+                <Precinct name="VFW" votes="27" />
+                <Precinct name="Pine Street" votes="10" />
+                <Precinct name="Unity" votes="14" />
+                <Precinct name="Rec Center" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1147">
+                <Precinct name="Odum" votes="19" />
+                <Precinct name="Madray Springs" votes="29" />
+                <Precinct name="Oglethorpe" votes="66" />
+                <Precinct name="Screven" votes="62" />
+                <Precinct name="Empire" votes="26" />
+                <Precinct name="Red Hill" votes="63" />
+                <Precinct name="Altamaha" votes="173" />
+                <Precinct name="Gardi" votes="28" />
+                <Precinct name="VFW" votes="249" />
+                <Precinct name="Pine Street" votes="128" />
+                <Precinct name="Unity" votes="177" />
+                <Precinct name="Rec Center" votes="127" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="540">
+                <Precinct name="Odum" votes="29" />
+                <Precinct name="Madray Springs" votes="6" />
+                <Precinct name="Oglethorpe" votes="27" />
+                <Precinct name="Screven" votes="59" />
+                <Precinct name="Empire" votes="13" />
+                <Precinct name="Red Hill" votes="23" />
+                <Precinct name="Altamaha" votes="69" />
+                <Precinct name="Gardi" votes="18" />
+                <Precinct name="VFW" votes="77" />
+                <Precinct name="Pine Street" votes="61" />
+                <Precinct name="Unity" votes="70" />
+                <Precinct name="Rec Center" votes="88" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner of Labor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="123">
+            <Precinct name="Odum" votes="20" />
+            <Precinct name="Madray Springs" votes="5" />
+            <Precinct name="Oglethorpe" votes="6" />
+            <Precinct name="Screven" votes="14" />
+            <Precinct name="Empire" votes="7" />
+            <Precinct name="Red Hill" votes="8" />
+            <Precinct name="Altamaha" votes="11" />
+            <Precinct name="Gardi" votes="4" />
+            <Precinct name="VFW" votes="7" />
+            <Precinct name="Pine Street" votes="13" />
+            <Precinct name="Unity" votes="13" />
+            <Precinct name="Rec Center" votes="15" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Madray Springs" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Screven" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+            <Precinct name="Altamaha" votes="0" />
+            <Precinct name="Gardi" votes="0" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Unity" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="23" text="Bruce Thompson (Rep)" totalVotes="7962">
+            <VoteType name="Absentee by Mail Votes" votes="288">
+                <Precinct name="Odum" votes="15" />
+                <Precinct name="Madray Springs" votes="21" />
+                <Precinct name="Oglethorpe" votes="28" />
+                <Precinct name="Screven" votes="23" />
+                <Precinct name="Empire" votes="21" />
+                <Precinct name="Red Hill" votes="12" />
+                <Precinct name="Altamaha" votes="38" />
+                <Precinct name="Gardi" votes="28" />
+                <Precinct name="VFW" votes="7" />
+                <Precinct name="Pine Street" votes="19" />
+                <Precinct name="Unity" votes="46" />
+                <Precinct name="Rec Center" votes="30" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3922">
+                <Precinct name="Odum" votes="296" />
+                <Precinct name="Madray Springs" votes="353" />
+                <Precinct name="Oglethorpe" votes="489" />
+                <Precinct name="Screven" votes="383" />
+                <Precinct name="Empire" votes="281" />
+                <Precinct name="Red Hill" votes="211" />
+                <Precinct name="Altamaha" votes="674" />
+                <Precinct name="Gardi" votes="228" />
+                <Precinct name="VFW" votes="66" />
+                <Precinct name="Pine Street" votes="215" />
+                <Precinct name="Unity" votes="396" />
+                <Precinct name="Rec Center" votes="330" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3751">
+                <Precinct name="Odum" votes="467" />
+                <Precinct name="Madray Springs" votes="333" />
+                <Precinct name="Oglethorpe" votes="383" />
+                <Precinct name="Screven" votes="571" />
+                <Precinct name="Empire" votes="304" />
+                <Precinct name="Red Hill" votes="185" />
+                <Precinct name="Altamaha" votes="317" />
+                <Precinct name="Gardi" votes="361" />
+                <Precinct name="VFW" votes="49" />
+                <Precinct name="Pine Street" votes="120" />
+                <Precinct name="Unity" votes="284" />
+                <Precinct name="Rec Center" votes="377" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr. (Dem)" totalVotes="1811">
+            <VoteType name="Absentee by Mail Votes" votes="130">
+                <Precinct name="Odum" votes="8" />
+                <Precinct name="Madray Springs" votes="5" />
+                <Precinct name="Oglethorpe" votes="4" />
+                <Precinct name="Screven" votes="10" />
+                <Precinct name="Empire" votes="7" />
+                <Precinct name="Red Hill" votes="5" />
+                <Precinct name="Altamaha" votes="19" />
+                <Precinct name="Gardi" votes="7" />
+                <Precinct name="VFW" votes="29" />
+                <Precinct name="Pine Street" votes="10" />
+                <Precinct name="Unity" votes="14" />
+                <Precinct name="Rec Center" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1158">
+                <Precinct name="Odum" votes="20" />
+                <Precinct name="Madray Springs" votes="32" />
+                <Precinct name="Oglethorpe" votes="74" />
+                <Precinct name="Screven" votes="59" />
+                <Precinct name="Empire" votes="24" />
+                <Precinct name="Red Hill" votes="67" />
+                <Precinct name="Altamaha" votes="170" />
+                <Precinct name="Gardi" votes="28" />
+                <Precinct name="VFW" votes="246" />
+                <Precinct name="Pine Street" votes="127" />
+                <Precinct name="Unity" votes="175" />
+                <Precinct name="Rec Center" votes="136" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="522">
+                <Precinct name="Odum" votes="35" />
+                <Precinct name="Madray Springs" votes="4" />
+                <Precinct name="Oglethorpe" votes="29" />
+                <Precinct name="Screven" votes="56" />
+                <Precinct name="Empire" votes="10" />
+                <Precinct name="Red Hill" votes="20" />
+                <Precinct name="Altamaha" votes="61" />
+                <Precinct name="Gardi" votes="18" />
+                <Precinct name="VFW" votes="76" />
+                <Precinct name="Pine Street" votes="58" />
+                <Precinct name="Unity" votes="73" />
+                <Precinct name="Rec Center" votes="82" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Emily Anderson (Lib)" totalVotes="154">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="1" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="2" />
+                <Precinct name="Altamaha" votes="3" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="1" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="59">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="2" />
+                <Precinct name="Oglethorpe" votes="5" />
+                <Precinct name="Screven" votes="6" />
+                <Precinct name="Empire" votes="3" />
+                <Precinct name="Red Hill" votes="3" />
+                <Precinct name="Altamaha" votes="13" />
+                <Precinct name="Gardi" votes="1" />
+                <Precinct name="VFW" votes="7" />
+                <Precinct name="Pine Street" votes="5" />
+                <Precinct name="Unity" votes="8" />
+                <Precinct name="Rec Center" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="86">
+                <Precinct name="Odum" votes="5" />
+                <Precinct name="Madray Springs" votes="3" />
+                <Precinct name="Oglethorpe" votes="5" />
+                <Precinct name="Screven" votes="11" />
+                <Precinct name="Empire" votes="8" />
+                <Precinct name="Red Hill" votes="3" />
+                <Precinct name="Altamaha" votes="13" />
+                <Precinct name="Gardi" votes="4" />
+                <Precinct name="VFW" votes="3" />
+                <Precinct name="Pine Street" votes="5" />
+                <Precinct name="Unity" votes="8" />
+                <Precinct name="Rec Center" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="US House of Representatives - District 1" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="77">
+            <Precinct name="Odum" votes="9" />
+            <Precinct name="Madray Springs" votes="2" />
+            <Precinct name="Oglethorpe" votes="4" />
+            <Precinct name="Screven" votes="10" />
+            <Precinct name="Empire" votes="3" />
+            <Precinct name="Red Hill" votes="7" />
+            <Precinct name="Altamaha" votes="9" />
+            <Precinct name="Gardi" votes="5" />
+            <Precinct name="VFW" votes="11" />
+            <Precinct name="Pine Street" votes="5" />
+            <Precinct name="Unity" votes="5" />
+            <Precinct name="Rec Center" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Madray Springs" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Screven" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+            <Precinct name="Altamaha" votes="0" />
+            <Precinct name="Gardi" votes="0" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Unity" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="31" text="Earl L. &quot;&quot;Buddy&quot;&quot; Carter (I) (Rep)" totalVotes="8079">
+            <VoteType name="Absentee by Mail Votes" votes="291">
+                <Precinct name="Odum" votes="17" />
+                <Precinct name="Madray Springs" votes="20" />
+                <Precinct name="Oglethorpe" votes="27" />
+                <Precinct name="Screven" votes="22" />
+                <Precinct name="Empire" votes="22" />
+                <Precinct name="Red Hill" votes="14" />
+                <Precinct name="Altamaha" votes="38" />
+                <Precinct name="Gardi" votes="26" />
+                <Precinct name="VFW" votes="10" />
+                <Precinct name="Pine Street" votes="19" />
+                <Precinct name="Unity" votes="46" />
+                <Precinct name="Rec Center" votes="30" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3971">
+                <Precinct name="Odum" votes="297" />
+                <Precinct name="Madray Springs" votes="354" />
+                <Precinct name="Oglethorpe" votes="488" />
+                <Precinct name="Screven" votes="387" />
+                <Precinct name="Empire" votes="284" />
+                <Precinct name="Red Hill" votes="216" />
+                <Precinct name="Altamaha" votes="687" />
+                <Precinct name="Gardi" votes="229" />
+                <Precinct name="VFW" votes="65" />
+                <Precinct name="Pine Street" votes="221" />
+                <Precinct name="Unity" votes="402" />
+                <Precinct name="Rec Center" votes="341" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3816">
+                <Precinct name="Odum" votes="477" />
+                <Precinct name="Madray Springs" votes="334" />
+                <Precinct name="Oglethorpe" votes="388" />
+                <Precinct name="Screven" votes="581" />
+                <Precinct name="Empire" votes="310" />
+                <Precinct name="Red Hill" votes="184" />
+                <Precinct name="Altamaha" votes="329" />
+                <Precinct name="Gardi" votes="366" />
+                <Precinct name="VFW" votes="54" />
+                <Precinct name="Pine Street" votes="119" />
+                <Precinct name="Unity" votes="288" />
+                <Precinct name="Rec Center" votes="386" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="32" text="Wade Herring (Dem)" totalVotes="1893">
+            <VoteType name="Absentee by Mail Votes" votes="133">
+                <Precinct name="Odum" votes="7" />
+                <Precinct name="Madray Springs" votes="6" />
+                <Precinct name="Oglethorpe" votes="5" />
+                <Precinct name="Screven" votes="11" />
+                <Precinct name="Empire" votes="6" />
+                <Precinct name="Red Hill" votes="5" />
+                <Precinct name="Altamaha" votes="21" />
+                <Precinct name="Gardi" votes="7" />
+                <Precinct name="VFW" votes="25" />
+                <Precinct name="Pine Street" votes="10" />
+                <Precinct name="Unity" votes="16" />
+                <Precinct name="Rec Center" votes="14" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1200">
+                <Precinct name="Odum" votes="24" />
+                <Precinct name="Madray Springs" votes="34" />
+                <Precinct name="Oglethorpe" votes="83" />
+                <Precinct name="Screven" votes="61" />
+                <Precinct name="Empire" votes="26" />
+                <Precinct name="Red Hill" votes="65" />
+                <Precinct name="Altamaha" votes="171" />
+                <Precinct name="Gardi" votes="28" />
+                <Precinct name="VFW" votes="252" />
+                <Precinct name="Pine Street" votes="134" />
+                <Precinct name="Unity" votes="186" />
+                <Precinct name="Rec Center" votes="136" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="559">
+                <Precinct name="Odum" votes="36" />
+                <Precinct name="Madray Springs" votes="8" />
+                <Precinct name="Oglethorpe" votes="28" />
+                <Precinct name="Screven" votes="60" />
+                <Precinct name="Empire" votes="14" />
+                <Precinct name="Red Hill" votes="25" />
+                <Precinct name="Altamaha" votes="64" />
+                <Precinct name="Gardi" votes="18" />
+                <Precinct name="VFW" votes="74" />
+                <Precinct name="Pine Street" votes="64" />
+                <Precinct name="Unity" votes="76" />
+                <Precinct name="Rec Center" votes="92" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="State Senate - District 19" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="116">
+            <Precinct name="Odum" votes="12" />
+            <Precinct name="Madray Springs" votes="3" />
+            <Precinct name="Oglethorpe" votes="9" />
+            <Precinct name="Screven" votes="14" />
+            <Precinct name="Empire" votes="4" />
+            <Precinct name="Red Hill" votes="7" />
+            <Precinct name="Altamaha" votes="15" />
+            <Precinct name="Gardi" votes="5" />
+            <Precinct name="VFW" votes="12" />
+            <Precinct name="Pine Street" votes="16" />
+            <Precinct name="Unity" votes="7" />
+            <Precinct name="Rec Center" votes="12" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Madray Springs" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Screven" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+            <Precinct name="Altamaha" votes="0" />
+            <Precinct name="Gardi" votes="0" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Unity" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="33" text="Blake Tillery (I) (Rep)" totalVotes="8153">
+            <VoteType name="Absentee by Mail Votes" votes="302">
+                <Precinct name="Odum" votes="17" />
+                <Precinct name="Madray Springs" votes="21" />
+                <Precinct name="Oglethorpe" votes="28" />
+                <Precinct name="Screven" votes="26" />
+                <Precinct name="Empire" votes="21" />
+                <Precinct name="Red Hill" votes="12" />
+                <Precinct name="Altamaha" votes="40" />
+                <Precinct name="Gardi" votes="27" />
+                <Precinct name="VFW" votes="13" />
+                <Precinct name="Pine Street" votes="18" />
+                <Precinct name="Unity" votes="48" />
+                <Precinct name="Rec Center" votes="31" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4024">
+                <Precinct name="Odum" votes="301" />
+                <Precinct name="Madray Springs" votes="358" />
+                <Precinct name="Oglethorpe" votes="497" />
+                <Precinct name="Screven" votes="391" />
+                <Precinct name="Empire" votes="284" />
+                <Precinct name="Red Hill" votes="216" />
+                <Precinct name="Altamaha" votes="689" />
+                <Precinct name="Gardi" votes="229" />
+                <Precinct name="VFW" votes="72" />
+                <Precinct name="Pine Street" votes="223" />
+                <Precinct name="Unity" votes="411" />
+                <Precinct name="Rec Center" votes="353" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3826">
+                <Precinct name="Odum" votes="479" />
+                <Precinct name="Madray Springs" votes="334" />
+                <Precinct name="Oglethorpe" votes="387" />
+                <Precinct name="Screven" votes="580" />
+                <Precinct name="Empire" votes="311" />
+                <Precinct name="Red Hill" votes="185" />
+                <Precinct name="Altamaha" votes="328" />
+                <Precinct name="Gardi" votes="365" />
+                <Precinct name="VFW" votes="52" />
+                <Precinct name="Pine Street" votes="119" />
+                <Precinct name="Unity" votes="298" />
+                <Precinct name="Rec Center" votes="388" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="34" text="Michael &quot;&quot;Buckle&quot;&quot; Moore (Dem)" totalVotes="1777">
+            <VoteType name="Absentee by Mail Votes" votes="124">
+                <Precinct name="Odum" votes="8" />
+                <Precinct name="Madray Springs" votes="6" />
+                <Precinct name="Oglethorpe" votes="4" />
+                <Precinct name="Screven" votes="7" />
+                <Precinct name="Empire" votes="7" />
+                <Precinct name="Red Hill" votes="7" />
+                <Precinct name="Altamaha" votes="18" />
+                <Precinct name="Gardi" votes="7" />
+                <Precinct name="VFW" votes="24" />
+                <Precinct name="Pine Street" votes="10" />
+                <Precinct name="Unity" votes="14" />
+                <Precinct name="Rec Center" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1118">
+                <Precinct name="Odum" votes="19" />
+                <Precinct name="Madray Springs" votes="29" />
+                <Precinct name="Oglethorpe" votes="71" />
+                <Precinct name="Screven" votes="56" />
+                <Precinct name="Empire" votes="26" />
+                <Precinct name="Red Hill" votes="64" />
+                <Precinct name="Altamaha" votes="164" />
+                <Precinct name="Gardi" votes="27" />
+                <Precinct name="VFW" votes="242" />
+                <Precinct name="Pine Street" votes="124" />
+                <Precinct name="Unity" votes="174" />
+                <Precinct name="Rec Center" votes="122" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="534">
+                <Precinct name="Odum" votes="31" />
+                <Precinct name="Madray Springs" votes="7" />
+                <Precinct name="Oglethorpe" votes="27" />
+                <Precinct name="Screven" votes="59" />
+                <Precinct name="Empire" votes="12" />
+                <Precinct name="Red Hill" votes="25" />
+                <Precinct name="Altamaha" votes="64" />
+                <Precinct name="Gardi" votes="19" />
+                <Precinct name="VFW" votes="75" />
+                <Precinct name="Pine Street" votes="60" />
+                <Precinct name="Unity" votes="67" />
+                <Precinct name="Rec Center" votes="88" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="State House - District 167" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="195">
+            <Precinct name="Oglethorpe" votes="53" />
+            <Precinct name="Altamaha" votes="142" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Altamaha" votes="0" />
+        </VoteType>
+        <Choice key="35" text="Buddy Deloach (I) (Rep)" totalVotes="1790">
+            <VoteType name="Absentee by Mail Votes" votes="71">
+                <Precinct name="Oglethorpe" votes="23" />
+                <Precinct name="Altamaha" votes="48" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1087">
+                <Precinct name="Oglethorpe" votes="345" />
+                <Precinct name="Altamaha" votes="742" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="632">
+                <Precinct name="Oglethorpe" votes="269" />
+                <Precinct name="Altamaha" votes="363" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State House - District 178" voteFor="1" isQuestion="false" precinctsReporting="11" precinctsReported="11">
+        <VoteType name="Undervotes" votes="868">
+            <Precinct name="Odum" votes="46" />
+            <Precinct name="Madray Springs" votes="18" />
+            <Precinct name="Oglethorpe" votes="6" />
+            <Precinct name="Screven" votes="82" />
+            <Precinct name="Empire" votes="31" />
+            <Precinct name="Red Hill" votes="57" />
+            <Precinct name="Gardi" votes="28" />
+            <Precinct name="VFW" votes="209" />
+            <Precinct name="Pine Street" votes="121" />
+            <Precinct name="Unity" votes="150" />
+            <Precinct name="Rec Center" votes="120" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Madray Springs" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Screven" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+            <Precinct name="Gardi" votes="0" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Unity" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="36" text="Steven Meeks (I) (Rep)" totalVotes="7073">
+            <VoteType name="Absentee by Mail Votes" votes="272">
+                <Precinct name="Odum" votes="20" />
+                <Precinct name="Madray Springs" votes="24" />
+                <Precinct name="Oglethorpe" votes="6" />
+                <Precinct name="Screven" votes="28" />
+                <Precinct name="Empire" votes="24" />
+                <Precinct name="Red Hill" votes="18" />
+                <Precinct name="Gardi" votes="31" />
+                <Precinct name="VFW" votes="17" />
+                <Precinct name="Pine Street" votes="20" />
+                <Precinct name="Unity" votes="50" />
+                <Precinct name="Rec Center" votes="34" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3347">
+                <Precinct name="Odum" votes="305" />
+                <Precinct name="Madray Springs" votes="371" />
+                <Precinct name="Oglethorpe" votes="183" />
+                <Precinct name="Screven" votes="407" />
+                <Precinct name="Empire" votes="293" />
+                <Precinct name="Red Hill" votes="242" />
+                <Precinct name="Gardi" votes="243" />
+                <Precinct name="VFW" votes="151" />
+                <Precinct name="Pine Street" votes="264" />
+                <Precinct name="Unity" votes="484" />
+                <Precinct name="Rec Center" votes="404" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3453">
+                <Precinct name="Odum" votes="489" />
+                <Precinct name="Madray Springs" votes="338" />
+                <Precinct name="Oglethorpe" votes="131" />
+                <Precinct name="Screven" votes="607" />
+                <Precinct name="Empire" votes="315" />
+                <Precinct name="Red Hill" votes="194" />
+                <Precinct name="Gardi" votes="372" />
+                <Precinct name="VFW" votes="88" />
+                <Precinct name="Pine Street" votes="151" />
+                <Precinct name="Unity" votes="332" />
+                <Precinct name="Rec Center" votes="436" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="County Commissioner - District 1" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="160">
+            <Precinct name="Odum" votes="61" />
+            <Precinct name="Madray Springs" votes="34" />
+            <Precinct name="Oglethorpe" votes="65" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Madray Springs" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Mike Gordon (Rep)" totalVotes="2320">
+            <VoteType name="Absentee by Mail Votes" votes="71">
+                <Precinct name="Odum" votes="16" />
+                <Precinct name="Madray Springs" votes="26" />
+                <Precinct name="Oglethorpe" votes="29" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1101">
+                <Precinct name="Odum" votes="226" />
+                <Precinct name="Madray Springs" votes="356" />
+                <Precinct name="Oglethorpe" votes="519" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1147">
+                <Precinct name="Odum" votes="413" />
+                <Precinct name="Madray Springs" votes="334" />
+                <Precinct name="Oglethorpe" votes="400" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="County Commissioner - District 2" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="183">
+            <Precinct name="Odum" votes="2" />
+            <Precinct name="Screven" votes="110" />
+            <Precinct name="Empire" votes="39" />
+            <Precinct name="Red Hill" votes="32" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Screven" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+        </VoteType>
+        <Choice key="38" text="Kevin McCrary (I) (Rep)" totalVotes="2069">
+            <VoteType name="Absentee by Mail Votes" votes="68">
+                <Precinct name="Odum" votes="4" />
+                <Precinct name="Screven" votes="26" />
+                <Precinct name="Empire" votes="23" />
+                <Precinct name="Red Hill" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="899">
+                <Precinct name="Odum" votes="66" />
+                <Precinct name="Screven" votes="390" />
+                <Precinct name="Empire" votes="271" />
+                <Precinct name="Red Hill" votes="172" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1102">
+                <Precinct name="Odum" votes="68" />
+                <Precinct name="Screven" votes="604" />
+                <Precinct name="Empire" votes="287" />
+                <Precinct name="Red Hill" votes="143" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="County Commissioner - District 3" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="156">
+            <Precinct name="Altamaha" votes="114" />
+            <Precinct name="Gardi" votes="33" />
+            <Precinct name="Pine Street" votes="8" />
+            <Precinct name="Rec Center" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Altamaha" votes="0" />
+            <Precinct name="Gardi" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Tim Hopkins (Rep)" totalVotes="1843">
+            <VoteType name="Absentee by Mail Votes" votes="75">
+                <Precinct name="Altamaha" votes="37" />
+                <Precinct name="Gardi" votes="29" />
+                <Precinct name="Pine Street" votes="9" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1005">
+                <Precinct name="Altamaha" votes="652" />
+                <Precinct name="Gardi" votes="237" />
+                <Precinct name="Pine Street" votes="99" />
+                <Precinct name="Rec Center" votes="17" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="763">
+                <Precinct name="Altamaha" votes="315" />
+                <Precinct name="Gardi" votes="374" />
+                <Precinct name="Pine Street" votes="55" />
+                <Precinct name="Rec Center" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="County Commissioner - District 4" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="24">
+            <Precinct name="Altamaha" votes="1" />
+            <Precinct name="VFW" votes="7" />
+            <Precinct name="Pine Street" votes="14" />
+            <Precinct name="Rec Center" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Altamaha" votes="0" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="40" text="Fred Anderson (Rep)" totalVotes="552">
+            <VoteType name="Absentee by Mail Votes" votes="30">
+                <Precinct name="Altamaha" votes="10" />
+                <Precinct name="VFW" votes="9" />
+                <Precinct name="Pine Street" votes="7" />
+                <Precinct name="Rec Center" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="298">
+                <Precinct name="Altamaha" votes="80" />
+                <Precinct name="VFW" votes="65" />
+                <Precinct name="Pine Street" votes="118" />
+                <Precinct name="Rec Center" votes="35" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="224">
+                <Precinct name="Altamaha" votes="42" />
+                <Precinct name="VFW" votes="48" />
+                <Precinct name="Pine Street" votes="64" />
+                <Precinct name="Rec Center" votes="70" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="41" text="James &quot;&quot;Boot&quot;&quot; Thomas (I) (Dem)" totalVotes="692">
+            <VoteType name="Absentee by Mail Votes" votes="48">
+                <Precinct name="Altamaha" votes="3" />
+                <Precinct name="VFW" votes="29" />
+                <Precinct name="Pine Street" votes="11" />
+                <Precinct name="Rec Center" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="448">
+                <Precinct name="Altamaha" votes="33" />
+                <Precinct name="VFW" votes="249" />
+                <Precinct name="Pine Street" votes="123" />
+                <Precinct name="Rec Center" votes="43" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="195">
+                <Precinct name="Altamaha" votes="18" />
+                <Precinct name="VFW" votes="79" />
+                <Precinct name="Pine Street" votes="59" />
+                <Precinct name="Rec Center" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="County Commissioner - District 5" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="276">
+            <Precinct name="Empire" votes="5" />
+            <Precinct name="Red Hill" votes="24" />
+            <Precinct name="Unity" votes="153" />
+            <Precinct name="Rec Center" votes="94" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+            <Precinct name="Unity" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Jamie Hickox (Rep)" totalVotes="1487">
+            <VoteType name="Absentee by Mail Votes" votes="72">
+                <Precinct name="Empire" votes="1" />
+                <Precinct name="Red Hill" votes="2" />
+                <Precinct name="Unity" votes="45" />
+                <Precinct name="Rec Center" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="770">
+                <Precinct name="Empire" votes="19" />
+                <Precinct name="Red Hill" votes="63" />
+                <Precinct name="Unity" votes="390" />
+                <Precinct name="Rec Center" votes="298" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="645">
+                <Precinct name="Empire" votes="16" />
+                <Precinct name="Red Hill" votes="54" />
+                <Precinct name="Unity" votes="283" />
+                <Precinct name="Rec Center" votes="292" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="Proposed Constitutional Amendment 1" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="372">
+            <Precinct name="Odum" votes="52" />
+            <Precinct name="Madray Springs" votes="21" />
+            <Precinct name="Oglethorpe" votes="34" />
+            <Precinct name="Screven" votes="47" />
+            <Precinct name="Empire" votes="27" />
+            <Precinct name="Red Hill" votes="16" />
+            <Precinct name="Altamaha" votes="33" />
+            <Precinct name="Gardi" votes="19" />
+            <Precinct name="VFW" votes="17" />
+            <Precinct name="Pine Street" votes="32" />
+            <Precinct name="Unity" votes="42" />
+            <Precinct name="Rec Center" votes="32" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Madray Springs" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Screven" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+            <Precinct name="Altamaha" votes="0" />
+            <Precinct name="Gardi" votes="0" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Unity" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="43" text="Yes" totalVotes="8473">
+            <VoteType name="Absentee by Mail Votes" votes="376">
+                <Precinct name="Odum" votes="20" />
+                <Precinct name="Madray Springs" votes="25" />
+                <Precinct name="Oglethorpe" votes="30" />
+                <Precinct name="Screven" votes="28" />
+                <Precinct name="Empire" votes="27" />
+                <Precinct name="Red Hill" votes="18" />
+                <Precinct name="Altamaha" votes="53" />
+                <Precinct name="Gardi" votes="30" />
+                <Precinct name="VFW" votes="31" />
+                <Precinct name="Pine Street" votes="23" />
+                <Precinct name="Unity" votes="53" />
+                <Precinct name="Rec Center" votes="38" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4369">
+                <Precinct name="Odum" votes="271" />
+                <Precinct name="Madray Springs" votes="336" />
+                <Precinct name="Oglethorpe" votes="472" />
+                <Precinct name="Screven" votes="376" />
+                <Precinct name="Empire" votes="268" />
+                <Precinct name="Red Hill" votes="250" />
+                <Precinct name="Altamaha" votes="717" />
+                <Precinct name="Gardi" votes="222" />
+                <Precinct name="VFW" votes="262" />
+                <Precinct name="Pine Street" votes="295" />
+                <Precinct name="Unity" votes="481" />
+                <Precinct name="Rec Center" votes="419" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3727">
+                <Precinct name="Odum" votes="419" />
+                <Precinct name="Madray Springs" votes="290" />
+                <Precinct name="Oglethorpe" votes="358" />
+                <Precinct name="Screven" votes="546" />
+                <Precinct name="Empire" votes="278" />
+                <Precinct name="Red Hill" votes="182" />
+                <Precinct name="Altamaha" votes="329" />
+                <Precinct name="Gardi" votes="341" />
+                <Precinct name="VFW" votes="109" />
+                <Precinct name="Pine Street" votes="148" />
+                <Precinct name="Unity" votes="314" />
+                <Precinct name="Rec Center" votes="413" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="44" text="No" totalVotes="1206">
+            <VoteType name="Absentee by Mail Votes" votes="44">
+                <Precinct name="Odum" votes="3" />
+                <Precinct name="Madray Springs" votes="2" />
+                <Precinct name="Oglethorpe" votes="3" />
+                <Precinct name="Screven" votes="5" />
+                <Precinct name="Empire" votes="1" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="9" />
+                <Precinct name="Gardi" votes="3" />
+                <Precinct name="VFW" votes="5" />
+                <Precinct name="Pine Street" votes="3" />
+                <Precinct name="Unity" votes="5" />
+                <Precinct name="Rec Center" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="640">
+                <Precinct name="Odum" votes="34" />
+                <Precinct name="Madray Springs" votes="46" />
+                <Precinct name="Oglethorpe" votes="83" />
+                <Precinct name="Screven" votes="53" />
+                <Precinct name="Empire" votes="31" />
+                <Precinct name="Red Hill" votes="26" />
+                <Precinct name="Altamaha" votes="123" />
+                <Precinct name="Gardi" votes="28" />
+                <Precinct name="VFW" votes="49" />
+                <Precinct name="Pine Street" votes="40" />
+                <Precinct name="Unity" votes="82" />
+                <Precinct name="Rec Center" votes="45" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="521">
+                <Precinct name="Odum" votes="68" />
+                <Precinct name="Madray Springs" votes="38" />
+                <Precinct name="Oglethorpe" votes="44" />
+                <Precinct name="Screven" votes="78" />
+                <Precinct name="Empire" votes="33" />
+                <Precinct name="Red Hill" votes="24" />
+                <Precinct name="Altamaha" votes="55" />
+                <Precinct name="Gardi" votes="36" />
+                <Precinct name="VFW" votes="18" />
+                <Precinct name="Pine Street" votes="31" />
+                <Precinct name="Unity" votes="42" />
+                <Precinct name="Rec Center" votes="54" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="Proposed Constitutional Amendment 2" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="292">
+            <Precinct name="Odum" votes="39" />
+            <Precinct name="Madray Springs" votes="21" />
+            <Precinct name="Oglethorpe" votes="31" />
+            <Precinct name="Screven" votes="30" />
+            <Precinct name="Empire" votes="20" />
+            <Precinct name="Red Hill" votes="13" />
+            <Precinct name="Altamaha" votes="22" />
+            <Precinct name="Gardi" votes="17" />
+            <Precinct name="VFW" votes="18" />
+            <Precinct name="Pine Street" votes="24" />
+            <Precinct name="Unity" votes="30" />
+            <Precinct name="Rec Center" votes="27" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Madray Springs" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Screven" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+            <Precinct name="Altamaha" votes="0" />
+            <Precinct name="Gardi" votes="0" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Unity" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Yes" totalVotes="8650">
+            <VoteType name="Absentee by Mail Votes" votes="384">
+                <Precinct name="Odum" votes="24" />
+                <Precinct name="Madray Springs" votes="19" />
+                <Precinct name="Oglethorpe" votes="26" />
+                <Precinct name="Screven" votes="31" />
+                <Precinct name="Empire" votes="27" />
+                <Precinct name="Red Hill" votes="18" />
+                <Precinct name="Altamaha" votes="56" />
+                <Precinct name="Gardi" votes="31" />
+                <Precinct name="VFW" votes="32" />
+                <Precinct name="Pine Street" votes="24" />
+                <Precinct name="Unity" votes="56" />
+                <Precinct name="Rec Center" votes="40" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4437">
+                <Precinct name="Odum" votes="269" />
+                <Precinct name="Madray Springs" votes="335" />
+                <Precinct name="Oglethorpe" votes="479" />
+                <Precinct name="Screven" votes="390" />
+                <Precinct name="Empire" votes="272" />
+                <Precinct name="Red Hill" votes="246" />
+                <Precinct name="Altamaha" votes="742" />
+                <Precinct name="Gardi" votes="222" />
+                <Precinct name="VFW" votes="275" />
+                <Precinct name="Pine Street" votes="297" />
+                <Precinct name="Unity" votes="496" />
+                <Precinct name="Rec Center" votes="414" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3827">
+                <Precinct name="Odum" votes="445" />
+                <Precinct name="Madray Springs" votes="289" />
+                <Precinct name="Oglethorpe" votes="352" />
+                <Precinct name="Screven" votes="559" />
+                <Precinct name="Empire" votes="284" />
+                <Precinct name="Red Hill" votes="186" />
+                <Precinct name="Altamaha" votes="347" />
+                <Precinct name="Gardi" votes="354" />
+                <Precinct name="VFW" votes="112" />
+                <Precinct name="Pine Street" votes="153" />
+                <Precinct name="Unity" votes="323" />
+                <Precinct name="Rec Center" votes="423" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="46" text="No" totalVotes="1109">
+            <VoteType name="Absentee by Mail Votes" votes="41">
+                <Precinct name="Odum" votes="3" />
+                <Precinct name="Madray Springs" votes="8" />
+                <Precinct name="Oglethorpe" votes="7" />
+                <Precinct name="Screven" votes="2" />
+                <Precinct name="Empire" votes="1" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="6" />
+                <Precinct name="Gardi" votes="3" />
+                <Precinct name="VFW" votes="3" />
+                <Precinct name="Pine Street" votes="1" />
+                <Precinct name="Unity" votes="3" />
+                <Precinct name="Rec Center" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="610">
+                <Precinct name="Odum" votes="39" />
+                <Precinct name="Madray Springs" votes="45" />
+                <Precinct name="Oglethorpe" votes="79" />
+                <Precinct name="Screven" votes="44" />
+                <Precinct name="Empire" votes="30" />
+                <Precinct name="Red Hill" votes="31" />
+                <Precinct name="Altamaha" votes="104" />
+                <Precinct name="Gardi" votes="29" />
+                <Precinct name="VFW" votes="37" />
+                <Precinct name="Pine Street" votes="45" />
+                <Precinct name="Unity" votes="77" />
+                <Precinct name="Rec Center" votes="50" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="458">
+                <Precinct name="Odum" votes="48" />
+                <Precinct name="Madray Springs" votes="41" />
+                <Precinct name="Oglethorpe" votes="50" />
+                <Precinct name="Screven" votes="77" />
+                <Precinct name="Empire" votes="31" />
+                <Precinct name="Red Hill" votes="22" />
+                <Precinct name="Altamaha" votes="42" />
+                <Precinct name="Gardi" votes="23" />
+                <Precinct name="VFW" votes="14" />
+                <Precinct name="Pine Street" votes="28" />
+                <Precinct name="Unity" votes="34" />
+                <Precinct name="Rec Center" votes="48" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="Statewide Referendum Question A" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="420">
+            <Precinct name="Odum" votes="50" />
+            <Precinct name="Madray Springs" votes="29" />
+            <Precinct name="Oglethorpe" votes="36" />
+            <Precinct name="Screven" votes="48" />
+            <Precinct name="Empire" votes="35" />
+            <Precinct name="Red Hill" votes="19" />
+            <Precinct name="Altamaha" votes="39" />
+            <Precinct name="Gardi" votes="25" />
+            <Precinct name="VFW" votes="27" />
+            <Precinct name="Pine Street" votes="33" />
+            <Precinct name="Unity" votes="44" />
+            <Precinct name="Rec Center" votes="35" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Madray Springs" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Screven" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+            <Precinct name="Altamaha" votes="0" />
+            <Precinct name="Gardi" votes="0" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Unity" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="49" text="Yes" totalVotes="5613">
+            <VoteType name="Absentee by Mail Votes" votes="195">
+                <Precinct name="Odum" votes="12" />
+                <Precinct name="Madray Springs" votes="10" />
+                <Precinct name="Oglethorpe" votes="14" />
+                <Precinct name="Screven" votes="14" />
+                <Precinct name="Empire" votes="9" />
+                <Precinct name="Red Hill" votes="10" />
+                <Precinct name="Altamaha" votes="33" />
+                <Precinct name="Gardi" votes="17" />
+                <Precinct name="VFW" votes="12" />
+                <Precinct name="Pine Street" votes="9" />
+                <Precinct name="Unity" votes="31" />
+                <Precinct name="Rec Center" votes="24" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2725">
+                <Precinct name="Odum" votes="185" />
+                <Precinct name="Madray Springs" votes="230" />
+                <Precinct name="Oglethorpe" votes="281" />
+                <Precinct name="Screven" votes="251" />
+                <Precinct name="Empire" votes="177" />
+                <Precinct name="Red Hill" votes="134" />
+                <Precinct name="Altamaha" votes="465" />
+                <Precinct name="Gardi" votes="138" />
+                <Precinct name="VFW" votes="149" />
+                <Precinct name="Pine Street" votes="185" />
+                <Precinct name="Unity" votes="290" />
+                <Precinct name="Rec Center" votes="240" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2691">
+                <Precinct name="Odum" votes="309" />
+                <Precinct name="Madray Springs" votes="218" />
+                <Precinct name="Oglethorpe" votes="256" />
+                <Precinct name="Screven" votes="409" />
+                <Precinct name="Empire" votes="198" />
+                <Precinct name="Red Hill" votes="131" />
+                <Precinct name="Altamaha" votes="234" />
+                <Precinct name="Gardi" votes="248" />
+                <Precinct name="VFW" votes="80" />
+                <Precinct name="Pine Street" votes="97" />
+                <Precinct name="Unity" votes="239" />
+                <Precinct name="Rec Center" votes="272" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="50" text="No" totalVotes="4018">
+            <VoteType name="Absentee by Mail Votes" votes="217">
+                <Precinct name="Odum" votes="14" />
+                <Precinct name="Madray Springs" votes="16" />
+                <Precinct name="Oglethorpe" votes="19" />
+                <Precinct name="Screven" votes="16" />
+                <Precinct name="Empire" votes="18" />
+                <Precinct name="Red Hill" votes="8" />
+                <Precinct name="Altamaha" votes="28" />
+                <Precinct name="Gardi" votes="15" />
+                <Precinct name="VFW" votes="22" />
+                <Precinct name="Pine Street" votes="15" />
+                <Precinct name="Unity" votes="26" />
+                <Precinct name="Rec Center" votes="20" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2262">
+                <Precinct name="Odum" votes="119" />
+                <Precinct name="Madray Springs" votes="147" />
+                <Precinct name="Oglethorpe" votes="274" />
+                <Precinct name="Screven" votes="181" />
+                <Precinct name="Empire" votes="118" />
+                <Precinct name="Red Hill" votes="140" />
+                <Precinct name="Altamaha" votes="373" />
+                <Precinct name="Gardi" votes="107" />
+                <Precinct name="VFW" votes="156" />
+                <Precinct name="Pine Street" votes="151" />
+                <Precinct name="Unity" votes="274" />
+                <Precinct name="Rec Center" votes="222" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1539">
+                <Precinct name="Odum" votes="178" />
+                <Precinct name="Madray Springs" votes="108" />
+                <Precinct name="Oglethorpe" votes="144" />
+                <Precinct name="Screven" votes="214" />
+                <Precinct name="Empire" votes="110" />
+                <Precinct name="Red Hill" votes="74" />
+                <Precinct name="Altamaha" votes="147" />
+                <Precinct name="Gardi" votes="129" />
+                <Precinct name="VFW" votes="45" />
+                <Precinct name="Pine Street" votes="82" />
+                <Precinct name="Unity" votes="115" />
+                <Precinct name="Rec Center" votes="193" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="Statewide Referendum Question B" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="389">
+            <Precinct name="Odum" votes="49" />
+            <Precinct name="Madray Springs" votes="21" />
+            <Precinct name="Oglethorpe" votes="38" />
+            <Precinct name="Screven" votes="50" />
+            <Precinct name="Empire" votes="31" />
+            <Precinct name="Red Hill" votes="20" />
+            <Precinct name="Altamaha" votes="37" />
+            <Precinct name="Gardi" votes="24" />
+            <Precinct name="VFW" votes="19" />
+            <Precinct name="Pine Street" votes="26" />
+            <Precinct name="Unity" votes="45" />
+            <Precinct name="Rec Center" votes="29" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Odum" votes="0" />
+            <Precinct name="Madray Springs" votes="0" />
+            <Precinct name="Oglethorpe" votes="0" />
+            <Precinct name="Screven" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Red Hill" votes="0" />
+            <Precinct name="Altamaha" votes="0" />
+            <Precinct name="Gardi" votes="0" />
+            <Precinct name="VFW" votes="0" />
+            <Precinct name="Pine Street" votes="0" />
+            <Precinct name="Unity" votes="0" />
+            <Precinct name="Rec Center" votes="0" />
+        </VoteType>
+        <Choice key="47" text="Yes" totalVotes="7008">
+            <VoteType name="Absentee by Mail Votes" votes="259">
+                <Precinct name="Odum" votes="16" />
+                <Precinct name="Madray Springs" votes="13" />
+                <Precinct name="Oglethorpe" votes="18" />
+                <Precinct name="Screven" votes="17" />
+                <Precinct name="Empire" votes="20" />
+                <Precinct name="Red Hill" votes="17" />
+                <Precinct name="Altamaha" votes="42" />
+                <Precinct name="Gardi" votes="22" />
+                <Precinct name="VFW" votes="18" />
+                <Precinct name="Pine Street" votes="12" />
+                <Precinct name="Unity" votes="37" />
+                <Precinct name="Rec Center" votes="27" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3436">
+                <Precinct name="Odum" votes="225" />
+                <Precinct name="Madray Springs" votes="284" />
+                <Precinct name="Oglethorpe" votes="374" />
+                <Precinct name="Screven" votes="297" />
+                <Precinct name="Empire" votes="229" />
+                <Precinct name="Red Hill" votes="182" />
+                <Precinct name="Altamaha" votes="587" />
+                <Precinct name="Gardi" votes="180" />
+                <Precinct name="VFW" votes="170" />
+                <Precinct name="Pine Street" votes="221" />
+                <Precinct name="Unity" votes="375" />
+                <Precinct name="Rec Center" votes="312" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3312">
+                <Precinct name="Odum" votes="393" />
+                <Precinct name="Madray Springs" votes="255" />
+                <Precinct name="Oglethorpe" votes="318" />
+                <Precinct name="Screven" votes="487" />
+                <Precinct name="Empire" votes="241" />
+                <Precinct name="Red Hill" votes="158" />
+                <Precinct name="Altamaha" votes="301" />
+                <Precinct name="Gardi" votes="309" />
+                <Precinct name="VFW" votes="92" />
+                <Precinct name="Pine Street" votes="114" />
+                <Precinct name="Unity" votes="288" />
+                <Precinct name="Rec Center" votes="356" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="1" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="0" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="48" text="No" totalVotes="2654">
+            <VoteType name="Absentee by Mail Votes" votes="155">
+                <Precinct name="Odum" votes="10" />
+                <Precinct name="Madray Springs" votes="14" />
+                <Precinct name="Oglethorpe" votes="15" />
+                <Precinct name="Screven" votes="13" />
+                <Precinct name="Empire" votes="7" />
+                <Precinct name="Red Hill" votes="1" />
+                <Precinct name="Altamaha" votes="19" />
+                <Precinct name="Gardi" votes="11" />
+                <Precinct name="VFW" votes="17" />
+                <Precinct name="Pine Street" votes="12" />
+                <Precinct name="Unity" votes="19" />
+                <Precinct name="Rec Center" votes="17" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1577">
+                <Precinct name="Odum" votes="81" />
+                <Precinct name="Madray Springs" votes="98" />
+                <Precinct name="Oglethorpe" votes="182" />
+                <Precinct name="Screven" votes="134" />
+                <Precinct name="Empire" votes="69" />
+                <Precinct name="Red Hill" votes="91" />
+                <Precinct name="Altamaha" votes="252" />
+                <Precinct name="Gardi" votes="66" />
+                <Precinct name="VFW" votes="140" />
+                <Precinct name="Pine Street" votes="121" />
+                <Precinct name="Unity" votes="187" />
+                <Precinct name="Rec Center" votes="156" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="921">
+                <Precinct name="Odum" votes="93" />
+                <Precinct name="Madray Springs" votes="73" />
+                <Precinct name="Oglethorpe" votes="79" />
+                <Precinct name="Screven" votes="135" />
+                <Precinct name="Empire" votes="68" />
+                <Precinct name="Red Hill" votes="47" />
+                <Precinct name="Altamaha" votes="81" />
+                <Precinct name="Gardi" votes="67" />
+                <Precinct name="VFW" votes="35" />
+                <Precinct name="Pine Street" votes="66" />
+                <Precinct name="Unity" votes="68" />
+                <Precinct name="Rec Center" votes="109" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Odum" votes="0" />
+                <Precinct name="Madray Springs" votes="0" />
+                <Precinct name="Oglethorpe" votes="0" />
+                <Precinct name="Screven" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Red Hill" votes="0" />
+                <Precinct name="Altamaha" votes="0" />
+                <Precinct name="Gardi" votes="0" />
+                <Precinct name="VFW" votes="1" />
+                <Precinct name="Pine Street" votes="0" />
+                <Precinct name="Unity" votes="0" />
+                <Precinct name="Rec Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 6:49:07 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Decatur</Region>
+    <VoterTurnout totalVoters="15770" ballotsCast="7977" voterTurnout="50.58">
+        <Precincts>
+            <Precinct name="Mt. Pleasant" totalVoters="567" ballotsCast="337" voterTurnout="59.44" percentReporting="4" />
+            <Precinct name="Recovery" totalVoters="673" ballotsCast="403" voterTurnout="59.88" percentReporting="4" />
+            <Precinct name="Kendrick" totalVoters="549" ballotsCast="311" voterTurnout="56.65" percentReporting="4" />
+            <Precinct name="Climax" totalVoters="966" ballotsCast="545" voterTurnout="56.42" percentReporting="4" />
+            <Precinct name="Brinson" totalVoters="829" ballotsCast="450" voterTurnout="54.28" percentReporting="4" />
+            <Precinct name="West Bainbridge" totalVoters="2109" ballotsCast="929" voterTurnout="44.05" percentReporting="4" />
+            <Precinct name="Bainbridge-Coliseum" totalVoters="2065" ballotsCast="857" voterTurnout="41.50" percentReporting="4" />
+            <Precinct name="Bainbridge-Fairgrounds" totalVoters="3090" ballotsCast="1420" voterTurnout="45.95" percentReporting="4" />
+            <Precinct name="Attapulgus" totalVoters="1671" ballotsCast="871" voterTurnout="52.12" percentReporting="4" />
+            <Precinct name="Kirbo Center" totalVoters="3251" ballotsCast="1854" voterTurnout="57.03" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="10" precinctsReported="10">
+        <VoteType name="Undervotes" votes="9">
+            <Precinct name="Mt. Pleasant" votes="1" />
+            <Precinct name="Recovery" votes="0" />
+            <Precinct name="Kendrick" votes="1" />
+            <Precinct name="Climax" votes="0" />
+            <Precinct name="Brinson" votes="2" />
+            <Precinct name="West Bainbridge" votes="0" />
+            <Precinct name="Bainbridge-Coliseum" votes="1" />
+            <Precinct name="Bainbridge-Fairgrounds" votes="2" />
+            <Precinct name="Attapulgus" votes="1" />
+            <Precinct name="Kirbo Center" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Mt. Pleasant" votes="0" />
+            <Precinct name="Recovery" votes="0" />
+            <Precinct name="Kendrick" votes="0" />
+            <Precinct name="Climax" votes="0" />
+            <Precinct name="Brinson" votes="0" />
+            <Precinct name="West Bainbridge" votes="0" />
+            <Precinct name="Bainbridge-Coliseum" votes="0" />
+            <Precinct name="Bainbridge-Fairgrounds" votes="0" />
+            <Precinct name="Attapulgus" votes="0" />
+            <Precinct name="Kirbo Center" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="4880">
+            <VoteType name="Absentee by Mail Votes" votes="194">
+                <Precinct name="Mt. Pleasant" votes="9" />
+                <Precinct name="Recovery" votes="15" />
+                <Precinct name="Kendrick" votes="6" />
+                <Precinct name="Climax" votes="10" />
+                <Precinct name="Brinson" votes="16" />
+                <Precinct name="West Bainbridge" votes="24" />
+                <Precinct name="Bainbridge-Coliseum" votes="31" />
+                <Precinct name="Bainbridge-Fairgrounds" votes="16" />
+                <Precinct name="Attapulgus" votes="14" />
+                <Precinct name="Kirbo Center" votes="53" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2217">
+                <Precinct name="Mt. Pleasant" votes="101" />
+                <Precinct name="Recovery" votes="85" />
+                <Precinct name="Kendrick" votes="78" />
+                <Precinct name="Climax" votes="138" />
+                <Precinct name="Brinson" votes="108" />
+                <Precinct name="West Bainbridge" votes="268" />
+                <Precinct name="Bainbridge-Coliseum" votes="224" />
+                <Precinct name="Bainbridge-Fairgrounds" votes="323" />
+                <Precinct name="Attapulgus" votes="134" />
+                <Precinct name="Kirbo Center" votes="758" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2461">
+                <Precinct name="Mt. Pleasant" votes="187" />
+                <Precinct name="Recovery" votes="219" />
+                <Precinct name="Kendrick" votes="161" />
+                <Precinct name="Climax" votes="265" />
+                <Precinct name="Brinson" votes="242" />
+                <Precinct name="West Bainbridge" votes="228" />
+                <Precinct name="Bainbridge-Coliseum" votes="173" />
+                <Precinct name="Bainbridge-Fairgrounds" votes="352" />
+                <Precinct name="Attapulgus" votes="179" />
+                <Precinct name="Kirbo Center" votes="455" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="8">
+                <Precinct name="Mt. Pleasant" votes="0" />
+                <Precinct name="Recovery" votes="3" />
+                <Precinct name="Kendrick" votes="0" />
+                <Precinct name="Climax" votes="0" />
+                <Precinct name="Brinson" votes="0" />
+                <Precinct name="West Bainbridge" votes="0" />
+                <Precinct name="Bainbridge-Coliseum" votes="0" />
+                <Precinct name="Bainbridge-Fairgrounds" votes="2" />
+                <Precinct name="Attapulgus" votes="2" />
+                <Precinct name="Kirbo Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="3088">
+            <VoteType name="Absentee by Mail Votes" votes="264">
+                <Precinct name="Mt. Pleasant" votes="5" />
+                <Precinct name="Recovery" votes="12" />
+                <Precinct name="Kendrick" votes="6" />
+                <Precinct name="Climax" votes="13" />
+                <Precinct name="Brinson" votes="3" />
+                <Precinct name="West Bainbridge" votes="30" />
+                <Precinct name="Bainbridge-Coliseum" votes="32" />
+                <Precinct name="Bainbridge-Fairgrounds" votes="69" />
+                <Precinct name="Attapulgus" votes="50" />
+                <Precinct name="Kirbo Center" votes="44" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1709">
+                <Precinct name="Mt. Pleasant" votes="18" />
+                <Precinct name="Recovery" votes="40" />
+                <Precinct name="Kendrick" votes="25" />
+                <Precinct name="Climax" votes="67" />
+                <Precinct name="Brinson" votes="40" />
+                <Precinct name="West Bainbridge" votes="263" />
+                <Precinct name="Bainbridge-Coliseum" votes="233" />
+                <Precinct name="Bainbridge-Fairgrounds" votes="395" />
+                <Precinct name="Attapulgus" votes="246" />
+                <Precinct name="Kirbo Center" votes="382" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1106">
+                <Precinct name="Mt. Pleasant" votes="16" />
+                <Precinct name="Recovery" votes="28" />
+                <Precinct name="Kendrick" votes="34" />
+                <Precinct name="Climax" votes="52" />
+                <Precinct name="Brinson" votes="38" />
+                <Precinct name="West Bainbridge" votes="115" />
+                <Precinct name="Bainbridge-Coliseum" votes="161" />
+                <Precinct name="Bainbridge-Fairgrounds" votes="259" />
+                <Precinct name="Attapulgus" votes="245" />
+                <Precinct name="Kirbo Center" votes="158" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="9">
+                <Precinct name="Mt. Pleasant" votes="0" />
+                <Precinct name="Recovery" votes="1" />
+                <Precinct name="Kendrick" votes="0" />
+                <Precinct name="Climax" votes="0" />
+                <Precinct name="Brinson" votes="1" />
+                <Precinct name="West Bainbridge" votes="1" />
+                <Precinct name="Bainbridge-Coliseum" votes="2" />
+                <Precinct name="Bainbridge-Fairgrounds" votes="2" />
+                <Precinct name="Attapulgus" votes="0" />
+                <Precinct name="Kirbo Center" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

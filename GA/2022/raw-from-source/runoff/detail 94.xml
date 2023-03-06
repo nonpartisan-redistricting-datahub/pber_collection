@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 1:50:28 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Crawford</Region>
+    <VoterTurnout totalVoters="8276" ballotsCast="4430" voterTurnout="53.53">
+        <Precincts>
+            <Precinct name="District 1" totalVoters="1643" ballotsCast="879" voterTurnout="53.50" percentReporting="4" />
+            <Precinct name="District 2" totalVoters="1658" ballotsCast="953" voterTurnout="57.48" percentReporting="4" />
+            <Precinct name="District 3" totalVoters="1560" ballotsCast="773" voterTurnout="49.55" percentReporting="4" />
+            <Precinct name="District 4" totalVoters="1812" ballotsCast="999" voterTurnout="55.13" percentReporting="4" />
+            <Precinct name="District 5" totalVoters="1600" ballotsCast="826" voterTurnout="51.63" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="3" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="District 1" votes="3" />
+            <Precinct name="District 2" votes="1" />
+            <Precinct name="District 3" votes="1" />
+            <Precinct name="District 4" votes="1" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="District 1" votes="0" />
+            <Precinct name="District 2" votes="0" />
+            <Precinct name="District 3" votes="0" />
+            <Precinct name="District 4" votes="0" />
+            <Precinct name="District 5" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Herschel Junior Walker (Rep)" totalVotes="3196">
+            <VoteType name="Absentee by Mail Votes" votes="90">
+                <Precinct name="District 1" votes="11" />
+                <Precinct name="District 2" votes="19" />
+                <Precinct name="District 3" votes="19" />
+                <Precinct name="District 4" votes="25" />
+                <Precinct name="District 5" votes="16" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1421">
+                <Precinct name="District 1" votes="223" />
+                <Precinct name="District 2" votes="305" />
+                <Precinct name="District 3" votes="322" />
+                <Precinct name="District 4" votes="339" />
+                <Precinct name="District 5" votes="232" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1683">
+                <Precinct name="District 1" votes="139" />
+                <Precinct name="District 2" votes="297" />
+                <Precinct name="District 3" votes="327" />
+                <Precinct name="District 4" votes="478" />
+                <Precinct name="District 5" votes="442" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="District 1" votes="0" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="2" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Raphael Warnock (I) (Dem)" totalVotes="1228">
+            <VoteType name="Absentee by Mail Votes" votes="82">
+                <Precinct name="District 1" votes="35" />
+                <Precinct name="District 2" votes="23" />
+                <Precinct name="District 3" votes="8" />
+                <Precinct name="District 4" votes="9" />
+                <Precinct name="District 5" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="785">
+                <Precinct name="District 1" votes="345" />
+                <Precinct name="District 2" votes="210" />
+                <Precinct name="District 3" votes="62" />
+                <Precinct name="District 4" votes="95" />
+                <Precinct name="District 5" votes="73" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="361">
+                <Precinct name="District 1" votes="123" />
+                <Precinct name="District 2" votes="98" />
+                <Precinct name="District 3" votes="34" />
+                <Precinct name="District 4" votes="50" />
+                <Precinct name="District 5" votes="56" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="District 1" votes="0" />
+                <Precinct name="District 2" votes="0" />
+                <Precinct name="District 3" votes="0" />
+                <Precinct name="District 4" votes="0" />
+                <Precinct name="District 5" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

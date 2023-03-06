@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 1:17:18 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Oglethorpe</Region>
+    <VoterTurnout totalVoters="10747" ballotsCast="6262" voterTurnout="58.27">
+        <Precincts>
+            <Precinct name="Beaverdam" totalVoters="3565" ballotsCast="2047" voterTurnout="57.42" percentReporting="4" />
+            <Precinct name="Crawford" totalVoters="2960" ballotsCast="1675" voterTurnout="56.59" percentReporting="4" />
+            <Precinct name="Lexington" totalVoters="4222" ballotsCast="2540" voterTurnout="60.16" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Beaverdam" votes="1" />
+            <Precinct name="Crawford" votes="1" />
+            <Precinct name="Lexington" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Beaverdam" votes="0" />
+            <Precinct name="Crawford" votes="0" />
+            <Precinct name="Lexington" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="4340">
+            <VoteType name="Absentee by Mail Votes" votes="245">
+                <Precinct name="Beaverdam" votes="69" />
+                <Precinct name="Crawford" votes="63" />
+                <Precinct name="Lexington" votes="113" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2209">
+                <Precinct name="Beaverdam" votes="595" />
+                <Precinct name="Crawford" votes="563" />
+                <Precinct name="Lexington" votes="1051" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1883">
+                <Precinct name="Beaverdam" votes="756" />
+                <Precinct name="Crawford" votes="506" />
+                <Precinct name="Lexington" votes="621" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1917">
+            <VoteType name="Absentee by Mail Votes" votes="175">
+                <Precinct name="Beaverdam" votes="44" />
+                <Precinct name="Crawford" votes="57" />
+                <Precinct name="Lexington" votes="74" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1068">
+                <Precinct name="Beaverdam" votes="304" />
+                <Precinct name="Crawford" votes="291" />
+                <Precinct name="Lexington" votes="473" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="674">
+                <Precinct name="Beaverdam" votes="278" />
+                <Precinct name="Crawford" votes="194" />
+                <Precinct name="Lexington" votes="202" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Beaverdam" votes="0" />
+                <Precinct name="Crawford" votes="0" />
+                <Precinct name="Lexington" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

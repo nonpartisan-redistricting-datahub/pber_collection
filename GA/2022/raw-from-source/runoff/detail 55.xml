@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 4:33:20 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Wilkinson</Region>
+    <VoterTurnout totalVoters="6489" ballotsCast="3788" voterTurnout="58.38">
+        <Precincts>
+            <Precinct name="Bloodworth" totalVoters="0" ballotsCast="280" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Griffin" totalVoters="0" ballotsCast="130" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="High Hill" totalVoters="0" ballotsCast="123" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Irwinton" totalVoters="0" ballotsCast="526" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Ivey" totalVoters="0" ballotsCast="462" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Lord" totalVoters="0" ballotsCast="446" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Midway" totalVoters="0" ballotsCast="531" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Ramah" totalVoters="0" ballotsCast="996" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Turkey Creek" totalVoters="0" ballotsCast="294" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="9" precinctsReported="9">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Bloodworth" votes="0" />
+            <Precinct name="Griffin" votes="0" />
+            <Precinct name="High Hill" votes="1" />
+            <Precinct name="Irwinton" votes="1" />
+            <Precinct name="Ivey" votes="0" />
+            <Precinct name="Lord" votes="1" />
+            <Precinct name="Midway" votes="0" />
+            <Precinct name="Ramah" votes="2" />
+            <Precinct name="Turkey Creek" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Bloodworth" votes="0" />
+            <Precinct name="Griffin" votes="0" />
+            <Precinct name="High Hill" votes="0" />
+            <Precinct name="Irwinton" votes="0" />
+            <Precinct name="Ivey" votes="0" />
+            <Precinct name="Lord" votes="0" />
+            <Precinct name="Midway" votes="0" />
+            <Precinct name="Ramah" votes="0" />
+            <Precinct name="Turkey Creek" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="2105">
+            <VoteType name="Absentee by Mail Votes" votes="39">
+                <Precinct name="Bloodworth" votes="6" />
+                <Precinct name="Griffin" votes="1" />
+                <Precinct name="High Hill" votes="1" />
+                <Precinct name="Irwinton" votes="1" />
+                <Precinct name="Ivey" votes="3" />
+                <Precinct name="Lord" votes="7" />
+                <Precinct name="Midway" votes="1" />
+                <Precinct name="Ramah" votes="17" />
+                <Precinct name="Turkey Creek" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="490">
+                <Precinct name="Bloodworth" votes="39" />
+                <Precinct name="Griffin" votes="15" />
+                <Precinct name="High Hill" votes="14" />
+                <Precinct name="Irwinton" votes="106" />
+                <Precinct name="Ivey" votes="74" />
+                <Precinct name="Lord" votes="70" />
+                <Precinct name="Midway" votes="39" />
+                <Precinct name="Ramah" votes="105" />
+                <Precinct name="Turkey Creek" votes="28" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1576">
+                <Precinct name="Bloodworth" votes="213" />
+                <Precinct name="Griffin" votes="87" />
+                <Precinct name="High Hill" votes="81" />
+                <Precinct name="Irwinton" votes="117" />
+                <Precinct name="Ivey" votes="317" />
+                <Precinct name="Lord" votes="171" />
+                <Precinct name="Midway" votes="55" />
+                <Precinct name="Ramah" votes="353" />
+                <Precinct name="Turkey Creek" votes="182" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="0" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="0" />
+                <Precinct name="Midway" votes="0" />
+                <Precinct name="Ramah" votes="0" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1678">
+            <VoteType name="Absentee by Mail Votes" votes="154">
+                <Precinct name="Bloodworth" votes="1" />
+                <Precinct name="Griffin" votes="2" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="36" />
+                <Precinct name="Ivey" votes="4" />
+                <Precinct name="Lord" votes="22" />
+                <Precinct name="Midway" votes="44" />
+                <Precinct name="Ramah" votes="39" />
+                <Precinct name="Turkey Creek" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="706">
+                <Precinct name="Bloodworth" votes="12" />
+                <Precinct name="Griffin" votes="6" />
+                <Precinct name="High Hill" votes="13" />
+                <Precinct name="Irwinton" votes="153" />
+                <Precinct name="Ivey" votes="19" />
+                <Precinct name="Lord" votes="71" />
+                <Precinct name="Midway" votes="216" />
+                <Precinct name="Ramah" votes="198" />
+                <Precinct name="Turkey Creek" votes="18" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="818">
+                <Precinct name="Bloodworth" votes="9" />
+                <Precinct name="Griffin" votes="19" />
+                <Precinct name="High Hill" votes="13" />
+                <Precinct name="Irwinton" votes="112" />
+                <Precinct name="Ivey" votes="45" />
+                <Precinct name="Lord" votes="104" />
+                <Precinct name="Midway" votes="176" />
+                <Precinct name="Ramah" votes="282" />
+                <Precinct name="Turkey Creek" votes="58" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Bloodworth" votes="0" />
+                <Precinct name="Griffin" votes="0" />
+                <Precinct name="High Hill" votes="0" />
+                <Precinct name="Irwinton" votes="0" />
+                <Precinct name="Ivey" votes="0" />
+                <Precinct name="Lord" votes="0" />
+                <Precinct name="Midway" votes="0" />
+                <Precinct name="Ramah" votes="0" />
+                <Precinct name="Turkey Creek" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

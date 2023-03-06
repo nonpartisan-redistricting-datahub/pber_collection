@@ -1,0 +1,1644 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/15/2022 10:44:03 AM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Twiggs</Region>
+    <VoterTurnout totalVoters="5962" ballotsCast="3557" voterTurnout="59.66">
+        <Precincts>
+            <Precinct name="Dry Branch" totalVoters="1430" ballotsCast="728" voterTurnout="50.91" percentReporting="4" />
+            <Precinct name="Golden Isles" totalVoters="1607" ballotsCast="964" voterTurnout="59.99" percentReporting="4" />
+            <Precinct name="Higgsville" totalVoters="722" ballotsCast="470" voterTurnout="65.10" percentReporting="4" />
+            <Precinct name="Jeffersonville-Ware" totalVoters="1371" ballotsCast="880" voterTurnout="64.19" percentReporting="4" />
+            <Precinct name="Shady Grove-Tarvers" totalVoters="821" ballotsCast="515" voterTurnout="62.73" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="20">
+            <Precinct name="Dry Branch" votes="5" />
+            <Precinct name="Golden Isles" votes="3" />
+            <Precinct name="Higgsville" votes="4" />
+            <Precinct name="Jeffersonville-Ware" votes="4" />
+            <Precinct name="Shady Grove-Tarvers" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="1886">
+            <VoteType name="Absentee by Mail Votes" votes="51">
+                <Precinct name="Dry Branch" votes="13" />
+                <Precinct name="Golden Isles" votes="10" />
+                <Precinct name="Higgsville" votes="11" />
+                <Precinct name="Jeffersonville-Ware" votes="10" />
+                <Precinct name="Shady Grove-Tarvers" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="766">
+                <Precinct name="Dry Branch" votes="179" />
+                <Precinct name="Golden Isles" votes="152" />
+                <Precinct name="Higgsville" votes="133" />
+                <Precinct name="Jeffersonville-Ware" votes="175" />
+                <Precinct name="Shady Grove-Tarvers" votes="127" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1069">
+                <Precinct name="Dry Branch" votes="371" />
+                <Precinct name="Golden Isles" votes="216" />
+                <Precinct name="Higgsville" votes="199" />
+                <Precinct name="Jeffersonville-Ware" votes="147" />
+                <Precinct name="Shady Grove-Tarvers" votes="136" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1601">
+            <VoteType name="Absentee by Mail Votes" votes="277">
+                <Precinct name="Dry Branch" votes="13" />
+                <Precinct name="Golden Isles" votes="106" />
+                <Precinct name="Higgsville" votes="6" />
+                <Precinct name="Jeffersonville-Ware" votes="99" />
+                <Precinct name="Shady Grove-Tarvers" votes="53" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="694">
+                <Precinct name="Dry Branch" votes="62" />
+                <Precinct name="Golden Isles" votes="209" />
+                <Precinct name="Higgsville" votes="59" />
+                <Precinct name="Jeffersonville-Ware" votes="263" />
+                <Precinct name="Shady Grove-Tarvers" votes="101" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="625">
+                <Precinct name="Dry Branch" votes="65" />
+                <Precinct name="Golden Isles" votes="254" />
+                <Precinct name="Higgsville" votes="54" />
+                <Precinct name="Jeffersonville-Ware" votes="172" />
+                <Precinct name="Shady Grove-Tarvers" votes="80" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="5" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Chase Oliver (Lib)" totalVotes="45">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="1" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="3" />
+                <Precinct name="Shady Grove-Tarvers" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="11">
+                <Precinct name="Dry Branch" votes="5" />
+                <Precinct name="Golden Isles" votes="1" />
+                <Precinct name="Higgsville" votes="3" />
+                <Precinct name="Jeffersonville-Ware" votes="1" />
+                <Precinct name="Shady Grove-Tarvers" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="28">
+                <Precinct name="Dry Branch" votes="14" />
+                <Precinct name="Golden Isles" votes="7" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="3" />
+                <Precinct name="Shady Grove-Tarvers" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Dry Branch" votes="2" />
+            <Precinct name="Golden Isles" votes="4" />
+            <Precinct name="Higgsville" votes="1" />
+            <Precinct name="Jeffersonville-Ware" votes="3" />
+            <Precinct name="Shady Grove-Tarvers" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="4" text="Brian Kemp (I) (Rep)" totalVotes="1980">
+            <VoteType name="Absentee by Mail Votes" votes="58">
+                <Precinct name="Dry Branch" votes="16" />
+                <Precinct name="Golden Isles" votes="13" />
+                <Precinct name="Higgsville" votes="12" />
+                <Precinct name="Jeffersonville-Ware" votes="10" />
+                <Precinct name="Shady Grove-Tarvers" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="796">
+                <Precinct name="Dry Branch" votes="187" />
+                <Precinct name="Golden Isles" votes="155" />
+                <Precinct name="Higgsville" votes="140" />
+                <Precinct name="Jeffersonville-Ware" votes="179" />
+                <Precinct name="Shady Grove-Tarvers" votes="135" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1126">
+                <Precinct name="Dry Branch" votes="391" />
+                <Precinct name="Golden Isles" votes="234" />
+                <Precinct name="Higgsville" votes="208" />
+                <Precinct name="Jeffersonville-Ware" votes="154" />
+                <Precinct name="Shady Grove-Tarvers" votes="139" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Stacey Abrams (Dem)" totalVotes="1542">
+            <VoteType name="Absentee by Mail Votes" votes="276">
+                <Precinct name="Dry Branch" votes="10" />
+                <Precinct name="Golden Isles" votes="103" />
+                <Precinct name="Higgsville" votes="5" />
+                <Precinct name="Jeffersonville-Ware" votes="103" />
+                <Precinct name="Shady Grove-Tarvers" votes="55" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="671">
+                <Precinct name="Dry Branch" votes="57" />
+                <Precinct name="Golden Isles" votes="208" />
+                <Precinct name="Higgsville" votes="55" />
+                <Precinct name="Jeffersonville-Ware" votes="256" />
+                <Precinct name="Shady Grove-Tarvers" votes="95" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="590">
+                <Precinct name="Dry Branch" votes="58" />
+                <Precinct name="Golden Isles" votes="237" />
+                <Precinct name="Higgsville" votes="47" />
+                <Precinct name="Jeffersonville-Ware" votes="169" />
+                <Precinct name="Shady Grove-Tarvers" votes="79" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="5" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Shane Hazel (Lib)" totalVotes="18">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="1" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6">
+                <Precinct name="Dry Branch" votes="2" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="1" />
+                <Precinct name="Jeffersonville-Ware" votes="2" />
+                <Precinct name="Shady Grove-Tarvers" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="11">
+                <Precinct name="Dry Branch" votes="5" />
+                <Precinct name="Golden Isles" votes="4" />
+                <Precinct name="Higgsville" votes="1" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="86">
+            <Precinct name="Dry Branch" votes="11" />
+            <Precinct name="Golden Isles" votes="22" />
+            <Precinct name="Higgsville" votes="13" />
+            <Precinct name="Jeffersonville-Ware" votes="21" />
+            <Precinct name="Shady Grove-Tarvers" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Burt Jones (Rep)" totalVotes="1923">
+            <VoteType name="Absentee by Mail Votes" votes="58">
+                <Precinct name="Dry Branch" votes="16" />
+                <Precinct name="Golden Isles" votes="13" />
+                <Precinct name="Higgsville" votes="11" />
+                <Precinct name="Jeffersonville-Ware" votes="10" />
+                <Precinct name="Shady Grove-Tarvers" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="777">
+                <Precinct name="Dry Branch" votes="185" />
+                <Precinct name="Golden Isles" votes="155" />
+                <Precinct name="Higgsville" votes="138" />
+                <Precinct name="Jeffersonville-Ware" votes="172" />
+                <Precinct name="Shady Grove-Tarvers" votes="127" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1088">
+                <Precinct name="Dry Branch" votes="381" />
+                <Precinct name="Golden Isles" votes="225" />
+                <Precinct name="Higgsville" votes="200" />
+                <Precinct name="Jeffersonville-Ware" votes="148" />
+                <Precinct name="Shady Grove-Tarvers" votes="134" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Charlie Bailey (Dem)" totalVotes="1493">
+            <VoteType name="Absentee by Mail Votes" votes="274">
+                <Precinct name="Dry Branch" votes="10" />
+                <Precinct name="Golden Isles" votes="103" />
+                <Precinct name="Higgsville" votes="6" />
+                <Precinct name="Jeffersonville-Ware" votes="102" />
+                <Precinct name="Shady Grove-Tarvers" votes="53" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="653">
+                <Precinct name="Dry Branch" votes="58" />
+                <Precinct name="Golden Isles" votes="196" />
+                <Precinct name="Higgsville" votes="54" />
+                <Precinct name="Jeffersonville-Ware" votes="252" />
+                <Precinct name="Shady Grove-Tarvers" votes="93" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="561">
+                <Precinct name="Dry Branch" votes="54" />
+                <Precinct name="Golden Isles" votes="232" />
+                <Precinct name="Higgsville" votes="40" />
+                <Precinct name="Jeffersonville-Ware" votes="165" />
+                <Precinct name="Shady Grove-Tarvers" votes="70" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="5" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="9" text="Ryan Graham (Lib)" totalVotes="49">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="18">
+                <Precinct name="Dry Branch" votes="2" />
+                <Precinct name="Golden Isles" votes="4" />
+                <Precinct name="Higgsville" votes="3" />
+                <Precinct name="Jeffersonville-Ware" votes="4" />
+                <Precinct name="Shady Grove-Tarvers" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="31">
+                <Precinct name="Dry Branch" votes="10" />
+                <Precinct name="Golden Isles" votes="9" />
+                <Precinct name="Higgsville" votes="4" />
+                <Precinct name="Jeffersonville-Ware" votes="3" />
+                <Precinct name="Shady Grove-Tarvers" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="97">
+            <Precinct name="Dry Branch" votes="15" />
+            <Precinct name="Golden Isles" votes="25" />
+            <Precinct name="Higgsville" votes="14" />
+            <Precinct name="Jeffersonville-Ware" votes="20" />
+            <Precinct name="Shady Grove-Tarvers" votes="23" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="10" text="Brad Raffensperger (I) (Rep)" totalVotes="1872">
+            <VoteType name="Absentee by Mail Votes" votes="58">
+                <Precinct name="Dry Branch" votes="14" />
+                <Precinct name="Golden Isles" votes="13" />
+                <Precinct name="Higgsville" votes="10" />
+                <Precinct name="Jeffersonville-Ware" votes="13" />
+                <Precinct name="Shady Grove-Tarvers" votes="8" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="762">
+                <Precinct name="Dry Branch" votes="178" />
+                <Precinct name="Golden Isles" votes="150" />
+                <Precinct name="Higgsville" votes="136" />
+                <Precinct name="Jeffersonville-Ware" votes="177" />
+                <Precinct name="Shady Grove-Tarvers" votes="121" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1052">
+                <Precinct name="Dry Branch" votes="365" />
+                <Precinct name="Golden Isles" votes="228" />
+                <Precinct name="Higgsville" votes="193" />
+                <Precinct name="Jeffersonville-Ware" votes="143" />
+                <Precinct name="Shady Grove-Tarvers" votes="123" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="Bee Nguyen (Dem)" totalVotes="1483">
+            <VoteType name="Absentee by Mail Votes" votes="267">
+                <Precinct name="Dry Branch" votes="10" />
+                <Precinct name="Golden Isles" votes="102" />
+                <Precinct name="Higgsville" votes="5" />
+                <Precinct name="Jeffersonville-Ware" votes="97" />
+                <Precinct name="Shady Grove-Tarvers" votes="53" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="650">
+                <Precinct name="Dry Branch" votes="58" />
+                <Precinct name="Golden Isles" votes="199" />
+                <Precinct name="Higgsville" votes="55" />
+                <Precinct name="Jeffersonville-Ware" votes="245" />
+                <Precinct name="Shady Grove-Tarvers" votes="93" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="561">
+                <Precinct name="Dry Branch" votes="52" />
+                <Precinct name="Golden Isles" votes="224" />
+                <Precinct name="Higgsville" votes="44" />
+                <Precinct name="Jeffersonville-Ware" votes="167" />
+                <Precinct name="Shady Grove-Tarvers" votes="74" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="5" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Ted Metz (Lib)" totalVotes="102">
+            <VoteType name="Absentee by Mail Votes" votes="7">
+                <Precinct name="Dry Branch" votes="2" />
+                <Precinct name="Golden Isles" votes="1" />
+                <Precinct name="Higgsville" votes="2" />
+                <Precinct name="Jeffersonville-Ware" votes="1" />
+                <Precinct name="Shady Grove-Tarvers" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="30">
+                <Precinct name="Dry Branch" votes="8" />
+                <Precinct name="Golden Isles" votes="3" />
+                <Precinct name="Higgsville" votes="3" />
+                <Precinct name="Jeffersonville-Ware" votes="7" />
+                <Precinct name="Shady Grove-Tarvers" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="65">
+                <Precinct name="Dry Branch" votes="25" />
+                <Precinct name="Golden Isles" votes="13" />
+                <Precinct name="Higgsville" votes="8" />
+                <Precinct name="Jeffersonville-Ware" votes="9" />
+                <Precinct name="Shady Grove-Tarvers" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="75">
+            <Precinct name="Dry Branch" votes="9" />
+            <Precinct name="Golden Isles" votes="14" />
+            <Precinct name="Higgsville" votes="15" />
+            <Precinct name="Jeffersonville-Ware" votes="21" />
+            <Precinct name="Shady Grove-Tarvers" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="13" text="Chris Carr (I) (Rep)" totalVotes="1898">
+            <VoteType name="Absentee by Mail Votes" votes="55">
+                <Precinct name="Dry Branch" votes="14" />
+                <Precinct name="Golden Isles" votes="11" />
+                <Precinct name="Higgsville" votes="11" />
+                <Precinct name="Jeffersonville-Ware" votes="10" />
+                <Precinct name="Shady Grove-Tarvers" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="774">
+                <Precinct name="Dry Branch" votes="184" />
+                <Precinct name="Golden Isles" votes="151" />
+                <Precinct name="Higgsville" votes="139" />
+                <Precinct name="Jeffersonville-Ware" votes="176" />
+                <Precinct name="Shady Grove-Tarvers" votes="124" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1069">
+                <Precinct name="Dry Branch" votes="377" />
+                <Precinct name="Golden Isles" votes="227" />
+                <Precinct name="Higgsville" votes="193" />
+                <Precinct name="Jeffersonville-Ware" votes="141" />
+                <Precinct name="Shady Grove-Tarvers" votes="131" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="14" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="1541">
+            <VoteType name="Absentee by Mail Votes" votes="276">
+                <Precinct name="Dry Branch" votes="11" />
+                <Precinct name="Golden Isles" votes="105" />
+                <Precinct name="Higgsville" votes="6" />
+                <Precinct name="Jeffersonville-Ware" votes="101" />
+                <Precinct name="Shady Grove-Tarvers" votes="53" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="660">
+                <Precinct name="Dry Branch" votes="59" />
+                <Precinct name="Golden Isles" votes="204" />
+                <Precinct name="Higgsville" votes="56" />
+                <Precinct name="Jeffersonville-Ware" votes="247" />
+                <Precinct name="Shady Grove-Tarvers" votes="94" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="600">
+                <Precinct name="Dry Branch" votes="66" />
+                <Precinct name="Golden Isles" votes="238" />
+                <Precinct name="Higgsville" votes="46" />
+                <Precinct name="Jeffersonville-Ware" votes="172" />
+                <Precinct name="Shady Grove-Tarvers" votes="78" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="5" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="15" text="Martin Cowen (Lib)" totalVotes="42">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="19">
+                <Precinct name="Dry Branch" votes="4" />
+                <Precinct name="Golden Isles" votes="3" />
+                <Precinct name="Higgsville" votes="1" />
+                <Precinct name="Jeffersonville-Ware" votes="4" />
+                <Precinct name="Shady Grove-Tarvers" votes="7" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="23">
+                <Precinct name="Dry Branch" votes="4" />
+                <Precinct name="Golden Isles" votes="6" />
+                <Precinct name="Higgsville" votes="3" />
+                <Precinct name="Jeffersonville-Ware" votes="7" />
+                <Precinct name="Shady Grove-Tarvers" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Commissioner of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="78">
+            <Precinct name="Dry Branch" votes="9" />
+            <Precinct name="Golden Isles" votes="18" />
+            <Precinct name="Higgsville" votes="14" />
+            <Precinct name="Jeffersonville-Ware" votes="21" />
+            <Precinct name="Shady Grove-Tarvers" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="16" text="Tyler Harper (Rep)" totalVotes="1936">
+            <VoteType name="Absentee by Mail Votes" votes="55">
+                <Precinct name="Dry Branch" votes="16" />
+                <Precinct name="Golden Isles" votes="11" />
+                <Precinct name="Higgsville" votes="11" />
+                <Precinct name="Jeffersonville-Ware" votes="10" />
+                <Precinct name="Shady Grove-Tarvers" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="786">
+                <Precinct name="Dry Branch" votes="189" />
+                <Precinct name="Golden Isles" votes="153" />
+                <Precinct name="Higgsville" votes="138" />
+                <Precinct name="Jeffersonville-Ware" votes="176" />
+                <Precinct name="Shady Grove-Tarvers" votes="130" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1095">
+                <Precinct name="Dry Branch" votes="385" />
+                <Precinct name="Golden Isles" votes="230" />
+                <Precinct name="Higgsville" votes="199" />
+                <Precinct name="Jeffersonville-Ware" votes="147" />
+                <Precinct name="Shady Grove-Tarvers" votes="134" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Nakita Hemingway (Dem)" totalVotes="1486">
+            <VoteType name="Absentee by Mail Votes" votes="278">
+                <Precinct name="Dry Branch" votes="10" />
+                <Precinct name="Golden Isles" votes="106" />
+                <Precinct name="Higgsville" votes="6" />
+                <Precinct name="Jeffersonville-Ware" votes="101" />
+                <Precinct name="Shady Grove-Tarvers" votes="55" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="644">
+                <Precinct name="Dry Branch" votes="55" />
+                <Precinct name="Golden Isles" votes="202" />
+                <Precinct name="Higgsville" votes="53" />
+                <Precinct name="Jeffersonville-Ware" votes="246" />
+                <Precinct name="Shady Grove-Tarvers" votes="88" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="559">
+                <Precinct name="Dry Branch" votes="55" />
+                <Precinct name="Golden Isles" votes="229" />
+                <Precinct name="Higgsville" votes="41" />
+                <Precinct name="Jeffersonville-Ware" votes="164" />
+                <Precinct name="Shady Grove-Tarvers" votes="70" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="5" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="David Raudabaugh (Lib)" totalVotes="56">
+            <VoteType name="Absentee by Mail Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="21">
+                <Precinct name="Dry Branch" votes="2" />
+                <Precinct name="Golden Isles" votes="1" />
+                <Precinct name="Higgsville" votes="4" />
+                <Precinct name="Jeffersonville-Ware" votes="6" />
+                <Precinct name="Shady Grove-Tarvers" votes="8" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="35">
+                <Precinct name="Dry Branch" votes="7" />
+                <Precinct name="Golden Isles" votes="9" />
+                <Precinct name="Higgsville" votes="4" />
+                <Precinct name="Jeffersonville-Ware" votes="8" />
+                <Precinct name="Shady Grove-Tarvers" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Commissioner of Insurance" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="83">
+            <Precinct name="Dry Branch" votes="11" />
+            <Precinct name="Golden Isles" votes="14" />
+            <Precinct name="Higgsville" votes="18" />
+            <Precinct name="Jeffersonville-Ware" votes="19" />
+            <Precinct name="Shady Grove-Tarvers" votes="21" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="19" text="John King (I) (Rep)" totalVotes="1945">
+            <VoteType name="Absentee by Mail Votes" votes="54">
+                <Precinct name="Dry Branch" votes="16" />
+                <Precinct name="Golden Isles" votes="8" />
+                <Precinct name="Higgsville" votes="11" />
+                <Precinct name="Jeffersonville-Ware" votes="10" />
+                <Precinct name="Shady Grove-Tarvers" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="784">
+                <Precinct name="Dry Branch" votes="187" />
+                <Precinct name="Golden Isles" votes="151" />
+                <Precinct name="Higgsville" votes="140" />
+                <Precinct name="Jeffersonville-Ware" votes="177" />
+                <Precinct name="Shady Grove-Tarvers" votes="129" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1107">
+                <Precinct name="Dry Branch" votes="383" />
+                <Precinct name="Golden Isles" votes="237" />
+                <Precinct name="Higgsville" votes="199" />
+                <Precinct name="Jeffersonville-Ware" votes="151" />
+                <Precinct name="Shady Grove-Tarvers" votes="137" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Janice Laws Robinson (Dem)" totalVotes="1526">
+            <VoteType name="Absentee by Mail Votes" votes="280">
+                <Precinct name="Dry Branch" votes="10" />
+                <Precinct name="Golden Isles" votes="109" />
+                <Precinct name="Higgsville" votes="6" />
+                <Precinct name="Jeffersonville-Ware" votes="102" />
+                <Precinct name="Shady Grove-Tarvers" votes="53" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="657">
+                <Precinct name="Dry Branch" votes="57" />
+                <Precinct name="Golden Isles" votes="205" />
+                <Precinct name="Higgsville" votes="53" />
+                <Precinct name="Jeffersonville-Ware" votes="251" />
+                <Precinct name="Shady Grove-Tarvers" votes="91" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="584">
+                <Precinct name="Dry Branch" votes="64" />
+                <Precinct name="Golden Isles" votes="235" />
+                <Precinct name="Higgsville" votes="43" />
+                <Precinct name="Jeffersonville-Ware" votes="168" />
+                <Precinct name="Shady Grove-Tarvers" votes="74" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="5" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="87">
+            <Precinct name="Dry Branch" votes="14" />
+            <Precinct name="Golden Isles" votes="13" />
+            <Precinct name="Higgsville" votes="21" />
+            <Precinct name="Jeffersonville-Ware" votes="22" />
+            <Precinct name="Shady Grove-Tarvers" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="21" text="Richard Woods (I) (Rep)" totalVotes="1960">
+            <VoteType name="Absentee by Mail Votes" votes="62">
+                <Precinct name="Dry Branch" votes="15" />
+                <Precinct name="Golden Isles" votes="13" />
+                <Precinct name="Higgsville" votes="12" />
+                <Precinct name="Jeffersonville-Ware" votes="10" />
+                <Precinct name="Shady Grove-Tarvers" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="787">
+                <Precinct name="Dry Branch" votes="189" />
+                <Precinct name="Golden Isles" votes="155" />
+                <Precinct name="Higgsville" votes="141" />
+                <Precinct name="Jeffersonville-Ware" votes="174" />
+                <Precinct name="Shady Grove-Tarvers" votes="128" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1111">
+                <Precinct name="Dry Branch" votes="382" />
+                <Precinct name="Golden Isles" votes="240" />
+                <Precinct name="Higgsville" votes="198" />
+                <Precinct name="Jeffersonville-Ware" votes="152" />
+                <Precinct name="Shady Grove-Tarvers" votes="139" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Alisha Thomas Searcy (Dem)" totalVotes="1508">
+            <VoteType name="Absentee by Mail Votes" votes="271">
+                <Precinct name="Dry Branch" votes="11" />
+                <Precinct name="Golden Isles" votes="104" />
+                <Precinct name="Higgsville" votes="5" />
+                <Precinct name="Jeffersonville-Ware" votes="102" />
+                <Precinct name="Shady Grove-Tarvers" votes="49" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="657">
+                <Precinct name="Dry Branch" votes="57" />
+                <Precinct name="Golden Isles" votes="203" />
+                <Precinct name="Higgsville" votes="52" />
+                <Precinct name="Jeffersonville-Ware" votes="252" />
+                <Precinct name="Shady Grove-Tarvers" votes="93" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="575">
+                <Precinct name="Dry Branch" votes="60" />
+                <Precinct name="Golden Isles" votes="231" />
+                <Precinct name="Higgsville" votes="41" />
+                <Precinct name="Jeffersonville-Ware" votes="167" />
+                <Precinct name="Shady Grove-Tarvers" votes="76" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="5" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner of Labor" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="83">
+            <Precinct name="Dry Branch" votes="11" />
+            <Precinct name="Golden Isles" votes="16" />
+            <Precinct name="Higgsville" votes="18" />
+            <Precinct name="Jeffersonville-Ware" votes="20" />
+            <Precinct name="Shady Grove-Tarvers" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="23" text="Bruce Thompson (Rep)" totalVotes="1912">
+            <VoteType name="Absentee by Mail Votes" votes="52">
+                <Precinct name="Dry Branch" votes="15" />
+                <Precinct name="Golden Isles" votes="9" />
+                <Precinct name="Higgsville" votes="11" />
+                <Precinct name="Jeffersonville-Ware" votes="10" />
+                <Precinct name="Shady Grove-Tarvers" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="778">
+                <Precinct name="Dry Branch" votes="187" />
+                <Precinct name="Golden Isles" votes="152" />
+                <Precinct name="Higgsville" votes="139" />
+                <Precinct name="Jeffersonville-Ware" votes="174" />
+                <Precinct name="Shady Grove-Tarvers" votes="126" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1082">
+                <Precinct name="Dry Branch" votes="383" />
+                <Precinct name="Golden Isles" votes="225" />
+                <Precinct name="Higgsville" votes="194" />
+                <Precinct name="Jeffersonville-Ware" votes="144" />
+                <Precinct name="Shady Grove-Tarvers" votes="136" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="1507">
+            <VoteType name="Absentee by Mail Votes" votes="279">
+                <Precinct name="Dry Branch" votes="10" />
+                <Precinct name="Golden Isles" votes="107" />
+                <Precinct name="Higgsville" votes="6" />
+                <Precinct name="Jeffersonville-Ware" votes="102" />
+                <Precinct name="Shady Grove-Tarvers" votes="54" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="651">
+                <Precinct name="Dry Branch" votes="56" />
+                <Precinct name="Golden Isles" votes="203" />
+                <Precinct name="Higgsville" votes="55" />
+                <Precinct name="Jeffersonville-Ware" votes="248" />
+                <Precinct name="Shady Grove-Tarvers" votes="89" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="572">
+                <Precinct name="Dry Branch" votes="55" />
+                <Precinct name="Golden Isles" votes="229" />
+                <Precinct name="Higgsville" votes="43" />
+                <Precinct name="Jeffersonville-Ware" votes="170" />
+                <Precinct name="Shady Grove-Tarvers" votes="75" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="5" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Emily Anderson (Lib)" totalVotes="54">
+            <VoteType name="Absentee by Mail Votes" votes="1">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="1" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="20">
+                <Precinct name="Dry Branch" votes="3" />
+                <Precinct name="Golden Isles" votes="3" />
+                <Precinct name="Higgsville" votes="2" />
+                <Precinct name="Jeffersonville-Ware" votes="6" />
+                <Precinct name="Shady Grove-Tarvers" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="33">
+                <Precinct name="Dry Branch" votes="8" />
+                <Precinct name="Golden Isles" votes="14" />
+                <Precinct name="Higgsville" votes="2" />
+                <Precinct name="Jeffersonville-Ware" votes="5" />
+                <Precinct name="Shady Grove-Tarvers" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="US House of Representatives - District 8" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="90">
+            <Precinct name="Dry Branch" votes="7" />
+            <Precinct name="Golden Isles" votes="23" />
+            <Precinct name="Higgsville" votes="18" />
+            <Precinct name="Jeffersonville-Ware" votes="26" />
+            <Precinct name="Shady Grove-Tarvers" votes="16" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="31" text="Austin Scott (I) (Rep)" totalVotes="1955">
+            <VoteType name="Absentee by Mail Votes" votes="58">
+                <Precinct name="Dry Branch" votes="15" />
+                <Precinct name="Golden Isles" votes="11" />
+                <Precinct name="Higgsville" votes="11" />
+                <Precinct name="Jeffersonville-Ware" votes="10" />
+                <Precinct name="Shady Grove-Tarvers" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="795">
+                <Precinct name="Dry Branch" votes="188" />
+                <Precinct name="Golden Isles" votes="155" />
+                <Precinct name="Higgsville" votes="140" />
+                <Precinct name="Jeffersonville-Ware" votes="180" />
+                <Precinct name="Shady Grove-Tarvers" votes="132" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1102">
+                <Precinct name="Dry Branch" votes="390" />
+                <Precinct name="Golden Isles" votes="228" />
+                <Precinct name="Higgsville" votes="200" />
+                <Precinct name="Jeffersonville-Ware" votes="148" />
+                <Precinct name="Shady Grove-Tarvers" votes="136" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="32" text="Darrius Butler (Dem)" totalVotes="1511">
+            <VoteType name="Absentee by Mail Votes" votes="269">
+                <Precinct name="Dry Branch" votes="11" />
+                <Precinct name="Golden Isles" votes="104" />
+                <Precinct name="Higgsville" votes="5" />
+                <Precinct name="Jeffersonville-Ware" votes="99" />
+                <Precinct name="Shady Grove-Tarvers" votes="50" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="653">
+                <Precinct name="Dry Branch" votes="59" />
+                <Precinct name="Golden Isles" votes="201" />
+                <Precinct name="Higgsville" votes="54" />
+                <Precinct name="Jeffersonville-Ware" votes="246" />
+                <Precinct name="Shady Grove-Tarvers" votes="93" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="584">
+                <Precinct name="Dry Branch" votes="58" />
+                <Precinct name="Golden Isles" votes="237" />
+                <Precinct name="Higgsville" votes="42" />
+                <Precinct name="Jeffersonville-Ware" votes="170" />
+                <Precinct name="Shady Grove-Tarvers" votes="77" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="5" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="State Senate - District 26" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="965">
+            <Precinct name="Dry Branch" votes="263" />
+            <Precinct name="Golden Isles" votes="201" />
+            <Precinct name="Higgsville" votes="169" />
+            <Precinct name="Jeffersonville-Ware" votes="192" />
+            <Precinct name="Shady Grove-Tarvers" votes="140" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="33" text="David E. Lucas, Sr. (I) (Dem)" totalVotes="2418">
+            <VoteType name="Absentee by Mail Votes" votes="287">
+                <Precinct name="Dry Branch" votes="14" />
+                <Precinct name="Golden Isles" votes="108" />
+                <Precinct name="Higgsville" votes="8" />
+                <Precinct name="Jeffersonville-Ware" votes="98" />
+                <Precinct name="Shady Grove-Tarvers" votes="59" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1013">
+                <Precinct name="Dry Branch" votes="144" />
+                <Precinct name="Golden Isles" votes="264" />
+                <Precinct name="Higgsville" votes="126" />
+                <Precinct name="Jeffersonville-Ware" votes="323" />
+                <Precinct name="Shady Grove-Tarvers" votes="156" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1113">
+                <Precinct name="Dry Branch" votes="244" />
+                <Precinct name="Golden Isles" votes="340" />
+                <Precinct name="Higgsville" votes="140" />
+                <Precinct name="Jeffersonville-Ware" votes="242" />
+                <Precinct name="Shady Grove-Tarvers" votes="147" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="5" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="State House - District 149" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="882">
+            <Precinct name="Dry Branch" votes="79" />
+            <Precinct name="Golden Isles" votes="283" />
+            <Precinct name="Higgsville" votes="77" />
+            <Precinct name="Jeffersonville-Ware" votes="316" />
+            <Precinct name="Shady Grove-Tarvers" votes="127" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="34" text="Danny Mathis (I) (Rep)" totalVotes="2583">
+            <VoteType name="Absentee by Mail Votes" votes="138">
+                <Precinct name="Dry Branch" votes="17" />
+                <Precinct name="Golden Isles" votes="41" />
+                <Precinct name="Higgsville" votes="14" />
+                <Precinct name="Jeffersonville-Ware" votes="38" />
+                <Precinct name="Shady Grove-Tarvers" votes="28" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1067">
+                <Precinct name="Dry Branch" votes="212" />
+                <Precinct name="Golden Isles" votes="230" />
+                <Precinct name="Higgsville" votes="156" />
+                <Precinct name="Jeffersonville-Ware" votes="286" />
+                <Precinct name="Shady Grove-Tarvers" votes="183" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1374">
+                <Precinct name="Dry Branch" votes="408" />
+                <Precinct name="Golden Isles" votes="363" />
+                <Precinct name="Higgsville" votes="218" />
+                <Precinct name="Jeffersonville-Ware" votes="220" />
+                <Precinct name="Shady Grove-Tarvers" votes="165" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="4" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="Board of Education - Chairman" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="101">
+            <Precinct name="Dry Branch" votes="16" />
+            <Precinct name="Golden Isles" votes="28" />
+            <Precinct name="Higgsville" votes="14" />
+            <Precinct name="Jeffersonville-Ware" votes="19" />
+            <Precinct name="Shady Grove-Tarvers" votes="24" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="35" text="Thomas Carstarphen (Rep)" totalVotes="1999">
+            <VoteType name="Absentee by Mail Votes" votes="63">
+                <Precinct name="Dry Branch" votes="16" />
+                <Precinct name="Golden Isles" votes="13" />
+                <Precinct name="Higgsville" votes="11" />
+                <Precinct name="Jeffersonville-Ware" votes="14" />
+                <Precinct name="Shady Grove-Tarvers" votes="9" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="808">
+                <Precinct name="Dry Branch" votes="190" />
+                <Precinct name="Golden Isles" votes="153" />
+                <Precinct name="Higgsville" votes="144" />
+                <Precinct name="Jeffersonville-Ware" votes="193" />
+                <Precinct name="Shady Grove-Tarvers" votes="128" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1128">
+                <Precinct name="Dry Branch" votes="384" />
+                <Precinct name="Golden Isles" votes="231" />
+                <Precinct name="Higgsville" votes="211" />
+                <Precinct name="Jeffersonville-Ware" votes="154" />
+                <Precinct name="Shady Grove-Tarvers" votes="148" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="36" text="Jacquez &quot;&quot;Rell&quot;&quot; Harris (I) (Dem)" totalVotes="1456">
+            <VoteType name="Absentee by Mail Votes" votes="269">
+                <Precinct name="Dry Branch" votes="10" />
+                <Precinct name="Golden Isles" votes="103" />
+                <Precinct name="Higgsville" votes="6" />
+                <Precinct name="Jeffersonville-Ware" votes="98" />
+                <Precinct name="Shady Grove-Tarvers" votes="52" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="626">
+                <Precinct name="Dry Branch" votes="55" />
+                <Precinct name="Golden Isles" votes="197" />
+                <Precinct name="Higgsville" votes="50" />
+                <Precinct name="Jeffersonville-Ware" votes="236" />
+                <Precinct name="Shady Grove-Tarvers" votes="88" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="556">
+                <Precinct name="Dry Branch" votes="57" />
+                <Precinct name="Golden Isles" votes="234" />
+                <Precinct name="Higgsville" votes="34" />
+                <Precinct name="Jeffersonville-Ware" votes="165" />
+                <Precinct name="Shady Grove-Tarvers" votes="66" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="5" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="Board of Education - District 1" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="199">
+            <Precinct name="Dry Branch" votes="15" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="184" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+        </VoteType>
+        <Choice key="37" text="Isiah &quot;&quot;Mike&quot;&quot; Rouse, Jr. (I) (Dem)" totalVotes="704">
+            <VoteType name="Absentee by Mail Votes" votes="99">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="99" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="343">
+                <Precinct name="Dry Branch" votes="8" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="335" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="262">
+                <Precinct name="Dry Branch" votes="18" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="244" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="Board of Education - District 3" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="188">
+            <Precinct name="Golden Isles" votes="162" />
+            <Precinct name="Shady Grove-Tarvers" votes="26" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="38" text="Rhonda Marie King (I) (Dem)" totalVotes="807">
+            <VoteType name="Absentee by Mail Votes" votes="136">
+                <Precinct name="Golden Isles" votes="107" />
+                <Precinct name="Shady Grove-Tarvers" votes="29" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="291">
+                <Precinct name="Golden Isles" votes="257" />
+                <Precinct name="Shady Grove-Tarvers" votes="34" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="375">
+                <Precinct name="Golden Isles" votes="341" />
+                <Precinct name="Shady Grove-Tarvers" votes="34" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Golden Isles" votes="5" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="Soil and Water" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="922">
+            <Precinct name="Dry Branch" votes="141" />
+            <Precinct name="Golden Isles" votes="240" />
+            <Precinct name="Higgsville" votes="106" />
+            <Precinct name="Jeffersonville-Ware" votes="277" />
+            <Precinct name="Shady Grove-Tarvers" votes="158" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Alan Sanders" totalVotes="2635">
+            <VoteType name="Absentee by Mail Votes" votes="217">
+                <Precinct name="Dry Branch" votes="18" />
+                <Precinct name="Golden Isles" votes="83" />
+                <Precinct name="Higgsville" votes="15" />
+                <Precinct name="Jeffersonville-Ware" votes="66" />
+                <Precinct name="Shady Grove-Tarvers" votes="35" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1092">
+                <Precinct name="Dry Branch" votes="203" />
+                <Precinct name="Golden Isles" votes="266" />
+                <Precinct name="Higgsville" votes="157" />
+                <Precinct name="Jeffersonville-Ware" votes="302" />
+                <Precinct name="Shady Grove-Tarvers" votes="164" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1322">
+                <Precinct name="Dry Branch" votes="366" />
+                <Precinct name="Golden Isles" votes="371" />
+                <Precinct name="Higgsville" votes="192" />
+                <Precinct name="Jeffersonville-Ware" votes="235" />
+                <Precinct name="Shady Grove-Tarvers" votes="158" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="4" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="Proposed Constitutional Amendment 1" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="222">
+            <Precinct name="Dry Branch" votes="26" />
+            <Precinct name="Golden Isles" votes="55" />
+            <Precinct name="Higgsville" votes="27" />
+            <Precinct name="Jeffersonville-Ware" votes="60" />
+            <Precinct name="Shady Grove-Tarvers" votes="54" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="40" text="Yes" totalVotes="2781">
+            <VoteType name="Absentee by Mail Votes" votes="253">
+                <Precinct name="Dry Branch" votes="20" />
+                <Precinct name="Golden Isles" votes="100" />
+                <Precinct name="Higgsville" votes="13" />
+                <Precinct name="Jeffersonville-Ware" votes="75" />
+                <Precinct name="Shady Grove-Tarvers" votes="45" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1161">
+                <Precinct name="Dry Branch" votes="195" />
+                <Precinct name="Golden Isles" votes="275" />
+                <Precinct name="Higgsville" votes="159" />
+                <Precinct name="Jeffersonville-Ware" votes="353" />
+                <Precinct name="Shady Grove-Tarvers" votes="179" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1362">
+                <Precinct name="Dry Branch" votes="373" />
+                <Precinct name="Golden Isles" votes="373" />
+                <Precinct name="Higgsville" votes="196" />
+                <Precinct name="Jeffersonville-Ware" votes="250" />
+                <Precinct name="Shady Grove-Tarvers" votes="170" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="5" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="41" text="No" totalVotes="554">
+            <VoteType name="Absentee by Mail Votes" votes="58">
+                <Precinct name="Dry Branch" votes="6" />
+                <Precinct name="Golden Isles" votes="13" />
+                <Precinct name="Higgsville" votes="4" />
+                <Precinct name="Jeffersonville-Ware" votes="25" />
+                <Precinct name="Shady Grove-Tarvers" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="233">
+                <Precinct name="Dry Branch" votes="42" />
+                <Precinct name="Golden Isles" votes="63" />
+                <Precinct name="Higgsville" votes="32" />
+                <Precinct name="Jeffersonville-Ware" votes="63" />
+                <Precinct name="Shady Grove-Tarvers" votes="33" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="263">
+                <Precinct name="Dry Branch" votes="66" />
+                <Precinct name="Golden Isles" votes="80" />
+                <Precinct name="Higgsville" votes="39" />
+                <Precinct name="Jeffersonville-Ware" votes="54" />
+                <Precinct name="Shady Grove-Tarvers" votes="24" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="Proposed Constitutional Amendment 2" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="171">
+            <Precinct name="Dry Branch" votes="17" />
+            <Precinct name="Golden Isles" votes="39" />
+            <Precinct name="Higgsville" votes="25" />
+            <Precinct name="Jeffersonville-Ware" votes="47" />
+            <Precinct name="Shady Grove-Tarvers" votes="43" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Yes" totalVotes="3017">
+            <VoteType name="Absentee by Mail Votes" votes="289">
+                <Precinct name="Dry Branch" votes="23" />
+                <Precinct name="Golden Isles" votes="106" />
+                <Precinct name="Higgsville" votes="13" />
+                <Precinct name="Jeffersonville-Ware" votes="94" />
+                <Precinct name="Shady Grove-Tarvers" votes="53" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1257">
+                <Precinct name="Dry Branch" votes="209" />
+                <Precinct name="Golden Isles" votes="310" />
+                <Precinct name="Higgsville" votes="168" />
+                <Precinct name="Jeffersonville-Ware" votes="378" />
+                <Precinct name="Shady Grove-Tarvers" votes="192" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1466">
+                <Precinct name="Dry Branch" votes="388" />
+                <Precinct name="Golden Isles" votes="416" />
+                <Precinct name="Higgsville" votes="199" />
+                <Precinct name="Jeffersonville-Ware" votes="274" />
+                <Precinct name="Shady Grove-Tarvers" votes="189" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="5" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="No" totalVotes="369">
+            <VoteType name="Absentee by Mail Votes" votes="29">
+                <Precinct name="Dry Branch" votes="3" />
+                <Precinct name="Golden Isles" votes="7" />
+                <Precinct name="Higgsville" votes="4" />
+                <Precinct name="Jeffersonville-Ware" votes="11" />
+                <Precinct name="Shady Grove-Tarvers" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="152">
+                <Precinct name="Dry Branch" votes="32" />
+                <Precinct name="Golden Isles" votes="33" />
+                <Precinct name="Higgsville" votes="26" />
+                <Precinct name="Jeffersonville-Ware" votes="42" />
+                <Precinct name="Shady Grove-Tarvers" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="188">
+                <Precinct name="Dry Branch" votes="56" />
+                <Precinct name="Golden Isles" votes="48" />
+                <Precinct name="Higgsville" votes="35" />
+                <Precinct name="Jeffersonville-Ware" votes="34" />
+                <Precinct name="Shady Grove-Tarvers" votes="15" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="0" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="Statewide Referendum Question A" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="219">
+            <Precinct name="Dry Branch" votes="27" />
+            <Precinct name="Golden Isles" votes="53" />
+            <Precinct name="Higgsville" votes="26" />
+            <Precinct name="Jeffersonville-Ware" votes="55" />
+            <Precinct name="Shady Grove-Tarvers" votes="58" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Yes" totalVotes="2145">
+            <VoteType name="Absentee by Mail Votes" votes="144">
+                <Precinct name="Dry Branch" votes="12" />
+                <Precinct name="Golden Isles" votes="50" />
+                <Precinct name="Higgsville" votes="4" />
+                <Precinct name="Jeffersonville-Ware" votes="53" />
+                <Precinct name="Shady Grove-Tarvers" votes="25" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="889">
+                <Precinct name="Dry Branch" votes="161" />
+                <Precinct name="Golden Isles" votes="215" />
+                <Precinct name="Higgsville" votes="135" />
+                <Precinct name="Jeffersonville-Ware" votes="245" />
+                <Precinct name="Shady Grove-Tarvers" votes="133" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1108">
+                <Precinct name="Dry Branch" votes="296" />
+                <Precinct name="Golden Isles" votes="300" />
+                <Precinct name="Higgsville" votes="172" />
+                <Precinct name="Jeffersonville-Ware" votes="211" />
+                <Precinct name="Shady Grove-Tarvers" votes="129" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="4" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="47" text="No" totalVotes="1193">
+            <VoteType name="Absentee by Mail Votes" votes="167">
+                <Precinct name="Dry Branch" votes="12" />
+                <Precinct name="Golden Isles" votes="61" />
+                <Precinct name="Higgsville" votes="13" />
+                <Precinct name="Jeffersonville-Ware" votes="53" />
+                <Precinct name="Shady Grove-Tarvers" votes="28" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="499">
+                <Precinct name="Dry Branch" votes="77" />
+                <Precinct name="Golden Isles" votes="123" />
+                <Precinct name="Higgsville" votes="58" />
+                <Precinct name="Jeffersonville-Ware" votes="166" />
+                <Precinct name="Shady Grove-Tarvers" votes="75" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="526">
+                <Precinct name="Dry Branch" votes="143" />
+                <Precinct name="Golden Isles" votes="157" />
+                <Precinct name="Higgsville" votes="62" />
+                <Precinct name="Jeffersonville-Ware" votes="97" />
+                <Precinct name="Shady Grove-Tarvers" votes="67" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="1" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="Statewide Referendum Question B" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="209">
+            <Precinct name="Dry Branch" votes="29" />
+            <Precinct name="Golden Isles" votes="53" />
+            <Precinct name="Higgsville" votes="23" />
+            <Precinct name="Jeffersonville-Ware" votes="52" />
+            <Precinct name="Shady Grove-Tarvers" votes="52" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="44" text="Yes" totalVotes="2545">
+            <VoteType name="Absentee by Mail Votes" votes="181">
+                <Precinct name="Dry Branch" votes="15" />
+                <Precinct name="Golden Isles" votes="69" />
+                <Precinct name="Higgsville" votes="9" />
+                <Precinct name="Jeffersonville-Ware" votes="58" />
+                <Precinct name="Shady Grove-Tarvers" votes="30" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1048">
+                <Precinct name="Dry Branch" votes="194" />
+                <Precinct name="Golden Isles" votes="253" />
+                <Precinct name="Higgsville" votes="144" />
+                <Precinct name="Jeffersonville-Ware" votes="294" />
+                <Precinct name="Shady Grove-Tarvers" votes="163" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1312">
+                <Precinct name="Dry Branch" votes="373" />
+                <Precinct name="Golden Isles" votes="348" />
+                <Precinct name="Higgsville" votes="198" />
+                <Precinct name="Jeffersonville-Ware" votes="241" />
+                <Precinct name="Shady Grove-Tarvers" votes="152" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="4" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="45" text="No" totalVotes="803">
+            <VoteType name="Absentee by Mail Votes" votes="131">
+                <Precinct name="Dry Branch" votes="9" />
+                <Precinct name="Golden Isles" votes="43" />
+                <Precinct name="Higgsville" votes="8" />
+                <Precinct name="Jeffersonville-Ware" votes="45" />
+                <Precinct name="Shady Grove-Tarvers" votes="26" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="344">
+                <Precinct name="Dry Branch" votes="45" />
+                <Precinct name="Golden Isles" votes="85" />
+                <Precinct name="Higgsville" votes="48" />
+                <Precinct name="Jeffersonville-Ware" votes="120" />
+                <Precinct name="Shady Grove-Tarvers" votes="46" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="327">
+                <Precinct name="Dry Branch" votes="63" />
+                <Precinct name="Golden Isles" votes="108" />
+                <Precinct name="Higgsville" votes="40" />
+                <Precinct name="Jeffersonville-Ware" votes="70" />
+                <Precinct name="Shady Grove-Tarvers" votes="46" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="1" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="TSPLOST" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="179">
+            <Precinct name="Dry Branch" votes="21" />
+            <Precinct name="Golden Isles" votes="48" />
+            <Precinct name="Higgsville" votes="20" />
+            <Precinct name="Jeffersonville-Ware" votes="45" />
+            <Precinct name="Shady Grove-Tarvers" votes="45" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dry Branch" votes="0" />
+            <Precinct name="Golden Isles" votes="0" />
+            <Precinct name="Higgsville" votes="0" />
+            <Precinct name="Jeffersonville-Ware" votes="0" />
+            <Precinct name="Shady Grove-Tarvers" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Yes" totalVotes="1925">
+            <VoteType name="Absentee by Mail Votes" votes="206">
+                <Precinct name="Dry Branch" votes="14" />
+                <Precinct name="Golden Isles" votes="77" />
+                <Precinct name="Higgsville" votes="8" />
+                <Precinct name="Jeffersonville-Ware" votes="63" />
+                <Precinct name="Shady Grove-Tarvers" votes="44" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="816">
+                <Precinct name="Dry Branch" votes="117" />
+                <Precinct name="Golden Isles" votes="219" />
+                <Precinct name="Higgsville" votes="107" />
+                <Precinct name="Jeffersonville-Ware" votes="246" />
+                <Precinct name="Shady Grove-Tarvers" votes="127" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="900">
+                <Precinct name="Dry Branch" votes="208" />
+                <Precinct name="Golden Isles" votes="262" />
+                <Precinct name="Higgsville" votes="127" />
+                <Precinct name="Jeffersonville-Ware" votes="182" />
+                <Precinct name="Shady Grove-Tarvers" votes="121" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="3" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="No" totalVotes="1453">
+            <VoteType name="Absentee by Mail Votes" votes="116">
+                <Precinct name="Dry Branch" votes="12" />
+                <Precinct name="Golden Isles" votes="36" />
+                <Precinct name="Higgsville" votes="9" />
+                <Precinct name="Jeffersonville-Ware" votes="43" />
+                <Precinct name="Shady Grove-Tarvers" votes="16" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="590">
+                <Precinct name="Dry Branch" votes="124" />
+                <Precinct name="Golden Isles" votes="122" />
+                <Precinct name="Higgsville" votes="86" />
+                <Precinct name="Jeffersonville-Ware" votes="173" />
+                <Precinct name="Shady Grove-Tarvers" votes="85" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="745">
+                <Precinct name="Dry Branch" votes="232" />
+                <Precinct name="Golden Isles" votes="195" />
+                <Precinct name="Higgsville" votes="113" />
+                <Precinct name="Jeffersonville-Ware" votes="128" />
+                <Precinct name="Shady Grove-Tarvers" votes="77" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Dry Branch" votes="0" />
+                <Precinct name="Golden Isles" votes="2" />
+                <Precinct name="Higgsville" votes="0" />
+                <Precinct name="Jeffersonville-Ware" votes="0" />
+                <Precinct name="Shady Grove-Tarvers" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/8/2022 3:10:25 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Quitman</Region>
+    <VoterTurnout totalVoters="1493" ballotsCast="810" voterTurnout="54.25">
+        <Precincts>
+            <Precinct name="Georgetown " totalVoters="1404" ballotsCast="758" voterTurnout="53.99" percentReporting="4" />
+            <Precinct name="Morris" totalVoters="87" ballotsCast="52" voterTurnout="59.77" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Georgetown " votes="3" />
+            <Precinct name="Morris" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Georgetown " votes="0" />
+            <Precinct name="Morris" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="477">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Georgetown " votes="15" />
+                <Precinct name="Morris" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="261">
+                <Precinct name="Georgetown " votes="255" />
+                <Precinct name="Morris" votes="6" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="200">
+                <Precinct name="Georgetown " votes="180" />
+                <Precinct name="Morris" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Georgetown " votes="0" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="330">
+            <VoteType name="Absentee by Mail Votes" votes="25">
+                <Precinct name="Georgetown " votes="24" />
+                <Precinct name="Morris" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="174">
+                <Precinct name="Georgetown " votes="169" />
+                <Precinct name="Morris" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="131">
+                <Precinct name="Georgetown " votes="112" />
+                <Precinct name="Morris" votes="19" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Georgetown " votes="0" />
+                <Precinct name="Morris" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

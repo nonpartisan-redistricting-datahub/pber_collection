@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 6:20:07 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Jackson</Region>
+    <VoterTurnout totalVoters="54469" ballotsCast="27480" voterTurnout="50.45">
+        <Precincts>
+            <Precinct name="Central Jackson" totalVoters="17013" ballotsCast="8508" voterTurnout="50.01" percentReporting="4" />
+            <Precinct name="North Jackson" totalVoters="12563" ballotsCast="6124" voterTurnout="48.75" percentReporting="4" />
+            <Precinct name="West Jackson" totalVoters="16762" ballotsCast="8763" voterTurnout="52.28" percentReporting="4" />
+            <Precinct name="South Jackson" totalVoters="8140" ballotsCast="4085" voterTurnout="50.18" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="4" precinctsReported="4">
+        <VoteType name="Undervotes" votes="13">
+            <Precinct name="Central Jackson" votes="5" />
+            <Precinct name="North Jackson" votes="2" />
+            <Precinct name="West Jackson" votes="2" />
+            <Precinct name="South Jackson" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Central Jackson" votes="0" />
+            <Precinct name="North Jackson" votes="0" />
+            <Precinct name="West Jackson" votes="0" />
+            <Precinct name="South Jackson" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="21613">
+            <VoteType name="Absentee by Mail Votes" votes="692">
+                <Precinct name="Central Jackson" votes="169" />
+                <Precinct name="North Jackson" votes="169" />
+                <Precinct name="West Jackson" votes="240" />
+                <Precinct name="South Jackson" votes="114" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="10523">
+                <Precinct name="Central Jackson" votes="3728" />
+                <Precinct name="North Jackson" votes="2320" />
+                <Precinct name="West Jackson" votes="3019" />
+                <Precinct name="South Jackson" votes="1456" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="10393">
+                <Precinct name="Central Jackson" votes="2752" />
+                <Precinct name="North Jackson" votes="2444" />
+                <Precinct name="West Jackson" votes="3667" />
+                <Precinct name="South Jackson" votes="1530" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Central Jackson" votes="2" />
+                <Precinct name="North Jackson" votes="1" />
+                <Precinct name="West Jackson" votes="2" />
+                <Precinct name="South Jackson" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="5854">
+            <VoteType name="Absentee by Mail Votes" votes="510">
+                <Precinct name="Central Jackson" votes="134" />
+                <Precinct name="North Jackson" votes="108" />
+                <Precinct name="West Jackson" votes="176" />
+                <Precinct name="South Jackson" votes="92" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3027">
+                <Precinct name="Central Jackson" votes="1074" />
+                <Precinct name="North Jackson" votes="569" />
+                <Precinct name="West Jackson" votes="863" />
+                <Precinct name="South Jackson" votes="521" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2314">
+                <Precinct name="Central Jackson" votes="644" />
+                <Precinct name="North Jackson" votes="509" />
+                <Precinct name="West Jackson" votes="794" />
+                <Precinct name="South Jackson" votes="367" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Central Jackson" votes="0" />
+                <Precinct name="North Jackson" votes="2" />
+                <Precinct name="West Jackson" votes="0" />
+                <Precinct name="South Jackson" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

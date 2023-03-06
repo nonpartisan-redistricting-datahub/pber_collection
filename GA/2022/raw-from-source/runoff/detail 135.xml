@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/8/2022 9:45:29 AM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Irwin</Region>
+    <VoterTurnout totalVoters="5905" ballotsCast="3136" voterTurnout="53.11">
+        <Precincts>
+            <Precinct name="Irwinville" totalVoters="1767" ballotsCast="940" voterTurnout="53.20" percentReporting="4" />
+            <Precinct name="Ocilla" totalVoters="3474" ballotsCast="1770" voterTurnout="50.95" percentReporting="4" />
+            <Precinct name="Holt" totalVoters="665" ballotsCast="426" voterTurnout="64.06" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="3" precinctsReported="3">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Irwinville" votes="2" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Irwinville" votes="0" />
+            <Precinct name="Ocilla" votes="0" />
+            <Precinct name="Holt" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="2427">
+            <VoteType name="Absentee by Mail Votes" votes="57">
+                <Precinct name="Irwinville" votes="23" />
+                <Precinct name="Ocilla" votes="24" />
+                <Precinct name="Holt" votes="10" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1169">
+                <Precinct name="Irwinville" votes="341" />
+                <Precinct name="Ocilla" votes="660" />
+                <Precinct name="Holt" votes="168" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1201">
+                <Precinct name="Irwinville" votes="499" />
+                <Precinct name="Ocilla" votes="528" />
+                <Precinct name="Holt" votes="174" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="0" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="706">
+            <VoteType name="Absentee by Mail Votes" votes="36">
+                <Precinct name="Irwinville" votes="5" />
+                <Precinct name="Ocilla" votes="28" />
+                <Precinct name="Holt" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="375">
+                <Precinct name="Irwinville" votes="41" />
+                <Precinct name="Ocilla" votes="296" />
+                <Precinct name="Holt" votes="38" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="294">
+                <Precinct name="Irwinville" votes="29" />
+                <Precinct name="Ocilla" votes="233" />
+                <Precinct name="Holt" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Irwinville" votes="0" />
+                <Precinct name="Ocilla" votes="1" />
+                <Precinct name="Holt" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

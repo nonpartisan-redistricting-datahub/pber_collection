@@ -1,0 +1,770 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/15/2022 4:42:34 PM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Lumpkin</Region>
+    <VoterTurnout totalVoters="22370" ballotsCast="12765" voterTurnout="57.06">
+        <Precincts>
+            <Precinct name="Dahlonega" totalVoters="22369" ballotsCast="12765" voterTurnout="57.07" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="3" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="72">
+            <Precinct name="Dahlonega" votes="72" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Herschel Junior Walker (Rep)" totalVotes="9765">
+            <VoteType name="Absentee by Mail Votes" votes="333">
+                <Precinct name="Dahlonega" votes="333" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6280">
+                <Precinct name="Dahlonega" votes="6280" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3148">
+                <Precinct name="Dahlonega" votes="3148" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Dahlonega" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Raphael Warnock (I) (Dem)" totalVotes="2539">
+            <VoteType name="Absentee by Mail Votes" votes="264">
+                <Precinct name="Dahlonega" votes="264" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1720">
+                <Precinct name="Dahlonega" votes="1720" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="555">
+                <Precinct name="Dahlonega" votes="555" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dahlonega" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="Chase Oliver (Lib)" totalVotes="369">
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Dahlonega" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="203">
+                <Precinct name="Dahlonega" votes="203" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="146">
+                <Precinct name="Dahlonega" votes="146" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Dahlonega" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="23">
+            <Precinct name="Dahlonega" votes="23" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="56" text="Brian Kemp (I) (Rep)" totalVotes="10525">
+            <VoteType name="Absentee by Mail Votes" votes="383">
+                <Precinct name="Dahlonega" votes="383" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6767">
+                <Precinct name="Dahlonega" votes="6767" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3370">
+                <Precinct name="Dahlonega" votes="3370" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dahlonega" votes="5" />
+            </VoteType>
+        </Choice>
+        <Choice key="57" text="Stacey Abrams (Dem)" totalVotes="2070">
+            <VoteType name="Absentee by Mail Votes" votes="230">
+                <Precinct name="Dahlonega" votes="230" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1424">
+                <Precinct name="Dahlonega" votes="1424" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="416">
+                <Precinct name="Dahlonega" votes="416" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dahlonega" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="Shane Hazel (Lib)" totalVotes="142">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Dahlonega" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="60">
+                <Precinct name="Dahlonega" votes="60" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="76">
+                <Precinct name="Dahlonega" votes="76" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dahlonega" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="135">
+            <Precinct name="Dahlonega" votes="135" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="59" text="Burt Jones (Rep)" totalVotes="10079">
+            <VoteType name="Absentee by Mail Votes" votes="360">
+                <Precinct name="Dahlonega" votes="360" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6483">
+                <Precinct name="Dahlonega" votes="6483" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3232">
+                <Precinct name="Dahlonega" votes="3232" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Dahlonega" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="60" text="Charlie Bailey (Dem)" totalVotes="2243">
+            <VoteType name="Absentee by Mail Votes" votes="242">
+                <Precinct name="Dahlonega" votes="242" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1528">
+                <Precinct name="Dahlonega" votes="1528" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="473">
+                <Precinct name="Dahlonega" votes="473" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dahlonega" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Ryan Graham (Lib)" totalVotes="305">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Dahlonega" votes="16" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="159">
+                <Precinct name="Dahlonega" votes="159" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="129">
+                <Precinct name="Dahlonega" votes="129" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Dahlonega" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="172">
+            <Precinct name="Dahlonega" votes="172" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="62" text="Brad Raffensperger (I) (Rep)" totalVotes="9945">
+            <VoteType name="Absentee by Mail Votes" votes="380">
+                <Precinct name="Dahlonega" votes="380" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6429">
+                <Precinct name="Dahlonega" votes="6429" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3131">
+                <Precinct name="Dahlonega" votes="3131" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dahlonega" votes="5" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Bee Nguyen (Dem)" totalVotes="1967">
+            <VoteType name="Absentee by Mail Votes" votes="213">
+                <Precinct name="Dahlonega" votes="213" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1337">
+                <Precinct name="Dahlonega" votes="1337" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="417">
+                <Precinct name="Dahlonega" votes="417" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dahlonega" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="64" text="Ted Metz (Lib)" totalVotes="652">
+            <VoteType name="Absentee by Mail Votes" votes="22">
+                <Precinct name="Dahlonega" votes="22" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="365">
+                <Precinct name="Dahlonega" votes="365" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="265">
+                <Precinct name="Dahlonega" votes="265" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dahlonega" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="124">
+            <Precinct name="Dahlonega" votes="124" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="65" text="Chris Carr (I) (Rep)" totalVotes="10131">
+            <VoteType name="Absentee by Mail Votes" votes="354">
+                <Precinct name="Dahlonega" votes="354" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6525">
+                <Precinct name="Dahlonega" votes="6525" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3247">
+                <Precinct name="Dahlonega" votes="3247" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dahlonega" votes="5" />
+            </VoteType>
+        </Choice>
+        <Choice key="66" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="2260">
+            <VoteType name="Absentee by Mail Votes" votes="247">
+                <Precinct name="Dahlonega" votes="247" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1549">
+                <Precinct name="Dahlonega" votes="1549" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="464">
+                <Precinct name="Dahlonega" votes="464" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dahlonega" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="67" text="Martin Cowen (Lib)" totalVotes="248">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Dahlonega" votes="16" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="112">
+                <Precinct name="Dahlonega" votes="112" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="120">
+                <Precinct name="Dahlonega" votes="120" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dahlonega" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="Commissioner Of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="164">
+            <Precinct name="Dahlonega" votes="164" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="68" text="Tyler Harper (Rep)" totalVotes="10287">
+            <VoteType name="Absentee by Mail Votes" votes="372">
+                <Precinct name="Dahlonega" votes="372" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6632">
+                <Precinct name="Dahlonega" votes="6632" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3278">
+                <Precinct name="Dahlonega" votes="3278" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dahlonega" votes="5" />
+            </VoteType>
+        </Choice>
+        <Choice key="69" text="Nakita Hemingway (Dem)" totalVotes="1982">
+            <VoteType name="Absentee by Mail Votes" votes="223">
+                <Precinct name="Dahlonega" votes="223" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1353">
+                <Precinct name="Dahlonega" votes="1353" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="406">
+                <Precinct name="Dahlonega" votes="406" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dahlonega" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="70" text="David Raudabaugh (Lib)" totalVotes="328">
+            <VoteType name="Absentee by Mail Votes" votes="16">
+                <Precinct name="Dahlonega" votes="16" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="175">
+                <Precinct name="Dahlonega" votes="175" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="137">
+                <Precinct name="Dahlonega" votes="137" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dahlonega" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="201">
+            <Precinct name="Dahlonega" votes="201" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="71" text="John King (I) (Rep)" totalVotes="10434">
+            <VoteType name="Absentee by Mail Votes" votes="377">
+                <Precinct name="Dahlonega" votes="377" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6684">
+                <Precinct name="Dahlonega" votes="6684" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3368">
+                <Precinct name="Dahlonega" votes="3368" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dahlonega" votes="5" />
+            </VoteType>
+        </Choice>
+        <Choice key="72" text="Janice Laws Robinson (Dem)" totalVotes="2123">
+            <VoteType name="Absentee by Mail Votes" votes="234">
+                <Precinct name="Dahlonega" votes="234" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1450">
+                <Precinct name="Dahlonega" votes="1450" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="439">
+                <Precinct name="Dahlonega" votes="439" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dahlonega" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="10" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="181">
+            <Precinct name="Dahlonega" votes="181" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="73" text="Richard Woods (I) (Rep)" totalVotes="10444">
+            <VoteType name="Absentee by Mail Votes" votes="387">
+                <Precinct name="Dahlonega" votes="387" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6695">
+                <Precinct name="Dahlonega" votes="6695" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3357">
+                <Precinct name="Dahlonega" votes="3357" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dahlonega" votes="5" />
+            </VoteType>
+        </Choice>
+        <Choice key="74" text="Alisha Thomas Searcy (Dem)" totalVotes="2129">
+            <VoteType name="Absentee by Mail Votes" votes="228">
+                <Precinct name="Dahlonega" votes="228" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1446">
+                <Precinct name="Dahlonega" votes="1446" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="455">
+                <Precinct name="Dahlonega" votes="455" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dahlonega" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="202">
+            <Precinct name="Dahlonega" votes="202" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="75" text="Bruce Thompson (Rep)" totalVotes="10103">
+            <VoteType name="Absentee by Mail Votes" votes="358">
+                <Precinct name="Dahlonega" votes="358" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6503">
+                <Precinct name="Dahlonega" votes="6503" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3237">
+                <Precinct name="Dahlonega" votes="3237" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dahlonega" votes="5" />
+            </VoteType>
+        </Choice>
+        <Choice key="76" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="2084">
+            <VoteType name="Absentee by Mail Votes" votes="234">
+                <Precinct name="Dahlonega" votes="234" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1433">
+                <Precinct name="Dahlonega" votes="1433" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="417">
+                <Precinct name="Dahlonega" votes="417" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dahlonega" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="77" text="Emily Anderson (Lib)" totalVotes="373">
+            <VoteType name="Absentee by Mail Votes" votes="19">
+                <Precinct name="Dahlonega" votes="19" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="193">
+                <Precinct name="Dahlonega" votes="193" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="161">
+                <Precinct name="Dahlonega" votes="161" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dahlonega" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="US House Dist 9" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="166">
+            <Precinct name="Dahlonega" votes="166" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="83" text="Andrew Clyde (I) (Rep)" totalVotes="10218">
+            <VoteType name="Absentee by Mail Votes" votes="356">
+                <Precinct name="Dahlonega" votes="356" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6542">
+                <Precinct name="Dahlonega" votes="6542" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3315">
+                <Precinct name="Dahlonega" votes="3315" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dahlonega" votes="5" />
+            </VoteType>
+        </Choice>
+        <Choice key="84" text="Michael &quot;&quot;Mike&quot;&quot; Ford (Dem)" totalVotes="2367">
+            <VoteType name="Absentee by Mail Votes" votes="251">
+                <Precinct name="Dahlonega" votes="251" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1608">
+                <Precinct name="Dahlonega" votes="1608" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="508">
+                <Precinct name="Dahlonega" votes="508" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dahlonega" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="State Senate Dist 51" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1468">
+            <Precinct name="Dahlonega" votes="1468" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="85" text="Steve Gooch (I) (Rep)" totalVotes="11019">
+            <VoteType name="Absentee by Mail Votes" votes="419">
+                <Precinct name="Dahlonega" votes="419" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7053">
+                <Precinct name="Dahlonega" votes="7053" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3542">
+                <Precinct name="Dahlonega" votes="3542" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dahlonega" votes="5" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="State House Dist 9" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1395">
+            <Precinct name="Dahlonega" votes="1395" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="86" text="Will Wade (I) (Rep)" totalVotes="9802">
+            <VoteType name="Absentee by Mail Votes" votes="377">
+                <Precinct name="Dahlonega" votes="377" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6301">
+                <Precinct name="Dahlonega" votes="6301" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3120">
+                <Precinct name="Dahlonega" votes="3120" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Dahlonega" votes="4" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="State House Dist 27" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="110">
+            <Precinct name="Dahlonega" votes="110" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="87" text="Lee Hawkins (I) (Rep)" totalVotes="1256">
+            <VoteType name="Absentee by Mail Votes" votes="54">
+                <Precinct name="Dahlonega" votes="54" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="764">
+                <Precinct name="Dahlonega" votes="764" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="437">
+                <Precinct name="Dahlonega" votes="437" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Dahlonega" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="District Attorney Enotah Judicial Circuit" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1428">
+            <Precinct name="Dahlonega" votes="1428" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="88" text="Jeff Langley (I) (Rep)" totalVotes="11180">
+            <VoteType name="Absentee by Mail Votes" votes="426">
+                <Precinct name="Dahlonega" votes="426" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7180">
+                <Precinct name="Dahlonega" votes="7180" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3569">
+                <Precinct name="Dahlonega" votes="3569" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dahlonega" votes="5" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="County Commissioner Dist 3" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1402">
+            <Precinct name="Dahlonega" votes="1402" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="89" text="Rhett Stringer (I) (Rep)" totalVotes="11217">
+            <VoteType name="Absentee by Mail Votes" votes="431">
+                <Precinct name="Dahlonega" votes="431" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7206">
+                <Precinct name="Dahlonega" votes="7206" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3575">
+                <Precinct name="Dahlonega" votes="3575" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dahlonega" votes="5" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="County Commissioner Dist 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1490">
+            <Precinct name="Dahlonega" votes="1490" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="90" text="Jeff Moran (I) (Rep)" totalVotes="11130">
+            <VoteType name="Absentee by Mail Votes" votes="430">
+                <Precinct name="Dahlonega" votes="430" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7133">
+                <Precinct name="Dahlonega" votes="7133" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3562">
+                <Precinct name="Dahlonega" votes="3562" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dahlonega" votes="5" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="Upper Chattahoochee River Soil and Water" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1760">
+            <Precinct name="Dahlonega" votes="1760" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="91" text="Tracy Lee Grizzle (I)" totalVotes="11005">
+            <VoteType name="Absentee by Mail Votes" votes="451">
+                <Precinct name="Dahlonega" votes="451" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7082">
+                <Precinct name="Dahlonega" votes="7082" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3467">
+                <Precinct name="Dahlonega" votes="3467" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dahlonega" votes="5" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="Constitutional Amendment #1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="372">
+            <Precinct name="Dahlonega" votes="372" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="92" text="Yes" totalVotes="11081">
+            <VoteType name="Absentee by Mail Votes" votes="545">
+                <Precinct name="Dahlonega" votes="545" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7212">
+                <Precinct name="Dahlonega" votes="7212" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3319">
+                <Precinct name="Dahlonega" votes="3319" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dahlonega" votes="5" />
+            </VoteType>
+        </Choice>
+        <Choice key="93" text="No" totalVotes="1312">
+            <VoteType name="Absentee by Mail Votes" votes="59">
+                <Precinct name="Dahlonega" votes="59" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="811">
+                <Precinct name="Dahlonega" votes="811" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="442">
+                <Precinct name="Dahlonega" votes="442" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dahlonega" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="Constitutional Amendment #2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="278">
+            <Precinct name="Dahlonega" votes="278" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="94" text="Yes" totalVotes="11418">
+            <VoteType name="Absentee by Mail Votes" votes="549">
+                <Precinct name="Dahlonega" votes="549" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="7394">
+                <Precinct name="Dahlonega" votes="7394" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3470">
+                <Precinct name="Dahlonega" votes="3470" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="5">
+                <Precinct name="Dahlonega" votes="5" />
+            </VoteType>
+        </Choice>
+        <Choice key="95" text="No" totalVotes="1069">
+            <VoteType name="Absentee by Mail Votes" votes="54">
+                <Precinct name="Dahlonega" votes="54" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="689">
+                <Precinct name="Dahlonega" votes="689" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="326">
+                <Precinct name="Dahlonega" votes="326" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Dahlonega" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="Statewide Referendum A" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="519">
+            <Precinct name="Dahlonega" votes="519" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="98" text="Yes" totalVotes="6842">
+            <VoteType name="Absentee by Mail Votes" votes="249">
+                <Precinct name="Dahlonega" votes="249" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4352">
+                <Precinct name="Dahlonega" votes="4352" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2240">
+                <Precinct name="Dahlonega" votes="2240" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Dahlonega" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="99" text="No" totalVotes="5404">
+            <VoteType name="Absentee by Mail Votes" votes="328">
+                <Precinct name="Dahlonega" votes="328" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3580">
+                <Precinct name="Dahlonega" votes="3580" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1492">
+                <Precinct name="Dahlonega" votes="1492" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Dahlonega" votes="4" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="Statewide Referendum B" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="446">
+            <Precinct name="Dahlonega" votes="446" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Dahlonega" votes="0" />
+        </VoteType>
+        <Choice key="96" text="Yes" totalVotes="9734">
+            <VoteType name="Absentee by Mail Votes" votes="373">
+                <Precinct name="Dahlonega" votes="373" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="6270">
+                <Precinct name="Dahlonega" votes="6270" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3087">
+                <Precinct name="Dahlonega" votes="3087" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="4">
+                <Precinct name="Dahlonega" votes="4" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="No" totalVotes="2585">
+            <VoteType name="Absentee by Mail Votes" votes="215">
+                <Precinct name="Dahlonega" votes="215" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1701">
+                <Precinct name="Dahlonega" votes="1701" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="668">
+                <Precinct name="Dahlonega" votes="668" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Dahlonega" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

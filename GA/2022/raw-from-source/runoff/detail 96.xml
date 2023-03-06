@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 3:41:16 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Cook</Region>
+    <VoterTurnout totalVoters="10216" ballotsCast="5145" voterTurnout="50.36">
+        <Precincts>
+            <Precinct name="Cecil" totalVoters="1810" ballotsCast="827" voterTurnout="45.69" percentReporting="4" />
+            <Precinct name="Delle Beamguard" totalVoters="2396" ballotsCast="1198" voterTurnout="50.00" percentReporting="4" />
+            <Precinct name="Elm Pine" totalVoters="478" ballotsCast="215" voterTurnout="44.98" percentReporting="4" />
+            <Precinct name="Lenox" totalVoters="1236" ballotsCast="681" voterTurnout="55.10" percentReporting="4" />
+            <Precinct name="Massee" totalVoters="892" ballotsCast="507" voterTurnout="56.84" percentReporting="4" />
+            <Precinct name="New Life Baptist Church" totalVoters="1189" ballotsCast="656" voterTurnout="55.17" percentReporting="4" />
+            <Precinct name="Riverbend" totalVoters="1217" ballotsCast="685" voterTurnout="56.29" percentReporting="4" />
+            <Precinct name="Sparks" totalVoters="998" ballotsCast="376" voterTurnout="37.68" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Cecil" votes="0" />
+            <Precinct name="Delle Beamguard" votes="0" />
+            <Precinct name="Elm Pine" votes="1" />
+            <Precinct name="Lenox" votes="0" />
+            <Precinct name="Massee" votes="0" />
+            <Precinct name="New Life Baptist Church" votes="1" />
+            <Precinct name="Riverbend" votes="1" />
+            <Precinct name="Sparks" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Cecil" votes="0" />
+            <Precinct name="Delle Beamguard" votes="0" />
+            <Precinct name="Elm Pine" votes="0" />
+            <Precinct name="Lenox" votes="0" />
+            <Precinct name="Massee" votes="0" />
+            <Precinct name="New Life Baptist Church" votes="0" />
+            <Precinct name="Riverbend" votes="0" />
+            <Precinct name="Sparks" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="3689">
+            <VoteType name="Absentee by Mail Votes" votes="122">
+                <Precinct name="Cecil" votes="12" />
+                <Precinct name="Delle Beamguard" votes="37" />
+                <Precinct name="Elm Pine" votes="2" />
+                <Precinct name="Lenox" votes="13" />
+                <Precinct name="Massee" votes="8" />
+                <Precinct name="New Life Baptist Church" votes="17" />
+                <Precinct name="Riverbend" votes="30" />
+                <Precinct name="Sparks" votes="3" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1770">
+                <Precinct name="Cecil" votes="255" />
+                <Precinct name="Delle Beamguard" votes="496" />
+                <Precinct name="Elm Pine" votes="4" />
+                <Precinct name="Lenox" votes="175" />
+                <Precinct name="Massee" votes="229" />
+                <Precinct name="New Life Baptist Church" votes="238" />
+                <Precinct name="Riverbend" votes="316" />
+                <Precinct name="Sparks" votes="57" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1797">
+                <Precinct name="Cecil" votes="223" />
+                <Precinct name="Delle Beamguard" votes="384" />
+                <Precinct name="Elm Pine" votes="3" />
+                <Precinct name="Lenox" votes="366" />
+                <Precinct name="Massee" votes="177" />
+                <Precinct name="New Life Baptist Church" votes="311" />
+                <Precinct name="Riverbend" votes="256" />
+                <Precinct name="Sparks" votes="77" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cecil" votes="0" />
+                <Precinct name="Delle Beamguard" votes="0" />
+                <Precinct name="Elm Pine" votes="0" />
+                <Precinct name="Lenox" votes="0" />
+                <Precinct name="Massee" votes="0" />
+                <Precinct name="New Life Baptist Church" votes="0" />
+                <Precinct name="Riverbend" votes="0" />
+                <Precinct name="Sparks" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1452">
+            <VoteType name="Absentee by Mail Votes" votes="130">
+                <Precinct name="Cecil" votes="27" />
+                <Precinct name="Delle Beamguard" votes="28" />
+                <Precinct name="Elm Pine" votes="21" />
+                <Precinct name="Lenox" votes="12" />
+                <Precinct name="Massee" votes="6" />
+                <Precinct name="New Life Baptist Church" votes="7" />
+                <Precinct name="Riverbend" votes="8" />
+                <Precinct name="Sparks" votes="21" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="738">
+                <Precinct name="Cecil" votes="200" />
+                <Precinct name="Delle Beamguard" votes="157" />
+                <Precinct name="Elm Pine" votes="93" />
+                <Precinct name="Lenox" votes="44" />
+                <Precinct name="Massee" votes="58" />
+                <Precinct name="New Life Baptist Church" votes="43" />
+                <Precinct name="Riverbend" votes="55" />
+                <Precinct name="Sparks" votes="88" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="584">
+                <Precinct name="Cecil" votes="110" />
+                <Precinct name="Delle Beamguard" votes="96" />
+                <Precinct name="Elm Pine" votes="91" />
+                <Precinct name="Lenox" votes="71" />
+                <Precinct name="Massee" votes="29" />
+                <Precinct name="New Life Baptist Church" votes="39" />
+                <Precinct name="Riverbend" votes="19" />
+                <Precinct name="Sparks" votes="129" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Cecil" votes="0" />
+                <Precinct name="Delle Beamguard" votes="0" />
+                <Precinct name="Elm Pine" votes="0" />
+                <Precinct name="Lenox" votes="0" />
+                <Precinct name="Massee" votes="0" />
+                <Precinct name="New Life Baptist Church" votes="0" />
+                <Precinct name="Riverbend" votes="0" />
+                <Precinct name="Sparks" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/16/2022 8:48:30 AM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Webster</Region>
+    <VoterTurnout totalVoters="1691" ballotsCast="1037" voterTurnout="61.32">
+        <Precincts>
+            <Precinct name="Preston 1" totalVoters="0" ballotsCast="1037" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="3" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Preston 1" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Preston 1" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Herschel Junior Walker (Rep)" totalVotes="616">
+            <VoteType name="Absentee by Mail Votes" votes="63">
+                <Precinct name="Preston 1" votes="63" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="308">
+                <Precinct name="Preston 1" votes="308" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="245">
+                <Precinct name="Preston 1" votes="245" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Raphael Warnock (I) (Dem)" totalVotes="420">
+            <VoteType name="Absentee by Mail Votes" votes="58">
+                <Precinct name="Preston 1" votes="58" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="189">
+                <Precinct name="Preston 1" votes="189" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="173">
+                <Precinct name="Preston 1" votes="173" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Preston 1" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

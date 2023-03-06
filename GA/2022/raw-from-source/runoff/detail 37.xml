@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 2:54:05 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Treutlen</Region>
+    <VoterTurnout totalVoters="4068" ballotsCast="2329" voterTurnout="57.25">
+        <Precincts>
+            <Precinct name="Annex" totalVoters="1885" ballotsCast="1168" voterTurnout="61.96" percentReporting="4" />
+            <Precinct name="Soperton" totalVoters="2182" ballotsCast="1161" voterTurnout="53.21" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="2" precinctsReported="2">
+        <VoteType name="Undervotes" votes="2">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="2" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+            <Precinct name="Soperton" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="1644">
+            <VoteType name="Absentee by Mail Votes" votes="61">
+                <Precinct name="Annex" votes="34" />
+                <Precinct name="Soperton" votes="27" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="840">
+                <Precinct name="Annex" votes="564" />
+                <Precinct name="Soperton" votes="276" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="743">
+                <Precinct name="Annex" votes="458" />
+                <Precinct name="Soperton" votes="285" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="683">
+            <VoteType name="Absentee by Mail Votes" votes="62">
+                <Precinct name="Annex" votes="7" />
+                <Precinct name="Soperton" votes="55" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="395">
+                <Precinct name="Annex" votes="66" />
+                <Precinct name="Soperton" votes="329" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="226">
+                <Precinct name="Annex" votes="39" />
+                <Precinct name="Soperton" votes="187" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+                <Precinct name="Soperton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

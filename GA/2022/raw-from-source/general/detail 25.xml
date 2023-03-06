@@ -1,0 +1,878 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/14/2022 4:52:55 PM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Stephens</Region>
+    <VoterTurnout totalVoters="17977" ballotsCast="9430" voterTurnout="52.46">
+        <Precincts>
+            <Precinct name="Senior Center" totalVoters="17985" ballotsCast="9430" voterTurnout="52.43" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="89">
+            <Precinct name="Senior Center" votes="89" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="7374">
+            <VoteType name="Absentee by Mail Votes" votes="324">
+                <Precinct name="Senior Center" votes="324" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5177">
+                <Precinct name="Senior Center" votes="5177" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1873">
+                <Precinct name="Senior Center" votes="1873" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1762">
+            <VoteType name="Absentee by Mail Votes" votes="191">
+                <Precinct name="Senior Center" votes="191" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1161">
+                <Precinct name="Senior Center" votes="1161" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="409">
+                <Precinct name="Senior Center" votes="409" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="3" text="Chase Oliver (Lib)" totalVotes="197">
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Senior Center" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="123">
+                <Precinct name="Senior Center" votes="123" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="59">
+                <Precinct name="Senior Center" votes="59" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="2" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="28">
+            <Precinct name="Senior Center" votes="28" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="4" text="Brian Kemp (I) (Rep)" totalVotes="7818">
+            <VoteType name="Absentee by Mail Votes" votes="370">
+                <Precinct name="Senior Center" votes="370" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5487">
+                <Precinct name="Senior Center" votes="5487" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1961">
+                <Precinct name="Senior Center" votes="1961" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="5" text="Stacey Abrams (Dem)" totalVotes="1501">
+            <VoteType name="Absentee by Mail Votes" votes="172">
+                <Precinct name="Senior Center" votes="172" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="971">
+                <Precinct name="Senior Center" votes="971" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="357">
+                <Precinct name="Senior Center" votes="357" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="6" text="Shane Hazel (Lib)" totalVotes="81">
+            <VoteType name="Absentee by Mail Votes" votes="2">
+                <Precinct name="Senior Center" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="45">
+                <Precinct name="Senior Center" votes="45" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="34">
+                <Precinct name="Senior Center" votes="34" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="3" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="120">
+            <Precinct name="Senior Center" votes="120" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="7" text="Burt Jones (Rep)" totalVotes="7576">
+            <VoteType name="Absentee by Mail Votes" votes="348">
+                <Precinct name="Senior Center" votes="348" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5325">
+                <Precinct name="Senior Center" votes="5325" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1903">
+                <Precinct name="Senior Center" votes="1903" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="8" text="Charlie Bailey (Dem)" totalVotes="1538">
+            <VoteType name="Absentee by Mail Votes" votes="178">
+                <Precinct name="Senior Center" votes="178" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1009">
+                <Precinct name="Senior Center" votes="1009" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="350">
+                <Precinct name="Senior Center" votes="350" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="9" text="Ryan Graham (Lib)" totalVotes="187">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Senior Center" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="102">
+                <Precinct name="Senior Center" votes="102" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="80">
+                <Precinct name="Senior Center" votes="80" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="4" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="172">
+            <Precinct name="Senior Center" votes="172" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="10" text="Brad Raffensperger (I) (Rep)" totalVotes="7518">
+            <VoteType name="Absentee by Mail Votes" votes="354">
+                <Precinct name="Senior Center" votes="354" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5295">
+                <Precinct name="Senior Center" votes="5295" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1869">
+                <Precinct name="Senior Center" votes="1869" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="11" text="Bee Nguyen (Dem)" totalVotes="1357">
+            <VoteType name="Absentee by Mail Votes" votes="154">
+                <Precinct name="Senior Center" votes="154" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="870">
+                <Precinct name="Senior Center" votes="870" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="332">
+                <Precinct name="Senior Center" votes="332" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="12" text="Ted Metz (Lib)" totalVotes="381">
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Senior Center" votes="15" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="247">
+                <Precinct name="Senior Center" votes="247" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="119">
+                <Precinct name="Senior Center" votes="119" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="108">
+            <Precinct name="Senior Center" votes="108" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="13" text="Chris Carr (I) (Rep)" totalVotes="7620">
+            <VoteType name="Absentee by Mail Votes" votes="348">
+                <Precinct name="Senior Center" votes="348" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5353">
+                <Precinct name="Senior Center" votes="5353" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1919">
+                <Precinct name="Senior Center" votes="1919" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="14" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="1551">
+            <VoteType name="Absentee by Mail Votes" votes="178">
+                <Precinct name="Senior Center" votes="178" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1015">
+                <Precinct name="Senior Center" votes="1015" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="357">
+                <Precinct name="Senior Center" votes="357" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="15" text="Martin Cowen (Lib)" totalVotes="147">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Senior Center" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="82">
+                <Precinct name="Senior Center" votes="82" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="60">
+                <Precinct name="Senior Center" votes="60" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="6" text="Commissioner of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="124">
+            <Precinct name="Senior Center" votes="124" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="16" text="Tyler Harper (Rep)" totalVotes="7674">
+            <VoteType name="Absentee by Mail Votes" votes="357">
+                <Precinct name="Senior Center" votes="357" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5380">
+                <Precinct name="Senior Center" votes="5380" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1937">
+                <Precinct name="Senior Center" votes="1937" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="17" text="Nakita Hemingway (Dem)" totalVotes="1454">
+            <VoteType name="Absentee by Mail Votes" votes="163">
+                <Precinct name="Senior Center" votes="163" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="958">
+                <Precinct name="Senior Center" votes="958" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="332">
+                <Precinct name="Senior Center" votes="332" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="18" text="David Raudabaugh (Lib)" totalVotes="173">
+            <VoteType name="Absentee by Mail Votes" votes="6">
+                <Precinct name="Senior Center" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="100">
+                <Precinct name="Senior Center" votes="100" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="67">
+                <Precinct name="Senior Center" votes="67" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Commissioner of Insurance" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="154">
+            <Precinct name="Senior Center" votes="154" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="19" text="John King (I) (Rep)" totalVotes="7732">
+            <VoteType name="Absentee by Mail Votes" votes="358">
+                <Precinct name="Senior Center" votes="358" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5405">
+                <Precinct name="Senior Center" votes="5405" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1969">
+                <Precinct name="Senior Center" votes="1969" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="Janice Laws Robinson (Dem)" totalVotes="1537">
+            <VoteType name="Absentee by Mail Votes" votes="165">
+                <Precinct name="Senior Center" votes="165" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1014">
+                <Precinct name="Senior Center" votes="1014" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="357">
+                <Precinct name="Senior Center" votes="357" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="8" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="124">
+            <Precinct name="Senior Center" votes="124" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="21" text="Richard Woods (I) (Rep)" totalVotes="7777">
+            <VoteType name="Absentee by Mail Votes" votes="368">
+                <Precinct name="Senior Center" votes="368" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5445">
+                <Precinct name="Senior Center" votes="5445" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1964">
+                <Precinct name="Senior Center" votes="1964" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="22" text="Alisha Thomas Searcy (Dem)" totalVotes="1520">
+            <VoteType name="Absentee by Mail Votes" votes="160">
+                <Precinct name="Senior Center" votes="160" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="990">
+                <Precinct name="Senior Center" votes="990" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="369">
+                <Precinct name="Senior Center" votes="369" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Commissioner of Labor" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="149">
+            <Precinct name="Senior Center" votes="149" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="23" text="Bruce Thompson (Rep)" totalVotes="7602">
+            <VoteType name="Absentee by Mail Votes" votes="351">
+                <Precinct name="Senior Center" votes="351" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5336">
+                <Precinct name="Senior Center" votes="5336" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1915">
+                <Precinct name="Senior Center" votes="1915" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="24" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="1461">
+            <VoteType name="Absentee by Mail Votes" votes="165">
+                <Precinct name="Senior Center" votes="165" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="962">
+                <Precinct name="Senior Center" votes="962" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="333">
+                <Precinct name="Senior Center" votes="333" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="25" text="Emily Anderson (Lib)" totalVotes="216">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Senior Center" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="128">
+                <Precinct name="Senior Center" votes="128" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="84">
+                <Precinct name="Senior Center" votes="84" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="12" text="US House of Representatives - District 9" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="116">
+            <Precinct name="Senior Center" votes="116" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="31" text="Andrew Clyde (I) (Rep)" totalVotes="7652">
+            <VoteType name="Absentee by Mail Votes" votes="352">
+                <Precinct name="Senior Center" votes="352" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5358">
+                <Precinct name="Senior Center" votes="5358" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1942">
+                <Precinct name="Senior Center" votes="1942" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="32" text="Michael &quot;&quot;Mike&quot;&quot; Ford (Dem)" totalVotes="1656">
+            <VoteType name="Absentee by Mail Votes" votes="181">
+                <Precinct name="Senior Center" votes="181" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1079">
+                <Precinct name="Senior Center" votes="1079" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="395">
+                <Precinct name="Senior Center" votes="395" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="State Senate - District 50" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="118">
+            <Precinct name="Senior Center" votes="118" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="33" text="Bo Hatchett (I) (Rep)" totalVotes="7755">
+            <VoteType name="Absentee by Mail Votes" votes="360">
+                <Precinct name="Senior Center" votes="360" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5425">
+                <Precinct name="Senior Center" votes="5425" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1970">
+                <Precinct name="Senior Center" votes="1970" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="34" text="Paulette Williams (Dem)" totalVotes="1551">
+            <VoteType name="Absentee by Mail Votes" votes="174">
+                <Precinct name="Senior Center" votes="174" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1009">
+                <Precinct name="Senior Center" votes="1009" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="367">
+                <Precinct name="Senior Center" votes="367" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="14" text="State House of Representatives - District 32" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="866">
+            <Precinct name="Senior Center" votes="866" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="35" text="Chris Erwin (I) (Rep)" totalVotes="8445">
+            <VoteType name="Absentee by Mail Votes" votes="408">
+                <Precinct name="Senior Center" votes="408" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5874">
+                <Precinct name="Senior Center" votes="5874" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2163">
+                <Precinct name="Senior Center" votes="2163" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="County Commission - Post 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="202">
+            <Precinct name="Senior Center" votes="202" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="36" text="Tara D. Simmons (Rep)" totalVotes="7330">
+            <VoteType name="Absentee by Mail Votes" votes="327">
+                <Precinct name="Senior Center" votes="327" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5108">
+                <Precinct name="Senior Center" votes="5108" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1895">
+                <Precinct name="Senior Center" votes="1895" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="37" text="Kathy Pauly (Dem)" totalVotes="1869">
+            <VoteType name="Absentee by Mail Votes" votes="200">
+                <Precinct name="Senior Center" votes="200" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1254">
+                <Precinct name="Senior Center" votes="1254" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="414">
+                <Precinct name="Senior Center" votes="414" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="16" text="County Commission - Post 4" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="998">
+            <Precinct name="Senior Center" votes="998" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="38" text="Chris Rickman (Rep)" totalVotes="8339">
+            <VoteType name="Absentee by Mail Votes" votes="386">
+                <Precinct name="Senior Center" votes="386" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5808">
+                <Precinct name="Senior Center" votes="5808" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2144">
+                <Precinct name="Senior Center" votes="2144" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="County Commission - Post 5" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1014">
+            <Precinct name="Senior Center" votes="1014" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="39" text="Chuck Wright (Rep)" totalVotes="8323">
+            <VoteType name="Absentee by Mail Votes" votes="388">
+                <Precinct name="Senior Center" votes="388" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5790">
+                <Precinct name="Senior Center" votes="5790" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2144">
+                <Precinct name="Senior Center" votes="2144" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="18" text="County BOE - District 1 Post 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1030">
+            <Precinct name="Senior Center" votes="1030" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="40" text="James Roger &quot;&quot;Jim&quot;&quot; Bellamy (I) (Rep)" totalVotes="8306">
+            <VoteType name="Absentee by Mail Votes" votes="399">
+                <Precinct name="Senior Center" votes="399" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5770">
+                <Precinct name="Senior Center" votes="5770" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2136">
+                <Precinct name="Senior Center" votes="2136" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="County BOE - District 2 Post 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1024">
+            <Precinct name="Senior Center" votes="1024" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="41" text="Tripp Arrowood (Rep)" totalVotes="8325">
+            <VoteType name="Absentee by Mail Votes" votes="386">
+                <Precinct name="Senior Center" votes="386" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5791">
+                <Precinct name="Senior Center" votes="5791" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2147">
+                <Precinct name="Senior Center" votes="2147" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="20" text="County BOE - District 2 Post 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="171">
+            <Precinct name="Senior Center" votes="171" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="42" text="Travis Dobbs (I) (Rep)" totalVotes="7447">
+            <VoteType name="Absentee by Mail Votes" votes="348">
+                <Precinct name="Senior Center" votes="348" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5226">
+                <Precinct name="Senior Center" votes="5226" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1873">
+                <Precinct name="Senior Center" votes="1873" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="43" text="Shantelle Grant (Dem)" totalVotes="1804">
+            <VoteType name="Absentee by Mail Votes" votes="177">
+                <Precinct name="Senior Center" votes="177" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1173">
+                <Precinct name="Senior Center" votes="1173" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="453">
+                <Precinct name="Senior Center" votes="453" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="21" text="County BOE - District 3 Post 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="990">
+            <Precinct name="Senior Center" votes="990" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="44" text="Kay H. Reed (I) (Rep)" totalVotes="8361">
+            <VoteType name="Absentee by Mail Votes" votes="400">
+                <Precinct name="Senior Center" votes="400" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5813">
+                <Precinct name="Senior Center" votes="5813" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2147">
+                <Precinct name="Senior Center" votes="2147" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="22" text="Soil and Water Conservation District Supervisor - Stephens County" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="1507">
+            <Precinct name="Senior Center" votes="1507" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="45" text="Lakie Meeks (I)" totalVotes="7921">
+            <VoteType name="Absentee by Mail Votes" votes="409">
+                <Precinct name="Senior Center" votes="409" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5492">
+                <Precinct name="Senior Center" votes="5492" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2019">
+                <Precinct name="Senior Center" votes="2019" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="23" text="Proposed Constitutional Amendment 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="396">
+            <Precinct name="Senior Center" votes="396" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="46" text="Yes" totalVotes="7942">
+            <VoteType name="Absentee by Mail Votes" votes="450">
+                <Precinct name="Senior Center" votes="450" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5493">
+                <Precinct name="Senior Center" votes="5493" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1998">
+                <Precinct name="Senior Center" votes="1998" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="47" text="No" totalVotes="1090">
+            <VoteType name="Absentee by Mail Votes" votes="57">
+                <Precinct name="Senior Center" votes="57" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="757">
+                <Precinct name="Senior Center" votes="757" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="276">
+                <Precinct name="Senior Center" votes="276" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="24" text="Proposed Constitutional Amendment 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="309">
+            <Precinct name="Senior Center" votes="309" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="48" text="Yes" totalVotes="8204">
+            <VoteType name="Absentee by Mail Votes" votes="468">
+                <Precinct name="Senior Center" votes="468" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5647">
+                <Precinct name="Senior Center" votes="5647" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2088">
+                <Precinct name="Senior Center" votes="2088" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="49" text="No" totalVotes="915">
+            <VoteType name="Absentee by Mail Votes" votes="45">
+                <Precinct name="Senior Center" votes="45" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="661">
+                <Precinct name="Senior Center" votes="661" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="209">
+                <Precinct name="Senior Center" votes="209" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="Statewide Referendum Question 1" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="453">
+            <Precinct name="Senior Center" votes="453" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="1">
+            <Precinct name="Senior Center" votes="1" />
+        </VoteType>
+        <Choice key="50" text="Yes" totalVotes="5598">
+            <VoteType name="Absentee by Mail Votes" votes="233">
+                <Precinct name="Senior Center" votes="233" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3830">
+                <Precinct name="Senior Center" votes="3830" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1534">
+                <Precinct name="Senior Center" votes="1534" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="51" text="No" totalVotes="3376">
+            <VoteType name="Absentee by Mail Votes" votes="270">
+                <Precinct name="Senior Center" votes="270" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2379">
+                <Precinct name="Senior Center" votes="2379" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="727">
+                <Precinct name="Senior Center" votes="727" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="26" text="Statewide Referendum Question 2" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="394">
+            <Precinct name="Senior Center" votes="394" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Senior Center" votes="0" />
+        </VoteType>
+        <Choice key="52" text="Yes" totalVotes="6964">
+            <VoteType name="Absentee by Mail Votes" votes="307">
+                <Precinct name="Senior Center" votes="307" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4782">
+                <Precinct name="Senior Center" votes="4782" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1875">
+                <Precinct name="Senior Center" votes="1875" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Senior Center" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="53" text="No" totalVotes="2070">
+            <VoteType name="Absentee by Mail Votes" votes="193">
+                <Precinct name="Senior Center" votes="193" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1473">
+                <Precinct name="Senior Center" votes="1473" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="403">
+                <Precinct name="Senior Center" votes="403" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Senior Center" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

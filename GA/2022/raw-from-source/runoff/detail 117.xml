@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 12:37:01 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Franklin</Region>
+    <VoterTurnout totalVoters="15240" ballotsCast="8004" voterTurnout="52.52">
+        <Precincts>
+            <Precinct name="Carnesville" totalVoters="0" ballotsCast="1387" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="West Franklin" totalVoters="0" ballotsCast="907" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Northeast Franklin" totalVoters="0" ballotsCast="1572" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Lavonia" totalVoters="0" ballotsCast="1128" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Canon" totalVoters="0" ballotsCast="662" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Royston" totalVoters="0" ballotsCast="983" voterTurnout="0.00" percentReporting="4" />
+            <Precinct name="Southwest Franklin" totalVoters="0" ballotsCast="1365" voterTurnout="0.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="1">
+            <Precinct name="Carnesville" votes="0" />
+            <Precinct name="West Franklin" votes="0" />
+            <Precinct name="Northeast Franklin" votes="0" />
+            <Precinct name="Lavonia" votes="1" />
+            <Precinct name="Canon" votes="0" />
+            <Precinct name="Royston" votes="0" />
+            <Precinct name="Southwest Franklin" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Carnesville" votes="0" />
+            <Precinct name="West Franklin" votes="0" />
+            <Precinct name="Northeast Franklin" votes="0" />
+            <Precinct name="Lavonia" votes="0" />
+            <Precinct name="Canon" votes="0" />
+            <Precinct name="Royston" votes="0" />
+            <Precinct name="Southwest Franklin" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="6926">
+            <VoteType name="Absentee by Mail Votes" votes="240">
+                <Precinct name="Carnesville" votes="40" />
+                <Precinct name="West Franklin" votes="21" />
+                <Precinct name="Northeast Franklin" votes="66" />
+                <Precinct name="Lavonia" votes="22" />
+                <Precinct name="Canon" votes="14" />
+                <Precinct name="Royston" votes="34" />
+                <Precinct name="Southwest Franklin" votes="43" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2943">
+                <Precinct name="Carnesville" votes="636" />
+                <Precinct name="West Franklin" votes="365" />
+                <Precinct name="Northeast Franklin" votes="551" />
+                <Precinct name="Lavonia" votes="351" />
+                <Precinct name="Canon" votes="218" />
+                <Precinct name="Royston" votes="318" />
+                <Precinct name="Southwest Franklin" votes="504" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3742">
+                <Precinct name="Carnesville" votes="579" />
+                <Precinct name="West Franklin" votes="441" />
+                <Precinct name="Northeast Franklin" votes="722" />
+                <Precinct name="Lavonia" votes="508" />
+                <Precinct name="Canon" votes="360" />
+                <Precinct name="Royston" votes="444" />
+                <Precinct name="Southwest Franklin" votes="688" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Carnesville" votes="0" />
+                <Precinct name="West Franklin" votes="0" />
+                <Precinct name="Northeast Franklin" votes="0" />
+                <Precinct name="Lavonia" votes="1" />
+                <Precinct name="Canon" votes="0" />
+                <Precinct name="Royston" votes="0" />
+                <Precinct name="Southwest Franklin" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1077">
+            <VoteType name="Absentee by Mail Votes" votes="99">
+                <Precinct name="Carnesville" votes="7" />
+                <Precinct name="West Franklin" votes="7" />
+                <Precinct name="Northeast Franklin" votes="23" />
+                <Precinct name="Lavonia" votes="21" />
+                <Precinct name="Canon" votes="7" />
+                <Precinct name="Royston" votes="22" />
+                <Precinct name="Southwest Franklin" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="537">
+                <Precinct name="Carnesville" votes="72" />
+                <Precinct name="West Franklin" votes="43" />
+                <Precinct name="Northeast Franklin" votes="117" />
+                <Precinct name="Lavonia" votes="104" />
+                <Precinct name="Canon" votes="35" />
+                <Precinct name="Royston" votes="80" />
+                <Precinct name="Southwest Franklin" votes="86" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="440">
+                <Precinct name="Carnesville" votes="53" />
+                <Precinct name="West Franklin" votes="30" />
+                <Precinct name="Northeast Franklin" votes="93" />
+                <Precinct name="Lavonia" votes="119" />
+                <Precinct name="Canon" votes="28" />
+                <Precinct name="Royston" votes="85" />
+                <Precinct name="Southwest Franklin" votes="32" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Carnesville" votes="0" />
+                <Precinct name="West Franklin" votes="0" />
+                <Precinct name="Northeast Franklin" votes="0" />
+                <Precinct name="Lavonia" votes="1" />
+                <Precinct name="Canon" votes="0" />
+                <Precinct name="Royston" votes="0" />
+                <Precinct name="Southwest Franklin" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

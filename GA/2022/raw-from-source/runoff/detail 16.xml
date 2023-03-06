@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 9:30:47 AM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Rabun</Region>
+    <VoterTurnout totalVoters="12687" ballotsCast="7453" voterTurnout="58.75">
+        <Precincts>
+            <Precinct name="Rabun County" totalVoters="12687" ballotsCast="7453" voterTurnout="58.75" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Rabun County" votes="5" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Rabun County" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="5742">
+            <VoteType name="Absentee by Mail Votes" votes="463">
+                <Precinct name="Rabun County" votes="463" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3595">
+                <Precinct name="Rabun County" votes="3595" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1684">
+                <Precinct name="Rabun County" votes="1684" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1706">
+            <VoteType name="Absentee by Mail Votes" votes="259">
+                <Precinct name="Rabun County" votes="259" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1089">
+                <Precinct name="Rabun County" votes="1089" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="358">
+                <Precinct name="Rabun County" votes="358" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Rabun County" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

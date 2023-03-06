@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 3:36:24 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Pulaski</Region>
+    <VoterTurnout totalVoters="5608" ballotsCast="3194" voterTurnout="56.95">
+        <Precincts>
+            <Precinct name="Annex" totalVoters="5608" ballotsCast="3194" voterTurnout="56.95" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Annex" votes="3" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Annex" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="2205">
+            <VoteType name="Absentee by Mail Votes" votes="114">
+                <Precinct name="Annex" votes="114" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1356">
+                <Precinct name="Annex" votes="1356" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="735">
+                <Precinct name="Annex" votes="735" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Annex" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="986">
+            <VoteType name="Absentee by Mail Votes" votes="128">
+                <Precinct name="Annex" votes="128" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="555">
+                <Precinct name="Annex" votes="555" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="302">
+                <Precinct name="Annex" votes="302" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Annex" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

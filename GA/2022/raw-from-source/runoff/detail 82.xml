@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 2:10:11 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Charlton</Region>
+    <VoterTurnout totalVoters="6199" ballotsCast="3110" voterTurnout="50.17">
+        <Precincts>
+            <Precinct name="Folkston" totalVoters="3840" ballotsCast="1935" voterTurnout="50.39" percentReporting="4" />
+            <Precinct name="GA Bend" totalVoters="455" ballotsCast="220" voterTurnout="48.35" percentReporting="4" />
+            <Precinct name="St. George " totalVoters="593" ballotsCast="282" voterTurnout="47.55" percentReporting="4" />
+            <Precinct name="Homeland" totalVoters="758" ballotsCast="359" voterTurnout="47.36" percentReporting="4" />
+            <Precinct name="Racepond" totalVoters="253" ballotsCast="167" voterTurnout="66.01" percentReporting="4" />
+            <Precinct name="Winokur" totalVoters="300" ballotsCast="147" voterTurnout="49.00" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="6" precinctsReported="6">
+        <VoteType name="Undervotes" votes="3">
+            <Precinct name="Folkston" votes="2" />
+            <Precinct name="GA Bend" votes="0" />
+            <Precinct name="St. George " votes="1" />
+            <Precinct name="Homeland" votes="0" />
+            <Precinct name="Racepond" votes="0" />
+            <Precinct name="Winokur" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Folkston" votes="0" />
+            <Precinct name="GA Bend" votes="0" />
+            <Precinct name="St. George " votes="0" />
+            <Precinct name="Homeland" votes="0" />
+            <Precinct name="Racepond" votes="0" />
+            <Precinct name="Winokur" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="2377">
+            <VoteType name="Absentee by Mail Votes" votes="71">
+                <Precinct name="Folkston" votes="34" />
+                <Precinct name="GA Bend" votes="10" />
+                <Precinct name="St. George " votes="12" />
+                <Precinct name="Homeland" votes="8" />
+                <Precinct name="Racepond" votes="1" />
+                <Precinct name="Winokur" votes="6" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1075">
+                <Precinct name="Folkston" votes="752" />
+                <Precinct name="GA Bend" votes="15" />
+                <Precinct name="St. George " votes="30" />
+                <Precinct name="Homeland" votes="160" />
+                <Precinct name="Racepond" votes="57" />
+                <Precinct name="Winokur" votes="61" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1228">
+                <Precinct name="Folkston" votes="495" />
+                <Precinct name="GA Bend" votes="180" />
+                <Precinct name="St. George " votes="229" />
+                <Precinct name="Homeland" votes="158" />
+                <Precinct name="Racepond" votes="98" />
+                <Precinct name="Winokur" votes="68" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="3">
+                <Precinct name="Folkston" votes="1" />
+                <Precinct name="GA Bend" votes="1" />
+                <Precinct name="St. George " votes="0" />
+                <Precinct name="Homeland" votes="1" />
+                <Precinct name="Racepond" votes="0" />
+                <Precinct name="Winokur" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="730">
+            <VoteType name="Absentee by Mail Votes" votes="46">
+                <Precinct name="Folkston" votes="42" />
+                <Precinct name="GA Bend" votes="1" />
+                <Precinct name="St. George " votes="0" />
+                <Precinct name="Homeland" votes="1" />
+                <Precinct name="Racepond" votes="0" />
+                <Precinct name="Winokur" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="441">
+                <Precinct name="Folkston" votes="413" />
+                <Precinct name="GA Bend" votes="1" />
+                <Precinct name="St. George " votes="1" />
+                <Precinct name="Homeland" votes="15" />
+                <Precinct name="Racepond" votes="6" />
+                <Precinct name="Winokur" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="243">
+                <Precinct name="Folkston" votes="196" />
+                <Precinct name="GA Bend" votes="12" />
+                <Precinct name="St. George " votes="9" />
+                <Precinct name="Homeland" votes="16" />
+                <Precinct name="Racepond" votes="5" />
+                <Precinct name="Winokur" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Folkston" votes="0" />
+                <Precinct name="GA Bend" votes="0" />
+                <Precinct name="St. George " votes="0" />
+                <Precinct name="Homeland" votes="0" />
+                <Precinct name="Racepond" votes="0" />
+                <Precinct name="Winokur" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

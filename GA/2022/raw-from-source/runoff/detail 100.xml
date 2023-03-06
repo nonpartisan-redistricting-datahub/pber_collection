@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/12/2022 10:33:12 AM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Dodge</Region>
+    <VoterTurnout totalVoters="11448" ballotsCast="6264" voterTurnout="54.72">
+        <Precincts>
+            <Precinct name="Chauncey" totalVoters="410" ballotsCast="236" voterTurnout="57.56" percentReporting="4" />
+            <Precinct name="Clark" totalVoters="100" ballotsCast="66" voterTurnout="66.00" percentReporting="4" />
+            <Precinct name="Eddin" totalVoters="1057" ballotsCast="594" voterTurnout="56.20" percentReporting="4" />
+            <Precinct name="Empire" totalVoters="472" ballotsCast="253" voterTurnout="53.60" percentReporting="4" />
+            <Precinct name="Jaybird" totalVoters="225" ballotsCast="123" voterTurnout="54.67" percentReporting="4" />
+            <Precinct name="Jones" totalVoters="443" ballotsCast="252" voterTurnout="56.88" percentReporting="4" />
+            <Precinct name="Lee" totalVoters="4722" ballotsCast="2337" voterTurnout="49.49" percentReporting="4" />
+            <Precinct name="McCranie" totalVoters="296" ballotsCast="198" voterTurnout="66.89" percentReporting="4" />
+            <Precinct name="Milan" totalVoters="349" ballotsCast="182" voterTurnout="52.15" percentReporting="4" />
+            <Precinct name="Mitchell" totalVoters="358" ballotsCast="228" voterTurnout="63.69" percentReporting="4" />
+            <Precinct name="Mullis" totalVoters="520" ballotsCast="299" voterTurnout="57.50" percentReporting="4" />
+            <Precinct name="Plainfield" totalVoters="499" ballotsCast="291" voterTurnout="58.32" percentReporting="4" />
+            <Precinct name="Pondtown" totalVoters="674" ballotsCast="434" voterTurnout="64.39" percentReporting="4" />
+            <Precinct name="Rawlins" totalVoters="911" ballotsCast="481" voterTurnout="52.80" percentReporting="4" />
+            <Precinct name="Vilula" totalVoters="169" ballotsCast="131" voterTurnout="77.51" percentReporting="4" />
+            <Precinct name="Yonker" totalVoters="271" ballotsCast="159" voterTurnout="58.67" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="16" precinctsReported="16">
+        <VoteType name="Undervotes" votes="10">
+            <Precinct name="Chauncey" votes="1" />
+            <Precinct name="Clark" votes="0" />
+            <Precinct name="Eddin" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Jaybird" votes="0" />
+            <Precinct name="Jones" votes="0" />
+            <Precinct name="Lee" votes="5" />
+            <Precinct name="McCranie" votes="0" />
+            <Precinct name="Milan" votes="1" />
+            <Precinct name="Mitchell" votes="0" />
+            <Precinct name="Mullis" votes="1" />
+            <Precinct name="Plainfield" votes="0" />
+            <Precinct name="Pondtown" votes="0" />
+            <Precinct name="Rawlins" votes="1" />
+            <Precinct name="Vilula" votes="0" />
+            <Precinct name="Yonker" votes="1" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Chauncey" votes="0" />
+            <Precinct name="Clark" votes="0" />
+            <Precinct name="Eddin" votes="0" />
+            <Precinct name="Empire" votes="0" />
+            <Precinct name="Jaybird" votes="0" />
+            <Precinct name="Jones" votes="0" />
+            <Precinct name="Lee" votes="0" />
+            <Precinct name="McCranie" votes="0" />
+            <Precinct name="Milan" votes="0" />
+            <Precinct name="Mitchell" votes="0" />
+            <Precinct name="Mullis" votes="0" />
+            <Precinct name="Plainfield" votes="0" />
+            <Precinct name="Pondtown" votes="0" />
+            <Precinct name="Rawlins" votes="0" />
+            <Precinct name="Vilula" votes="0" />
+            <Precinct name="Yonker" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="4634">
+            <VoteType name="Absentee by Mail Votes" votes="216">
+                <Precinct name="Chauncey" votes="6" />
+                <Precinct name="Clark" votes="3" />
+                <Precinct name="Eddin" votes="16" />
+                <Precinct name="Empire" votes="7" />
+                <Precinct name="Jaybird" votes="6" />
+                <Precinct name="Jones" votes="9" />
+                <Precinct name="Lee" votes="94" />
+                <Precinct name="McCranie" votes="9" />
+                <Precinct name="Milan" votes="5" />
+                <Precinct name="Mitchell" votes="4" />
+                <Precinct name="Mullis" votes="5" />
+                <Precinct name="Plainfield" votes="8" />
+                <Precinct name="Pondtown" votes="24" />
+                <Precinct name="Rawlins" votes="16" />
+                <Precinct name="Vilula" votes="4" />
+                <Precinct name="Yonker" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1830">
+                <Precinct name="Chauncey" votes="47" />
+                <Precinct name="Clark" votes="7" />
+                <Precinct name="Eddin" votes="174" />
+                <Precinct name="Empire" votes="64" />
+                <Precinct name="Jaybird" votes="11" />
+                <Precinct name="Jones" votes="83" />
+                <Precinct name="Lee" votes="881" />
+                <Precinct name="McCranie" votes="43" />
+                <Precinct name="Milan" votes="43" />
+                <Precinct name="Mitchell" votes="51" />
+                <Precinct name="Mullis" votes="44" />
+                <Precinct name="Plainfield" votes="76" />
+                <Precinct name="Pondtown" votes="84" />
+                <Precinct name="Rawlins" votes="175" />
+                <Precinct name="Vilula" votes="28" />
+                <Precinct name="Yonker" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2587">
+                <Precinct name="Chauncey" votes="139" />
+                <Precinct name="Clark" votes="53" />
+                <Precinct name="Eddin" votes="214" />
+                <Precinct name="Empire" votes="152" />
+                <Precinct name="Jaybird" votes="57" />
+                <Precinct name="Jones" votes="128" />
+                <Precinct name="Lee" votes="492" />
+                <Precinct name="McCranie" votes="117" />
+                <Precinct name="Milan" votes="105" />
+                <Precinct name="Mitchell" votes="131" />
+                <Precinct name="Mullis" votes="191" />
+                <Precinct name="Plainfield" votes="182" />
+                <Precinct name="Pondtown" votes="230" />
+                <Precinct name="Rawlins" votes="177" />
+                <Precinct name="Vilula" votes="92" />
+                <Precinct name="Yonker" votes="127" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Chauncey" votes="0" />
+                <Precinct name="Clark" votes="0" />
+                <Precinct name="Eddin" votes="0" />
+                <Precinct name="Empire" votes="1" />
+                <Precinct name="Jaybird" votes="0" />
+                <Precinct name="Jones" votes="0" />
+                <Precinct name="Lee" votes="0" />
+                <Precinct name="McCranie" votes="0" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Mitchell" votes="0" />
+                <Precinct name="Mullis" votes="0" />
+                <Precinct name="Plainfield" votes="0" />
+                <Precinct name="Pondtown" votes="0" />
+                <Precinct name="Rawlins" votes="0" />
+                <Precinct name="Vilula" votes="0" />
+                <Precinct name="Yonker" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1620">
+            <VoteType name="Absentee by Mail Votes" votes="156">
+                <Precinct name="Chauncey" votes="2" />
+                <Precinct name="Clark" votes="2" />
+                <Precinct name="Eddin" votes="21" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Jaybird" votes="1" />
+                <Precinct name="Jones" votes="2" />
+                <Precinct name="Lee" votes="94" />
+                <Precinct name="McCranie" votes="1" />
+                <Precinct name="Milan" votes="2" />
+                <Precinct name="Mitchell" votes="4" />
+                <Precinct name="Mullis" votes="5" />
+                <Precinct name="Plainfield" votes="4" />
+                <Precinct name="Pondtown" votes="11" />
+                <Precinct name="Rawlins" votes="4" />
+                <Precinct name="Vilula" votes="2" />
+                <Precinct name="Yonker" votes="1" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="820">
+                <Precinct name="Chauncey" votes="7" />
+                <Precinct name="Clark" votes="1" />
+                <Precinct name="Eddin" votes="92" />
+                <Precinct name="Empire" votes="16" />
+                <Precinct name="Jaybird" votes="19" />
+                <Precinct name="Jones" votes="11" />
+                <Precinct name="Lee" votes="505" />
+                <Precinct name="McCranie" votes="15" />
+                <Precinct name="Milan" votes="9" />
+                <Precinct name="Mitchell" votes="20" />
+                <Precinct name="Mullis" votes="9" />
+                <Precinct name="Plainfield" votes="8" />
+                <Precinct name="Pondtown" votes="36" />
+                <Precinct name="Rawlins" votes="69" />
+                <Precinct name="Vilula" votes="2" />
+                <Precinct name="Yonker" votes="1" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="643">
+                <Precinct name="Chauncey" votes="34" />
+                <Precinct name="Clark" votes="0" />
+                <Precinct name="Eddin" votes="77" />
+                <Precinct name="Empire" votes="13" />
+                <Precinct name="Jaybird" votes="29" />
+                <Precinct name="Jones" votes="19" />
+                <Precinct name="Lee" votes="266" />
+                <Precinct name="McCranie" votes="13" />
+                <Precinct name="Milan" votes="17" />
+                <Precinct name="Mitchell" votes="18" />
+                <Precinct name="Mullis" votes="44" />
+                <Precinct name="Plainfield" votes="13" />
+                <Precinct name="Pondtown" votes="48" />
+                <Precinct name="Rawlins" votes="39" />
+                <Precinct name="Vilula" votes="3" />
+                <Precinct name="Yonker" votes="10" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Chauncey" votes="0" />
+                <Precinct name="Clark" votes="0" />
+                <Precinct name="Eddin" votes="0" />
+                <Precinct name="Empire" votes="0" />
+                <Precinct name="Jaybird" votes="0" />
+                <Precinct name="Jones" votes="0" />
+                <Precinct name="Lee" votes="0" />
+                <Precinct name="McCranie" votes="0" />
+                <Precinct name="Milan" votes="0" />
+                <Precinct name="Mitchell" votes="0" />
+                <Precinct name="Mullis" votes="0" />
+                <Precinct name="Plainfield" votes="0" />
+                <Precinct name="Pondtown" votes="1" />
+                <Precinct name="Rawlins" votes="0" />
+                <Precinct name="Vilula" votes="0" />
+                <Precinct name="Yonker" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

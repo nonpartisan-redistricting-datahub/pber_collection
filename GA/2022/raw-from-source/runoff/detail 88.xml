@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/7/2022 4:51:10 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Clinch</Region>
+    <VoterTurnout totalVoters="4155" ballotsCast="1981" voterTurnout="47.68">
+        <Precincts>
+            <Precinct name="Arabia" totalVoters="108" ballotsCast="66" voterTurnout="61.11" percentReporting="4" />
+            <Precinct name="Argyle" totalVoters="372" ballotsCast="169" voterTurnout="45.43" percentReporting="4" />
+            <Precinct name="Dupont" totalVoters="331" ballotsCast="165" voterTurnout="49.85" percentReporting="4" />
+            <Precinct name="Fargo" totalVoters="253" ballotsCast="137" voterTurnout="54.15" percentReporting="4" />
+            <Precinct name="Homerville" totalVoters="3091" ballotsCast="1444" voterTurnout="46.72" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="4">
+            <Precinct name="Arabia" votes="0" />
+            <Precinct name="Argyle" votes="0" />
+            <Precinct name="Dupont" votes="0" />
+            <Precinct name="Fargo" votes="0" />
+            <Precinct name="Homerville" votes="4" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Arabia" votes="0" />
+            <Precinct name="Argyle" votes="0" />
+            <Precinct name="Dupont" votes="0" />
+            <Precinct name="Fargo" votes="0" />
+            <Precinct name="Homerville" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="1514">
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Arabia" votes="0" />
+                <Precinct name="Argyle" votes="0" />
+                <Precinct name="Dupont" votes="5" />
+                <Precinct name="Fargo" votes="0" />
+                <Precinct name="Homerville" votes="27" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="682">
+                <Precinct name="Arabia" votes="11" />
+                <Precinct name="Argyle" votes="40" />
+                <Precinct name="Dupont" votes="29" />
+                <Precinct name="Fargo" votes="18" />
+                <Precinct name="Homerville" votes="584" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="800">
+                <Precinct name="Arabia" votes="51" />
+                <Precinct name="Argyle" votes="107" />
+                <Precinct name="Dupont" votes="97" />
+                <Precinct name="Fargo" votes="100" />
+                <Precinct name="Homerville" votes="445" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arabia" votes="0" />
+                <Precinct name="Argyle" votes="0" />
+                <Precinct name="Dupont" votes="0" />
+                <Precinct name="Fargo" votes="0" />
+                <Precinct name="Homerville" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="463">
+            <VoteType name="Absentee by Mail Votes" votes="15">
+                <Precinct name="Arabia" votes="0" />
+                <Precinct name="Argyle" votes="1" />
+                <Precinct name="Dupont" votes="3" />
+                <Precinct name="Fargo" votes="0" />
+                <Precinct name="Homerville" votes="11" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="257">
+                <Precinct name="Arabia" votes="2" />
+                <Precinct name="Argyle" votes="7" />
+                <Precinct name="Dupont" votes="9" />
+                <Precinct name="Fargo" votes="7" />
+                <Precinct name="Homerville" votes="232" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="191">
+                <Precinct name="Arabia" votes="2" />
+                <Precinct name="Argyle" votes="14" />
+                <Precinct name="Dupont" votes="22" />
+                <Precinct name="Fargo" votes="12" />
+                <Precinct name="Homerville" votes="141" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Arabia" votes="0" />
+                <Precinct name="Argyle" votes="0" />
+                <Precinct name="Dupont" votes="0" />
+                <Precinct name="Fargo" votes="0" />
+                <Precinct name="Homerville" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

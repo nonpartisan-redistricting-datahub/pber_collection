@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 5:21:39 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Greene</Region>
+    <VoterTurnout totalVoters="14858" ballotsCast="9695" voterTurnout="65.25">
+        <Precincts>
+            <Precinct name="Greensboro" totalVoters="4017" ballotsCast="2143" voterTurnout="53.35" percentReporting="4" />
+            <Precinct name="Union Point" totalVoters="1812" ballotsCast="948" voterTurnout="52.32" percentReporting="4" />
+            <Precinct name="Siloam" totalVoters="988" ballotsCast="518" voterTurnout="52.43" percentReporting="4" />
+            <Precinct name="White Plains" totalVoters="380" ballotsCast="220" voterTurnout="57.89" percentReporting="4" />
+            <Precinct name="Old Salem" totalVoters="7668" ballotsCast="5866" voterTurnout="76.50" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Undervotes" votes="16">
+            <Precinct name="Greensboro" votes="4" />
+            <Precinct name="Union Point" votes="1" />
+            <Precinct name="Siloam" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Old Salem" votes="11" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Greensboro" votes="0" />
+            <Precinct name="Union Point" votes="0" />
+            <Precinct name="Siloam" votes="0" />
+            <Precinct name="White Plains" votes="0" />
+            <Precinct name="Old Salem" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="6278">
+            <VoteType name="Absentee by Mail Votes" votes="285">
+                <Precinct name="Greensboro" votes="38" />
+                <Precinct name="Union Point" votes="12" />
+                <Precinct name="Siloam" votes="6" />
+                <Precinct name="White Plains" votes="6" />
+                <Precinct name="Old Salem" votes="223" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3968">
+                <Precinct name="Greensboro" votes="639" />
+                <Precinct name="Union Point" votes="196" />
+                <Precinct name="Siloam" votes="117" />
+                <Precinct name="White Plains" votes="58" />
+                <Precinct name="Old Salem" votes="2958" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="2025">
+                <Precinct name="Greensboro" votes="337" />
+                <Precinct name="Union Point" votes="224" />
+                <Precinct name="Siloam" votes="134" />
+                <Precinct name="White Plains" votes="56" />
+                <Precinct name="Old Salem" votes="1274" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Greensboro" votes="0" />
+                <Precinct name="Union Point" votes="0" />
+                <Precinct name="Siloam" votes="0" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="3401">
+            <VoteType name="Absentee by Mail Votes" votes="336">
+                <Precinct name="Greensboro" votes="106" />
+                <Precinct name="Union Point" votes="44" />
+                <Precinct name="Siloam" votes="15" />
+                <Precinct name="White Plains" votes="10" />
+                <Precinct name="Old Salem" votes="161" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1941">
+                <Precinct name="Greensboro" votes="643" />
+                <Precinct name="Union Point" votes="189" />
+                <Precinct name="Siloam" votes="88" />
+                <Precinct name="White Plains" votes="49" />
+                <Precinct name="Old Salem" votes="972" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1124">
+                <Precinct name="Greensboro" votes="376" />
+                <Precinct name="Union Point" votes="282" />
+                <Precinct name="Siloam" votes="158" />
+                <Precinct name="White Plains" votes="41" />
+                <Precinct name="Old Salem" votes="267" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Greensboro" votes="0" />
+                <Precinct name="Union Point" votes="0" />
+                <Precinct name="Siloam" votes="0" />
+                <Precinct name="White Plains" votes="0" />
+                <Precinct name="Old Salem" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

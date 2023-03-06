@@ -1,0 +1,3061 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>11/14/2022 5:24:51 PM EST</Timestamp>
+    <ElectionName>November 8, 2022 - General/Special Election</ElectionName>
+    <ElectionDate>11/8/2022</ElectionDate>
+    <Region>Fannin</Region>
+    <VoterTurnout totalVoters="20106" ballotsCast="12683" voterTurnout="63.08">
+        <Precincts>
+            <Precinct name="Colwell" totalVoters="1098" ballotsCast="788" voterTurnout="71.77" percentReporting="4" />
+            <Precinct name="Fairplay" totalVoters="1207" ballotsCast="743" voterTurnout="61.56" percentReporting="4" />
+            <Precinct name="Flinthill" totalVoters="3099" ballotsCast="1755" voterTurnout="56.63" percentReporting="4" />
+            <Precinct name="Hemptown" totalVoters="1389" ballotsCast="902" voterTurnout="64.94" percentReporting="4" />
+            <Precinct name="Hothouse" totalVoters="1245" ballotsCast="783" voterTurnout="62.89" percentReporting="4" />
+            <Precinct name="Mineral Bluff" totalVoters="1924" ballotsCast="1271" voterTurnout="66.06" percentReporting="4" />
+            <Precinct name="Mobile" totalVoters="1136" ballotsCast="711" voterTurnout="62.59" percentReporting="4" />
+            <Precinct name="Morganton" totalVoters="2073" ballotsCast="1342" voterTurnout="64.74" percentReporting="4" />
+            <Precinct name="Noontootla" totalVoters="836" ballotsCast="608" voterTurnout="72.73" percentReporting="4" />
+            <Precinct name="Skeniah" totalVoters="313" ballotsCast="226" voterTurnout="72.20" percentReporting="4" />
+            <Precinct name="Sugar Creek" totalVoters="2357" ballotsCast="1525" voterTurnout="64.70" percentReporting="4" />
+            <Precinct name="Toccoa" totalVoters="3429" ballotsCast="2029" voterTurnout="59.17" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="3" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="106">
+            <Precinct name="Colwell" votes="6" />
+            <Precinct name="Fairplay" votes="4" />
+            <Precinct name="Flinthill" votes="11" />
+            <Precinct name="Hemptown" votes="10" />
+            <Precinct name="Hothouse" votes="3" />
+            <Precinct name="Mineral Bluff" votes="14" />
+            <Precinct name="Mobile" votes="3" />
+            <Precinct name="Morganton" votes="12" />
+            <Precinct name="Noontootla" votes="2" />
+            <Precinct name="Skeniah" votes="6" />
+            <Precinct name="Sugar Creek" votes="15" />
+            <Precinct name="Toccoa" votes="20" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="53" text="Herschel Junior Walker (Rep)" totalVotes="10036">
+            <VoteType name="Absentee by Mail Votes" votes="540">
+                <Precinct name="Colwell" votes="30" />
+                <Precinct name="Fairplay" votes="26" />
+                <Precinct name="Flinthill" votes="79" />
+                <Precinct name="Hemptown" votes="25" />
+                <Precinct name="Hothouse" votes="35" />
+                <Precinct name="Mineral Bluff" votes="47" />
+                <Precinct name="Mobile" votes="28" />
+                <Precinct name="Morganton" votes="57" />
+                <Precinct name="Noontootla" votes="16" />
+                <Precinct name="Skeniah" votes="7" />
+                <Precinct name="Sugar Creek" votes="84" />
+                <Precinct name="Toccoa" votes="106" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4530">
+                <Precinct name="Colwell" votes="253" />
+                <Precinct name="Fairplay" votes="261" />
+                <Precinct name="Flinthill" votes="578" />
+                <Precinct name="Hemptown" votes="272" />
+                <Precinct name="Hothouse" votes="279" />
+                <Precinct name="Mineral Bluff" votes="528" />
+                <Precinct name="Mobile" votes="191" />
+                <Precinct name="Morganton" votes="433" />
+                <Precinct name="Noontootla" votes="199" />
+                <Precinct name="Skeniah" votes="51" />
+                <Precinct name="Sugar Creek" votes="636" />
+                <Precinct name="Toccoa" votes="849" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4952">
+                <Precinct name="Colwell" votes="329" />
+                <Precinct name="Fairplay" votes="312" />
+                <Precinct name="Flinthill" votes="794" />
+                <Precinct name="Hemptown" votes="412" />
+                <Precinct name="Hothouse" votes="310" />
+                <Precinct name="Mineral Bluff" votes="436" />
+                <Precinct name="Mobile" votes="372" />
+                <Precinct name="Morganton" votes="569" />
+                <Precinct name="Noontootla" votes="245" />
+                <Precinct name="Skeniah" votes="115" />
+                <Precinct name="Sugar Creek" votes="480" />
+                <Precinct name="Toccoa" votes="578" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="14">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="54" text="Raphael Warnock (I) (Dem)" totalVotes="2230">
+            <VoteType name="Absentee by Mail Votes" votes="333">
+                <Precinct name="Colwell" votes="37" />
+                <Precinct name="Fairplay" votes="23" />
+                <Precinct name="Flinthill" votes="37" />
+                <Precinct name="Hemptown" votes="24" />
+                <Precinct name="Hothouse" votes="15" />
+                <Precinct name="Mineral Bluff" votes="25" />
+                <Precinct name="Mobile" votes="20" />
+                <Precinct name="Morganton" votes="40" />
+                <Precinct name="Noontootla" votes="18" />
+                <Precinct name="Skeniah" votes="5" />
+                <Precinct name="Sugar Creek" votes="33" />
+                <Precinct name="Toccoa" votes="56" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1245">
+                <Precinct name="Colwell" votes="79" />
+                <Precinct name="Fairplay" votes="74" />
+                <Precinct name="Flinthill" votes="104" />
+                <Precinct name="Hemptown" votes="91" />
+                <Precinct name="Hothouse" votes="76" />
+                <Precinct name="Mineral Bluff" votes="140" />
+                <Precinct name="Mobile" votes="44" />
+                <Precinct name="Morganton" votes="112" />
+                <Precinct name="Noontootla" votes="60" />
+                <Precinct name="Skeniah" votes="17" />
+                <Precinct name="Sugar Creek" votes="175" />
+                <Precinct name="Toccoa" votes="273" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="652">
+                <Precinct name="Colwell" votes="34" />
+                <Precinct name="Fairplay" votes="35" />
+                <Precinct name="Flinthill" votes="113" />
+                <Precinct name="Hemptown" votes="46" />
+                <Precinct name="Hothouse" votes="41" />
+                <Precinct name="Mineral Bluff" votes="38" />
+                <Precinct name="Mobile" votes="39" />
+                <Precinct name="Morganton" votes="84" />
+                <Precinct name="Noontootla" votes="51" />
+                <Precinct name="Skeniah" votes="21" />
+                <Precinct name="Sugar Creek" votes="66" />
+                <Precinct name="Toccoa" votes="84" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="55" text="Chase Oliver (Lib)" totalVotes="290">
+            <VoteType name="Absentee by Mail Votes" votes="32">
+                <Precinct name="Colwell" votes="2" />
+                <Precinct name="Fairplay" votes="1" />
+                <Precinct name="Flinthill" votes="3" />
+                <Precinct name="Hemptown" votes="3" />
+                <Precinct name="Hothouse" votes="1" />
+                <Precinct name="Mineral Bluff" votes="8" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="1" />
+                <Precinct name="Sugar Creek" votes="3" />
+                <Precinct name="Toccoa" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="120">
+                <Precinct name="Colwell" votes="13" />
+                <Precinct name="Fairplay" votes="1" />
+                <Precinct name="Flinthill" votes="14" />
+                <Precinct name="Hemptown" votes="10" />
+                <Precinct name="Hothouse" votes="8" />
+                <Precinct name="Mineral Bluff" votes="18" />
+                <Precinct name="Mobile" votes="1" />
+                <Precinct name="Morganton" votes="11" />
+                <Precinct name="Noontootla" votes="6" />
+                <Precinct name="Skeniah" votes="2" />
+                <Precinct name="Sugar Creek" votes="14" />
+                <Precinct name="Toccoa" votes="22" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="138">
+                <Precinct name="Colwell" votes="4" />
+                <Precinct name="Fairplay" votes="6" />
+                <Precinct name="Flinthill" votes="17" />
+                <Precinct name="Hemptown" votes="9" />
+                <Precinct name="Hothouse" votes="10" />
+                <Precinct name="Mineral Bluff" votes="16" />
+                <Precinct name="Mobile" votes="12" />
+                <Precinct name="Morganton" votes="16" />
+                <Precinct name="Noontootla" votes="9" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="14" />
+                <Precinct name="Toccoa" votes="25" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="5" text="Governor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="40">
+            <Precinct name="Colwell" votes="1" />
+            <Precinct name="Fairplay" votes="7" />
+            <Precinct name="Flinthill" votes="3" />
+            <Precinct name="Hemptown" votes="2" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="7" />
+            <Precinct name="Mobile" votes="4" />
+            <Precinct name="Morganton" votes="5" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="4" />
+            <Precinct name="Toccoa" votes="7" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="56" text="Brian Kemp (I) (Rep)" totalVotes="10752">
+            <VoteType name="Absentee by Mail Votes" votes="619">
+                <Precinct name="Colwell" votes="37" />
+                <Precinct name="Fairplay" votes="30" />
+                <Precinct name="Flinthill" votes="83" />
+                <Precinct name="Hemptown" votes="31" />
+                <Precinct name="Hothouse" votes="42" />
+                <Precinct name="Mineral Bluff" votes="61" />
+                <Precinct name="Mobile" votes="33" />
+                <Precinct name="Morganton" votes="69" />
+                <Precinct name="Noontootla" votes="20" />
+                <Precinct name="Skeniah" votes="9" />
+                <Precinct name="Sugar Creek" votes="90" />
+                <Precinct name="Toccoa" votes="114" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4860">
+                <Precinct name="Colwell" votes="272" />
+                <Precinct name="Fairplay" votes="272" />
+                <Precinct name="Flinthill" votes="613" />
+                <Precinct name="Hemptown" votes="291" />
+                <Precinct name="Hothouse" votes="294" />
+                <Precinct name="Mineral Bluff" votes="579" />
+                <Precinct name="Mobile" votes="198" />
+                <Precinct name="Morganton" votes="460" />
+                <Precinct name="Noontootla" votes="218" />
+                <Precinct name="Skeniah" votes="58" />
+                <Precinct name="Sugar Creek" votes="682" />
+                <Precinct name="Toccoa" votes="923" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5259">
+                <Precinct name="Colwell" votes="341" />
+                <Precinct name="Fairplay" votes="328" />
+                <Precinct name="Flinthill" votes="845" />
+                <Precinct name="Hemptown" votes="432" />
+                <Precinct name="Hothouse" votes="330" />
+                <Precinct name="Mineral Bluff" votes="459" />
+                <Precinct name="Mobile" votes="392" />
+                <Precinct name="Morganton" votes="605" />
+                <Precinct name="Noontootla" votes="269" />
+                <Precinct name="Skeniah" votes="128" />
+                <Precinct name="Sugar Creek" votes="507" />
+                <Precinct name="Toccoa" votes="623" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="14">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="57" text="Stacey Abrams (Dem)" totalVotes="1796">
+            <VoteType name="Absentee by Mail Votes" votes="287">
+                <Precinct name="Colwell" votes="33" />
+                <Precinct name="Fairplay" votes="20" />
+                <Precinct name="Flinthill" votes="35" />
+                <Precinct name="Hemptown" votes="20" />
+                <Precinct name="Hothouse" votes="9" />
+                <Precinct name="Mineral Bluff" votes="23" />
+                <Precinct name="Mobile" votes="15" />
+                <Precinct name="Morganton" votes="32" />
+                <Precinct name="Noontootla" votes="14" />
+                <Precinct name="Skeniah" votes="4" />
+                <Precinct name="Sugar Creek" votes="31" />
+                <Precinct name="Toccoa" votes="51" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1033">
+                <Precinct name="Colwell" votes="72" />
+                <Precinct name="Fairplay" votes="61" />
+                <Precinct name="Flinthill" votes="80" />
+                <Precinct name="Hemptown" votes="79" />
+                <Precinct name="Hothouse" votes="68" />
+                <Precinct name="Mineral Bluff" votes="105" />
+                <Precinct name="Mobile" votes="37" />
+                <Precinct name="Morganton" votes="97" />
+                <Precinct name="Noontootla" votes="45" />
+                <Precinct name="Skeniah" votes="14" />
+                <Precinct name="Sugar Creek" votes="146" />
+                <Precinct name="Toccoa" votes="229" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="476">
+                <Precinct name="Colwell" votes="26" />
+                <Precinct name="Fairplay" votes="21" />
+                <Precinct name="Flinthill" votes="83" />
+                <Precinct name="Hemptown" votes="38" />
+                <Precinct name="Hothouse" votes="30" />
+                <Precinct name="Mineral Bluff" votes="28" />
+                <Precinct name="Mobile" votes="25" />
+                <Precinct name="Morganton" votes="59" />
+                <Precinct name="Noontootla" votes="37" />
+                <Precinct name="Skeniah" votes="12" />
+                <Precinct name="Sugar Creek" votes="52" />
+                <Precinct name="Toccoa" votes="65" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="58" text="Shane Hazel (Lib)" totalVotes="89">
+            <VoteType name="Absentee by Mail Votes" votes="5">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="1" />
+                <Precinct name="Hemptown" votes="1" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="34">
+                <Precinct name="Colwell" votes="2" />
+                <Precinct name="Fairplay" votes="1" />
+                <Precinct name="Flinthill" votes="5" />
+                <Precinct name="Hemptown" votes="4" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="5" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="2" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="5" />
+                <Precinct name="Toccoa" votes="5" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="50">
+                <Precinct name="Colwell" votes="3" />
+                <Precinct name="Fairplay" votes="3" />
+                <Precinct name="Flinthill" votes="5" />
+                <Precinct name="Hemptown" votes="3" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="3" />
+                <Precinct name="Mobile" votes="6" />
+                <Precinct name="Morganton" votes="9" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="1" />
+                <Precinct name="Sugar Creek" votes="6" />
+                <Precinct name="Toccoa" votes="7" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="7" text="Lieutenant Governor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="166">
+            <Precinct name="Colwell" votes="7" />
+            <Precinct name="Fairplay" votes="16" />
+            <Precinct name="Flinthill" votes="32" />
+            <Precinct name="Hemptown" votes="13" />
+            <Precinct name="Hothouse" votes="6" />
+            <Precinct name="Mineral Bluff" votes="21" />
+            <Precinct name="Mobile" votes="8" />
+            <Precinct name="Morganton" votes="12" />
+            <Precinct name="Noontootla" votes="9" />
+            <Precinct name="Skeniah" votes="3" />
+            <Precinct name="Sugar Creek" votes="21" />
+            <Precinct name="Toccoa" votes="18" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="59" text="Burt Jones (Rep)" totalVotes="10320">
+            <VoteType name="Absentee by Mail Votes" votes="584">
+                <Precinct name="Colwell" votes="35" />
+                <Precinct name="Fairplay" votes="27" />
+                <Precinct name="Flinthill" votes="81" />
+                <Precinct name="Hemptown" votes="28" />
+                <Precinct name="Hothouse" votes="41" />
+                <Precinct name="Mineral Bluff" votes="58" />
+                <Precinct name="Mobile" votes="33" />
+                <Precinct name="Morganton" votes="63" />
+                <Precinct name="Noontootla" votes="18" />
+                <Precinct name="Skeniah" votes="6" />
+                <Precinct name="Sugar Creek" votes="84" />
+                <Precinct name="Toccoa" votes="110" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4684">
+                <Precinct name="Colwell" votes="264" />
+                <Precinct name="Fairplay" votes="265" />
+                <Precinct name="Flinthill" votes="584" />
+                <Precinct name="Hemptown" votes="279" />
+                <Precinct name="Hothouse" votes="285" />
+                <Precinct name="Mineral Bluff" votes="555" />
+                <Precinct name="Mobile" votes="193" />
+                <Precinct name="Morganton" votes="451" />
+                <Precinct name="Noontootla" votes="199" />
+                <Precinct name="Skeniah" votes="56" />
+                <Precinct name="Sugar Creek" votes="662" />
+                <Precinct name="Toccoa" votes="891" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5038">
+                <Precinct name="Colwell" votes="327" />
+                <Precinct name="Fairplay" votes="311" />
+                <Precinct name="Flinthill" votes="813" />
+                <Precinct name="Hemptown" votes="418" />
+                <Precinct name="Hothouse" votes="312" />
+                <Precinct name="Mineral Bluff" votes="442" />
+                <Precinct name="Mobile" votes="374" />
+                <Precinct name="Morganton" votes="582" />
+                <Precinct name="Noontootla" votes="248" />
+                <Precinct name="Skeniah" votes="117" />
+                <Precinct name="Sugar Creek" votes="494" />
+                <Precinct name="Toccoa" votes="600" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="14">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="60" text="Charlie Bailey (Dem)" totalVotes="1991">
+            <VoteType name="Absentee by Mail Votes" votes="312">
+                <Precinct name="Colwell" votes="34" />
+                <Precinct name="Fairplay" votes="22" />
+                <Precinct name="Flinthill" votes="37" />
+                <Precinct name="Hemptown" votes="21" />
+                <Precinct name="Hothouse" votes="10" />
+                <Precinct name="Mineral Bluff" votes="24" />
+                <Precinct name="Mobile" votes="14" />
+                <Precinct name="Morganton" votes="38" />
+                <Precinct name="Noontootla" votes="16" />
+                <Precinct name="Skeniah" votes="5" />
+                <Precinct name="Sugar Creek" votes="33" />
+                <Precinct name="Toccoa" votes="58" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1120">
+                <Precinct name="Colwell" votes="75" />
+                <Precinct name="Fairplay" votes="68" />
+                <Precinct name="Flinthill" votes="92" />
+                <Precinct name="Hemptown" votes="86" />
+                <Precinct name="Hothouse" votes="69" />
+                <Precinct name="Mineral Bluff" votes="119" />
+                <Precinct name="Mobile" votes="42" />
+                <Precinct name="Morganton" votes="102" />
+                <Precinct name="Noontootla" votes="55" />
+                <Precinct name="Skeniah" votes="14" />
+                <Precinct name="Sugar Creek" votes="153" />
+                <Precinct name="Toccoa" votes="245" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="559">
+                <Precinct name="Colwell" votes="33" />
+                <Precinct name="Fairplay" votes="26" />
+                <Precinct name="Flinthill" votes="92" />
+                <Precinct name="Hemptown" votes="40" />
+                <Precinct name="Hothouse" votes="38" />
+                <Precinct name="Mineral Bluff" votes="34" />
+                <Precinct name="Mobile" votes="33" />
+                <Precinct name="Morganton" votes="69" />
+                <Precinct name="Noontootla" votes="48" />
+                <Precinct name="Skeniah" votes="19" />
+                <Precinct name="Sugar Creek" votes="55" />
+                <Precinct name="Toccoa" votes="72" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="61" text="Ryan Graham (Lib)" totalVotes="198">
+            <VoteType name="Absentee by Mail Votes" votes="9">
+                <Precinct name="Colwell" votes="1" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="1" />
+                <Precinct name="Hemptown" votes="2" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="1" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="1" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="2" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="70">
+                <Precinct name="Colwell" votes="6" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="8" />
+                <Precinct name="Hemptown" votes="6" />
+                <Precinct name="Hothouse" votes="7" />
+                <Precinct name="Mineral Bluff" votes="9" />
+                <Precinct name="Mobile" votes="1" />
+                <Precinct name="Morganton" votes="5" />
+                <Precinct name="Noontootla" votes="5" />
+                <Precinct name="Skeniah" votes="2" />
+                <Precinct name="Sugar Creek" votes="10" />
+                <Precinct name="Toccoa" votes="11" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="119">
+                <Precinct name="Colwell" votes="6" />
+                <Precinct name="Fairplay" votes="8" />
+                <Precinct name="Flinthill" votes="12" />
+                <Precinct name="Hemptown" votes="9" />
+                <Precinct name="Hothouse" votes="10" />
+                <Precinct name="Mineral Bluff" votes="7" />
+                <Precinct name="Mobile" votes="11" />
+                <Precinct name="Morganton" votes="16" />
+                <Precinct name="Noontootla" votes="9" />
+                <Precinct name="Skeniah" votes="2" />
+                <Precinct name="Sugar Creek" votes="11" />
+                <Precinct name="Toccoa" votes="18" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="9" text="Secretary of State" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="219">
+            <Precinct name="Colwell" votes="11" />
+            <Precinct name="Fairplay" votes="24" />
+            <Precinct name="Flinthill" votes="52" />
+            <Precinct name="Hemptown" votes="10" />
+            <Precinct name="Hothouse" votes="12" />
+            <Precinct name="Mineral Bluff" votes="21" />
+            <Precinct name="Mobile" votes="11" />
+            <Precinct name="Morganton" votes="21" />
+            <Precinct name="Noontootla" votes="8" />
+            <Precinct name="Skeniah" votes="3" />
+            <Precinct name="Sugar Creek" votes="18" />
+            <Precinct name="Toccoa" votes="28" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="62" text="Brad Raffensperger (I) (Rep)" totalVotes="10194">
+            <VoteType name="Absentee by Mail Votes" votes="607">
+                <Precinct name="Colwell" votes="41" />
+                <Precinct name="Fairplay" votes="31" />
+                <Precinct name="Flinthill" votes="76" />
+                <Precinct name="Hemptown" votes="31" />
+                <Precinct name="Hothouse" votes="40" />
+                <Precinct name="Mineral Bluff" votes="57" />
+                <Precinct name="Mobile" votes="33" />
+                <Precinct name="Morganton" votes="70" />
+                <Precinct name="Noontootla" votes="22" />
+                <Precinct name="Skeniah" votes="7" />
+                <Precinct name="Sugar Creek" votes="87" />
+                <Precinct name="Toccoa" votes="112" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4661">
+                <Precinct name="Colwell" votes="260" />
+                <Precinct name="Fairplay" votes="253" />
+                <Precinct name="Flinthill" votes="574" />
+                <Precinct name="Hemptown" votes="284" />
+                <Precinct name="Hothouse" votes="284" />
+                <Precinct name="Mineral Bluff" votes="567" />
+                <Precinct name="Mobile" votes="191" />
+                <Precinct name="Morganton" votes="440" />
+                <Precinct name="Noontootla" votes="202" />
+                <Precinct name="Skeniah" votes="48" />
+                <Precinct name="Sugar Creek" votes="665" />
+                <Precinct name="Toccoa" votes="893" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4913">
+                <Precinct name="Colwell" votes="314" />
+                <Precinct name="Fairplay" votes="306" />
+                <Precinct name="Flinthill" votes="800" />
+                <Precinct name="Hemptown" votes="407" />
+                <Precinct name="Hothouse" votes="298" />
+                <Precinct name="Mineral Bluff" votes="428" />
+                <Precinct name="Mobile" votes="367" />
+                <Precinct name="Morganton" votes="561" />
+                <Precinct name="Noontootla" votes="251" />
+                <Precinct name="Skeniah" votes="120" />
+                <Precinct name="Sugar Creek" votes="482" />
+                <Precinct name="Toccoa" votes="579" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="13">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="63" text="Bee Nguyen (Dem)" totalVotes="1775">
+            <VoteType name="Absentee by Mail Votes" votes="269">
+                <Precinct name="Colwell" votes="28" />
+                <Precinct name="Fairplay" votes="19" />
+                <Precinct name="Flinthill" votes="33" />
+                <Precinct name="Hemptown" votes="19" />
+                <Precinct name="Hothouse" votes="9" />
+                <Precinct name="Mineral Bluff" votes="23" />
+                <Precinct name="Mobile" votes="13" />
+                <Precinct name="Morganton" votes="29" />
+                <Precinct name="Noontootla" votes="13" />
+                <Precinct name="Skeniah" votes="5" />
+                <Precinct name="Sugar Creek" votes="30" />
+                <Precinct name="Toccoa" votes="48" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="989">
+                <Precinct name="Colwell" votes="62" />
+                <Precinct name="Fairplay" votes="64" />
+                <Precinct name="Flinthill" votes="81" />
+                <Precinct name="Hemptown" votes="74" />
+                <Precinct name="Hothouse" votes="63" />
+                <Precinct name="Mineral Bluff" votes="100" />
+                <Precinct name="Mobile" votes="37" />
+                <Precinct name="Morganton" votes="92" />
+                <Precinct name="Noontootla" votes="45" />
+                <Precinct name="Skeniah" votes="15" />
+                <Precinct name="Sugar Creek" votes="140" />
+                <Precinct name="Toccoa" votes="216" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="517">
+                <Precinct name="Colwell" votes="29" />
+                <Precinct name="Fairplay" votes="21" />
+                <Precinct name="Flinthill" votes="89" />
+                <Precinct name="Hemptown" votes="38" />
+                <Precinct name="Hothouse" votes="39" />
+                <Precinct name="Mineral Bluff" votes="33" />
+                <Precinct name="Mobile" votes="31" />
+                <Precinct name="Morganton" votes="62" />
+                <Precinct name="Noontootla" votes="38" />
+                <Precinct name="Skeniah" votes="15" />
+                <Precinct name="Sugar Creek" votes="55" />
+                <Precinct name="Toccoa" votes="67" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="97" text="Ted Metz (Lib)" totalVotes="481">
+            <VoteType name="Absentee by Mail Votes" votes="18">
+                <Precinct name="Colwell" votes="1" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="2" />
+                <Precinct name="Hothouse" votes="1" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="1" />
+                <Precinct name="Morganton" votes="1" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="7" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="193">
+                <Precinct name="Colwell" votes="20" />
+                <Precinct name="Fairplay" votes="9" />
+                <Precinct name="Flinthill" votes="22" />
+                <Precinct name="Hemptown" votes="13" />
+                <Precinct name="Hothouse" votes="11" />
+                <Precinct name="Mineral Bluff" votes="16" />
+                <Precinct name="Mobile" votes="6" />
+                <Precinct name="Morganton" votes="18" />
+                <Precinct name="Noontootla" votes="10" />
+                <Precinct name="Skeniah" votes="9" />
+                <Precinct name="Sugar Creek" votes="22" />
+                <Precinct name="Toccoa" votes="37" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="269">
+                <Precinct name="Colwell" votes="20" />
+                <Precinct name="Fairplay" votes="14" />
+                <Precinct name="Flinthill" votes="24" />
+                <Precinct name="Hemptown" votes="22" />
+                <Precinct name="Hothouse" votes="19" />
+                <Precinct name="Mineral Bluff" votes="24" />
+                <Precinct name="Mobile" votes="21" />
+                <Precinct name="Morganton" votes="45" />
+                <Precinct name="Noontootla" votes="16" />
+                <Precinct name="Skeniah" votes="4" />
+                <Precinct name="Sugar Creek" votes="21" />
+                <Precinct name="Toccoa" votes="39" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="11" text="Attorney General" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="127">
+            <Precinct name="Colwell" votes="4" />
+            <Precinct name="Fairplay" votes="12" />
+            <Precinct name="Flinthill" votes="23" />
+            <Precinct name="Hemptown" votes="11" />
+            <Precinct name="Hothouse" votes="7" />
+            <Precinct name="Mineral Bluff" votes="9" />
+            <Precinct name="Mobile" votes="9" />
+            <Precinct name="Morganton" votes="12" />
+            <Precinct name="Noontootla" votes="4" />
+            <Precinct name="Skeniah" votes="4" />
+            <Precinct name="Sugar Creek" votes="15" />
+            <Precinct name="Toccoa" votes="17" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="64" text="Chris Carr (I) (Rep)" totalVotes="10389">
+            <VoteType name="Absentee by Mail Votes" votes="600">
+                <Precinct name="Colwell" votes="36" />
+                <Precinct name="Fairplay" votes="27" />
+                <Precinct name="Flinthill" votes="82" />
+                <Precinct name="Hemptown" votes="29" />
+                <Precinct name="Hothouse" votes="41" />
+                <Precinct name="Mineral Bluff" votes="60" />
+                <Precinct name="Mobile" votes="32" />
+                <Precinct name="Morganton" votes="65" />
+                <Precinct name="Noontootla" votes="19" />
+                <Precinct name="Skeniah" votes="9" />
+                <Precinct name="Sugar Creek" votes="88" />
+                <Precinct name="Toccoa" votes="112" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4715">
+                <Precinct name="Colwell" votes="265" />
+                <Precinct name="Fairplay" votes="263" />
+                <Precinct name="Flinthill" votes="594" />
+                <Precinct name="Hemptown" votes="283" />
+                <Precinct name="Hothouse" votes="285" />
+                <Precinct name="Mineral Bluff" votes="550" />
+                <Precinct name="Mobile" votes="191" />
+                <Precinct name="Morganton" votes="450" />
+                <Precinct name="Noontootla" votes="208" />
+                <Precinct name="Skeniah" votes="58" />
+                <Precinct name="Sugar Creek" votes="673" />
+                <Precinct name="Toccoa" votes="895" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5060">
+                <Precinct name="Colwell" votes="329" />
+                <Precinct name="Fairplay" votes="316" />
+                <Precinct name="Flinthill" votes="811" />
+                <Precinct name="Hemptown" votes="423" />
+                <Precinct name="Hothouse" votes="313" />
+                <Precinct name="Mineral Bluff" votes="445" />
+                <Precinct name="Mobile" votes="375" />
+                <Precinct name="Morganton" votes="584" />
+                <Precinct name="Noontootla" votes="250" />
+                <Precinct name="Skeniah" votes="121" />
+                <Precinct name="Sugar Creek" votes="499" />
+                <Precinct name="Toccoa" votes="594" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="14">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="65" text="Jennifer &quot;&quot;Jen&quot;&quot; Jordan (Dem)" totalVotes="2011">
+            <VoteType name="Absentee by Mail Votes" votes="302">
+                <Precinct name="Colwell" votes="34" />
+                <Precinct name="Fairplay" votes="21" />
+                <Precinct name="Flinthill" votes="35" />
+                <Precinct name="Hemptown" votes="20" />
+                <Precinct name="Hothouse" votes="10" />
+                <Precinct name="Mineral Bluff" votes="24" />
+                <Precinct name="Mobile" votes="15" />
+                <Precinct name="Morganton" votes="34" />
+                <Precinct name="Noontootla" votes="16" />
+                <Precinct name="Skeniah" votes="4" />
+                <Precinct name="Sugar Creek" votes="32" />
+                <Precinct name="Toccoa" votes="57" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1121">
+                <Precinct name="Colwell" votes="77" />
+                <Precinct name="Fairplay" votes="67" />
+                <Precinct name="Flinthill" votes="89" />
+                <Precinct name="Hemptown" votes="79" />
+                <Precinct name="Hothouse" votes="73" />
+                <Precinct name="Mineral Bluff" votes="127" />
+                <Precinct name="Mobile" votes="40" />
+                <Precinct name="Morganton" votes="107" />
+                <Precinct name="Noontootla" votes="53" />
+                <Precinct name="Skeniah" votes="13" />
+                <Precinct name="Sugar Creek" votes="149" />
+                <Precinct name="Toccoa" votes="247" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="588">
+                <Precinct name="Colwell" votes="34" />
+                <Precinct name="Fairplay" votes="28" />
+                <Precinct name="Flinthill" votes="95" />
+                <Precinct name="Hemptown" votes="41" />
+                <Precinct name="Hothouse" votes="40" />
+                <Precinct name="Mineral Bluff" votes="38" />
+                <Precinct name="Mobile" votes="36" />
+                <Precinct name="Morganton" votes="73" />
+                <Precinct name="Noontootla" votes="51" />
+                <Precinct name="Skeniah" votes="14" />
+                <Precinct name="Sugar Creek" votes="56" />
+                <Precinct name="Toccoa" votes="82" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="66" text="Martin Cowen (Lib)" totalVotes="152">
+            <VoteType name="Absentee by Mail Votes" votes="4">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="1" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="1" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="59">
+                <Precinct name="Colwell" votes="5" />
+                <Precinct name="Fairplay" votes="2" />
+                <Precinct name="Flinthill" votes="7" />
+                <Precinct name="Hemptown" votes="9" />
+                <Precinct name="Hothouse" votes="5" />
+                <Precinct name="Mineral Bluff" votes="11" />
+                <Precinct name="Mobile" votes="5" />
+                <Precinct name="Morganton" votes="1" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="1" />
+                <Precinct name="Sugar Creek" votes="3" />
+                <Precinct name="Toccoa" votes="9" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="89">
+                <Precinct name="Colwell" votes="3" />
+                <Precinct name="Fairplay" votes="7" />
+                <Precinct name="Flinthill" votes="15" />
+                <Precinct name="Hemptown" votes="6" />
+                <Precinct name="Hothouse" votes="5" />
+                <Precinct name="Mineral Bluff" votes="6" />
+                <Precinct name="Mobile" votes="7" />
+                <Precinct name="Morganton" votes="14" />
+                <Precinct name="Noontootla" votes="4" />
+                <Precinct name="Skeniah" votes="2" />
+                <Precinct name="Sugar Creek" votes="7" />
+                <Precinct name="Toccoa" votes="13" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="13" text="Commissioner Of Agriculture" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="159">
+            <Precinct name="Colwell" votes="6" />
+            <Precinct name="Fairplay" votes="11" />
+            <Precinct name="Flinthill" votes="28" />
+            <Precinct name="Hemptown" votes="12" />
+            <Precinct name="Hothouse" votes="7" />
+            <Precinct name="Mineral Bluff" votes="13" />
+            <Precinct name="Mobile" votes="7" />
+            <Precinct name="Morganton" votes="15" />
+            <Precinct name="Noontootla" votes="10" />
+            <Precinct name="Skeniah" votes="2" />
+            <Precinct name="Sugar Creek" votes="21" />
+            <Precinct name="Toccoa" votes="27" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="67" text="Tyler Harper (Rep)" totalVotes="10505">
+            <VoteType name="Absentee by Mail Votes" votes="611">
+                <Precinct name="Colwell" votes="39" />
+                <Precinct name="Fairplay" votes="28" />
+                <Precinct name="Flinthill" votes="83" />
+                <Precinct name="Hemptown" votes="31" />
+                <Precinct name="Hothouse" votes="41" />
+                <Precinct name="Mineral Bluff" votes="62" />
+                <Precinct name="Mobile" votes="32" />
+                <Precinct name="Morganton" votes="69" />
+                <Precinct name="Noontootla" votes="17" />
+                <Precinct name="Skeniah" votes="9" />
+                <Precinct name="Sugar Creek" votes="87" />
+                <Precinct name="Toccoa" votes="113" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4777">
+                <Precinct name="Colwell" votes="266" />
+                <Precinct name="Fairplay" votes="268" />
+                <Precinct name="Flinthill" votes="591" />
+                <Precinct name="Hemptown" votes="287" />
+                <Precinct name="Hothouse" votes="289" />
+                <Precinct name="Mineral Bluff" votes="569" />
+                <Precinct name="Mobile" votes="196" />
+                <Precinct name="Morganton" votes="463" />
+                <Precinct name="Noontootla" votes="205" />
+                <Precinct name="Skeniah" votes="58" />
+                <Precinct name="Sugar Creek" votes="681" />
+                <Precinct name="Toccoa" votes="904" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5103">
+                <Precinct name="Colwell" votes="331" />
+                <Precinct name="Fairplay" votes="313" />
+                <Precinct name="Flinthill" votes="815" />
+                <Precinct name="Hemptown" votes="425" />
+                <Precinct name="Hothouse" votes="320" />
+                <Precinct name="Mineral Bluff" votes="446" />
+                <Precinct name="Mobile" votes="379" />
+                <Precinct name="Morganton" votes="590" />
+                <Precinct name="Noontootla" votes="256" />
+                <Precinct name="Skeniah" votes="122" />
+                <Precinct name="Sugar Creek" votes="496" />
+                <Precinct name="Toccoa" votes="610" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="14">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="68" text="Nakita Hemingway (Dem)" totalVotes="1780">
+            <VoteType name="Absentee by Mail Votes" votes="270">
+                <Precinct name="Colwell" votes="30" />
+                <Precinct name="Fairplay" votes="20" />
+                <Precinct name="Flinthill" votes="30" />
+                <Precinct name="Hemptown" votes="19" />
+                <Precinct name="Hothouse" votes="10" />
+                <Precinct name="Mineral Bluff" votes="21" />
+                <Precinct name="Mobile" votes="15" />
+                <Precinct name="Morganton" votes="29" />
+                <Precinct name="Noontootla" votes="15" />
+                <Precinct name="Skeniah" votes="4" />
+                <Precinct name="Sugar Creek" votes="30" />
+                <Precinct name="Toccoa" votes="47" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1019">
+                <Precinct name="Colwell" votes="71" />
+                <Precinct name="Fairplay" votes="63" />
+                <Precinct name="Flinthill" votes="87" />
+                <Precinct name="Hemptown" votes="74" />
+                <Precinct name="Hothouse" votes="68" />
+                <Precinct name="Mineral Bluff" votes="109" />
+                <Precinct name="Mobile" votes="37" />
+                <Precinct name="Morganton" votes="89" />
+                <Precinct name="Noontootla" votes="48" />
+                <Precinct name="Skeniah" votes="12" />
+                <Precinct name="Sugar Creek" votes="138" />
+                <Precinct name="Toccoa" votes="223" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="491">
+                <Precinct name="Colwell" votes="29" />
+                <Precinct name="Fairplay" votes="26" />
+                <Precinct name="Flinthill" votes="84" />
+                <Precinct name="Hemptown" votes="35" />
+                <Precinct name="Hothouse" votes="33" />
+                <Precinct name="Mineral Bluff" votes="30" />
+                <Precinct name="Mobile" votes="30" />
+                <Precinct name="Morganton" votes="59" />
+                <Precinct name="Noontootla" votes="41" />
+                <Precinct name="Skeniah" votes="14" />
+                <Precinct name="Sugar Creek" votes="51" />
+                <Precinct name="Toccoa" votes="59" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="69" text="David Raudabaugh (Lib)" totalVotes="236">
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="4" />
+                <Precinct name="Hemptown" votes="1" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="1" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="2" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="1" />
+                <Precinct name="Toccoa" votes="5" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="84">
+                <Precinct name="Colwell" votes="7" />
+                <Precinct name="Fairplay" votes="4" />
+                <Precinct name="Flinthill" votes="9" />
+                <Precinct name="Hemptown" votes="10" />
+                <Precinct name="Hothouse" votes="7" />
+                <Precinct name="Mineral Bluff" votes="8" />
+                <Precinct name="Mobile" votes="3" />
+                <Precinct name="Morganton" votes="5" />
+                <Precinct name="Noontootla" votes="5" />
+                <Precinct name="Skeniah" votes="2" />
+                <Precinct name="Sugar Creek" votes="6" />
+                <Precinct name="Toccoa" votes="18" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="135">
+                <Precinct name="Colwell" votes="8" />
+                <Precinct name="Fairplay" votes="10" />
+                <Precinct name="Flinthill" votes="22" />
+                <Precinct name="Hemptown" votes="8" />
+                <Precinct name="Hothouse" votes="5" />
+                <Precinct name="Mineral Bluff" votes="10" />
+                <Precinct name="Mobile" votes="11" />
+                <Precinct name="Morganton" votes="18" />
+                <Precinct name="Noontootla" votes="8" />
+                <Precinct name="Skeniah" votes="3" />
+                <Precinct name="Sugar Creek" votes="12" />
+                <Precinct name="Toccoa" votes="20" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="15" text="Commissioner Of Insurance" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="208">
+            <Precinct name="Colwell" votes="8" />
+            <Precinct name="Fairplay" votes="19" />
+            <Precinct name="Flinthill" votes="40" />
+            <Precinct name="Hemptown" votes="16" />
+            <Precinct name="Hothouse" votes="12" />
+            <Precinct name="Mineral Bluff" votes="16" />
+            <Precinct name="Mobile" votes="7" />
+            <Precinct name="Morganton" votes="21" />
+            <Precinct name="Noontootla" votes="12" />
+            <Precinct name="Skeniah" votes="3" />
+            <Precinct name="Sugar Creek" votes="27" />
+            <Precinct name="Toccoa" votes="27" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="70" text="John King (I) (Rep)" totalVotes="10590">
+            <VoteType name="Absentee by Mail Votes" votes="608">
+                <Precinct name="Colwell" votes="38" />
+                <Precinct name="Fairplay" votes="28" />
+                <Precinct name="Flinthill" votes="85" />
+                <Precinct name="Hemptown" votes="30" />
+                <Precinct name="Hothouse" votes="40" />
+                <Precinct name="Mineral Bluff" votes="60" />
+                <Precinct name="Mobile" votes="32" />
+                <Precinct name="Morganton" votes="68" />
+                <Precinct name="Noontootla" votes="17" />
+                <Precinct name="Skeniah" votes="8" />
+                <Precinct name="Sugar Creek" votes="90" />
+                <Precinct name="Toccoa" votes="112" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4814">
+                <Precinct name="Colwell" votes="267" />
+                <Precinct name="Fairplay" votes="266" />
+                <Precinct name="Flinthill" votes="597" />
+                <Precinct name="Hemptown" votes="292" />
+                <Precinct name="Hothouse" votes="293" />
+                <Precinct name="Mineral Bluff" votes="573" />
+                <Precinct name="Mobile" votes="197" />
+                <Precinct name="Morganton" votes="468" />
+                <Precinct name="Noontootla" votes="204" />
+                <Precinct name="Skeniah" votes="58" />
+                <Precinct name="Sugar Creek" votes="678" />
+                <Precinct name="Toccoa" votes="921" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5154">
+                <Precinct name="Colwell" votes="332" />
+                <Precinct name="Fairplay" votes="320" />
+                <Precinct name="Flinthill" votes="818" />
+                <Precinct name="Hemptown" votes="427" />
+                <Precinct name="Hothouse" votes="318" />
+                <Precinct name="Mineral Bluff" votes="451" />
+                <Precinct name="Mobile" votes="384" />
+                <Precinct name="Morganton" votes="599" />
+                <Precinct name="Noontootla" votes="259" />
+                <Precinct name="Skeniah" votes="123" />
+                <Precinct name="Sugar Creek" votes="504" />
+                <Precinct name="Toccoa" votes="619" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="14">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="71" text="Janice Laws Robinson (Dem)" totalVotes="1881">
+            <VoteType name="Absentee by Mail Votes" votes="295">
+                <Precinct name="Colwell" votes="32" />
+                <Precinct name="Fairplay" votes="21" />
+                <Precinct name="Flinthill" votes="34" />
+                <Precinct name="Hemptown" votes="21" />
+                <Precinct name="Hothouse" votes="9" />
+                <Precinct name="Mineral Bluff" votes="24" />
+                <Precinct name="Mobile" votes="16" />
+                <Precinct name="Morganton" votes="32" />
+                <Precinct name="Noontootla" votes="17" />
+                <Precinct name="Skeniah" votes="4" />
+                <Precinct name="Sugar Creek" votes="30" />
+                <Precinct name="Toccoa" votes="55" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1046">
+                <Precinct name="Colwell" votes="76" />
+                <Precinct name="Fairplay" votes="67" />
+                <Precinct name="Flinthill" votes="87" />
+                <Precinct name="Hemptown" votes="78" />
+                <Precinct name="Hothouse" votes="69" />
+                <Precinct name="Mineral Bluff" votes="111" />
+                <Precinct name="Mobile" votes="40" />
+                <Precinct name="Morganton" votes="88" />
+                <Precinct name="Noontootla" votes="52" />
+                <Precinct name="Skeniah" votes="13" />
+                <Precinct name="Sugar Creek" votes="139" />
+                <Precinct name="Toccoa" votes="226" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="540">
+                <Precinct name="Colwell" votes="34" />
+                <Precinct name="Fairplay" votes="22" />
+                <Precinct name="Flinthill" votes="92" />
+                <Precinct name="Hemptown" votes="38" />
+                <Precinct name="Hothouse" votes="39" />
+                <Precinct name="Mineral Bluff" votes="35" />
+                <Precinct name="Mobile" votes="35" />
+                <Precinct name="Morganton" votes="63" />
+                <Precinct name="Noontootla" votes="46" />
+                <Precinct name="Skeniah" votes="15" />
+                <Precinct name="Sugar Creek" votes="55" />
+                <Precinct name="Toccoa" votes="66" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="17" text="State School Superintendent" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="183">
+            <Precinct name="Colwell" votes="11" />
+            <Precinct name="Fairplay" votes="19" />
+            <Precinct name="Flinthill" votes="35" />
+            <Precinct name="Hemptown" votes="16" />
+            <Precinct name="Hothouse" votes="11" />
+            <Precinct name="Mineral Bluff" votes="12" />
+            <Precinct name="Mobile" votes="9" />
+            <Precinct name="Morganton" votes="14" />
+            <Precinct name="Noontootla" votes="14" />
+            <Precinct name="Skeniah" votes="2" />
+            <Precinct name="Sugar Creek" votes="21" />
+            <Precinct name="Toccoa" votes="19" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="72" text="Richard Woods (I) (Rep)" totalVotes="10598">
+            <VoteType name="Absentee by Mail Votes" votes="615">
+                <Precinct name="Colwell" votes="36" />
+                <Precinct name="Fairplay" votes="30" />
+                <Precinct name="Flinthill" votes="83" />
+                <Precinct name="Hemptown" votes="30" />
+                <Precinct name="Hothouse" votes="41" />
+                <Precinct name="Mineral Bluff" votes="60" />
+                <Precinct name="Mobile" votes="32" />
+                <Precinct name="Morganton" votes="67" />
+                <Precinct name="Noontootla" votes="18" />
+                <Precinct name="Skeniah" votes="8" />
+                <Precinct name="Sugar Creek" votes="90" />
+                <Precinct name="Toccoa" votes="120" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4808">
+                <Precinct name="Colwell" votes="268" />
+                <Precinct name="Fairplay" votes="270" />
+                <Precinct name="Flinthill" votes="596" />
+                <Precinct name="Hemptown" votes="291" />
+                <Precinct name="Hothouse" votes="290" />
+                <Precinct name="Mineral Bluff" votes="566" />
+                <Precinct name="Mobile" votes="200" />
+                <Precinct name="Morganton" votes="460" />
+                <Precinct name="Noontootla" votes="206" />
+                <Precinct name="Skeniah" votes="57" />
+                <Precinct name="Sugar Creek" votes="679" />
+                <Precinct name="Toccoa" votes="925" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5161">
+                <Precinct name="Colwell" votes="333" />
+                <Precinct name="Fairplay" votes="316" />
+                <Precinct name="Flinthill" votes="821" />
+                <Precinct name="Hemptown" votes="428" />
+                <Precinct name="Hothouse" votes="319" />
+                <Precinct name="Mineral Bluff" votes="451" />
+                <Precinct name="Mobile" votes="381" />
+                <Precinct name="Morganton" votes="601" />
+                <Precinct name="Noontootla" votes="261" />
+                <Precinct name="Skeniah" votes="125" />
+                <Precinct name="Sugar Creek" votes="504" />
+                <Precinct name="Toccoa" votes="621" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="14">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="73" text="Alisha Thomas Searcy (Dem)" totalVotes="1896">
+            <VoteType name="Absentee by Mail Votes" votes="290">
+                <Precinct name="Colwell" votes="34" />
+                <Precinct name="Fairplay" votes="19" />
+                <Precinct name="Flinthill" votes="34" />
+                <Precinct name="Hemptown" votes="21" />
+                <Precinct name="Hothouse" votes="10" />
+                <Precinct name="Mineral Bluff" votes="24" />
+                <Precinct name="Mobile" votes="16" />
+                <Precinct name="Morganton" votes="32" />
+                <Precinct name="Noontootla" votes="16" />
+                <Precinct name="Skeniah" votes="4" />
+                <Precinct name="Sugar Creek" votes="31" />
+                <Precinct name="Toccoa" votes="49" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1049">
+                <Precinct name="Colwell" votes="73" />
+                <Precinct name="Fairplay" votes="62" />
+                <Precinct name="Flinthill" votes="86" />
+                <Precinct name="Hemptown" votes="79" />
+                <Precinct name="Hothouse" votes="70" />
+                <Precinct name="Mineral Bluff" votes="120" />
+                <Precinct name="Mobile" votes="36" />
+                <Precinct name="Morganton" votes="97" />
+                <Precinct name="Noontootla" votes="48" />
+                <Precinct name="Skeniah" votes="14" />
+                <Precinct name="Sugar Creek" votes="142" />
+                <Precinct name="Toccoa" votes="222" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="557">
+                <Precinct name="Colwell" votes="33" />
+                <Precinct name="Fairplay" votes="26" />
+                <Precinct name="Flinthill" votes="98" />
+                <Precinct name="Hemptown" votes="37" />
+                <Precinct name="Hothouse" votes="39" />
+                <Precinct name="Mineral Bluff" votes="37" />
+                <Precinct name="Mobile" votes="37" />
+                <Precinct name="Morganton" votes="68" />
+                <Precinct name="Noontootla" votes="44" />
+                <Precinct name="Skeniah" votes="15" />
+                <Precinct name="Sugar Creek" votes="55" />
+                <Precinct name="Toccoa" votes="68" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="19" text="Commissioner Of Labor" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="186">
+            <Precinct name="Colwell" votes="10" />
+            <Precinct name="Fairplay" votes="12" />
+            <Precinct name="Flinthill" votes="32" />
+            <Precinct name="Hemptown" votes="19" />
+            <Precinct name="Hothouse" votes="10" />
+            <Precinct name="Mineral Bluff" votes="12" />
+            <Precinct name="Mobile" votes="8" />
+            <Precinct name="Morganton" votes="18" />
+            <Precinct name="Noontootla" votes="12" />
+            <Precinct name="Skeniah" votes="2" />
+            <Precinct name="Sugar Creek" votes="21" />
+            <Precinct name="Toccoa" votes="30" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="74" text="Bruce Thompson (Rep)" totalVotes="10405">
+            <VoteType name="Absentee by Mail Votes" votes="598">
+                <Precinct name="Colwell" votes="38" />
+                <Precinct name="Fairplay" votes="28" />
+                <Precinct name="Flinthill" votes="80" />
+                <Precinct name="Hemptown" votes="30" />
+                <Precinct name="Hothouse" votes="41" />
+                <Precinct name="Mineral Bluff" votes="59" />
+                <Precinct name="Mobile" votes="31" />
+                <Precinct name="Morganton" votes="67" />
+                <Precinct name="Noontootla" votes="17" />
+                <Precinct name="Skeniah" votes="7" />
+                <Precinct name="Sugar Creek" votes="89" />
+                <Precinct name="Toccoa" votes="111" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4728">
+                <Precinct name="Colwell" votes="267" />
+                <Precinct name="Fairplay" votes="262" />
+                <Precinct name="Flinthill" votes="592" />
+                <Precinct name="Hemptown" votes="281" />
+                <Precinct name="Hothouse" votes="288" />
+                <Precinct name="Mineral Bluff" votes="570" />
+                <Precinct name="Mobile" votes="196" />
+                <Precinct name="Morganton" votes="449" />
+                <Precinct name="Noontootla" votes="201" />
+                <Precinct name="Skeniah" votes="53" />
+                <Precinct name="Sugar Creek" votes="672" />
+                <Precinct name="Toccoa" votes="897" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5065">
+                <Precinct name="Colwell" votes="328" />
+                <Precinct name="Fairplay" votes="316" />
+                <Precinct name="Flinthill" votes="809" />
+                <Precinct name="Hemptown" votes="420" />
+                <Precinct name="Hothouse" votes="313" />
+                <Precinct name="Mineral Bluff" votes="443" />
+                <Precinct name="Mobile" votes="372" />
+                <Precinct name="Morganton" votes="589" />
+                <Precinct name="Noontootla" votes="255" />
+                <Precinct name="Skeniah" votes="119" />
+                <Precinct name="Sugar Creek" votes="495" />
+                <Precinct name="Toccoa" votes="606" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="14">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="75" text="William &quot;&quot;Will&quot;&quot; Boddie, Jr (Dem)" totalVotes="1849">
+            <VoteType name="Absentee by Mail Votes" votes="285">
+                <Precinct name="Colwell" votes="32" />
+                <Precinct name="Fairplay" votes="21" />
+                <Precinct name="Flinthill" votes="36" />
+                <Precinct name="Hemptown" votes="19" />
+                <Precinct name="Hothouse" votes="10" />
+                <Precinct name="Mineral Bluff" votes="22" />
+                <Precinct name="Mobile" votes="15" />
+                <Precinct name="Morganton" votes="31" />
+                <Precinct name="Noontootla" votes="14" />
+                <Precinct name="Skeniah" votes="4" />
+                <Precinct name="Sugar Creek" votes="30" />
+                <Precinct name="Toccoa" votes="51" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1051">
+                <Precinct name="Colwell" votes="72" />
+                <Precinct name="Fairplay" votes="66" />
+                <Precinct name="Flinthill" votes="86" />
+                <Precinct name="Hemptown" votes="76" />
+                <Precinct name="Hothouse" votes="69" />
+                <Precinct name="Mineral Bluff" votes="109" />
+                <Precinct name="Mobile" votes="40" />
+                <Precinct name="Morganton" votes="96" />
+                <Precinct name="Noontootla" votes="54" />
+                <Precinct name="Skeniah" votes="17" />
+                <Precinct name="Sugar Creek" votes="140" />
+                <Precinct name="Toccoa" votes="226" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="513">
+                <Precinct name="Colwell" votes="29" />
+                <Precinct name="Fairplay" votes="25" />
+                <Precinct name="Flinthill" votes="87" />
+                <Precinct name="Hemptown" votes="38" />
+                <Precinct name="Hothouse" votes="34" />
+                <Precinct name="Mineral Bluff" votes="34" />
+                <Precinct name="Mobile" votes="36" />
+                <Precinct name="Morganton" votes="60" />
+                <Precinct name="Noontootla" votes="44" />
+                <Precinct name="Skeniah" votes="17" />
+                <Precinct name="Sugar Creek" votes="51" />
+                <Precinct name="Toccoa" votes="58" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="98" text="Emily Anderson (Lib)" totalVotes="237">
+            <VoteType name="Absentee by Mail Votes" votes="17">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="1" />
+                <Precinct name="Flinthill" votes="3" />
+                <Precinct name="Hemptown" votes="1" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="2" />
+                <Precinct name="Mobile" votes="1" />
+                <Precinct name="Morganton" votes="1" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="1" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="4" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="88">
+                <Precinct name="Colwell" votes="4" />
+                <Precinct name="Fairplay" votes="5" />
+                <Precinct name="Flinthill" votes="8" />
+                <Precinct name="Hemptown" votes="11" />
+                <Precinct name="Hothouse" votes="6" />
+                <Precinct name="Mineral Bluff" votes="9" />
+                <Precinct name="Mobile" votes="2" />
+                <Precinct name="Morganton" votes="8" />
+                <Precinct name="Noontootla" votes="3" />
+                <Precinct name="Skeniah" votes="2" />
+                <Precinct name="Sugar Creek" votes="11" />
+                <Precinct name="Toccoa" votes="19" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="132">
+                <Precinct name="Colwell" votes="7" />
+                <Precinct name="Fairplay" votes="7" />
+                <Precinct name="Flinthill" votes="20" />
+                <Precinct name="Hemptown" votes="6" />
+                <Precinct name="Hothouse" votes="9" />
+                <Precinct name="Mineral Bluff" votes="10" />
+                <Precinct name="Mobile" votes="10" />
+                <Precinct name="Morganton" votes="20" />
+                <Precinct name="Noontootla" votes="5" />
+                <Precinct name="Skeniah" votes="3" />
+                <Precinct name="Sugar Creek" votes="12" />
+                <Precinct name="Toccoa" votes="23" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="25" text="US House Dist 9" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="152">
+            <Precinct name="Colwell" votes="3" />
+            <Precinct name="Fairplay" votes="12" />
+            <Precinct name="Flinthill" votes="26" />
+            <Precinct name="Hemptown" votes="19" />
+            <Precinct name="Hothouse" votes="11" />
+            <Precinct name="Mineral Bluff" votes="10" />
+            <Precinct name="Mobile" votes="6" />
+            <Precinct name="Morganton" votes="11" />
+            <Precinct name="Noontootla" votes="3" />
+            <Precinct name="Skeniah" votes="5" />
+            <Precinct name="Sugar Creek" votes="25" />
+            <Precinct name="Toccoa" votes="21" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="80" text="Andrew Clyde (I) (Rep)" totalVotes="10467">
+            <VoteType name="Absentee by Mail Votes" votes="596">
+                <Precinct name="Colwell" votes="35" />
+                <Precinct name="Fairplay" votes="27" />
+                <Precinct name="Flinthill" votes="83" />
+                <Precinct name="Hemptown" votes="28" />
+                <Precinct name="Hothouse" votes="41" />
+                <Precinct name="Mineral Bluff" votes="61" />
+                <Precinct name="Mobile" votes="33" />
+                <Precinct name="Morganton" votes="65" />
+                <Precinct name="Noontootla" votes="17" />
+                <Precinct name="Skeniah" votes="8" />
+                <Precinct name="Sugar Creek" votes="88" />
+                <Precinct name="Toccoa" votes="110" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4716">
+                <Precinct name="Colwell" votes="266" />
+                <Precinct name="Fairplay" votes="266" />
+                <Precinct name="Flinthill" votes="591" />
+                <Precinct name="Hemptown" votes="278" />
+                <Precinct name="Hothouse" votes="287" />
+                <Precinct name="Mineral Bluff" votes="562" />
+                <Precinct name="Mobile" votes="196" />
+                <Precinct name="Morganton" votes="453" />
+                <Precinct name="Noontootla" votes="205" />
+                <Precinct name="Skeniah" votes="58" />
+                <Precinct name="Sugar Creek" votes="663" />
+                <Precinct name="Toccoa" votes="891" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5142">
+                <Precinct name="Colwell" votes="333" />
+                <Precinct name="Fairplay" votes="322" />
+                <Precinct name="Flinthill" votes="823" />
+                <Precinct name="Hemptown" votes="425" />
+                <Precinct name="Hothouse" votes="321" />
+                <Precinct name="Mineral Bluff" votes="454" />
+                <Precinct name="Mobile" votes="385" />
+                <Precinct name="Morganton" votes="599" />
+                <Precinct name="Noontootla" votes="256" />
+                <Precinct name="Skeniah" votes="118" />
+                <Precinct name="Sugar Creek" votes="495" />
+                <Precinct name="Toccoa" votes="611" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="13">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="1" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="81" text="Michael &quot;&quot;Mike&quot;&quot; Ford (Dem)" totalVotes="2052">
+            <VoteType name="Absentee by Mail Votes" votes="309">
+                <Precinct name="Colwell" votes="33" />
+                <Precinct name="Fairplay" votes="23" />
+                <Precinct name="Flinthill" votes="36" />
+                <Precinct name="Hemptown" votes="22" />
+                <Precinct name="Hothouse" votes="10" />
+                <Precinct name="Mineral Bluff" votes="23" />
+                <Precinct name="Mobile" votes="15" />
+                <Precinct name="Morganton" votes="36" />
+                <Precinct name="Noontootla" votes="18" />
+                <Precinct name="Skeniah" votes="5" />
+                <Precinct name="Sugar Creek" votes="33" />
+                <Precinct name="Toccoa" votes="55" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1155">
+                <Precinct name="Colwell" votes="79" />
+                <Precinct name="Fairplay" votes="67" />
+                <Precinct name="Flinthill" votes="98" />
+                <Precinct name="Hemptown" votes="89" />
+                <Precinct name="Hothouse" votes="72" />
+                <Precinct name="Mineral Bluff" votes="123" />
+                <Precinct name="Mobile" votes="41" />
+                <Precinct name="Morganton" votes="104" />
+                <Precinct name="Noontootla" votes="58" />
+                <Precinct name="Skeniah" votes="13" />
+                <Precinct name="Sugar Creek" votes="157" />
+                <Precinct name="Toccoa" votes="254" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="588">
+                <Precinct name="Colwell" votes="36" />
+                <Precinct name="Fairplay" votes="26" />
+                <Precinct name="Flinthill" votes="94" />
+                <Precinct name="Hemptown" votes="41" />
+                <Precinct name="Hothouse" votes="37" />
+                <Precinct name="Mineral Bluff" votes="37" />
+                <Precinct name="Mobile" votes="35" />
+                <Precinct name="Morganton" votes="72" />
+                <Precinct name="Noontootla" votes="50" />
+                <Precinct name="Skeniah" votes="19" />
+                <Precinct name="Sugar Creek" votes="62" />
+                <Precinct name="Toccoa" votes="79" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="27" text="State Senate Dist 51" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="1343">
+            <Precinct name="Colwell" votes="96" />
+            <Precinct name="Fairplay" votes="84" />
+            <Precinct name="Flinthill" votes="165" />
+            <Precinct name="Hemptown" votes="93" />
+            <Precinct name="Hothouse" votes="84" />
+            <Precinct name="Mineral Bluff" votes="121" />
+            <Precinct name="Mobile" votes="58" />
+            <Precinct name="Morganton" votes="130" />
+            <Precinct name="Noontootla" votes="75" />
+            <Precinct name="Skeniah" votes="23" />
+            <Precinct name="Sugar Creek" votes="164" />
+            <Precinct name="Toccoa" votes="250" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="82" text="Steve Gooch (I) (Rep)" totalVotes="11214">
+            <VoteType name="Absentee by Mail Votes" votes="641">
+                <Precinct name="Colwell" votes="42" />
+                <Precinct name="Fairplay" votes="33" />
+                <Precinct name="Flinthill" votes="84" />
+                <Precinct name="Hemptown" votes="32" />
+                <Precinct name="Hothouse" votes="41" />
+                <Precinct name="Mineral Bluff" votes="60" />
+                <Precinct name="Mobile" votes="33" />
+                <Precinct name="Morganton" votes="73" />
+                <Precinct name="Noontootla" votes="21" />
+                <Precinct name="Skeniah" votes="8" />
+                <Precinct name="Sugar Creek" votes="91" />
+                <Precinct name="Toccoa" votes="123" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5139">
+                <Precinct name="Colwell" votes="294" />
+                <Precinct name="Fairplay" votes="286" />
+                <Precinct name="Flinthill" votes="628" />
+                <Precinct name="Hemptown" votes="316" />
+                <Precinct name="Hothouse" votes="310" />
+                <Precinct name="Mineral Bluff" votes="609" />
+                <Precinct name="Mobile" votes="215" />
+                <Precinct name="Morganton" votes="494" />
+                <Precinct name="Noontootla" votes="220" />
+                <Precinct name="Skeniah" votes="63" />
+                <Precinct name="Sugar Creek" votes="716" />
+                <Precinct name="Toccoa" votes="988" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5420">
+                <Precinct name="Colwell" votes="347" />
+                <Precinct name="Fairplay" votes="331" />
+                <Precinct name="Flinthill" votes="858" />
+                <Precinct name="Hemptown" votes="450" />
+                <Precinct name="Hothouse" votes="337" />
+                <Precinct name="Mineral Bluff" votes="468" />
+                <Precinct name="Mobile" votes="403" />
+                <Precinct name="Morganton" votes="631" />
+                <Precinct name="Noontootla" votes="283" />
+                <Precinct name="Skeniah" votes="131" />
+                <Precinct name="Sugar Creek" votes="530" />
+                <Precinct name="Toccoa" votes="651" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="14">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="3" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="29" text="State House Dist 7" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="1511">
+            <Precinct name="Colwell" votes="112" />
+            <Precinct name="Fairplay" votes="96" />
+            <Precinct name="Flinthill" votes="184" />
+            <Precinct name="Hemptown" votes="108" />
+            <Precinct name="Hothouse" votes="104" />
+            <Precinct name="Mineral Bluff" votes="140" />
+            <Precinct name="Mobile" votes="70" />
+            <Precinct name="Morganton" votes="146" />
+            <Precinct name="Noontootla" votes="75" />
+            <Precinct name="Skeniah" votes="31" />
+            <Precinct name="Sugar Creek" votes="172" />
+            <Precinct name="Toccoa" votes="273" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="83" text="David Ralston (I) (Rep)" totalVotes="10998">
+            <VoteType name="Absentee by Mail Votes" votes="647">
+                <Precinct name="Colwell" votes="38" />
+                <Precinct name="Fairplay" votes="34" />
+                <Precinct name="Flinthill" votes="89" />
+                <Precinct name="Hemptown" votes="32" />
+                <Precinct name="Hothouse" votes="37" />
+                <Precinct name="Mineral Bluff" votes="65" />
+                <Precinct name="Mobile" votes="28" />
+                <Precinct name="Morganton" votes="77" />
+                <Precinct name="Noontootla" votes="22" />
+                <Precinct name="Skeniah" votes="8" />
+                <Precinct name="Sugar Creek" votes="92" />
+                <Precinct name="Toccoa" votes="125" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5045">
+                <Precinct name="Colwell" votes="289" />
+                <Precinct name="Fairplay" votes="282" />
+                <Precinct name="Flinthill" votes="612" />
+                <Precinct name="Hemptown" votes="312" />
+                <Precinct name="Hothouse" votes="298" />
+                <Precinct name="Mineral Bluff" votes="596" />
+                <Precinct name="Mobile" votes="213" />
+                <Precinct name="Morganton" votes="486" />
+                <Precinct name="Noontootla" votes="217" />
+                <Precinct name="Skeniah" votes="59" />
+                <Precinct name="Sugar Creek" votes="710" />
+                <Precinct name="Toccoa" votes="971" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5293">
+                <Precinct name="Colwell" votes="337" />
+                <Precinct name="Fairplay" votes="320" />
+                <Precinct name="Flinthill" votes="846" />
+                <Precinct name="Hemptown" votes="433" />
+                <Precinct name="Hothouse" votes="326" />
+                <Precinct name="Mineral Bluff" votes="450" />
+                <Precinct name="Mobile" votes="395" />
+                <Precinct name="Morganton" votes="618" />
+                <Precinct name="Noontootla" votes="280" />
+                <Precinct name="Skeniah" votes="127" />
+                <Precinct name="Sugar Creek" votes="526" />
+                <Precinct name="Toccoa" votes="635" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="13">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="30" text="County Commissioner Post 2" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="263">
+            <Precinct name="Colwell" votes="14" />
+            <Precinct name="Fairplay" votes="18" />
+            <Precinct name="Flinthill" votes="45" />
+            <Precinct name="Hemptown" votes="21" />
+            <Precinct name="Hothouse" votes="30" />
+            <Precinct name="Mineral Bluff" votes="19" />
+            <Precinct name="Mobile" votes="13" />
+            <Precinct name="Morganton" votes="20" />
+            <Precinct name="Noontootla" votes="12" />
+            <Precinct name="Skeniah" votes="8" />
+            <Precinct name="Sugar Creek" votes="29" />
+            <Precinct name="Toccoa" votes="34" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="84" text="Glenn Patterson (I) (Rep)" totalVotes="10674">
+            <VoteType name="Absentee by Mail Votes" votes="624">
+                <Precinct name="Colwell" votes="42" />
+                <Precinct name="Fairplay" votes="29" />
+                <Precinct name="Flinthill" votes="85" />
+                <Precinct name="Hemptown" votes="31" />
+                <Precinct name="Hothouse" votes="42" />
+                <Precinct name="Mineral Bluff" votes="60" />
+                <Precinct name="Mobile" votes="30" />
+                <Precinct name="Morganton" votes="71" />
+                <Precinct name="Noontootla" votes="18" />
+                <Precinct name="Skeniah" votes="8" />
+                <Precinct name="Sugar Creek" votes="85" />
+                <Precinct name="Toccoa" votes="123" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4833">
+                <Precinct name="Colwell" votes="275" />
+                <Precinct name="Fairplay" votes="269" />
+                <Precinct name="Flinthill" votes="590" />
+                <Precinct name="Hemptown" votes="289" />
+                <Precinct name="Hothouse" votes="288" />
+                <Precinct name="Mineral Bluff" votes="584" />
+                <Precinct name="Mobile" votes="203" />
+                <Precinct name="Morganton" votes="459" />
+                <Precinct name="Noontootla" votes="211" />
+                <Precinct name="Skeniah" votes="55" />
+                <Precinct name="Sugar Creek" votes="677" />
+                <Precinct name="Toccoa" votes="933" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5203">
+                <Precinct name="Colwell" votes="339" />
+                <Precinct name="Fairplay" votes="321" />
+                <Precinct name="Flinthill" votes="845" />
+                <Precinct name="Hemptown" votes="425" />
+                <Precinct name="Hothouse" votes="312" />
+                <Precinct name="Mineral Bluff" votes="451" />
+                <Precinct name="Mobile" votes="387" />
+                <Precinct name="Morganton" votes="612" />
+                <Precinct name="Noontootla" votes="257" />
+                <Precinct name="Skeniah" votes="119" />
+                <Precinct name="Sugar Creek" votes="506" />
+                <Precinct name="Toccoa" votes="629" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="14">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="3" />
+            </VoteType>
+        </Choice>
+        <Choice key="85" text="Larry Syputa (Dem)" totalVotes="1737">
+            <VoteType name="Absentee by Mail Votes" votes="263">
+                <Precinct name="Colwell" votes="27" />
+                <Precinct name="Fairplay" votes="19" />
+                <Precinct name="Flinthill" votes="28" />
+                <Precinct name="Hemptown" votes="19" />
+                <Precinct name="Hothouse" votes="9" />
+                <Precinct name="Mineral Bluff" votes="24" />
+                <Precinct name="Mobile" votes="16" />
+                <Precinct name="Morganton" votes="29" />
+                <Precinct name="Noontootla" votes="12" />
+                <Precinct name="Skeniah" votes="4" />
+                <Precinct name="Sugar Creek" votes="34" />
+                <Precinct name="Toccoa" votes="42" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="979">
+                <Precinct name="Colwell" votes="62" />
+                <Precinct name="Fairplay" votes="63" />
+                <Precinct name="Flinthill" votes="88" />
+                <Precinct name="Hemptown" votes="77" />
+                <Precinct name="Hothouse" votes="66" />
+                <Precinct name="Mineral Bluff" votes="96" />
+                <Precinct name="Mobile" votes="32" />
+                <Precinct name="Morganton" votes="91" />
+                <Precinct name="Noontootla" votes="51" />
+                <Precinct name="Skeniah" votes="14" />
+                <Precinct name="Sugar Creek" votes="136" />
+                <Precinct name="Toccoa" votes="203" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="495">
+                <Precinct name="Colwell" votes="27" />
+                <Precinct name="Fairplay" votes="24" />
+                <Precinct name="Flinthill" votes="72" />
+                <Precinct name="Hemptown" votes="40" />
+                <Precinct name="Hothouse" votes="33" />
+                <Precinct name="Mineral Bluff" votes="34" />
+                <Precinct name="Mobile" votes="30" />
+                <Precinct name="Morganton" votes="55" />
+                <Precinct name="Noontootla" votes="45" />
+                <Precinct name="Skeniah" votes="17" />
+                <Precinct name="Sugar Creek" votes="56" />
+                <Precinct name="Toccoa" votes="62" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="32" text="County Board of Education - Bearden" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="1572">
+            <Precinct name="Colwell" votes="106" />
+            <Precinct name="Fairplay" votes="88" />
+            <Precinct name="Flinthill" votes="199" />
+            <Precinct name="Hemptown" votes="103" />
+            <Precinct name="Hothouse" votes="111" />
+            <Precinct name="Mineral Bluff" votes="150" />
+            <Precinct name="Mobile" votes="68" />
+            <Precinct name="Morganton" votes="140" />
+            <Precinct name="Noontootla" votes="86" />
+            <Precinct name="Skeniah" votes="32" />
+            <Precinct name="Sugar Creek" votes="204" />
+            <Precinct name="Toccoa" votes="285" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="86" text="Bobby Bearden (I) (Rep)" totalVotes="10968">
+            <VoteType name="Absentee by Mail Votes" votes="641">
+                <Precinct name="Colwell" votes="40" />
+                <Precinct name="Fairplay" votes="33" />
+                <Precinct name="Flinthill" votes="79" />
+                <Precinct name="Hemptown" votes="34" />
+                <Precinct name="Hothouse" votes="39" />
+                <Precinct name="Mineral Bluff" votes="63" />
+                <Precinct name="Mobile" votes="31" />
+                <Precinct name="Morganton" votes="76" />
+                <Precinct name="Noontootla" votes="21" />
+                <Precinct name="Skeniah" votes="8" />
+                <Precinct name="Sugar Creek" votes="88" />
+                <Precinct name="Toccoa" votes="129" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5055">
+                <Precinct name="Colwell" votes="288" />
+                <Precinct name="Fairplay" votes="288" />
+                <Precinct name="Flinthill" votes="614" />
+                <Precinct name="Hemptown" votes="317" />
+                <Precinct name="Hothouse" votes="304" />
+                <Precinct name="Mineral Bluff" votes="593" />
+                <Precinct name="Mobile" votes="213" />
+                <Precinct name="Morganton" votes="488" />
+                <Precinct name="Noontootla" votes="217" />
+                <Precinct name="Skeniah" votes="60" />
+                <Precinct name="Sugar Creek" votes="698" />
+                <Precinct name="Toccoa" votes="975" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5258">
+                <Precinct name="Colwell" votes="339" />
+                <Precinct name="Fairplay" votes="328" />
+                <Precinct name="Flinthill" votes="830" />
+                <Precinct name="Hemptown" votes="434" />
+                <Precinct name="Hothouse" votes="320" />
+                <Precinct name="Mineral Bluff" votes="449" />
+                <Precinct name="Mobile" votes="396" />
+                <Precinct name="Morganton" votes="624" />
+                <Precinct name="Noontootla" votes="274" />
+                <Precinct name="Skeniah" votes="125" />
+                <Precinct name="Sugar Creek" votes="518" />
+                <Precinct name="Toccoa" votes="621" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="14">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="3" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="33" text="County Board of Education - Cole" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="1452">
+            <Precinct name="Colwell" votes="106" />
+            <Precinct name="Fairplay" votes="86" />
+            <Precinct name="Flinthill" votes="193" />
+            <Precinct name="Hemptown" votes="98" />
+            <Precinct name="Hothouse" votes="98" />
+            <Precinct name="Mineral Bluff" votes="128" />
+            <Precinct name="Mobile" votes="65" />
+            <Precinct name="Morganton" votes="141" />
+            <Precinct name="Noontootla" votes="85" />
+            <Precinct name="Skeniah" votes="30" />
+            <Precinct name="Sugar Creek" votes="173" />
+            <Precinct name="Toccoa" votes="249" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="87" text="Mike Cole (I) (Rep)" totalVotes="11127">
+            <VoteType name="Absentee by Mail Votes" votes="642">
+                <Precinct name="Colwell" votes="39" />
+                <Precinct name="Fairplay" votes="34" />
+                <Precinct name="Flinthill" votes="75" />
+                <Precinct name="Hemptown" votes="34" />
+                <Precinct name="Hothouse" votes="40" />
+                <Precinct name="Mineral Bluff" votes="65" />
+                <Precinct name="Mobile" votes="32" />
+                <Precinct name="Morganton" votes="74" />
+                <Precinct name="Noontootla" votes="22" />
+                <Precinct name="Skeniah" votes="8" />
+                <Precinct name="Sugar Creek" votes="93" />
+                <Precinct name="Toccoa" votes="126" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5122">
+                <Precinct name="Colwell" votes="292" />
+                <Precinct name="Fairplay" votes="294" />
+                <Precinct name="Flinthill" votes="616" />
+                <Precinct name="Hemptown" votes="319" />
+                <Precinct name="Hothouse" votes="310" />
+                <Precinct name="Mineral Bluff" votes="604" />
+                <Precinct name="Mobile" votes="212" />
+                <Precinct name="Morganton" votes="491" />
+                <Precinct name="Noontootla" votes="218" />
+                <Precinct name="Skeniah" votes="61" />
+                <Precinct name="Sugar Creek" votes="716" />
+                <Precinct name="Toccoa" votes="989" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5350">
+                <Precinct name="Colwell" votes="343" />
+                <Precinct name="Fairplay" votes="323" />
+                <Precinct name="Flinthill" votes="848" />
+                <Precinct name="Hemptown" votes="444" />
+                <Precinct name="Hothouse" votes="328" />
+                <Precinct name="Mineral Bluff" votes="460" />
+                <Precinct name="Mobile" votes="400" />
+                <Precinct name="Morganton" votes="623" />
+                <Precinct name="Noontootla" votes="277" />
+                <Precinct name="Skeniah" votes="126" />
+                <Precinct name="Sugar Creek" votes="524" />
+                <Precinct name="Toccoa" votes="654" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="13">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="34" text="Blue Ridge Mountain Soil and Water" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="1952">
+            <Precinct name="Colwell" votes="132" />
+            <Precinct name="Fairplay" votes="128" />
+            <Precinct name="Flinthill" votes="281" />
+            <Precinct name="Hemptown" votes="117" />
+            <Precinct name="Hothouse" votes="140" />
+            <Precinct name="Mineral Bluff" votes="195" />
+            <Precinct name="Mobile" votes="90" />
+            <Precinct name="Morganton" votes="207" />
+            <Precinct name="Noontootla" votes="77" />
+            <Precinct name="Skeniah" votes="33" />
+            <Precinct name="Sugar Creek" votes="245" />
+            <Precinct name="Toccoa" votes="307" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="88" text="Charlotte Ann Stanley (I)" totalVotes="10731">
+            <VoteType name="Absentee by Mail Votes" votes="669">
+                <Precinct name="Colwell" votes="48" />
+                <Precinct name="Fairplay" votes="39" />
+                <Precinct name="Flinthill" votes="77" />
+                <Precinct name="Hemptown" votes="38" />
+                <Precinct name="Hothouse" votes="31" />
+                <Precinct name="Mineral Bluff" votes="65" />
+                <Precinct name="Mobile" votes="35" />
+                <Precinct name="Morganton" votes="77" />
+                <Precinct name="Noontootla" votes="27" />
+                <Precinct name="Skeniah" votes="9" />
+                <Precinct name="Sugar Creek" votes="92" />
+                <Precinct name="Toccoa" votes="131" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4999">
+                <Precinct name="Colwell" votes="289" />
+                <Precinct name="Fairplay" votes="278" />
+                <Precinct name="Flinthill" votes="603" />
+                <Precinct name="Hemptown" votes="324" />
+                <Precinct name="Hothouse" votes="300" />
+                <Precinct name="Mineral Bluff" votes="588" />
+                <Precinct name="Mobile" votes="210" />
+                <Precinct name="Morganton" votes="464" />
+                <Precinct name="Noontootla" votes="228" />
+                <Precinct name="Skeniah" votes="59" />
+                <Precinct name="Sugar Creek" votes="692" />
+                <Precinct name="Toccoa" votes="964" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5051">
+                <Precinct name="Colwell" votes="319" />
+                <Precinct name="Fairplay" votes="298" />
+                <Precinct name="Flinthill" votes="792" />
+                <Precinct name="Hemptown" votes="423" />
+                <Precinct name="Hothouse" votes="310" />
+                <Precinct name="Mineral Bluff" votes="422" />
+                <Precinct name="Mobile" votes="376" />
+                <Precinct name="Morganton" votes="592" />
+                <Precinct name="Noontootla" votes="275" />
+                <Precinct name="Skeniah" votes="125" />
+                <Precinct name="Sugar Creek" votes="494" />
+                <Precinct name="Toccoa" votes="625" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="12">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="2" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="2" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="35" text="Constitutional Amendment #1" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="562">
+            <Precinct name="Colwell" votes="34" />
+            <Precinct name="Fairplay" votes="34" />
+            <Precinct name="Flinthill" votes="100" />
+            <Precinct name="Hemptown" votes="44" />
+            <Precinct name="Hothouse" votes="37" />
+            <Precinct name="Mineral Bluff" votes="52" />
+            <Precinct name="Mobile" votes="31" />
+            <Precinct name="Morganton" votes="66" />
+            <Precinct name="Noontootla" votes="9" />
+            <Precinct name="Skeniah" votes="4" />
+            <Precinct name="Sugar Creek" votes="74" />
+            <Precinct name="Toccoa" votes="77" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="89" text="Yes" totalVotes="10737">
+            <VoteType name="Absentee by Mail Votes" votes="787">
+                <Precinct name="Colwell" votes="55" />
+                <Precinct name="Fairplay" votes="44" />
+                <Precinct name="Flinthill" votes="103" />
+                <Precinct name="Hemptown" votes="44" />
+                <Precinct name="Hothouse" votes="43" />
+                <Precinct name="Mineral Bluff" votes="74" />
+                <Precinct name="Mobile" votes="43" />
+                <Precinct name="Morganton" votes="92" />
+                <Precinct name="Noontootla" votes="30" />
+                <Precinct name="Skeniah" votes="11" />
+                <Precinct name="Sugar Creek" votes="99" />
+                <Precinct name="Toccoa" votes="149" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5093">
+                <Precinct name="Colwell" votes="290" />
+                <Precinct name="Fairplay" votes="293" />
+                <Precinct name="Flinthill" votes="576" />
+                <Precinct name="Hemptown" votes="326" />
+                <Precinct name="Hothouse" votes="317" />
+                <Precinct name="Mineral Bluff" votes="612" />
+                <Precinct name="Mobile" votes="193" />
+                <Precinct name="Morganton" votes="474" />
+                <Precinct name="Noontootla" votes="238" />
+                <Precinct name="Skeniah" votes="65" />
+                <Precinct name="Sugar Creek" votes="717" />
+                <Precinct name="Toccoa" votes="992" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4845">
+                <Precinct name="Colwell" votes="313" />
+                <Precinct name="Fairplay" votes="292" />
+                <Precinct name="Flinthill" votes="777" />
+                <Precinct name="Hemptown" votes="386" />
+                <Precinct name="Hothouse" votes="294" />
+                <Precinct name="Mineral Bluff" votes="405" />
+                <Precinct name="Mobile" votes="361" />
+                <Precinct name="Morganton" votes="559" />
+                <Precinct name="Noontootla" votes="254" />
+                <Precinct name="Skeniah" votes="127" />
+                <Precinct name="Sugar Creek" votes="484" />
+                <Precinct name="Toccoa" votes="593" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="12">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="2" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="90" text="No" totalVotes="1384">
+            <VoteType name="Absentee by Mail Votes" votes="92">
+                <Precinct name="Colwell" votes="11" />
+                <Precinct name="Fairplay" votes="5" />
+                <Precinct name="Flinthill" votes="10" />
+                <Precinct name="Hemptown" votes="5" />
+                <Precinct name="Hothouse" votes="8" />
+                <Precinct name="Mineral Bluff" votes="9" />
+                <Precinct name="Mobile" votes="3" />
+                <Precinct name="Morganton" votes="6" />
+                <Precinct name="Noontootla" votes="5" />
+                <Precinct name="Skeniah" votes="1" />
+                <Precinct name="Sugar Creek" votes="15" />
+                <Precinct name="Toccoa" votes="14" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="622">
+                <Precinct name="Colwell" votes="43" />
+                <Precinct name="Fairplay" votes="31" />
+                <Precinct name="Flinthill" votes="86" />
+                <Precinct name="Hemptown" votes="39" />
+                <Precinct name="Hothouse" votes="33" />
+                <Precinct name="Mineral Bluff" votes="66" />
+                <Precinct name="Mobile" votes="34" />
+                <Precinct name="Morganton" votes="55" />
+                <Precinct name="Noontootla" votes="23" />
+                <Precinct name="Skeniah" votes="6" />
+                <Precinct name="Sugar Creek" votes="81" />
+                <Precinct name="Toccoa" votes="125" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="668">
+                <Precinct name="Colwell" votes="42" />
+                <Precinct name="Fairplay" votes="44" />
+                <Precinct name="Flinthill" votes="101" />
+                <Precinct name="Hemptown" votes="58" />
+                <Precinct name="Hothouse" votes="48" />
+                <Precinct name="Mineral Bluff" votes="52" />
+                <Precinct name="Mobile" votes="46" />
+                <Precinct name="Morganton" votes="88" />
+                <Precinct name="Noontootla" votes="48" />
+                <Precinct name="Skeniah" votes="12" />
+                <Precinct name="Sugar Creek" votes="53" />
+                <Precinct name="Toccoa" votes="76" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="1" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="36" text="Constitutional Amendment #2" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="495">
+            <Precinct name="Colwell" votes="21" />
+            <Precinct name="Fairplay" votes="32" />
+            <Precinct name="Flinthill" votes="92" />
+            <Precinct name="Hemptown" votes="35" />
+            <Precinct name="Hothouse" votes="33" />
+            <Precinct name="Mineral Bluff" votes="57" />
+            <Precinct name="Mobile" votes="29" />
+            <Precinct name="Morganton" votes="46" />
+            <Precinct name="Noontootla" votes="11" />
+            <Precinct name="Skeniah" votes="2" />
+            <Precinct name="Sugar Creek" votes="67" />
+            <Precinct name="Toccoa" votes="70" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="91" text="Yes" totalVotes="11193">
+            <VoteType name="Absentee by Mail Votes" votes="816">
+                <Precinct name="Colwell" votes="64" />
+                <Precinct name="Fairplay" votes="45" />
+                <Precinct name="Flinthill" votes="101" />
+                <Precinct name="Hemptown" votes="48" />
+                <Precinct name="Hothouse" votes="46" />
+                <Precinct name="Mineral Bluff" votes="77" />
+                <Precinct name="Mobile" votes="42" />
+                <Precinct name="Morganton" votes="93" />
+                <Precinct name="Noontootla" votes="32" />
+                <Precinct name="Skeniah" votes="12" />
+                <Precinct name="Sugar Creek" votes="104" />
+                <Precinct name="Toccoa" votes="152" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="5317">
+                <Precinct name="Colwell" votes="315" />
+                <Precinct name="Fairplay" votes="301" />
+                <Precinct name="Flinthill" votes="605" />
+                <Precinct name="Hemptown" votes="342" />
+                <Precinct name="Hothouse" votes="336" />
+                <Precinct name="Mineral Bluff" votes="636" />
+                <Precinct name="Mobile" votes="203" />
+                <Precinct name="Morganton" votes="495" />
+                <Precinct name="Noontootla" votes="243" />
+                <Precinct name="Skeniah" votes="66" />
+                <Precinct name="Sugar Creek" votes="745" />
+                <Precinct name="Toccoa" votes="1030" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="5047">
+                <Precinct name="Colwell" votes="318" />
+                <Precinct name="Fairplay" votes="303" />
+                <Precinct name="Flinthill" votes="798" />
+                <Precinct name="Hemptown" votes="404" />
+                <Precinct name="Hothouse" votes="322" />
+                <Precinct name="Mineral Bluff" votes="417" />
+                <Precinct name="Mobile" votes="371" />
+                <Precinct name="Morganton" votes="595" />
+                <Precinct name="Noontootla" votes="278" />
+                <Precinct name="Skeniah" votes="127" />
+                <Precinct name="Sugar Creek" votes="491" />
+                <Precinct name="Toccoa" votes="623" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="13">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="3" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="92" text="No" totalVotes="995">
+            <VoteType name="Absentee by Mail Votes" votes="65">
+                <Precinct name="Colwell" votes="3" />
+                <Precinct name="Fairplay" votes="4" />
+                <Precinct name="Flinthill" votes="11" />
+                <Precinct name="Hemptown" votes="3" />
+                <Precinct name="Hothouse" votes="4" />
+                <Precinct name="Mineral Bluff" votes="4" />
+                <Precinct name="Mobile" votes="2" />
+                <Precinct name="Morganton" votes="6" />
+                <Precinct name="Noontootla" votes="3" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="13" />
+                <Precinct name="Toccoa" votes="12" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="433">
+                <Precinct name="Colwell" votes="26" />
+                <Precinct name="Fairplay" votes="21" />
+                <Precinct name="Flinthill" votes="64" />
+                <Precinct name="Hemptown" votes="25" />
+                <Precinct name="Hothouse" votes="17" />
+                <Precinct name="Mineral Bluff" votes="37" />
+                <Precinct name="Mobile" votes="27" />
+                <Precinct name="Morganton" votes="42" />
+                <Precinct name="Noontootla" votes="17" />
+                <Precinct name="Skeniah" votes="5" />
+                <Precinct name="Sugar Creek" votes="60" />
+                <Precinct name="Toccoa" votes="92" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="496">
+                <Precinct name="Colwell" votes="41" />
+                <Precinct name="Fairplay" votes="37" />
+                <Precinct name="Flinthill" votes="82" />
+                <Precinct name="Hemptown" votes="45" />
+                <Precinct name="Hothouse" votes="22" />
+                <Precinct name="Mineral Bluff" votes="42" />
+                <Precinct name="Mobile" votes="37" />
+                <Precinct name="Morganton" votes="63" />
+                <Precinct name="Noontootla" votes="23" />
+                <Precinct name="Skeniah" votes="14" />
+                <Precinct name="Sugar Creek" votes="43" />
+                <Precinct name="Toccoa" votes="47" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="1">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="0" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="38" text="Statewide Referendum A" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="715">
+            <Precinct name="Colwell" votes="48" />
+            <Precinct name="Fairplay" votes="38" />
+            <Precinct name="Flinthill" votes="132" />
+            <Precinct name="Hemptown" votes="50" />
+            <Precinct name="Hothouse" votes="47" />
+            <Precinct name="Mineral Bluff" votes="77" />
+            <Precinct name="Mobile" votes="32" />
+            <Precinct name="Morganton" votes="67" />
+            <Precinct name="Noontootla" votes="15" />
+            <Precinct name="Skeniah" votes="6" />
+            <Precinct name="Sugar Creek" votes="92" />
+            <Precinct name="Toccoa" votes="111" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="95" text="Yes" totalVotes="7522">
+            <VoteType name="Absentee by Mail Votes" votes="413">
+                <Precinct name="Colwell" votes="30" />
+                <Precinct name="Fairplay" votes="24" />
+                <Precinct name="Flinthill" votes="52" />
+                <Precinct name="Hemptown" votes="22" />
+                <Precinct name="Hothouse" votes="24" />
+                <Precinct name="Mineral Bluff" votes="36" />
+                <Precinct name="Mobile" votes="18" />
+                <Precinct name="Morganton" votes="53" />
+                <Precinct name="Noontootla" votes="14" />
+                <Precinct name="Skeniah" votes="4" />
+                <Precinct name="Sugar Creek" votes="59" />
+                <Precinct name="Toccoa" votes="77" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="3356">
+                <Precinct name="Colwell" votes="182" />
+                <Precinct name="Fairplay" votes="191" />
+                <Precinct name="Flinthill" votes="389" />
+                <Precinct name="Hemptown" votes="198" />
+                <Precinct name="Hothouse" votes="207" />
+                <Precinct name="Mineral Bluff" votes="421" />
+                <Precinct name="Mobile" votes="142" />
+                <Precinct name="Morganton" votes="329" />
+                <Precinct name="Noontootla" votes="151" />
+                <Precinct name="Skeniah" votes="38" />
+                <Precinct name="Sugar Creek" votes="448" />
+                <Precinct name="Toccoa" votes="660" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="3741">
+                <Precinct name="Colwell" votes="245" />
+                <Precinct name="Fairplay" votes="237" />
+                <Precinct name="Flinthill" votes="582" />
+                <Precinct name="Hemptown" votes="305" />
+                <Precinct name="Hothouse" votes="230" />
+                <Precinct name="Mineral Bluff" votes="332" />
+                <Precinct name="Mobile" votes="271" />
+                <Precinct name="Morganton" votes="439" />
+                <Precinct name="Noontootla" votes="179" />
+                <Precinct name="Skeniah" votes="96" />
+                <Precinct name="Sugar Creek" votes="372" />
+                <Precinct name="Toccoa" votes="453" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="12">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="2" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="96" text="No" totalVotes="4446">
+            <VoteType name="Absentee by Mail Votes" votes="436">
+                <Precinct name="Colwell" votes="33" />
+                <Precinct name="Fairplay" votes="24" />
+                <Precinct name="Flinthill" votes="55" />
+                <Precinct name="Hemptown" votes="28" />
+                <Precinct name="Hothouse" votes="24" />
+                <Precinct name="Mineral Bluff" votes="43" />
+                <Precinct name="Mobile" votes="25" />
+                <Precinct name="Morganton" votes="46" />
+                <Precinct name="Noontootla" votes="21" />
+                <Precinct name="Skeniah" votes="7" />
+                <Precinct name="Sugar Creek" votes="53" />
+                <Precinct name="Toccoa" votes="77" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="2273">
+                <Precinct name="Colwell" votes="143" />
+                <Precinct name="Fairplay" votes="129" />
+                <Precinct name="Flinthill" votes="264" />
+                <Precinct name="Hemptown" votes="161" />
+                <Precinct name="Hothouse" votes="137" />
+                <Precinct name="Mineral Bluff" votes="244" />
+                <Precinct name="Mobile" votes="89" />
+                <Precinct name="Morganton" votes="193" />
+                <Precinct name="Noontootla" votes="105" />
+                <Precinct name="Skeniah" votes="32" />
+                <Precinct name="Sugar Creek" votes="338" />
+                <Precinct name="Toccoa" votes="438" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1735">
+                <Precinct name="Colwell" votes="107" />
+                <Precinct name="Fairplay" votes="100" />
+                <Precinct name="Flinthill" votes="279" />
+                <Precinct name="Hemptown" votes="138" />
+                <Precinct name="Hothouse" votes="111" />
+                <Precinct name="Mineral Bluff" votes="117" />
+                <Precinct name="Mobile" votes="134" />
+                <Precinct name="Morganton" votes="213" />
+                <Precinct name="Noontootla" votes="122" />
+                <Precinct name="Skeniah" votes="43" />
+                <Precinct name="Sugar Creek" votes="161" />
+                <Precinct name="Toccoa" votes="210" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="1" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="37" text="Statewide Referendum B" voteFor="1" isQuestion="false" precinctsReporting="12" precinctsReported="12">
+        <VoteType name="Undervotes" votes="653">
+            <Precinct name="Colwell" votes="37" />
+            <Precinct name="Fairplay" votes="37" />
+            <Precinct name="Flinthill" votes="119" />
+            <Precinct name="Hemptown" votes="42" />
+            <Precinct name="Hothouse" votes="47" />
+            <Precinct name="Mineral Bluff" votes="76" />
+            <Precinct name="Mobile" votes="32" />
+            <Precinct name="Morganton" votes="63" />
+            <Precinct name="Noontootla" votes="14" />
+            <Precinct name="Skeniah" votes="4" />
+            <Precinct name="Sugar Creek" votes="85" />
+            <Precinct name="Toccoa" votes="97" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Colwell" votes="0" />
+            <Precinct name="Fairplay" votes="0" />
+            <Precinct name="Flinthill" votes="0" />
+            <Precinct name="Hemptown" votes="0" />
+            <Precinct name="Hothouse" votes="0" />
+            <Precinct name="Mineral Bluff" votes="0" />
+            <Precinct name="Mobile" votes="0" />
+            <Precinct name="Morganton" votes="0" />
+            <Precinct name="Noontootla" votes="0" />
+            <Precinct name="Skeniah" votes="0" />
+            <Precinct name="Sugar Creek" votes="0" />
+            <Precinct name="Toccoa" votes="0" />
+        </VoteType>
+        <Choice key="93" text="Yes" totalVotes="9770">
+            <VoteType name="Absentee by Mail Votes" votes="573">
+                <Precinct name="Colwell" votes="44" />
+                <Precinct name="Fairplay" votes="39" />
+                <Precinct name="Flinthill" votes="67" />
+                <Precinct name="Hemptown" votes="38" />
+                <Precinct name="Hothouse" votes="32" />
+                <Precinct name="Mineral Bluff" votes="45" />
+                <Precinct name="Mobile" votes="27" />
+                <Precinct name="Morganton" votes="66" />
+                <Precinct name="Noontootla" votes="19" />
+                <Precinct name="Skeniah" votes="7" />
+                <Precinct name="Sugar Creek" votes="80" />
+                <Precinct name="Toccoa" votes="109" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="4534">
+                <Precinct name="Colwell" votes="261" />
+                <Precinct name="Fairplay" votes="261" />
+                <Precinct name="Flinthill" votes="523" />
+                <Precinct name="Hemptown" votes="285" />
+                <Precinct name="Hothouse" votes="279" />
+                <Precinct name="Mineral Bluff" votes="534" />
+                <Precinct name="Mobile" votes="186" />
+                <Precinct name="Morganton" votes="439" />
+                <Precinct name="Noontootla" votes="205" />
+                <Precinct name="Skeniah" votes="58" />
+                <Precinct name="Sugar Creek" votes="632" />
+                <Precinct name="Toccoa" votes="871" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="4651">
+                <Precinct name="Colwell" votes="304" />
+                <Precinct name="Fairplay" votes="281" />
+                <Precinct name="Flinthill" votes="740" />
+                <Precinct name="Hemptown" votes="380" />
+                <Precinct name="Hothouse" votes="286" />
+                <Precinct name="Mineral Bluff" votes="401" />
+                <Precinct name="Mobile" votes="335" />
+                <Precinct name="Morganton" votes="550" />
+                <Precinct name="Noontootla" votes="238" />
+                <Precinct name="Skeniah" votes="121" />
+                <Precinct name="Sugar Creek" votes="451" />
+                <Precinct name="Toccoa" votes="564" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="12">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="2" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="2" />
+                <Precinct name="Mineral Bluff" votes="1" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="2" />
+                <Precinct name="Noontootla" votes="1" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="2" />
+                <Precinct name="Toccoa" votes="2" />
+            </VoteType>
+        </Choice>
+        <Choice key="94" text="No" totalVotes="2260">
+            <VoteType name="Absentee by Mail Votes" votes="280">
+                <Precinct name="Colwell" votes="20" />
+                <Precinct name="Fairplay" votes="8" />
+                <Precinct name="Flinthill" votes="40" />
+                <Precinct name="Hemptown" votes="13" />
+                <Precinct name="Hothouse" votes="15" />
+                <Precinct name="Mineral Bluff" votes="35" />
+                <Precinct name="Mobile" votes="17" />
+                <Precinct name="Morganton" votes="32" />
+                <Precinct name="Noontootla" votes="14" />
+                <Precinct name="Skeniah" votes="5" />
+                <Precinct name="Sugar Creek" votes="33" />
+                <Precinct name="Toccoa" votes="48" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1120">
+                <Precinct name="Colwell" votes="71" />
+                <Precinct name="Fairplay" votes="60" />
+                <Precinct name="Flinthill" votes="129" />
+                <Precinct name="Hemptown" votes="78" />
+                <Precinct name="Hothouse" votes="65" />
+                <Precinct name="Mineral Bluff" votes="130" />
+                <Precinct name="Mobile" votes="45" />
+                <Precinct name="Morganton" votes="85" />
+                <Precinct name="Noontootla" votes="53" />
+                <Precinct name="Skeniah" votes="12" />
+                <Precinct name="Sugar Creek" votes="159" />
+                <Precinct name="Toccoa" votes="233" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="858">
+                <Precinct name="Colwell" votes="51" />
+                <Precinct name="Fairplay" votes="57" />
+                <Precinct name="Flinthill" votes="135" />
+                <Precinct name="Hemptown" votes="66" />
+                <Precinct name="Hothouse" votes="56" />
+                <Precinct name="Mineral Bluff" votes="49" />
+                <Precinct name="Mobile" votes="69" />
+                <Precinct name="Morganton" votes="105" />
+                <Precinct name="Noontootla" votes="64" />
+                <Precinct name="Skeniah" votes="19" />
+                <Precinct name="Sugar Creek" votes="83" />
+                <Precinct name="Toccoa" votes="104" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Colwell" votes="0" />
+                <Precinct name="Fairplay" votes="0" />
+                <Precinct name="Flinthill" votes="0" />
+                <Precinct name="Hemptown" votes="0" />
+                <Precinct name="Hothouse" votes="1" />
+                <Precinct name="Mineral Bluff" votes="0" />
+                <Precinct name="Mobile" votes="0" />
+                <Precinct name="Morganton" votes="0" />
+                <Precinct name="Noontootla" votes="0" />
+                <Precinct name="Skeniah" votes="0" />
+                <Precinct name="Sugar Creek" votes="0" />
+                <Precinct name="Toccoa" votes="1" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 5:09:24 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Warren</Region>
+    <VoterTurnout totalVoters="3756" ballotsCast="2028" voterTurnout="53.99">
+        <Precincts>
+            <Precinct name="Warrenton" totalVoters="3756" ballotsCast="2028" voterTurnout="53.99" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="1" precinctsReported="1">
+        <VoteType name="Undervotes" votes="6">
+            <Precinct name="Warrenton" votes="6" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Warrenton" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="959">
+            <VoteType name="Absentee by Mail Votes" votes="64">
+                <Precinct name="Warrenton" votes="64" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="538">
+                <Precinct name="Warrenton" votes="538" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="357">
+                <Precinct name="Warrenton" votes="357" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1063">
+            <VoteType name="Absentee by Mail Votes" votes="96">
+                <Precinct name="Warrenton" votes="96" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="573">
+                <Precinct name="Warrenton" votes="573" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="394">
+                <Precinct name="Warrenton" votes="394" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Warrenton" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

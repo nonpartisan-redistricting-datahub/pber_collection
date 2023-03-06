@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/9/2022 3:48:18 PM EST</Timestamp>
+    <ElectionName>December 6, 2022 - General Election Runoff</ElectionName>
+    <ElectionDate>12/6/2022</ElectionDate>
+    <Region>Lincoln</Region>
+    <VoterTurnout totalVoters="6158" ballotsCast="3708" voterTurnout="60.21">
+        <Precincts>
+            <Precinct name="Midway" totalVoters="636" ballotsCast="375" voterTurnout="58.96" percentReporting="4" />
+            <Precinct name="Lincoln Club House" totalVoters="1041" ballotsCast="572" voterTurnout="54.95" percentReporting="4" />
+            <Precinct name="Lincoln Center" totalVoters="1332" ballotsCast="815" voterTurnout="61.19" percentReporting="4" />
+            <Precinct name="Faith Temple of Lincoln" totalVoters="555" ballotsCast="345" voterTurnout="62.16" percentReporting="4" />
+            <Precinct name="Tabernacle" totalVoters="974" ballotsCast="581" voterTurnout="59.65" percentReporting="4" />
+            <Precinct name="Bethany Church" totalVoters="553" ballotsCast="313" voterTurnout="56.60" percentReporting="4" />
+            <Precinct name="Martins Crossroad" totalVoters="1065" ballotsCast="707" voterTurnout="66.38" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="1" text="US Senate" voteFor="1" isQuestion="false" precinctsReporting="7" precinctsReported="7">
+        <VoteType name="Undervotes" votes="5">
+            <Precinct name="Midway" votes="0" />
+            <Precinct name="Lincoln Club House" votes="0" />
+            <Precinct name="Lincoln Center" votes="1" />
+            <Precinct name="Faith Temple of Lincoln" votes="1" />
+            <Precinct name="Tabernacle" votes="2" />
+            <Precinct name="Bethany Church" votes="1" />
+            <Precinct name="Martins Crossroad" votes="0" />
+        </VoteType>
+        <VoteType name="Overvotes" votes="0">
+            <Precinct name="Midway" votes="0" />
+            <Precinct name="Lincoln Club House" votes="0" />
+            <Precinct name="Lincoln Center" votes="0" />
+            <Precinct name="Faith Temple of Lincoln" votes="0" />
+            <Precinct name="Tabernacle" votes="0" />
+            <Precinct name="Bethany Church" votes="0" />
+            <Precinct name="Martins Crossroad" votes="0" />
+        </VoteType>
+        <Choice key="1" text="Herschel Junior Walker (Rep)" totalVotes="2660">
+            <VoteType name="Absentee by Mail Votes" votes="89">
+                <Precinct name="Midway" votes="3" />
+                <Precinct name="Lincoln Club House" votes="10" />
+                <Precinct name="Lincoln Center" votes="19" />
+                <Precinct name="Faith Temple of Lincoln" votes="7" />
+                <Precinct name="Tabernacle" votes="16" />
+                <Precinct name="Bethany Church" votes="11" />
+                <Precinct name="Martins Crossroad" votes="23" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="1275">
+                <Precinct name="Midway" votes="129" />
+                <Precinct name="Lincoln Club House" votes="149" />
+                <Precinct name="Lincoln Center" votes="334" />
+                <Precinct name="Faith Temple of Lincoln" votes="121" />
+                <Precinct name="Tabernacle" votes="177" />
+                <Precinct name="Bethany Church" votes="112" />
+                <Precinct name="Martins Crossroad" votes="253" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="1294">
+                <Precinct name="Midway" votes="147" />
+                <Precinct name="Lincoln Club House" votes="129" />
+                <Precinct name="Lincoln Center" votes="259" />
+                <Precinct name="Faith Temple of Lincoln" votes="114" />
+                <Precinct name="Tabernacle" votes="199" />
+                <Precinct name="Bethany Church" votes="144" />
+                <Precinct name="Martins Crossroad" votes="302" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="2">
+                <Precinct name="Midway" votes="0" />
+                <Precinct name="Lincoln Club House" votes="0" />
+                <Precinct name="Lincoln Center" votes="1" />
+                <Precinct name="Faith Temple of Lincoln" votes="0" />
+                <Precinct name="Tabernacle" votes="0" />
+                <Precinct name="Bethany Church" votes="0" />
+                <Precinct name="Martins Crossroad" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="2" text="Raphael Warnock (I) (Dem)" totalVotes="1043">
+            <VoteType name="Absentee by Mail Votes" votes="149">
+                <Precinct name="Midway" votes="22" />
+                <Precinct name="Lincoln Club House" votes="40" />
+                <Precinct name="Lincoln Center" votes="26" />
+                <Precinct name="Faith Temple of Lincoln" votes="15" />
+                <Precinct name="Tabernacle" votes="26" />
+                <Precinct name="Bethany Church" votes="4" />
+                <Precinct name="Martins Crossroad" votes="16" />
+            </VoteType>
+            <VoteType name="Advance Voting Votes" votes="536">
+                <Precinct name="Midway" votes="40" />
+                <Precinct name="Lincoln Club House" votes="146" />
+                <Precinct name="Lincoln Center" votes="110" />
+                <Precinct name="Faith Temple of Lincoln" votes="54" />
+                <Precinct name="Tabernacle" votes="90" />
+                <Precinct name="Bethany Church" votes="27" />
+                <Precinct name="Martins Crossroad" votes="69" />
+            </VoteType>
+            <VoteType name="Election Day Votes" votes="358">
+                <Precinct name="Midway" votes="34" />
+                <Precinct name="Lincoln Club House" votes="98" />
+                <Precinct name="Lincoln Center" votes="65" />
+                <Precinct name="Faith Temple of Lincoln" votes="33" />
+                <Precinct name="Tabernacle" votes="71" />
+                <Precinct name="Bethany Church" votes="14" />
+                <Precinct name="Martins Crossroad" votes="43" />
+            </VoteType>
+            <VoteType name="Provisional Votes" votes="0">
+                <Precinct name="Midway" votes="0" />
+                <Precinct name="Lincoln Club House" votes="0" />
+                <Precinct name="Lincoln Center" votes="0" />
+                <Precinct name="Faith Temple of Lincoln" votes="0" />
+                <Precinct name="Tabernacle" votes="0" />
+                <Precinct name="Bethany Church" votes="0" />
+                <Precinct name="Martins Crossroad" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>
