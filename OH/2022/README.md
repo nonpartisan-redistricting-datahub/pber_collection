@@ -5,3 +5,4 @@
 - README.ipynb: script for creating readme to go with election result csv
 - pber_only_v1.ipynb: Joining of 2022 precinct boundaries to one another and to general election results with vote total checks
 - pber_cleaning_v2.ipynb: Remove overlapping geometries from precinct boundaries from files created in pber_only notebook
+- archive/: Internal use
