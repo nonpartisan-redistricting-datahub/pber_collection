@@ -282,7 +282,7 @@ Georgia Secretary of State summary files had no reported votes for the following
 Cook County - G22COANBAR, G22COANMCF, G22COANPIP, G22SSSCNMCM, G22SSCNLAG, G22SSCNCOL, G22SSCNBRI
 Grady County - PCON02DBIS
 Mitchell County - PCON02DBIS
-Thomas County - PSL173RTAY, PSL173DSR
+Thomas County - PSL173RTAY, PSL173DJEN
 In all instances where the SOS county-level file had no reported votes in a contest in a specific county, vote numbers from the precinct-level compiled dataset are presumed to be accurate and included in this dataset.
 
 Georgia Secretary of State summary files had no reported data for the following contest:
