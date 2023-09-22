@@ -1,6 +1,6 @@
-import pandas as pd # standard python data library
-import geopandas as gp # the geo-version of pandas
-import numpy as np 
+import pandas as pd # standard python data library, my machine uses version 1.5.0
+import geopandas as gp # the geo-version of pandas, my machine uses version 0.9.0
+import numpy as np # my machine uses version 1.23.3
 from matplotlib.lines import Line2D
 
 def county_totals_check(partner_df, partner_name, source_df, source_name, column_list, county_col, full_print=False, method="race"):
@@ -120,10 +120,10 @@ def merged_df_votes_checks(merged_df, name_col, column_list, left_df_name, right
       merged_df: DataFrame with one set of election results joined to another
       name_col: String of the column name to refer to precincts when a difference occurs
       column_list: List of races that there are votes for
-      left_df_name:
-      right_df_name:
-      level_name: Boolean specifying whether VEST data is on the left side of merged_df
-      print_level: Integer that specifies how large the vote difference in a precinct must be to be printed
+      left_df_name: What to call the left DataFrame in the print out
+      right_df_name: What to call the right DataFrame in the print out
+      level_name: What to call the unit at which the two DataFrames are being compared
+      print_level: Integer that specifies how large the vote difference must be to be printed
 
     Returns:
       Nothing, only prints out an analysis
