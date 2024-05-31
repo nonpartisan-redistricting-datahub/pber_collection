@@ -1,2 +1,2 @@
 # pber_collection
-Precinct boundaries and election results collection
+Statewide precinct boundaries and election results collection
