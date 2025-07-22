@@ -515,7 +515,7 @@ def district_splits_comb(level, splits_list, elections_gdf, district_gdf, unique
             # Merge the geometries
             clean_votes = merge_geometries(clean_votes, best_match_idx, zero_idx)
             
-    assert(clean_votes[clean_votes["TOT_VOTES_new"]==0].shape[0]==0)
+            assert(clean_votes[clean_votes["TOT_VOTES_new"]==0].shape[0]==0)
 
     clean_votes = clean_votes[list(others.columns)]
         
